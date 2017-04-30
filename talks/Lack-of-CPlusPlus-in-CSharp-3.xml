@@ -1,0 +1,22 @@
+﻿<Talk>
+  <Id>Lack-of-CPlusPlus-in-CSharp-3</Id>
+  <SpeakerIds>
+    <String>Sergey-Baltiyskiy</String>
+  </SpeakerIds>
+  <Title>Когда в C# не хватает C++ (часть 3 из 3)</Title>
+  <Description>Пора заканчивать эту длинную беседу о работе с native memory &amp; native code в дотнете. С нативным кодом мы разобрались (и там было много печальных вещей), на приёмы работы с памятью напрямую из C# посмотрели (тут всё гораздо лучше, но есть нюансы). Пришло время собрать из этого большую структуру данных, быстро прочитать её с диска, нарисовать к ней приличное managed API и не нагрузить GC при работе — рассказ основан на реальных событиях из жизни ReSharper 10.</Description>
+  <SeeAlsoTalkIds>
+    <String>Lack-of-CPlusPlus-in-CSharp-1</String>
+    <String>Lack-of-CPlusPlus-in-CSharp-2</String>
+  </SeeAlsoTalkIds>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/yu5k3/c-c-3-60617635</Url>
+    </Link>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>https://www.youtube.com/watch?v=kaEjNBsRnNA</Url>
+    </Link>
+  </Links>
+</Talk>

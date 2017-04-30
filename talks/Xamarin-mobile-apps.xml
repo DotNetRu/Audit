@@ -1,0 +1,18 @@
+﻿<Talk>
+  <Id>Xamarin-mobile-apps</Id>
+  <SpeakerIds>
+    <String>Vsevolod-Ivanov</String>
+  </SpeakerIds>
+  <Title>Разработка мобильных приложений на С# с использованием Xamarin</Title>
+  <Description>В этом докладе мы поговорим про кросс-платформенную разработку мобильных приложений на платформе Xamarin.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/yu5k3/xamarin-52144250</Url>
+    </Link>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>https://www.youtube.com/watch?v=_5qBAL5K6ls</Url>
+    </Link>
+  </Links>
+</Talk>

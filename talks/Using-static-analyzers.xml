@@ -1,0 +1,18 @@
+﻿<Talk>
+  <Id>Using-static-analyzers</Id>
+  <SpeakerIds>
+    <String>Valery-Ignatyev</String>
+  </SpeakerIds>
+  <Title>Сценарии использования статического анализатора</Title>
+  <Description></Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/yu5k3/ss-60641619</Url>
+    </Link>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>https://www.youtube.com/watch?v=k9zjmg7spEA</Url>
+    </Link>
+  </Links>
+</Talk>

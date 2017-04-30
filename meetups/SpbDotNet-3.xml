@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>SpbDotNet-3</Id>
+  <Number>3</Number>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2015-07-22T00:00:00Z</Date>
+  <FriendIds>
+    <String>JetBrains</String>
+  </FriendIds>
+  <VenueId>Spb-Universe</VenueId>
+  <TalkIds>
+    <String>Multitasking-apps-on-NET</String>
+    <String>Round-table-multi-threading</String>
+  </TalkIds>
+</Meetup>

@@ -1,0 +1,17 @@
+﻿<Meetup>
+  <Id>SpbDotNet-4</Id>
+  <Number>4</Number>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2015-08-25T00:00:00Z</Date>
+  <FriendIds>
+    <String>Luxoft</String>
+  </FriendIds>
+  <VenueId>Spb-Osen</VenueId>
+  <TalkIds>
+    <String>Review-of-CSharp-6</String>
+    <String>Review-of-FSharp-4</String>
+    <String>Roslyn-Code-Analysis</String>
+    <String>Debugging-tools-in-Msvs-2015</String>
+    <String>Xamarin-mobile-apps</String>
+  </TalkIds>
+</Meetup>

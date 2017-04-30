@@ -1,0 +1,22 @@
+﻿<Talk>
+  <Id>Lack-of-CPlusPlus-in-CSharp-2</Id>
+  <SpeakerIds>
+    <String>Sergey-Baltiyskiy</String>
+  </SpeakerIds>
+  <Title>Когда в C# не хватает C++ (часть 2 из 3)</Title>
+  <Description>Вторая часть рассказа о том, как привлечь силы native code и native memory в дотнет. В первой части мы говорили о C++/CLI и о тесной дружбе managed runtime с COM. Вернёмся к тому, что умеет сам язык C#: PInvoke и C-style pointers. В чём это проще, а в чём хитрее; почему это универсальнее; какой код на самом деле unsafe; и как построить сложную unmanaged структуру данных, не выходя из C#.</Description>
+  <SeeAlsoTalkIds>
+    <String>Lack-of-CPlusPlus-in-CSharp-1</String>
+    <String>Lack-of-CPlusPlus-in-CSharp-3</String>
+  </SeeAlsoTalkIds>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/yu5k3/c-c-2-56315220</Url>
+    </Link>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>https://www.youtube.com/watch?v=yjrmG0O5D9E</Url>
+    </Link>
+  </Links>
+</Talk>

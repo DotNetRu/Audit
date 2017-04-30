@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>Octopus-in-the-name-of-good</Id>
+  <SpeakerIds>
+    <String>Anatoly-Kulakov</String>
+  </SpeakerIds>
+  <Title>Octopus Deploy во имя добра</Title>
+  <Description>Большинство .NET-разработчиков не заботятся о жизни продукта после успешного прохождения CI сервера. Но ведь это далеко не конец, следующий шаг не менее важен и сложен. Распространение продукта с учётом всех окружений, хостов и версий - именно об этом мы и поговорим. И нам поможет не сойти с ума замечательный инструмент Octopus Deploy. В ходе доклада Анатолий покажет как за 5 минут развернуть полноценную систему управления версиями и продемонстрирует базовые возможности по контролю жизненного цикла приложения.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/SpbDotNet/octopus-deploy</Url>
+    </Link>
+  </Links>
+</Talk>

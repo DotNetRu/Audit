@@ -1,0 +1,22 @@
+﻿<Talk>
+  <Id>Multitasking-apps-on-NET</Id>
+  <SpeakerIds>
+    <String>Dmitry-Ivanov</String>
+  </SpeakerIds>
+  <Title>Итак, вы всё-таки решили писать многозадачные приложения на .NET</Title>
+  <Description>Посмотрим с разных сторон на механизмы многозадачности в .Net: с высоты птичьего полёта, в исторической перспективе и изнутри. Разберёмся с эволюцией параллельного API в .Net, дойдём до современности и поймём, как писать State of The Art Task Based Async Code. Посмотрим, как правильно синхронизироваться между потоками? А как быстро это работает? А надо ли это вообще? Напишем Interlocked-структуру. Рассмотрим, какие инструменты нам помогут в разработке многопоточного приложения.</Description>
+  <Links>
+    <Link>
+      <Relation>Code</Relation>
+      <Url>https://github.com/yuske/ParallelDemo</Url>
+    </Link>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/yu5k3/parallel-demo</Url>
+    </Link>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>http://www.youtube.com/watch?v=Ogb8PuoNL_c</Url>
+    </Link>
+  </Links>
+</Talk>

@@ -1,0 +1,23 @@
+﻿<Talk>
+  <Id>Data-grid</Id>
+  <SpeakerIds>
+    <String>Yakov-Zhdanov</String>
+  </SpeakerIds>
+  <Title>Знакомство с In-Memory Data Grid</Title>
+  <Description>В этой части встречи мы рассмотрим основные понятия и поговорим о важнейших возможностях Apache Ignite. Вместе со слушателями мы разберемся:
+
+- как строится и функционирует кластер;
+- какие API есть и что скрывается за вызовами;
+- как распределяются данные в data grid;
+- как обеспечивается отказоустойчиовость.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/yu5k3/inmemory-data-grid</Url>
+    </Link>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>https://www.youtube.com/watch?v=3gvuy30tHp0</Url>
+    </Link>
+  </Links>
+</Talk>

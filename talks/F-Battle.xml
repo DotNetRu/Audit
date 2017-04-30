@@ -1,0 +1,15 @@
+﻿<Talk>
+  <Id>F-Battle</Id>
+  <SpeakerIds>
+    <String>Roman-Nevolin</String>
+    <String>Dmitri-Nesteruk</String>
+  </SpeakerIds>
+  <Title>F# Battle: За и Против</Title>
+  <Description>Роман Неволин и Дмитрий Нестерук обсуждают F#</Description>
+  <Links>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>https://www.youtube.com/watch?v=67-gi3Rj0kE</Url>
+    </Link>
+  </Links>
+</Talk>

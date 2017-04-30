@@ -1,0 +1,16 @@
+﻿<Meetup>
+  <Id>SpbDotNet-13</Id>
+  <Number>13</Number>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2016-07-23T00:00:00Z</Date>
+  <FriendIds>
+    <String>ITGM</String>
+  </FriendIds>
+  <VenueId>Spb-House</VenueId>
+  <TalkIds>
+    <String>OAuth-for-NET</String>
+    <String>PowerShell-in-the-name-of-good</String>
+    <String>WTF-is-Service-Fabric</String>
+    <String>Delegates-and-Events</String>
+  </TalkIds>
+</Meetup>

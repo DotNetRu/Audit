@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>In-search-of-paradigm</Id>
+  <SpeakerIds>
+    <String>Roman-Nevolin</String>
+  </SpeakerIds>
+  <Title>В поисках парадигмы</Title>
+  <Description>Роман делится своим опытом разработки на различных языках и неистово тролит парадигмы, программистов и программирование вообще.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/SpbDotNet/ss-70034346</Url>
+    </Link>
+  </Links>
+</Talk>

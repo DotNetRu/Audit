@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>SpbDotNet-12</Id>
+  <Number>12</Number>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2016-06-02T00:00:00Z</Date>
+  <FriendIds>
+    <String>DotNext</String>
+  </FriendIds>
+  <VenueId>Spb-Radison</VenueId>
+  <TalkIds>
+    <String>Brave-CoreCLR</String>
+    <String>GC-Tips</String>
+  </TalkIds>
+</Meetup>

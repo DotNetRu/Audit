@@ -1,0 +1,18 @@
+﻿<Talk>
+  <Id>Using-Apache-Cordova</Id>
+  <SpeakerIds>
+    <String>Anton-Shabanov</String>
+  </SpeakerIds>
+  <Title>Использование Apache Cordova в реальном проекте</Title>
+  <Description>Доклад будет о впечатлениях C#-веб-программиста от кроссплатформенной мобильной разработки с применением Visual Studio tools for Apache Cordova. Я расскажу немного о самой платформе Apache Cordova и ее преимуществах и недостатках, а также покажу какую работу проделал MS чтобы адаптировать процесс разработки JS-приложений для смартфонов к использованию в Visual Studio.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/yu5k3/visual-studio-tools-for-apache-cordova-56315452</Url>
+    </Link>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>https://www.youtube.com/watch?v=Qwyn_x79rHc</Url>
+    </Link>
+  </Links>
+</Talk>

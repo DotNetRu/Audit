@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Round-table-multi-threading</Id>
+  <SpeakerIds>
+    <String>Dmitry-Ivanov</String>
+    <String>Dmitry-Naumov</String>
+  </SpeakerIds>
+  <Title>Круглый стол по вопросам многопоточности</Title>
+  <Description>Наши эксперты могут ответить на ваши вопросы, и мы все вместе сможем обсудить проблемы и особенности параллельного программирования.</Description>
+</Talk>

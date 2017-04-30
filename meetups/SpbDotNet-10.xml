@@ -1,0 +1,17 @@
+﻿<Meetup>
+  <Id>SpbDotNet-10</Id>
+  <Number>10</Number>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2016-04-02T00:00:00Z</Date>
+  <FriendIds>
+    <String>ITGM</String>
+  </FriendIds>
+  <VenueId>Spb-House</VenueId>
+  <TalkIds>
+    <String>Machine-learning</String>
+    <String>Modern-static-analyzers</String>
+    <String>Using-static-analyzers</String>
+    <String>Round-table-code-analysis</String>
+    <String>Practice-WCF</String>
+  </TalkIds>
+</Meetup>

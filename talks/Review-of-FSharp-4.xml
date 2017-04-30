@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>Review-of-FSharp-4</Id>
+  <SpeakerIds>
+    <String>Dmitry-Vlasov</String>
+  </SpeakerIds>
+  <Title>Обзор Visual F# 4.0</Title>
+  <Description>В этом докладе мы посмотрим на новые возможности F# 4.0</Description>
+  <Links>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>https://www.youtube.com/watch?v=iOItE4hR6jg</Url>
+    </Link>
+  </Links>
+</Talk>

@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>EF-Core-Internals</Id>
+  <SpeakerIds>
+    <String>Andrey-Terekhov</String>
+  </SpeakerIds>
+  <Title>Внутреннее устройство EF Core</Title>
+  <Description>Рассмотрим внутреннюю архитектуру нового EF. Посмотрим как теперь работают основные его фичи внутри. Начнем с инструментов разработчика и CLI, а закончим генерацией provider специфичных запросов. Посмотрим на точки расширения для новых провайдеров, а так же рассмотрим гипотетические возможности по написанию своего.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>https://www.slideshare.net/SpbDotNet/ef-core-74186664</Url>
+    </Link>
+  </Links>
+</Talk>

@@ -1,0 +1,20 @@
+﻿<Talk>
+  <Id>Web-security</Id>
+  <SpeakerIds>
+    <String>Mikhail-Shcherbakov</String>
+  </SpeakerIds>
+  <Title>Разрушители легенд: web-безопасность</Title>
+  <Description>Такого выпуска не хватало на Discovery, так сделаем его вместе! Поговорим про интересные атаки и уязвимости в web-приложениях. Обсуждать будем НЕ банальные: «Linux безопаснее Windows», «Антивирус защищает от всех угроз» и т.д., а вполне конкретные технологии и атаки на них: HTTPS, XSS, XML Injection, использование криптографии с использованием примеров .NET приложений.
+
+Михаил покажет несколько демо развенчивающие мифы ИБ, которые он не раз слышал от web-программистов. Материал будет интересен в первую очередь разработчикам, пишущим защищенные web-приложения. Если у вас тоже есть чем поделиться, приносите ноутбук с демонстрацией «своего» мифа, разберём вместе.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>https://www.slideshare.net/yu5k3/mythbusters-web-application-security</Url>
+    </Link>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>https://www.youtube.com/watch?v=MEKTiaeBzlo</Url>
+    </Link>
+  </Links>
+</Talk>

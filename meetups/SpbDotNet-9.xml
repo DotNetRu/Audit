@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>SpbDotNet-9</Id>
+  <Number>9</Number>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2016-02-09T00:00:00Z</Date>
+  <FriendIds>
+    <String>JetBrains</String>
+  </FriendIds>
+  <VenueId>Spb-Universe</VenueId>
+  <TalkIds>
+    <String>Project-Rider</String>
+    <String>Lack-of-CPlusPlus-in-CSharp-3</String>
+  </TalkIds>
+</Meetup>

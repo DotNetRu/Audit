@@ -1,0 +1,18 @@
+﻿<Talk>
+  <Id>Debugging-tools-in-Msvs-2015</Id>
+  <SpeakerIds>
+    <String>Mikhail-Shcherbakov</String>
+  </SpeakerIds>
+  <Title>Новые возможности диагностики и отладки в Visual Studio 2015</Title>
+  <Description>Рассмотрим на примерах новые средства диагностики и профиляции кода в Visual Studio 2015, поговорим о том, что нового появилось в отладчике и что еще хотелось бы в нем видеть. Посмотрим на магический IntelliTest и разберемся что у него под капотом и как он «изучает код .NET»</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/yu5k3/visual-studio-2015-diagnostic-and-debugging-tools</Url>
+    </Link>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>http://www.youtube.com/watch?v=L_nDwDLXRuc</Url>
+    </Link>
+  </Links>
+</Talk>

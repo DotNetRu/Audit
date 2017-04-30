@@ -1,0 +1,18 @@
+﻿<Talk>
+  <Id>Theory-of-AppSec-Net</Id>
+  <SpeakerIds>
+    <String>Vladimir-Kochetkov</String>
+  </SpeakerIds>
+  <Title>Теория Application Security .NET</Title>
+  <Description>Доклад посвящен теоретическому минимуму, которым необходимо овладеть для разработки защищенного кода .NET. Будут рассмотрены основные понятия предметной области AppSec (Application Security) и предложена классификация, позволяющая описывать их в более понятной и привычной для разработчиков форме. На базе этого, будет описана методика разработки и оценки защищенного кода, не требующая экспертных знаний в области ИБ. Применение методики будет продемонстрировано на основе уязвимостей к атакам класса инъекций (SQL/HTML/XML/XQuery/XPath Injection, Path Traversal, XXE и т.п).</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/yu5k3/an-exceptionally-simple-theory-of-appsec-net</Url>
+    </Link>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>https://www.youtube.com/watch?v=-rQ3B5p5dUs</Url>
+    </Link>
+  </Links>
+</Talk>

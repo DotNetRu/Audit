@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>DotNet-and-Java</Id>
+  <SpeakerIds>
+    <String>Vladimir-Ozerov</String>
+  </SpeakerIds>
+  <Title>Заклятые друзья или как подружить .NET и Java</Title>
+  <Description>Как заставить Apache Ignite работать на .NET? Построчно спортировать с Java? Все 500 тысяч строк? Мы пошли другим путем, решив переиспользовать существующую Java-логику прямо внутри .NET процесса. В докладе я расскажу, почему мы приняли такое решение, как мы это сделали, и с какими трудностями столкнулись.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/yu5k3/apache-ignite-net</Url>
+    </Link>
+  </Links>
+</Talk>

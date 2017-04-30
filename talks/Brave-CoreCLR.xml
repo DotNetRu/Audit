@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Brave-CoreCLR</Id>
+  <SpeakerIds>
+    <String>Sergey-Shchegrikovich</String>
+  </SpeakerIds>
+  <Title>CoreCLR: Brave new world</Title>
+  <Description>В докладе расскажу про свой опыт изучения CoreCLR. Какие техники сработали для меня, а какие нет. Покажу как делать debugging для CoreCLR, SOS и Finalizer'а.</Description>
+</Talk>

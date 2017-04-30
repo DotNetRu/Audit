@@ -1,0 +1,17 @@
+﻿<Speaker>
+  <Id>Sergey-Shchegrikovich</Id>
+  <Name>Сергей Щегрикович</Name>
+  <CompanyName>dotDigital Group plc</CompanyName>
+  <CompanyUrl>http://www.dotdigitalgroup.com/</CompanyUrl>
+  <Description>​.NET разработчeк с 9 годами опыта. С 2014 года активный участник [.Net User Group Minsk](https://www.facebook.com/groups/dotnet.minsk/). Хобби – изучение техник написания высокопроизводительного кода и продвинутых методов отладки.</Description>
+  <Links>
+    <Link>
+      <Relation>Twitter</Relation>
+      <Url>https://twitter.com/shchegrikovich</Url>
+    </Link>
+    <Link>
+      <Relation>Contact</Relation>
+      <Url>https://www.linkedin.com/in/shchegrikovich</Url>
+    </Link>
+  </Links>
+</Speaker>

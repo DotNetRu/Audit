@@ -1,0 +1,18 @@
+﻿<Talk>
+  <Id>Ignite-in-action</Id>
+  <SpeakerIds>
+    <String>Pavel-Tupitsin</String>
+  </SpeakerIds>
+  <Title>Apache Ignite.NET в действии</Title>
+  <Description>Вместе со зрителями мы с чистого листа будем писать код, запускать кластер из разнородных машин и операционных систем, показывать, как машины в кластере обмениваются данными и запускают вычисления, попутно объясняя, что происходит «под капотом». В программе: работа с данными в кэше и детали работы сериализации; SQL и LINQ запросы и их внутренности; map-reduce вычисления и запуск пользовательского кода на удалённых машинах.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/yu5k3/apache-ignitenet</Url>
+    </Link>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>https://www.youtube.com/watch?v=V2847lMqObw</Url>
+    </Link>
+  </Links>
+</Talk>

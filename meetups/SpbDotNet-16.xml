@@ -1,0 +1,16 @@
+﻿<Meetup>
+  <Id>SpbDotNet-16</Id>
+  <Number>16</Number>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2016-12-03T00:00:00Z</Date>
+  <FriendIds>
+    <String>ITGM</String>
+  </FriendIds>
+  <VenueId>Spb-House</VenueId>
+  <TalkIds>
+    <String>In-search-of-paradigm</String>
+    <String>Octopus-in-the-name-of-good</String>
+    <String>Windows-Containers</String>
+    <String>SQL-Server-Performance-101</String>
+  </TalkIds>
+</Meetup>

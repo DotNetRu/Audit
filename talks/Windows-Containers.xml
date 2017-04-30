@@ -1,0 +1,18 @@
+﻿<Talk>
+  <Id>Windows-Containers</Id>
+  <SpeakerIds>
+    <String>Alexander-Shapoval</String>
+  </SpeakerIds>
+  <Title>Контейнеры Windows в Microsoft Azure и on-premise</Title>
+  <Description>Александр расскажет про механизмы контейнеризации в Windows.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/SpbDotNet/windows-microsoft-azure-onpremise</Url>
+    </Link>
+    <Link>
+      <Relation>Video</Relation>
+      <Url>https://www.youtube.com/watch?v=XVVBFgL0-ds</Url>
+    </Link>
+  </Links>
+</Talk>

@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>SpbDotNet-8</Id>
+  <Number>8</Number>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2015-12-22T00:00:00Z</Date>
+  <FriendIds>
+    <String>DataArt</String>
+  </FriendIds>
+  <VenueId>Spb-Telekom</VenueId>
+  <TalkIds>
+    <String>Design-of-RESTFul-API</String>
+    <String>Structured-logging</String>
+  </TalkIds>
+</Meetup>

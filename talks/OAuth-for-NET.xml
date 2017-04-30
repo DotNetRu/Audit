@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>OAuth-for-NET</Id>
+  <SpeakerIds>
+    <String>Artem-Zhuravlev</String>
+  </SpeakerIds>
+  <Title>OAuth для .NET</Title>
+  <Description>Доклад про использование OAuth на платформе .NET</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/SpbDotNet/oauth-net</Url>
+    </Link>
+  </Links>
+</Talk>

@@ -1,0 +1,17 @@
+﻿<Talk>
+  <Id>WTF-is-Service-Fabric</Id>
+  <SpeakerIds>
+    <String>Nikita-Kozlov</String>
+    <String>Ivan-Pashchenko</String>
+  </SpeakerIds>
+  <Title>WTF is Service Fabric</Title>
+  <Description>Наш доклад про Microsoft Azure Service Fabric - облачную платформу, временами позволяющую легко разворачивать, скалировать и мониторить Ваши приложения.
+
+Service Fabric - весьма свежее решение, увидевшее свет в начале 2016 года. Однако Microsoft использует платформу с 2010 года, в частности для таких облачных сервисов, как: Skype for Business, Cortana, Azure SQL.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>http://www.slideshare.net/SpbDotNet/wtf-is-service-fabric</Url>
+    </Link>
+  </Links>
+</Talk>

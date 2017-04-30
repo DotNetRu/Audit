@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>UI-Automation-Tests</Id>
+  <SpeakerIds>
+    <String>Roman-Iovlev</String>
+  </SpeakerIds>
+  <Title>Open Source UI Automation Tests on C#</Title>
+  <Description>Качественный продукт в современном мире, это необходимость и важное конкурентное преимущество. Основную долю продуктов сейчас составляют различные сайты и веб приложения. Чтобы обеспечить высокий уровень их качества и при этом сэкономить деньги, используется автоматизация UI. О том, какие есть подходы в этой сфере и какие инструменты позволяют сделать процесс быстрым, обеспечить высокий уровень качества и при этом получить удовольствие от процесса, и будет рассказывать Роман.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>https://www.slideshare.net/SpbDotNet/open-source-ui-automation-tests-on-c</Url>
+    </Link>
+  </Links>
+</Talk>
