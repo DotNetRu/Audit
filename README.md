@@ -1,2 +1,16 @@
-# Audit
-Audit community activity in a robot-friendly form
+Audit
+=====
+
+Аудит всей деятельности сообществ, представленный в дружелюбном к роботам виде.
+
+Данный репозиторий - это самый полный архив всех встреч, спикеров, докладов, слайдов, видеозаписей и прочих артефактов активности [DotNetRu](http://dotnet.ru). Его основная цель - быть единым источником данных для всех последующих представлений (сайтов, [энциклопедий](https://github.com/AnatolyKulakov/SpbDotNet/wiki/SpbDotNet), приложений, видеотек, статистике и т.д.).
+
+
+Сообщество
+==========
+
+- Поддерживайте в актуальном состоянии информацию о спикерах, [создавайте Pull Request'ы](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+
+- Ищите ошибки, неточности, недосказанности и [предлагайте их исправления](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+
+- Делитесь идеями, как можно улучшить базу знаний, [открывайте GitHub обсуждения](https://github.com/DotNetRu/Audit/issues).
