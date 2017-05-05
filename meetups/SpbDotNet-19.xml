@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>SpbDotNet-19</Id>
+  <Number>19</Number>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2017-04-13T00:00:00</Date>
+  <FriendIds>
+    <String>Selectel</String>
+  </FriendIds>
+  <VenueId>Spb-Selectel</VenueId>
+  <TalkIds>
+    <String>Advanced-use-of-NuGet-and-MSBuild</String>
+    <String>EF-chips-and-pitfalls</String>
+  </TalkIds>
+</Meetup>
