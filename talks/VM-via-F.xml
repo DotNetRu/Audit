@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>VM-via-F</Id>
+  <SpeakerIds>
+    <String>Yuri-Volkov</String>
+  </SpeakerIds>
+  <Title>VM via F#</Title>
+  <Description>Рассмотрим принципы устройства всеми любимой CLR, а также подумаем, как реализовать схожую работу на функционально-направленном F#.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>https://www.slideshare.net/SpbDotNet/vm-via-f</Url>
+    </Link>
+  </Links>
+</Talk>
