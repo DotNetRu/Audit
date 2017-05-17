@@ -1,0 +1,19 @@
+﻿<Talk>
+  <Id>Swagger</Id>
+  <SpeakerIds>
+    <String>Pavel-Fedotovsky</String>
+  </SpeakerIds>
+  <Title>Документация REST API c использованием Swagger</Title>
+  <Description>Документация является важной составляющей REST API – чем она удобнее и понятнее, тем меньше времени тратят разработчики, использующие ваше API. Хорошая документация упрощает жизнь всем – разработчикам/тестерам/клиентам. В докладе Павел расскажет про его опыт работы со Swagger – популярным подходом к спецификации REST API:
+- про Сode First и Design First подходы к документации, какой лучше использовать в вашем случае;
+- как сгенерировать документацию из ваших ASP.NET (Core) проектов;
+- как сгенерировать код клиента/сервера по Swagger спецификации;
+- где лучше всего хранить документацию;
+- какие подводные камни вас могут подстерегать при работе со Swagger.</Description>
+  <Links>
+    <Link>
+      <Relation>Slide</Relation>
+      <Url>https://www.slideshare.net/SpbDotNet/rest-api-c-swagger</Url>
+    </Link>
+  </Links>
+</Talk>

@@ -1,0 +1,17 @@
+﻿<Meetup>
+  <Id>SpbDotNet-20</Id>
+  <Number>20</Number>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2017-05-14T00:00:00</Date>
+  <FriendIds>
+    <String>ITGM</String>
+  </FriendIds>
+  <VenueId>Spb-House</VenueId>
+  <TalkIds>
+    <String>Functional-tricks-for-OO-code</String>
+    <String>CORS-in-ASP</String>
+    <String>DotaNetoLogia-SPb-2017</String>
+    <String>VM-via-F</String>
+    <String>Swagger</String>
+  </TalkIds>
+</Meetup>
