@@ -5,10 +5,5 @@
   </SpeakerIds>
   <Title>OAuth для .NET</Title>
   <Description>Доклад про использование OAuth на платформе .NET</Description>
-  <Links>
-    <Link>
-      <Relation>Slide</Relation>
-      <Url>http://www.slideshare.net/SpbDotNet/oauth-net</Url>
-    </Link>
-  </Links>
+  <SlidesUrl>http://www.slideshare.net/SpbDotNet/oauth-net</SlidesUrl>
 </Talk>

@@ -4,10 +4,5 @@
   <CompanyName>JetBrains</CompanyName>
   <CompanyUrl>https://www.jetbrains.com/</CompanyUrl>
   <Description>Разрабатывает на C#, ASP.NET для себя и для компании. Один из Разработчиков JetBrains Rider.</Description>
-  <Links>
-    <Link>
-      <Relation>Twitter</Relation>
-      <Url>https://twitter.com/filippovma</Url>
-    </Link>
-  </Links>
+  <TwitterUrl>https://twitter.com/filippovma</TwitterUrl>
 </Speaker>

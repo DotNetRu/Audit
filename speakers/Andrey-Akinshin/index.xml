@@ -4,14 +4,6 @@
   <CompanyName>JetBrains</CompanyName>
   <CompanyUrl>https://www.jetbrains.com/</CompanyUrl>
   <Description>.NET MVP, к.ф.-м.н., серебряный призёр ACM ICPC, постдок в Вейцмановском институте науки. В свободное время любит разбираться во внутренностях .NET и делиться находками с сообществом.</Description>
-  <Links>
-    <Link>
-      <Relation>Blog</Relation>
-      <Url>http://aakinshin.net/</Url>
-    </Link>
-    <Link>
-      <Relation>Twitter</Relation>
-      <Url>https://twitter.com/andrey_akinshin</Url>
-    </Link>
-  </Links>
+  <BlogUrl>http://aakinshin.net/</BlogUrl>
+  <TwitterUrl>https://twitter.com/andrey_akinshin</TwitterUrl>
 </Speaker>

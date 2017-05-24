@@ -4,10 +4,5 @@
   <CompanyName>Positive Technologies</CompanyName>
   <CompanyUrl>http://www.ptsecurity.ru/</CompanyUrl>
   <Description>Team Lead и Security Researcher в компании Positive Technologies. Принимает непосредственное участие в разработке анализатора защищенности приложений Application Inspector. Является участником и администратором проекта RSDN.</Description>
-  <Links>
-    <Link>
-      <Relation>Twitter</Relation>
-      <Url>https://twitter.com/kochetkov_v</Url>
-    </Link>
-  </Links>
+  <TwitterUrl>https://twitter.com/kochetkov_v</TwitterUrl>
 </Speaker>

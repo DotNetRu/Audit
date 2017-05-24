@@ -9,14 +9,6 @@
 В докладе представлен обзор этих ключевых технологий. Речь пойдут о проблемах, с которыми сталкиваются разработчики WEB-приложений, и о том, как они решаются благодаря .NET Core и OWIN.
 
 Также мы поделимся опытом использования стандарта OWIN в реальном, хоть и не большом, проекте. Использую реализацию OWIN, мы смогли реализовать простой и эффективный WEB-сервис, который легко разворачивается и поддерживается во время эксплуатации.</Description>
-  <Links>
-    <Link>
-      <Relation>Slide</Relation>
-      <Url>http://www.slideshare.net/yu5k3/web-net-56315595</Url>
-    </Link>
-    <Link>
-      <Relation>Video</Relation>
-      <Url>https://www.youtube.com/watch?v=PbdPSlGJp48</Url>
-    </Link>
-  </Links>
+  <SlidesUrl>http://www.slideshare.net/yu5k3/web-net-56315595</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=PbdPSlGJp48</VideoUrl>
 </Talk>

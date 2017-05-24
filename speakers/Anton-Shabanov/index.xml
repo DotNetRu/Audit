@@ -4,10 +4,5 @@
   <CompanyName>WaveAccess</CompanyName>
   <CompanyUrl>http://www.waveaccess.ru/</CompanyUrl>
   <Description></Description>
-  <Links>
-    <Link>
-      <Relation>Twitter</Relation>
-      <Url>https://twitter.com/ShabanovAnton</Url>
-    </Link>
-  </Links>
+  <TwitterUrl>https://twitter.com/ShabanovAnton</TwitterUrl>
 </Speaker>

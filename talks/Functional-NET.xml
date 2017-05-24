@@ -5,14 +5,6 @@
   </SpeakerIds>
   <Title>Функциональный .NET</Title>
   <Description>Пожалуй, уже не осталось .NET разработчиков, не слышавших об F#. Но далеко не каждый понимает, что это за язык и зачем рядовому разработчику «эта ваша функциональщина». Самое время это исправить! Мы поговорим как о роли и преимуществах функционального программирования в целом, так и о его использовании в языке F#. Посмотрим на кейсы применения функционального подхода и разберем, как ФП позволяет «проапрегрейдить» ваш код.</Description>
-  <Links>
-    <Link>
-      <Relation>Slide</Relation>
-      <Url>http://www.slideshare.net/ssuser939466/net-66162198</Url>
-    </Link>
-    <Link>
-      <Relation>Video</Relation>
-      <Url>https://www.youtube.com/watch?v=Y7i3fJrZyr8</Url>
-    </Link>
-  </Links>
+  <SlidesUrl>http://www.slideshare.net/ssuser939466/net-66162198</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Y7i3fJrZyr8</VideoUrl>
 </Talk>

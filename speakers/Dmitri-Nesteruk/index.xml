@@ -4,14 +4,6 @@
   <CompanyName>JetBrains</CompanyName>
   <CompanyUrl>https://www.jetbrains.com/</CompanyUrl>
   <Description>Квант, разработчик и просто увлеченный человек. Занимается финансовой математикой, пишет видеокурсы по технологиям и математике, делает доклады про инструментарий и методики разработки. Работает исследователем в университете Саутхэмптона (Великобритания).</Description>
-  <Links>
-    <Link>
-      <Relation>Blog</Relation>
-      <Url>https://nesteruk.wordpress.com/</Url>
-    </Link>
-    <Link>
-      <Relation>Twitter</Relation>
-      <Url>https://twitter.com/dnesteruk</Url>
-    </Link>
-  </Links>
+  <BlogUrl>https://nesteruk.wordpress.com/</BlogUrl>
+  <TwitterUrl>https://twitter.com/dnesteruk</TwitterUrl>
 </Speaker>

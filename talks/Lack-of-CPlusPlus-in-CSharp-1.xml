@@ -9,14 +9,6 @@
     <String>Lack-of-CPlusPlus-in-CSharp-2</String>
     <String>Lack-of-CPlusPlus-in-CSharp-3</String>
   </SeeAlsoTalkIds>
-  <Links>
-    <Link>
-      <Relation>Slide</Relation>
-      <Url>http://www.slideshare.net/yu5k3/c-c-54012854</Url>
-    </Link>
-    <Link>
-      <Relation>Video</Relation>
-      <Url>http://www.youtube.com/watch?v=qvE3HTajoqc</Url>
-    </Link>
-  </Links>
+  <SlidesUrl>http://www.slideshare.net/yu5k3/c-c-54012854</SlidesUrl>
+  <VideoUrl>http://www.youtube.com/watch?v=qvE3HTajoqc</VideoUrl>
 </Talk>

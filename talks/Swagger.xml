@@ -10,10 +10,5 @@
 - как сгенерировать код клиента/сервера по Swagger спецификации;
 - где лучше всего хранить документацию;
 - какие подводные камни вас могут подстерегать при работе со Swagger.</Description>
-  <Links>
-    <Link>
-      <Relation>Slide</Relation>
-      <Url>https://www.slideshare.net/SpbDotNet/rest-api-c-swagger</Url>
-    </Link>
-  </Links>
+  <SlidesUrl>https://www.slideshare.net/SpbDotNet/rest-api-c-swagger</SlidesUrl>
 </Talk>

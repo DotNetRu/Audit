@@ -5,10 +5,5 @@
   </SpeakerIds>
   <Title>Обзор Visual F# 4.0</Title>
   <Description>В этом докладе мы посмотрим на новые возможности F# 4.0</Description>
-  <Links>
-    <Link>
-      <Relation>Video</Relation>
-      <Url>https://www.youtube.com/watch?v=iOItE4hR6jg</Url>
-    </Link>
-  </Links>
+  <VideoUrl>https://www.youtube.com/watch?v=iOItE4hR6jg</VideoUrl>
 </Talk>

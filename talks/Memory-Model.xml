@@ -5,14 +5,6 @@
   </SpeakerIds>
   <Title>Модель памяти .NET</Title>
   <Description>Современный .NET становится по-настоящему кросс-платформенным, Microsoft купила Xamarin, современные платформы многоядерные, а порог вхождения в разработку на C# весьма низкий. Также почему-то в мире .NET не сложилось практики чтения спецификаций (их заменяют видоизменённые цитаты весьма авторитетных специалистов, вырванные из контекста), что может привести к печальным последствиям.</Description>
-  <Links>
-    <Link>
-      <Relation>Slide</Relation>
-      <Url>http://www.slideshare.net/SpbDotNet/net-72058691</Url>
-    </Link>
-    <Link>
-      <Relation>Video</Relation>
-      <Url>https://www.youtube.com/watch?v=m9_aBxdKrRI</Url>
-    </Link>
-  </Links>
+  <SlidesUrl>http://www.slideshare.net/SpbDotNet/net-72058691</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=m9_aBxdKrRI</VideoUrl>
 </Talk>

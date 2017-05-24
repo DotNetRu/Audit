@@ -5,14 +5,6 @@
   </SpeakerIds>
   <Title>WCF: Удобно или проблемно?</Title>
   <Description>Если возникает задача обеспечения обмена данными между приложениями на платформе .NET, то WCF прочно вошел в набор инструментов которые позволяют сделать это быстро и сравнительно легко. Действительно ли это легко или эта кажущаяся легкость скрывает огромное поле граблей/проблем которые трудно заметить? В докладе я расскажу об опыте использования WCF в разработке, а также о проблемах и их решениях которые нам встретились.</Description>
-  <Links>
-    <Link>
-      <Relation>Slide</Relation>
-      <Url>http://www.slideshare.net/yu5k3/wcf-60618162</Url>
-    </Link>
-    <Link>
-      <Relation>Video</Relation>
-      <Url>https://www.youtube.com/watch?v=_6MQ_TfrjBA</Url>
-    </Link>
-  </Links>
+  <SlidesUrl>http://www.slideshare.net/yu5k3/wcf-60618162</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=_6MQ_TfrjBA</VideoUrl>
 </Talk>

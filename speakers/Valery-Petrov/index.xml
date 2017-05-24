@@ -4,14 +4,6 @@
   <CompanyName>Sidenis</CompanyName>
   <CompanyUrl>http://sidenis.ru/</CompanyUrl>
   <Description>.NET разработчик в небольшой российско-швейцарской компании Sidenis. Окончил МатМех СПбГУ по специальности математическое обеспечение и администрирование информационных систем, кафедра параллельных алгоритмов. Интересуется Concurrency, производительностью, кросс-платформенностью (особенно под разные архитектуры) и всякими «кишочками».</Description>
-  <Links>
-    <Link>
-      <Relation>Twitter</Relation>
-      <Url>https://twitter.com/m08pvv</Url>
-    </Link>
-    <Link>
-      <Relation>Habr</Relation>
-      <Url>https://habrahabr.ru/users/m08pvv/</Url>
-    </Link>
-  </Links>
+  <TwitterUrl>https://twitter.com/m08pvv</TwitterUrl>
+  <HabrUrl>https://habrahabr.ru/users/m08pvv/</HabrUrl>
 </Speaker>

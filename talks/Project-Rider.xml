@@ -7,14 +7,6 @@
   <Description>История про продукт, объединивший две мощные платформы для разработки — IntelliJ IDEA и ReSharper.
 
 13 января 2016 года на NDC London мы презентовали широкой общественности наш новый продукт — кросс-платформенную IDE для разработки .NET приложений. В своей презентации я покажу как работает Rider, расскажу про продукт, что будет включать первая версия и что самое интересное — расскажу как мы сделали гибридное приложение, работающее одновременно на Java и .NET.</Description>
-  <Links>
-    <Link>
-      <Relation>Slide</Relation>
-      <Url>http://www.slideshare.net/yu5k3/project-rider</Url>
-    </Link>
-    <Link>
-      <Relation>Video</Relation>
-      <Url>https://www.youtube.com/watch?v=wq5qvizDUIM</Url>
-    </Link>
-  </Links>
+  <SlidesUrl>http://www.slideshare.net/yu5k3/project-rider</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=wq5qvizDUIM</VideoUrl>
 </Talk>
