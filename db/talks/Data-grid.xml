@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Data-grid</Id>
   <SpeakerIds>
-    <String>Yakov-Zhdanov</String>
+    <SpeakerId>Yakov-Zhdanov</SpeakerId>
   </SpeakerIds>
   <Title>Знакомство с In-Memory Data Grid</Title>
   <Description>В этой части встречи мы рассмотрим основные понятия и поговорим о важнейших возможностях Apache Ignite. Вместе со слушателями мы разберемся:

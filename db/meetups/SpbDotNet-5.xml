@@ -4,11 +4,11 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2015-10-14T00:00:00Z</Date>
   <FriendIds>
-    <String>JetBrains</String>
+    <FriendId>JetBrains</FriendId>
   </FriendIds>
   <VenueId>Spb-Universe</VenueId>
   <TalkIds>
-    <String>How-it-works-DLR</String>
-    <String>Lack-of-CPlusPlus-in-CSharp-1</String>
+    <TalkId>How-it-works-DLR</TalkId>
+    <TalkId>Lack-of-CPlusPlus-in-CSharp-1</TalkId>
   </TalkIds>
 </Meetup>

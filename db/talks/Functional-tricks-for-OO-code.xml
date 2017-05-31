@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Functional-tricks-for-OO-code</Id>
   <SpeakerIds>
-    <String>Roman-Nevolin</String>
+    <SpeakerId>Roman-Nevolin</SpeakerId>
   </SpeakerIds>
   <Title>Функциональные трюки для вашего объектно-ориентированного кода</Title>
   <Description>Вы наверняка частенько слышите о том, какая же это чудесная штука - функциональное программирование. Все эти статьи и доклады про великолепие F#, Haskell, Scala и других функциональных языков на каждом шагу... Вот только в продакшене их все не видно.

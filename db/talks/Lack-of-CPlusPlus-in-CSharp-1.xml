@@ -1,13 +1,13 @@
 ﻿<Talk>
   <Id>Lack-of-CPlusPlus-in-CSharp-1</Id>
   <SpeakerIds>
-    <String>Sergey-Baltiyskiy</String>
+    <SpeakerId>Sergey-Baltiyskiy</SpeakerId>
   </SpeakerIds>
   <Title>Когда в C# не хватает C++ (часть 1 из 3)</Title>
   <Description>На дотнете удобно писать программы, но иногда результат работает слишком медленно, а GC начинает пробуксовывать под нагрузкой. Кажется, что блага managed-цивилизации даются слишком большой ценой, и хочется от них отказаться — но только локально! Бывает и так, что часть программы уже написана, и вовсе не на дотнете. Насколько легко подружить эти два мира? Чего можно добиться, не выходя из уютного C#? Опасен ли unsafe keyword? Означает ли COM работу с реестром? Для чего годится С++/CLI? Поговорим об этом!</Description>
   <SeeAlsoTalkIds>
-    <String>Lack-of-CPlusPlus-in-CSharp-2</String>
-    <String>Lack-of-CPlusPlus-in-CSharp-3</String>
+    <TalkId>Lack-of-CPlusPlus-in-CSharp-2</TalkId>
+    <TalkId>Lack-of-CPlusPlus-in-CSharp-3</TalkId>
   </SeeAlsoTalkIds>
   <SlidesUrl>http://www.slideshare.net/yu5k3/c-c-54012854</SlidesUrl>
   <VideoUrl>http://www.youtube.com/watch?v=qvE3HTajoqc</VideoUrl>

@@ -4,10 +4,10 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2015-11-16T00:00:00Z</Date>
   <FriendIds>
-    <String>EMC</String>
+    <FriendId>EMC</FriendId>
   </FriendIds>
   <VenueId>Spb-Ostrov</VenueId>
   <TalkIds>
-    <String>Common-mistakes-in-Net-benchmarks</String>
+    <TalkId>Common-mistakes-in-Net-benchmarks</TalkId>
   </TalkIds>
 </Meetup>

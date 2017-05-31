@@ -4,12 +4,12 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2016-05-20T00:00:00Z</Date>
   <FriendIds>
-    <String>Luxoft</String>
+    <FriendId>Luxoft</FriendId>
   </FriendIds>
   <VenueId>Spb-Osen</VenueId>
   <TalkIds>
-    <String>Data-grid</String>
-    <String>DotNet-and-Java</String>
-    <String>Ignite-in-action</String>
+    <TalkId>Data-grid</TalkId>
+    <TalkId>DotNet-and-Java</TalkId>
+    <TalkId>Ignite-in-action</TalkId>
   </TalkIds>
 </Meetup>

@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>PowerShell-in-the-name-of-good</Id>
   <SpeakerIds>
-    <String>Anatoly-Kulakov</String>
+    <SpeakerId>Anatoly-Kulakov</SpeakerId>
   </SpeakerIds>
   <Title>Windows PowerShell во имя добра</Title>
   <Description>Ровно 10 лет назад была выпущена первая версия революционного средства для автоматизации - PowerShell. С тех самых пор все системные администраторы Windows яростно и неистово боготворят это чудо инженерной мысли. За многие годы стремительного развития уже

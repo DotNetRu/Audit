@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Delegates-and-Events</Id>
   <SpeakerIds>
-    <String>Mikhail-Shcherbakov</String>
+    <SpeakerId>Mikhail-Shcherbakov</SpeakerId>
   </SpeakerIds>
   <Title>Что может быть проще: делегаты и события</Title>
   <Description>Ждём...</Description>

@@ -4,14 +4,14 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2016-04-02T00:00:00Z</Date>
   <FriendIds>
-    <String>ITGM</String>
+    <FriendId>ITGM</FriendId>
   </FriendIds>
   <VenueId>Spb-House</VenueId>
   <TalkIds>
-    <String>Machine-learning</String>
-    <String>Modern-static-analyzers</String>
-    <String>Using-static-analyzers</String>
-    <String>Round-table-code-analysis</String>
-    <String>Practice-WCF</String>
+    <TalkId>Machine-learning</TalkId>
+    <TalkId>Modern-static-analyzers</TalkId>
+    <TalkId>Using-static-analyzers</TalkId>
+    <TalkId>Round-table-code-analysis</TalkId>
+    <TalkId>Practice-WCF</TalkId>
   </TalkIds>
 </Meetup>

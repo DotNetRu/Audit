@@ -4,11 +4,11 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2015-06-25T00:00:00Z</Date>
   <FriendIds>
-    <String>DataArt</String>
+    <FriendId>DataArt</FriendId>
   </FriendIds>
   <VenueId>Spb-Telekom</VenueId>
   <TalkIds>
-    <String>Theory-of-AppSec-Net</String>
-    <String>Practice-of-AppSec-NET</String>
+    <TalkId>Theory-of-AppSec-Net</TalkId>
+    <TalkId>Practice-of-AppSec-NET</TalkId>
   </TalkIds>
 </Meetup>

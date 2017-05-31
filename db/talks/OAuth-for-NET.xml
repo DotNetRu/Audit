@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>OAuth-for-NET</Id>
   <SpeakerIds>
-    <String>Artem-Zhuravlev</String>
+    <SpeakerId>Artem-Zhuravlev</SpeakerId>
   </SpeakerIds>
   <Title>OAuth для .NET</Title>
   <Description>Доклад про использование OAuth на платформе .NET</Description>

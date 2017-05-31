@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Review-of-CSharp-6</Id>
   <SpeakerIds>
-    <String>Dmitri-Nesteruk</String>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
   </SpeakerIds>
   <Title>Обзор C# 6</Title>
   <Description>В этом докладе мы посмотрим на некоторые фичи C#6</Description>

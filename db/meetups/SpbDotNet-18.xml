@@ -4,11 +4,11 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2017-03-02T00:00:00Z</Date>
   <FriendIds>
-    <String>EPAM</String>
+    <FriendId>EPAM</FriendId>
   </FriendIds>
   <VenueId>Spb-Welcome</VenueId>
   <TalkIds>
-    <String>EF-Core-Internals</String>
-    <String>UI-Automation-Tests</String>
+    <TalkId>EF-Core-Internals</TalkId>
+    <TalkId>UI-Automation-Tests</TalkId>
   </TalkIds>
 </Meetup>

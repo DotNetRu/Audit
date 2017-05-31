@@ -4,13 +4,13 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2015-11-28T00:00:00Z</Date>
   <FriendIds>
-    <String>ITGM</String>
+    <FriendId>ITGM</FriendId>
   </FriendIds>
   <VenueId>Spb-House</VenueId>
   <TalkIds>
-    <String>Lack-of-CPlusPlus-in-CSharp-2</String>
-    <String>Sandboxing-in-Net-CLR</String>
-    <String>Using-Apache-Cordova</String>
-    <String>Simple-cross-platform-Web-server</String>
+    <TalkId>Lack-of-CPlusPlus-in-CSharp-2</TalkId>
+    <TalkId>Sandboxing-in-Net-CLR</TalkId>
+    <TalkId>Using-Apache-Cordova</TalkId>
+    <TalkId>Simple-cross-platform-Web-server</TalkId>
   </TalkIds>
 </Meetup>

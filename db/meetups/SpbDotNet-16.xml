@@ -4,13 +4,13 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2016-12-03T00:00:00Z</Date>
   <FriendIds>
-    <String>ITGM</String>
+    <FriendId>ITGM</FriendId>
   </FriendIds>
   <VenueId>Spb-House</VenueId>
   <TalkIds>
-    <String>In-search-of-paradigm</String>
-    <String>Octopus-in-the-name-of-good</String>
-    <String>Windows-Containers</String>
-    <String>SQL-Server-Performance-101</String>
+    <TalkId>In-search-of-paradigm</TalkId>
+    <TalkId>Octopus-in-the-name-of-good</TalkId>
+    <TalkId>Windows-Containers</TalkId>
+    <TalkId>SQL-Server-Performance-101</TalkId>
   </TalkIds>
 </Meetup>

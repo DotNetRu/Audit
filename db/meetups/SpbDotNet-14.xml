@@ -4,12 +4,12 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2016-09-15T00:00:00Z</Date>
   <FriendIds>
-    <String>SEMrush</String>
+    <FriendId>SEMrush</FriendId>
   </FriendIds>
   <VenueId>Spb-Ankor</VenueId>
   <TalkIds>
-    <String>Functional-NET</String>
-    <String>Experience-and-prospects-of-F</String>
-    <String>F-Battle</String>
+    <TalkId>Functional-NET</TalkId>
+    <TalkId>Experience-and-prospects-of-F</TalkId>
+    <TalkId>F-Battle</TalkId>
   </TalkIds>
 </Meetup>

@@ -4,11 +4,11 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2015-12-22T00:00:00Z</Date>
   <FriendIds>
-    <String>DataArt</String>
+    <FriendId>DataArt</FriendId>
   </FriendIds>
   <VenueId>Spb-Telekom</VenueId>
   <TalkIds>
-    <String>Design-of-RESTFul-API</String>
-    <String>Structured-logging</String>
+    <TalkId>Design-of-RESTFul-API</TalkId>
+    <TalkId>Structured-logging</TalkId>
   </TalkIds>
 </Meetup>

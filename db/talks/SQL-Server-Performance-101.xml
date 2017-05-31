@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>SQL-Server-Performance-101</Id>
   <SpeakerIds>
-    <String>Alexander-Shelemin</String>
+    <SpeakerId>Alexander-Shelemin</SpeakerId>
   </SpeakerIds>
   <Title>SQL Server Performance 101</Title>
   <Description>Как бы нам ни хотелось верить в то, что оптимизатор запросов всегда сделает всё сам, на практике нередко возникают ситуации, когда для того, чтобы добиться нужной производительности, нам приходится лезть во внутренности сервера баз данных.

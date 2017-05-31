@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Review-of-FSharp-4</Id>
   <SpeakerIds>
-    <String>Dmitry-Vlasov</String>
+    <SpeakerId>Dmitry-Vlasov</SpeakerId>
   </SpeakerIds>
   <Title>Обзор Visual F# 4.0</Title>
   <Description>В этом докладе мы посмотрим на новые возможности F# 4.0</Description>

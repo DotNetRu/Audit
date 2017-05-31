@@ -1,11 +1,11 @@
 ﻿<Talk>
   <Id>Round-table-code-analysis</Id>
   <SpeakerIds>
-    <String>Vladimir-Kochetkov</String>
-    <String>Alexander-Shvedov</String>
-    <String>Vladimir-Koshelev</String>
-    <String>Valery-Ignatyev</String>
-    <String>Artem-Borzilov</String>
+    <SpeakerId>Vladimir-Kochetkov</SpeakerId>
+    <SpeakerId>Alexander-Shvedov</SpeakerId>
+    <SpeakerId>Vladimir-Koshelev</SpeakerId>
+    <SpeakerId>Valery-Ignatyev</SpeakerId>
+    <SpeakerId>Artem-Borzilov</SpeakerId>
   </SpeakerIds>
   <Title>Круглый стол по вопросам анализа кода</Title>
   <Description>Ведущие эксперты, разрабатывающие продукты в области анализа кода, обсуждают эту тему.</Description>

@@ -1,8 +1,8 @@
 ﻿<Talk>
   <Id>F-Battle</Id>
   <SpeakerIds>
-    <String>Roman-Nevolin</String>
-    <String>Dmitri-Nesteruk</String>
+    <SpeakerId>Roman-Nevolin</SpeakerId>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
   </SpeakerIds>
   <Title>F# Battle: За и Против</Title>
   <Description>Роман Неволин и Дмитрий Нестерук обсуждают F#</Description>

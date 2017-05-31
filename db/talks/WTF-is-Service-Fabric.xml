@@ -1,8 +1,8 @@
 ﻿<Talk>
   <Id>WTF-is-Service-Fabric</Id>
   <SpeakerIds>
-    <String>Nikita-Kozlov</String>
-    <String>Ivan-Pashchenko</String>
+    <SpeakerId>Nikita-Kozlov</SpeakerId>
+    <SpeakerId>Ivan-Pashchenko</SpeakerId>
   </SpeakerIds>
   <Title>WTF is Service Fabric</Title>
   <Description>Наш доклад про Microsoft Azure Service Fabric - облачную платформу, временами позволяющую легко разворачивать, скалировать и мониторить Ваши приложения.

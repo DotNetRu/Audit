@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Practice-of-AppSec-NET</Id>
   <SpeakerIds>
-    <String>Mikhail-Shcherbakov</String>
+    <SpeakerId>Mikhail-Shcherbakov</SpeakerId>
   </SpeakerIds>
   <Title>Практика Application Security .NET</Title>
   <Description>В докладе будет рассмотрена практическая составляющая предметной области Application Security для .NET-разработчиков. Будут рассмотрены многочисленные примеры уязвимого кода, демонстрирующие недостатки, позволяющие атакующему нарушить защищенность системы с помощью различных типов атак: XSS, XXE, CSRF, Session Fixation, атак на уязвимости бизнес-логики и т.п. Посмотрим на ограниченность встроенных в .NET механизмов валидации запросов и данных.</Description>

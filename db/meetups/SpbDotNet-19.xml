@@ -2,13 +2,13 @@
   <Id>SpbDotNet-19</Id>
   <Number>19</Number>
   <CommunityId>SpbDotNet</CommunityId>
-  <Date>2017-04-13T00:00:00</Date>
+  <Date>2017-04-13T00:00:00Z</Date>
   <FriendIds>
-    <String>Selectel</String>
+    <FriendId>Selectel</FriendId>
   </FriendIds>
   <VenueId>Spb-Selectel</VenueId>
   <TalkIds>
-    <String>Advanced-use-of-NuGet-and-MSBuild</String>
-    <String>EF-chips-and-pitfalls</String>
+    <TalkId>Advanced-use-of-NuGet-and-MSBuild</TalkId>
+    <TalkId>EF-chips-and-pitfalls</TalkId>
   </TalkIds>
 </Meetup>

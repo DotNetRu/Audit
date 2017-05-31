@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>In-search-of-paradigm</Id>
   <SpeakerIds>
-    <String>Roman-Nevolin</String>
+    <SpeakerId>Roman-Nevolin</SpeakerId>
   </SpeakerIds>
   <Title>В поисках парадигмы</Title>
   <Description>Роман делится своим опытом разработки на различных языках и неистово тролит парадигмы, программистов и программирование вообще.</Description>

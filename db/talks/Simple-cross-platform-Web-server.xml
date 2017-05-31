@@ -1,8 +1,8 @@
 ﻿<Talk>
   <Id>Simple-cross-platform-Web-server</Id>
   <SpeakerIds>
-    <String>Alexander-Ivanov</String>
-    <String>Roman-Pavuk</String>
+    <SpeakerId>Alexander-Ivanov</SpeakerId>
+    <SpeakerId>Roman-Pavuk</SpeakerId>
   </SpeakerIds>
   <Title>Простой и кросс-платформенный Web-сервер на базе .Net Framework</Title>
   <Description>Релиз ASP.NET 5 уже совсем близко. Ключевыми элементами, которые определяют архитектуру последней версии ASP.NET стали переход на новый .NET runtime, который получил название .NET Core, и реализация стандарта OWIN в ASP.NET.

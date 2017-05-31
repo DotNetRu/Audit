@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>GC-Tips</Id>
   <SpeakerIds>
-    <String>Sasha-Goldshtein</String>
+    <SpeakerId>Sasha-Goldshtein</SpeakerId>
   </SpeakerIds>
   <Title>.NET Garbage Collection Performance Tips</Title>
   <Description>The .NET garbage collector is probably the most complex part of the CLR. Did you know gc.cpp in the CoreCLR open source project is a 1.2MB source file with over 37,000 lines of code? There are a lot of partial truths and myths about the GC’s behavior and its performance characteristics. In this talk we will unveil some of this complexity and discuss tips for application developers that can improve garbage collection performance by an order of magnitude, as well as tools for measuring this impact. We will briefly touch on object layout, allocation rates, finalization, VM fragmentation, and some other topics.</Description>

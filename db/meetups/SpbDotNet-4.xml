@@ -4,14 +4,14 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2015-08-25T00:00:00Z</Date>
   <FriendIds>
-    <String>Luxoft</String>
+    <FriendId>Luxoft</FriendId>
   </FriendIds>
   <VenueId>Spb-Osen</VenueId>
   <TalkIds>
-    <String>Review-of-CSharp-6</String>
-    <String>Review-of-FSharp-4</String>
-    <String>Roslyn-Code-Analysis</String>
-    <String>Debugging-tools-in-Msvs-2015</String>
-    <String>Xamarin-mobile-apps</String>
+    <TalkId>Review-of-CSharp-6</TalkId>
+    <TalkId>Review-of-FSharp-4</TalkId>
+    <TalkId>Roslyn-Code-Analysis</TalkId>
+    <TalkId>Debugging-tools-in-Msvs-2015</TalkId>
+    <TalkId>Xamarin-mobile-apps</TalkId>
   </TalkIds>
 </Meetup>

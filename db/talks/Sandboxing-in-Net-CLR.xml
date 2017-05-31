@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Sandboxing-in-Net-CLR</Id>
   <SpeakerIds>
-    <String>Mikhail-Shcherbakov</String>
+    <SpeakerId>Mikhail-Shcherbakov</SpeakerId>
   </SpeakerIds>
   <Title>Sandboxing in .NET CLR</Title>
   <Description>Доклад для тех, кто разрабатывает или планирует разрабатывать чувствительные к безопасности приложения, задумывается над проектированием расширяемой плагинами системы. Или просто интересуется технологиями, на основе которых построена вся модель безопасности в .NET Framework.

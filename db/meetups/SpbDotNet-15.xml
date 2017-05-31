@@ -4,11 +4,11 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2016-11-17T00:00:00Z</Date>
   <FriendIds>
-    <String>JetBrains</String>
+    <FriendId>JetBrains</FriendId>
   </FriendIds>
   <VenueId>Spb-Universe</VenueId>
   <TalkIds>
-    <String>Automatic-Input-Output-Matching</String>
-    <String>Rider-Internals</String>
+    <TalkId>Automatic-Input-Output-Matching</TalkId>
+    <TalkId>Rider-Internals</TalkId>
   </TalkIds>
 </Meetup>

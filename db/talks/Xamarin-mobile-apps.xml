@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Xamarin-mobile-apps</Id>
   <SpeakerIds>
-    <String>Vsevolod-Ivanov</String>
+    <SpeakerId>Vsevolod-Ivanov</SpeakerId>
   </SpeakerIds>
   <Title>Разработка мобильных приложений на С# с использованием Xamarin</Title>
   <Description>В этом докладе мы поговорим про кросс-платформенную разработку мобильных приложений на платформе Xamarin.</Description>

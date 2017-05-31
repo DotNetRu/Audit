@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Project-Rider</Id>
   <SpeakerIds>
-    <String>Sergey-Shkredov</String>
+    <SpeakerId>Sergey-Shkredov</SpeakerId>
   </SpeakerIds>
   <Title>Project Rider</Title>
   <Description>История про продукт, объединивший две мощные платформы для разработки — IntelliJ IDEA и ReSharper.

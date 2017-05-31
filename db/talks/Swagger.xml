@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Swagger</Id>
   <SpeakerIds>
-    <String>Pavel-Fedotovsky</String>
+    <SpeakerId>Pavel-Fedotovsky</SpeakerId>
   </SpeakerIds>
   <Title>Документация REST API c использованием Swagger</Title>
   <Description>Документация является важной составляющей REST API – чем она удобнее и понятнее, тем меньше времени тратят разработчики, использующие ваше API. Хорошая документация упрощает жизнь всем – разработчикам/тестерам/клиентам. В докладе Павел расскажет про его опыт работы со Swagger – популярным подходом к спецификации REST API:

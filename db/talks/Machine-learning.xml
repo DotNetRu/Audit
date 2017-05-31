@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Machine-learning</Id>
   <SpeakerIds>
-    <String>Roman-Nevolin</String>
+    <SpeakerId>Roman-Nevolin</SpeakerId>
   </SpeakerIds>
   <Title>Машинное обучение на платформе .NET</Title>
   <Description>Большинство разработчиков не задумываются о .NET как об инструменте для работы с машинным обучением. Что же, пришло время ответить на вопрос, есть ли место для машинного обучения в холодном мире дотнета, и увидеть, куда нас заведет скользкая функциональная дорожка.</Description>

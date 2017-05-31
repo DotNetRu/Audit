@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Web-security</Id>
   <SpeakerIds>
-    <String>Mikhail-Shcherbakov</String>
+    <SpeakerId>Mikhail-Shcherbakov</SpeakerId>
   </SpeakerIds>
   <Title>Разрушители легенд: web-безопасность</Title>
   <Description>Такого выпуска не хватало на Discovery, так сделаем его вместе! Поговорим про интересные атаки и уязвимости в web-приложениях. Обсуждать будем НЕ банальные: «Linux безопаснее Windows», «Антивирус защищает от всех угроз» и т.д., а вполне конкретные технологии и атаки на них: HTTPS, XSS, XML Injection, использование криптографии с использованием примеров .NET приложений.

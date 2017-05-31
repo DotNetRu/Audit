@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Using-static-analyzers</Id>
   <SpeakerIds>
-    <String>Valery-Ignatyev</String>
+    <SpeakerId>Valery-Ignatyev</SpeakerId>
   </SpeakerIds>
   <Title>Сценарии использования статического анализатора</Title>
   <Description></Description>

@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>CORS-in-ASP</Id>
   <SpeakerIds>
-    <String>Mikhail-Bashurov</String>
+    <SpeakerId>Mikhail-Bashurov</SpeakerId>
   </SpeakerIds>
   <Title>Особенности CORS в ASP.NET и не только</Title>
   <Description>В современном мире микро и макросервисов фронтенд часто отделяется от бэкенда физически и возникает проблема настройки кросс-доменных запросов. Это краткий рассказ о принципах работы и некоторых подводных камнях.</Description>

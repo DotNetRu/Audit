@@ -4,13 +4,13 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2015-06-06T00:00:00Z</Date>
   <FriendIds>
-    <String>ITGM</String>
+    <FriendId>ITGM</FriendId>
   </FriendIds>
   <VenueId>Spb-House</VenueId>
   <TalkIds>
-    <String>Future-of-Net-development</String>
-    <String>DSL-unexpurgated</String>
-    <String>Dynamic-Prototyping</String>
-    <String>Net-Web-news</String>
+    <TalkId>Future-of-Net-development</TalkId>
+    <TalkId>DSL-unexpurgated</TalkId>
+    <TalkId>Dynamic-Prototyping</TalkId>
+    <TalkId>Net-Web-news</TalkId>
   </TalkIds>
 </Meetup>

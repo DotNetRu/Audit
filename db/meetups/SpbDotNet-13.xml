@@ -4,13 +4,13 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2016-07-23T00:00:00Z</Date>
   <FriendIds>
-    <String>ITGM</String>
+    <FriendId>ITGM</FriendId>
   </FriendIds>
   <VenueId>Spb-House</VenueId>
   <TalkIds>
-    <String>OAuth-for-NET</String>
-    <String>PowerShell-in-the-name-of-good</String>
-    <String>WTF-is-Service-Fabric</String>
-    <String>Delegates-and-Events</String>
+    <TalkId>OAuth-for-NET</TalkId>
+    <TalkId>PowerShell-in-the-name-of-good</TalkId>
+    <TalkId>WTF-is-Service-Fabric</TalkId>
+    <TalkId>Delegates-and-Events</TalkId>
   </TalkIds>
 </Meetup>

@@ -4,11 +4,11 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2016-06-02T00:00:00Z</Date>
   <FriendIds>
-    <String>DotNext</String>
+    <FriendId>DotNext</FriendId>
   </FriendIds>
   <VenueId>Spb-Radison</VenueId>
   <TalkIds>
-    <String>Brave-CoreCLR</String>
-    <String>GC-Tips</String>
+    <TalkId>Brave-CoreCLR</TalkId>
+    <TalkId>GC-Tips</TalkId>
   </TalkIds>
 </Meetup>
