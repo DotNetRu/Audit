@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Entity Framework: фишки и подводные камни</Title>
   <Description>У каждого инструмента своя кривая обучения. Entity Framework в этом плане не исключение, с ним легко начать, но затем постепенно начинаешь спотыкаться. Михаил расскажет что может помочь человеку начинающему знакомиться с EF или желающему немного прокачать знания по нему. Будет много практического опыта, накопившегося за пару-тройку лет общения с ним.</Description>
+  <SlidesUrl>https://www.slideshare.net/SpbDotNet/entity-framework-75868404</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Y3M826ZySDM</VideoUrl>
 </Talk>
