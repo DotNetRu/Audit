@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>SpbDotNet-21</Id>
+  <Number>21</Number>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2017-06-15</Date>
+  <FriendIds>
+    <FriendId>Intermedia</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Intermedia</VenueId>
+  <TalkIds>
+    <TalkId>Interesting-approaches-implementing-design-patterns</TalkId>
+    <TalkId>Modern-programming-languages</TalkId>
+  </TalkIds>
+</Meetup>
