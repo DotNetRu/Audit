@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>WinDbg-and-friends</Id>
+  <SpeakerIds>
+    <SpeakerId>Mikhail-Shcherbakov</SpeakerId>
+  </SpeakerIds>
+  <Title>WinDbg и сотоварищи</Title>
+  <Description>Поговорим о самом мощном отладчике для Windows – WinDbg. Разберем как начать использовать этот отладчик, чем он может быть полезен для.NET разработчиков. Подробней остановимся на практических моментах его применения, зачем он прикладным программистам, web-разработчикам. Посмотрим и на другие инструменты отладки, которые занимают нишу между интуитивно управляемым комбайном Visual Studio и легким, но крайне аскетичным WinDbg.</Description>
+  <SlidesUrl>https://www.slideshare.net/yu5k3/windbg-65001941</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=0gH0q9gA0dc</VideoUrl>
+</Talk>
