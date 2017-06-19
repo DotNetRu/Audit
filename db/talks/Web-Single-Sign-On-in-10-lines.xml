@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Web-Single-Sign-On-in-10-lines</Id>
+  <SpeakerIds>
+    <SpeakerId>Vyacheslav-Mikhaylov</SpeakerId>
+  </SpeakerIds>
+  <Title>Как сделать Single Sign-On в веб-приложении в 10 строк кода</Title>
+  <Description>В докладе речь пойдёт о том, какие выбрать механизмы аутентификации и авторизации в приложении. Вячеслав поделится опытом использования IdentityServer и продемонстрирует способы его применения.</Description>
+  <SlidesUrl>https://www.slideshare.net/yuliafast/single-signon-10</SlidesUrl>
+</Talk>
