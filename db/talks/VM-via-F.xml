@@ -6,4 +6,5 @@
   <Title>VM via F#</Title>
   <Description>Рассмотрим принципы устройства всеми любимой CLR, а также подумаем, как реализовать схожую работу на функционально-направленном F#.</Description>
   <SlidesUrl>https://www.slideshare.net/SpbDotNet/vm-via-f</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=mtYAry42MkU</VideoUrl>
 </Talk>
