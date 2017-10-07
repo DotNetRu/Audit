@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>HoloLens-for-non-gaming-applications</Id>
+  <SpeakerIds>
+    <SpeakerId>Egor-Bogatov</SpeakerId>
+  </SpeakerIds>
+  <Title>HoloLens для неигровых приложений</Title>
+  <Description>В этом докладе Егор покажет, как можно разрабатывать на C# неигровые 2D и 3D приложения/голограммы под очки смешанной реальности HoloLens без использования Unity и без опыта в геймдеве.</Description>
+  <SlidesUrl>Unknown</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=fYW4mYXrfqU</VideoUrl>
+</Talk>

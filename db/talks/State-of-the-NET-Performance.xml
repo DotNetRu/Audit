@@ -1,0 +1,15 @@
+﻿<Talk>
+  <Id>State-of-the-NET-Performance</Id>
+  <SpeakerIds>
+    <SpeakerId>Adam-Sitnik</SpeakerId>
+  </SpeakerIds>
+  <Title>State of the .NET Performance</Title>
+  <Description>In this talk Adam will describe how latest changes in.NET are affecting performance.
+Adam wants to go through:
+C# 7: ref locals and ref returns, ValueTuples.
+.NET Core: Spans, Buffers, ValueTasks
+
+And how all of these things help build zero-copy streams aka Channels/Pipelines which are going to be a game changer in the next year.</Description>
+  <SlidesUrl>https://www.slideshare.net/yuliafast/adam-sitnik-state-of-the-net-performance</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=PJbTXiun2qM</VideoUrl>
+</Talk>
