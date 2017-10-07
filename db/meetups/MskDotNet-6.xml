@@ -1,0 +1,13 @@
+﻿<Meetup>
+  <Id>MskDotNet-6</Id>
+  <Name>Встреча MskDotNet №6</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2017-01-25</Date>
+  <FriendIds>
+    <FriendId>SberbankTechnology</FriendId>
+  </FriendIds>
+  <VenueId>Msk-SberbankTechnology</VenueId>
+  <TalkIds>
+    <TalkId>Theory-and-practice-of-NET-benchmarking</TalkId>
+  </TalkIds>
+</Meetup>
