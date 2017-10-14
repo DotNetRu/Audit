@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Theory-and-practice-of-NET-benchmarking-2</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrey-Akinshin</SpeakerId>
+  </SpeakerIds>
+  <Title>Теория и практика .NET-бенчмаркинга</Title>
+  <Description>Вторая часть рассказа обенчмаркинге.</Description>
+  <SeeAlsoTalkIds>
+    <TalkId>Theory-and-practice-of-NET-benchmarking-1</TalkId>
+  </SeeAlsoTalkIds>
+  <SlidesUrl>http://www.slideshare.net/AndreyAkinshin/net-25012017</SlidesUrl>
+</Talk>
