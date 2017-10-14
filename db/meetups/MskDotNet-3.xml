@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>MskDotNet-3</Id>
+  <Name>Встреча MskDotNet №3</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2016-10-13</Date>
+  <FriendIds>
+    <FriendId>Yandex</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Yandex</VenueId>
+  <TalkIds>
+    <TalkId>Exceptions-handling-in-C-Sharp</TalkId>
+    <TalkId>Messaging-systems-using-MassTransit-as-an-example</TalkId>
+  </TalkIds>
+</Meetup>
