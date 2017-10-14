@@ -4,7 +4,7 @@
     <SpeakerId>Andrey-Akinshin</SpeakerId>
   </SpeakerIds>
   <Title>Теория и практика .NET-бенчмаркинга</Title>
-  <Description>Вторая часть рассказа обенчмаркинге.</Description>
+  <Description>Вторая часть рассказа о бенчмаркинге.</Description>
   <SeeAlsoTalkIds>
     <TalkId>Theory-and-practice-of-NET-benchmarking-1</TalkId>
   </SeeAlsoTalkIds>
