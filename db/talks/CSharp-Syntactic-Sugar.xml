@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>CSharp-Syntactic-Sugar</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Vereskun</SpeakerId>
+  </SpeakerIds>
+  <Title>Синтаксический сахар C#</Title>
+  <Description>Разберемся что нового появилось в двух последних версиях C# (6 и 7). Зачем нам всё это надо. Как написать синглтон в две строки. Правда ли, что в C# теперь можно писать в стиле JS, C++ и SQL?</Description>
+  <SlidesUrl>https://www.slideshare.net/SpbDotNet/c-80832886</SlidesUrl>
+</Talk>
