@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Microsoft-Technologies-Current-Trends</Id>
+  <SpeakerIds>
+    <SpeakerId>Sergey-Levkin</SpeakerId>
+  </SpeakerIds>
+  <Title>Технологии Microsoft для актуальных трендов</Title>
+  <Description>Рассмотрим куда движутся технологии и как Microsoft участвует в этом. Как тренды меняют жизнь людей.</Description>
+  <SlidesUrl>https://www.slideshare.net/SpbDotNet/microsoft-80832808</SlidesUrl>
+</Talk>

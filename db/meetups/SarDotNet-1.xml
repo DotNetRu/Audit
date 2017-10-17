@@ -1,0 +1,15 @@
+﻿<Meetup>
+  <Id>SarDotNet-1</Id>
+  <Name>Встреча SarDotNet №1</Name>
+  <CommunityId>SarDotNet</CommunityId>
+  <Date>2017-09-30</Date>
+  <FriendIds>
+    <FriendId>EPAM</FriendId>
+  </FriendIds>
+  <VenueId>Sar-Pioneer</VenueId>
+  <TalkIds>
+    <TalkId>Microsoft-Technologies-Current-Trends</TalkId>
+    <TalkId>Basics-of-Profiling-and-Optimizing</TalkId>
+    <TalkId>CSharp-Syntactic-Sugar</TalkId>
+  </TalkIds>
+</Meetup>
