@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>MskDotNet-9</Id>
+  <Name>Встреча MskDotNet №9</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2017-04-20</Date>
+  <FriendIds>
+    <FriendId>DodoPizza</FriendId>
+  </FriendIds>
+  <VenueId>Msk-DodoPizza</VenueId>
+  <TalkIds>
+    <TalkId>Basic-principles-of-micro-services</TalkId>
+    <TalkId>Configuration-in-dot-Net</TalkId>
+  </TalkIds>
+</Meetup>

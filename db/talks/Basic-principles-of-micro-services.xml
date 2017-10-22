@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Basic-principles-of-micro-services</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrey-Matveev</SpeakerId>
+  </SpeakerIds>
+  <Title>Основные принципы микросервисов и их реализации</Title>
+  <Description>Разговор пойдет о том, что скрывается за модным buzzword’ом, будут рассмотрены обещанные плюсы и найдены минусы, о которых умалчивают. Зачем нужны микросервисы, пора ли отказываться от монолита и как же их делать.</Description>
+  <SlidesUrl>https://www.slideshare.net/MskDotNet/ntation</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=AIxxVseP8YM</VideoUrl>
+</Talk>

@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Configuration-in-dot-Net</Id>
+  <SpeakerIds>
+    <SpeakerId>Pavel-Pritchin</SpeakerId>
+  </SpeakerIds>
+  <Title>Конфигурации в.NET</Title>
+  <Description>В докладе рассказывается о системе конфигурации в.net. Как она работает на больших проектах, какие проблемы и почему все очень плохо. Какой подход мы применили в Додо Пицца, чтобы избавиться от некоторых проблем. Как изменились подходы сейчас в.net core. Что с конфигами в ASP.NET Core и как быть, когда кругом микросервисы.</Description>
+  <VideoUrl>https://www.youtube.com/watch?v=MlJiwwAuzdo</VideoUrl>
+</Talk>
