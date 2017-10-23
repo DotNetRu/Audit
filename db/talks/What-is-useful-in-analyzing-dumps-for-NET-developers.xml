@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>What-is-useful-in-analyzing-dumps-for-NET-developers</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexander-Romanov</SpeakerId>
+  </SpeakerIds>
+  <Title>Что полезного в разборе дампов для .NET-разработчиков?</Title>
+  <Description>В докладе мы попробуем привнести альтернативный взгляд. Показываем, как выстроить процесс сбора дампов, их анализа и исправления, встроить его в жизненный цикл разработки вашего приложения, сделав неотъемлемой частью для диагностики как рядовых, так и уникальных случаев. Затем рассматриваем группы основных проблем (deadlocks, out of memory, access violation, logical errors, etc.), которые могут произойти с вашим приложением, а также инструменты для их анализа.
+И, конечно же, разбираем примеры каждой из проблем, которые встретились нам на практике в наших продуктах, в коде .NET и WPF:
+— Как при помощи флэшки «повесить» WPF-приложение?
+— Безопасно ли вызывать DateTime.Now?
+и другие жизненные ситуации.</Description>
+  <SlidesUrl>https://www.slideshare.net/yuliafast/net-68988751</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=EfRcC4j_764</VideoUrl>
+</Talk>

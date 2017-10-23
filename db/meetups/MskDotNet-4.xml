@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>MskDotNet-4</Id>
+  <Name>Встреча MskDotNet №4</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2016-11-14</Date>
+  <FriendIds>
+    <FriendId>Kaspersky</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Kaspersky</VenueId>
+  <TalkIds>
+    <TalkId>What-is-useful-in-analyzing-dumps-for-NET-developers</TalkId>
+    <TalkId>Desktop-applications-optimizing-methods</TalkId>
+  </TalkIds>
+</Meetup>
