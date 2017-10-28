@@ -1,7 +1,7 @@
 ﻿<Talk>
   <Id>Industrial-IoT-in-practice</Id>
   <SpeakerIds>
-    <SpeakerId>Pyotr-Timoshevski</SpeakerId>
+    <SpeakerId>Peter-Timoshevsky</SpeakerId>
   </SpeakerIds>
   <Title>Industrial IoT на практике</Title>
   <Description>Путь от лабораторного прототипа к промышленной эксплуатации системы IoT тернист. Разработчиков ждут неожиданные проблемы, которые не могут возникнуть в лаборатории. Доклад о том как набить себе по меньше шишек и сделать работающую систему.</Description>
