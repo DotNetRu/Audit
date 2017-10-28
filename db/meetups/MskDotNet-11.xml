@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>MskDotNet-11</Id>
+  <Name>Встреча MskDotNet №11</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2017-06-20</Date>
+  <FriendIds>
+    <FriendId>Tinkoff</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Tinkoff</VenueId>
+  <TalkIds>
+    <TalkId>The-load-testing-tools</TalkId>
+    <TalkId>Cross-platform-server-development-tools-DotNet</TalkId>
+  </TalkIds>
+</Meetup>
