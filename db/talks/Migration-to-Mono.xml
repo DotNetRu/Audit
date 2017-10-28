@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Migration-to-Mono</Id>
+  <SpeakerIds>
+    <SpeakerId>Elizabeth-Holenok</SpeakerId>
+  </SpeakerIds>
+  <Title>Переходим на mono или как это было</Title>
+  <Description>Если вы пишете веб-приложения только под Windows, однако рано или поздно выбор определенной ОС накладывает на вас свои ограничения, наступает время подумать о кроссплатформенной разработке веб-приложений. К чему нужно быть готовым? Mono или .Net Core? Готовы ли Вы портировать свое приложение? Елизавета расскажет об опыте перехода на Mono и о том, как это было, с какими проблемами столкнулись в первую очередь и почему. Помимо ASP.NET приложений Елизавета с коллегами так же портировали MS SQL Server под Docker. А в заключении разговор пойдет о веб-серверах для ASP.NET приложений: — XSP — Apache — nginx​</Description>
+  <SlidesUrl>https://www.slideshare.net/MskDotNet/mono-81322609</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=MrcROy5-tn0</VideoUrl>
+</Talk>
