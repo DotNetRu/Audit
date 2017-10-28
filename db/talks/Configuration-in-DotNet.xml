@@ -5,5 +5,6 @@
   </SpeakerIds>
   <Title>Конфигурации в .NET</Title>
   <Description>В докладе рассказывается о системе конфигурации в .Net. Как она работает на больших проектах, какие проблемы и почему все очень плохо. Какой подход мы применили в Додо Пицца, чтобы избавиться от некоторых проблем. Как изменились подходы сейчас в .Net Core. Что с конфигами в ASP.NET Core и как быть, когда кругом микросервисы.</Description>
+  <SlidesUrl>https://www.slideshare.net/MskDotNet/net-81321769</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=MlJiwwAuzdo</VideoUrl>
 </Talk>
