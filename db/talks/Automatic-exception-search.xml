@@ -4,7 +4,7 @@
     <SpeakerId>Vladimir-Koshelev</SpeakerId>
   </SpeakerIds>
   <Title>Автоматический поиск ошибок</Title>
-  <Description>Поговорим о автоматических инструментах поиска ошибок в программах для.Net. Посмотрим на зоопарк средств статического анализа. Попробуем автоматически генерировать Unit-тесты с помощью IntelliTest.</Description>
+  <Description>Поговорим о автоматических инструментах поиска ошибок в программах для .Net. Посмотрим на зоопарк средств статического анализа. Попробуем автоматически генерировать Unit-тесты с помощью IntelliTest.</Description>
   <SlidesUrl>https://www.slideshare.net/yuliafast/ss-72692255</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=c8zhrtezwFs</VideoUrl>
 </Talk>
