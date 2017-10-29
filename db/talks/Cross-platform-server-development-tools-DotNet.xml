@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Cross-platform-server-development-tools-DotNet</Id>
+  <SpeakerIds>
+    <SpeakerId>Denis-Davydov</SpeakerId>
+  </SpeakerIds>
+  <Title>Кроссплатформенные инструменты серверной разработки .NET</Title>
+  <Description>Расскажет, как жить, если вы хотите разрабатывать и запускать серверные приложения под .NET, не используя Windows.</Description>
+  <SlidesUrl>https://www.slideshare.net/EliasFofanov/net-79112642</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=vqCo7HIZsNU</VideoUrl>
+</Talk>
