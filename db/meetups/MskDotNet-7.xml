@@ -1,0 +1,15 @@
+﻿<Meetup>
+  <Id>MskDotNet-7</Id>
+  <Name>Встреча MskDotNet №7</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2017-02-21</Date>
+  <FriendIds>
+    <FriendId>Odin</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Odin</VenueId>
+  <TalkIds>
+    <TalkId>Autofac-as-IoC-DI</TalkId>
+    <TalkId>Design-and-development-of-modular-applications</TalkId>
+    <TalkId>Automatic-exception-search</TalkId>
+  </TalkIds>
+</Meetup>

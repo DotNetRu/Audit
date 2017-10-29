@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Autofac-as-IoC-DI</Id>
+  <SpeakerIds>
+    <SpeakerId>Ilya-Efimov</SpeakerId>
+  </SpeakerIds>
+  <Title>IoC/DI на примере Autofac</Title>
+  <Description>Поговорим о IoC/DI в целом. Более подробно о вложенных контейнерах. Специфике IDisposable в данном контексте.</Description>
+  <SlidesUrl>https://www.slideshare.net/yuliafast/iocdi-autofac</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=6maln7uQUzI</VideoUrl>
+</Talk>

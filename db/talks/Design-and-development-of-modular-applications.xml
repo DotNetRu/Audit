@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Design-and-development-of-modular-applications</Id>
+  <SpeakerIds>
+    <SpeakerId>Kirill-Maurin</SpeakerId>
+  </SpeakerIds>
+  <Title>Проектирование и разработка модульных приложений</Title>
+  <Description>Кирилл хочет показать, что по вдоль и поперек изъезженной теме разработки модульных приложений есть много нового и полезного для большей части аудитории. Будет много материала из личного опыта автора с иллюстрацией из собственной микробиблиотеки с отрытым исходным кодом.</Description>
+  <SlidesUrl>https://www.slideshare.net/yuliafast/ss-72689066</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Gd9Ze7-CIb0</VideoUrl>
+</Talk>
