@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>ReactJSDotNET-experience-of-server-rendering</Id>
+  <SpeakerIds>
+    <SpeakerId>Daniel-Sokoluk</SpeakerId>
+  </SpeakerIds>
+  <Title>ReactJS.NET — опыт рендеринга на сервере </Title>
+  <Description>Поговорим что такое React и зачем он нужен разработчикам, разберемся что такое ReactJS.NET и JavaScriptServices. Обсудим как интегрировать React компоненты в существующую Razor разметку или даже в WebForms. Расскажем о том какие проблемы с производительностью существуют при серверном рендеринге компонентов и как их решать.</Description>
+  <SlidesUrl>https://www.slideshare.net/MskDotNet/reactjsnet-81089090</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=lu29RO2JtG8</VideoUrl>
+</Talk>

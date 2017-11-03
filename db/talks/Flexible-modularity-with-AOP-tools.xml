@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Flexible-modularity-with-AOP-tools</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrei-Kirpichev</SpeakerId>
+  </SpeakerIds>
+  <Title>Гибкая модульность инструментами АОП</Title>
+  <Description>На встрече мы поговорим о том, как не бояться изменений и как быть к ним готовым. Дадим определение АОП. Рассмотрим проблемы, хорошо решаемые инструментами АОП. Построим модульную систему, применяя АОП. Сравним динамический и статический подходы в АОП. Дадим рекомендации по применению АОП. Вас ждет река теории впадающая в море практики.</Description>
+  <SlidesUrl>https://www.slideshare.net/MskDotNet/ss-81089185</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=3fycJVD85Z4</VideoUrl>
+</Talk>
