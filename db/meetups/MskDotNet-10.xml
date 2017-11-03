@@ -1,0 +1,16 @@
+﻿<Meetup>
+  <Id>MskDotNet-10</Id>
+  <Name>Встреча MskDotNet №10</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2017-05-25</Date>
+  <FriendIds>
+    <FriendId>DeutscheBank</FriendId>
+  </FriendIds>
+  <VenueId>Msk-DeutscheBank</VenueId>
+  <TalkIds>
+    <TalkId>Developing-with-Asp-NET-Core-and-React-JS</TalkId>
+    <TalkId>TDD-in-a-hard-enterprise</TalkId>
+    <TalkId>AvaloniaUI-Cross-platform-Open-Source-UI-Framework</TalkId>
+  </TalkIds>
+</Meetup>
+

@@ -1,0 +1,12 @@
+<Talk>
+  <Id>Development-web-using-Asp-NET-Core-and-React-JS</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Tezhelnikov</SpeakerId>
+  </SpeakerIds>
+  <Title>Разработка вэб-решений с использованием ASP.NET Core и React.JS</Title>
+  <Description>Разговор будет об эволюции в мире вэб-приложений, современных технологиях и фреймворках, которые используют в вэб-разработке сегодня.
+Будут рассмотрены основные архитектурные принципы при создании вэб-решений для разных клиентов. Как сделать и запустить бэк-энд на ASP.NET Core в Visual Studio 2017. Далее разговор будет о том, как написать и запустить фронт-энд с использованием React.JS, Redux, Routing, Bootstrap в IntelliJ IDEA 2017.
+В конце доклада небольшой взгляд в будущее - что нас ждет в вэб-разработке завтра.</Description>
+  <SlidesUrl>https://www.slideshare.net/MskDotNet/aspnetcore-reactjs</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=wg6QPyxDDho</VideoUrl>
+</Talk>
