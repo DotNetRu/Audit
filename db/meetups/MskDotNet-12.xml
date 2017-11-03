@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>MskDotNet-12</Id>
+  <Name>Встреча MskDotNet №12</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2017-09-12</Date>
+  <FriendIds>
+    <FriendId>FINAM</FriendId>
+  </FriendIds>
+  <VenueId>Msk-FINAM</VenueId>
+  <TalkIds>
+    <TalkId>Migration-to-Mono</TalkId>
+    <TalkId>Theory-and-practice-of-parsing-formal-languages</TalkId>
+  </TalkIds>
+</Meetup>
