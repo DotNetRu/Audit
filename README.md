@@ -12,11 +12,3 @@
 Основная структура:
 
 DotNetRu состоит из [Сообществ](https://github.com/DotNetRu/Audit/tree/master/db/communities). Каждое сообщество регулярно собирает [Встречи](https://github.com/DotNetRu/Audit/tree/master/db/meetups). Встречи проходят на какой-то [Площадке](https://github.com/DotNetRu/Audit/tree/master/db/venues) при поддержке наших [Друзей](https://github.com/DotNetRu/Audit/tree/master/db/friends). На встречах [Докладчики](https://github.com/DotNetRu/Audit/tree/master/db/speakers) читают [Доклады](https://github.com/DotNetRu/Audit/tree/master/db/talks).
-
-# Сообщество
-
-- Поддерживайте в актуальном состоянии информацию о спикерах, [создавайте Pull Request'ы](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
-
-- Ищите ошибки, неточности, недосказанности и [предлагайте их исправления](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
-
-- Делитесь идеями, как можно улучшить базу знаний, [открывайте GitHub обсуждения](https://github.com/DotNetRu/Audit/issues).
