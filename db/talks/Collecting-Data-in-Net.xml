@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Collecting-Data-in-Net</Id>
+  <SpeakerIds>
+    <SpeakerId>Igor-Labutin</SpeakerId>
+  </SpeakerIds>
+  <Title>Коллекционируем данные в .NET</Title>
+  <Description>Любой разработчик сталкивается с выбором контейнеров для хранения данных программы. При разработке на платформе .NET несомненно первыми кандидатами будут массивы и коллекции из System.Collections(.Generic). Однако мир коллекций этим не ограничивается. Существуют неизменяемые (immutable) коллекции. Встречаются коллекции, оптимизирующие потребление памяти, и т.п. Мы рассмотрим популярные (но все же далеко не всегда широко известные) пакеты коллекции предлагаемые в .NET и методы работы с ними.</Description>
+  <CodeUrl>https://github.com/ilabutin/spbdotnet2017</CodeUrl>
+  <SlidesUrl>https://www.slideshare.net/SpbDotNet/net-84856032</SlidesUrl>
+</Talk>

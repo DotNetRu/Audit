@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>SpbDotNet-25</Id>
+  <Name>Встреча SpbDotNet №25</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2017-12-19</Date>
+  <FriendIds>
+    <FriendId>JetBrains</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Universe</VenueId>
+  <TalkIds>
+    <TalkId>Lifetime-Template</TalkId>
+    <TalkId>Collecting-Data-in-Net</TalkId>
+  </TalkIds>
+</Meetup>
