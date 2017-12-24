@@ -1,0 +1,14 @@
+﻿<Meetup>
+  <Id>KryDotNet-1</Id>
+  <Name>Встреча KryDotNet №1</Name>
+  <CommunityId>KryDotNet</CommunityId>
+  <Date>2017-11-18</Date>
+  <FriendIds>
+    <FriendId>Pilot</FriendId>
+  </FriendIds>
+  <VenueId>Kry-Furgon</VenueId>
+  <TalkIds>
+    <TalkId>Saritasa-Tools</TalkId>
+    <TalkId>FSharp-for-Data-Analysis</TalkId>
+  </TalkIds>
+</Meetup>

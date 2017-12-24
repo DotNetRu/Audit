@@ -1,0 +1,11 @@
+﻿<Talk>
+  <Id>FSharp-for-Data-Analysis</Id>
+  <SpeakerIds>
+    <SpeakerId>Artem-Akulakov</SpeakerId>
+  </SpeakerIds>
+  <Title>F# for Data Analysis</Title>
+  <Description>Вводный доклад об инструментах для анализа данных в .NET и F# в частности.</Description>
+  <CodeUrl>https://github.com/0xffAA/fsharp-dataanalysis-meetupmaterials</CodeUrl>
+  <SlidesUrl>https://www.slideshare.net/SpbDotNet/f-for-data-analysis</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=rmSgNJLLfSM</VideoUrl>
+</Talk>
