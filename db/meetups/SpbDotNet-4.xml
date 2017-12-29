@@ -7,6 +7,33 @@
     <FriendId>Luxoft</FriendId>
   </FriendIds>
   <VenueId>Spb-Osen</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Review-of-CSharp-6</TalkId>
+      <StartTime>2015-08-25T16:00:00Z</StartTime>
+      <EndTime>2015-08-25T16:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Review-of-FSharp-4</TalkId>
+      <StartTime>2015-08-25T16:30:00Z</StartTime>
+      <EndTime>2015-08-25T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Roslyn-Code-Analysis</TalkId>
+      <StartTime>2015-08-25T17:30:00Z</StartTime>
+      <EndTime>2015-08-25T18:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Debugging-tools-in-Msvs-2015</TalkId>
+      <StartTime>2015-08-25T18:00:00Z</StartTime>
+      <EndTime>2015-08-25T18:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Xamarin-mobile-apps</TalkId>
+      <StartTime>2015-08-25T18:30:00Z</StartTime>
+      <EndTime>2015-08-25T19:00:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Review-of-CSharp-6</TalkId>
     <TalkId>Review-of-FSharp-4</TalkId>

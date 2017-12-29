@@ -7,6 +7,18 @@
     <FriendId>Intermedia</FriendId>
   </FriendIds>
   <VenueId>Spb-Intermedia</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Design-Pattern-Observations</TalkId>
+      <StartTime>2017-06-15T16:00:00Z</StartTime>
+      <EndTime>2017-06-15T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Good-Ideas-in-Programming-Languages</TalkId>
+      <StartTime>2017-06-15T17:30:00Z</StartTime>
+      <EndTime>2017-06-15T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Design-Pattern-Observations</TalkId>
     <TalkId>Good-Ideas-in-Programming-Languages</TalkId>

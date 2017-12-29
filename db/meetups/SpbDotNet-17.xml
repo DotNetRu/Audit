@@ -7,6 +7,18 @@
     <FriendId>JetBrains</FriendId>
   </FriendIds>
   <VenueId>Spb-Universe</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Memory-Model</TalkId>
+      <StartTime>2017-02-09T16:00:00Z</StartTime>
+      <EndTime>2017-02-09T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Web-security</TalkId>
+      <StartTime>2017-02-09T17:30:00Z</StartTime>
+      <EndTime>2017-02-09T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Memory-Model</TalkId>
     <TalkId>Web-security</TalkId>

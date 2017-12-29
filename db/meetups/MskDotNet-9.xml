@@ -7,6 +7,18 @@
     <FriendId>DodoPizza</FriendId>
   </FriendIds>
   <VenueId>Msk-DodoPizza</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Basic-principles-of-micro-services</TalkId>
+      <StartTime>2017-04-20T16:00:00Z</StartTime>
+      <EndTime>2017-04-20T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Configuration-in-DotNet</TalkId>
+      <StartTime>2017-04-20T17:30:00Z</StartTime>
+      <EndTime>2017-04-20T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Basic-principles-of-micro-services</TalkId>
     <TalkId>Configuration-in-DotNet</TalkId>

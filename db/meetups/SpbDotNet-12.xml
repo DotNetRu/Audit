@@ -7,6 +7,18 @@
     <FriendId>DotNext</FriendId>
   </FriendIds>
   <VenueId>Spb-Radison</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Brave-CoreCLR</TalkId>
+      <StartTime>2016-06-02T16:00:00Z</StartTime>
+      <EndTime>2016-06-02T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>GC-Tips</TalkId>
+      <StartTime>2016-06-02T17:30:00Z</StartTime>
+      <EndTime>2016-06-02T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Brave-CoreCLR</TalkId>
     <TalkId>GC-Tips</TalkId>

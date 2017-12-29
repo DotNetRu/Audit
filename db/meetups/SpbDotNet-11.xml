@@ -7,6 +7,23 @@
     <FriendId>Luxoft</FriendId>
   </FriendIds>
   <VenueId>Spb-Osen</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Data-grid</TalkId>
+      <StartTime>2016-05-20T16:00:00Z</StartTime>
+      <EndTime>2016-05-20T16:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>DotNet-and-Java</TalkId>
+      <StartTime>2016-05-20T16:45:00Z</StartTime>
+      <EndTime>2016-05-20T17:15:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Ignite-in-action</TalkId>
+      <StartTime>2016-05-20T17:45:00Z</StartTime>
+      <EndTime>2016-05-20T19:00:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Data-grid</TalkId>
     <TalkId>DotNet-and-Java</TalkId>

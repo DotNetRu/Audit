@@ -7,6 +7,18 @@
     <FriendId>EMC</FriendId>
   </FriendIds>
   <VenueId>Spb-Ostrov</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Common-mistakes-in-Net-benchmarks</TalkId>
+      <StartTime>2015-11-16T16:00:00Z</StartTime>
+      <EndTime>2015-11-16T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Common-mistakes-in-Net-benchmarks</TalkId>
+      <StartTime>2015-11-16T17:30:00Z</StartTime>
+      <EndTime>2015-11-16T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Common-mistakes-in-Net-benchmarks</TalkId>
   </TalkIds>

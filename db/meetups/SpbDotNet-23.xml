@@ -7,6 +7,18 @@
     <FriendId>JetBrains</FriendId>
   </FriendIds>
   <VenueId>Spb-Universe</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Async-Await-Afraid-to-Ask</TalkId>
+      <StartTime>2017-09-28T16:00:00Z</StartTime>
+      <EndTime>2017-09-28T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Domain-Driven-Design-Profit-of-Little-Blood</TalkId>
+      <StartTime>2017-09-28T17:30:00Z</StartTime>
+      <EndTime>2017-09-28T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Async-Await-Afraid-to-Ask</TalkId>
     <TalkId>Domain-Driven-Design-Profit-of-Little-Blood</TalkId>

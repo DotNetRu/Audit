@@ -7,6 +7,18 @@
     <FriendId>Selectel</FriendId>
   </FriendIds>
   <VenueId>Spb-Selectel</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Advanced-use-of-NuGet-and-MSBuild</TalkId>
+      <StartTime>2017-04-13T16:00:00Z</StartTime>
+      <EndTime>2017-04-13T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>EF-chips-and-pitfalls</TalkId>
+      <StartTime>2017-04-13T17:30:00Z</StartTime>
+      <EndTime>2017-04-13T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Advanced-use-of-NuGet-and-MSBuild</TalkId>
     <TalkId>EF-chips-and-pitfalls</TalkId>

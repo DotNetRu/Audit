@@ -7,6 +7,18 @@
     <FriendId>JetBrains</FriendId>
   </FriendIds>
   <VenueId>Spb-Universe</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Lifetime-Template</TalkId>
+      <StartTime>2017-12-19T16:00:00Z</StartTime>
+      <EndTime>2017-12-19T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Collecting-Data-in-Net</TalkId>
+      <StartTime>2017-12-19T17:30:00Z</StartTime>
+      <EndTime>2017-12-19T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Lifetime-Template</TalkId>
     <TalkId>Collecting-Data-in-Net</TalkId>

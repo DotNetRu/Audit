@@ -7,6 +7,33 @@
     <FriendId>ITGM</FriendId>
   </FriendIds>
   <VenueId>Spb-House</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Functional-tricks-for-OO-code</TalkId>
+      <StartTime>2017-05-14T09:00:00Z</StartTime>
+      <EndTime>2017-05-14T10:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>CORS-in-ASP</TalkId>
+      <StartTime>2017-05-14T10:30:00Z</StartTime>
+      <EndTime>2017-05-14T11:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>DotaNetoLogia-SPb-2017</TalkId>
+      <StartTime>2017-05-14T12:00:00Z</StartTime>
+      <EndTime>2017-05-14T13:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>VM-via-F</TalkId>
+      <StartTime>2017-05-14T13:30:00Z</StartTime>
+      <EndTime>2017-05-14T14:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Swagger</TalkId>
+      <StartTime>2017-05-14T15:00:00Z</StartTime>
+      <EndTime>2017-05-14T16:00:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Functional-tricks-for-OO-code</TalkId>
     <TalkId>CORS-in-ASP</TalkId>

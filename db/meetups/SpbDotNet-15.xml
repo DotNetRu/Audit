@@ -7,6 +7,18 @@
     <FriendId>JetBrains</FriendId>
   </FriendIds>
   <VenueId>Spb-Universe</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Automatic-Input-Output-Matching</TalkId>
+      <StartTime>2016-11-17T16:00:00Z</StartTime>
+      <EndTime>2016-11-17T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Rider-Internals</TalkId>
+      <StartTime>2016-11-17T17:30:00Z</StartTime>
+      <EndTime>2016-11-17T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Automatic-Input-Output-Matching</TalkId>
     <TalkId>Rider-Internals</TalkId>

@@ -7,6 +7,18 @@
     <FriendId>JetBrains</FriendId>
   </FriendIds>
   <VenueId>Spb-Universe</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Multitasking-apps-on-NET</TalkId>
+      <StartTime>2015-07-22T16:00:00Z</StartTime>
+      <EndTime>2015-07-22T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-table-multi-threading</TalkId>
+      <StartTime>2015-07-22T17:30:00Z</StartTime>
+      <EndTime>2015-07-22T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Multitasking-apps-on-NET</TalkId>
     <TalkId>Round-table-multi-threading</TalkId>

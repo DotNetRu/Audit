@@ -7,6 +7,23 @@
     <FriendId>Odin</FriendId>
   </FriendIds>
   <VenueId>Msk-Odin</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Autofac-as-IoC-DI</TalkId>
+      <StartTime>2017-02-21T16:00:00Z</StartTime>
+      <EndTime>2017-02-21T16:40:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Design-and-development-of-modular-applications</TalkId>
+      <StartTime>2017-02-21T17:00:00Z</StartTime>
+      <EndTime>2017-02-21T17:40:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Automatic-exception-search</TalkId>
+      <StartTime>2017-02-21T18:00:00Z</StartTime>
+      <EndTime>2017-02-21T18:40:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Autofac-as-IoC-DI</TalkId>
     <TalkId>Design-and-development-of-modular-applications</TalkId>

@@ -7,6 +7,18 @@
     <FriendId>JetBrains</FriendId>
   </FriendIds>
   <VenueId>Spb-Universe</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Project-Rider</TalkId>
+      <StartTime>2016-02-09T16:00:00Z</StartTime>
+      <EndTime>2016-02-09T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Lack-of-CPlusPlus-in-CSharp-3</TalkId>
+      <StartTime>2016-02-09T17:30:00Z</StartTime>
+      <EndTime>2016-02-09T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Project-Rider</TalkId>
     <TalkId>Lack-of-CPlusPlus-in-CSharp-3</TalkId>

@@ -7,6 +7,28 @@
     <FriendId>ITGM</FriendId>
   </FriendIds>
   <VenueId>Spb-House</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Future-of-Net-development</TalkId>
+      <StartTime>2015-06-06T09:00:00Z</StartTime>
+      <EndTime>2015-06-06T10:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>DSL-unexpurgated</TalkId>
+      <StartTime>2015-06-06T10:30:00Z</StartTime>
+      <EndTime>2015-06-06T11:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Dynamic-Prototyping</TalkId>
+      <StartTime>2015-06-06T12:00:00Z</StartTime>
+      <EndTime>2015-06-06T13:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Net-Web-news</TalkId>
+      <StartTime>2015-06-06T13:30:00Z</StartTime>
+      <EndTime>2015-06-06T14:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Future-of-Net-development</TalkId>
     <TalkId>DSL-unexpurgated</TalkId>

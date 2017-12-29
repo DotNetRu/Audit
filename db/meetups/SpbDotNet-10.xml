@@ -7,6 +7,33 @@
     <FriendId>ITGM</FriendId>
   </FriendIds>
   <VenueId>Spb-House</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Machine-learning</TalkId>
+      <StartTime>2016-04-02T09:00:00Z</StartTime>
+      <EndTime>2016-04-02T10:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Modern-static-analyzers</TalkId>
+      <StartTime>2016-04-02T10:30:00Z</StartTime>
+      <EndTime>2016-04-02T11:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Using-static-analyzers</TalkId>
+      <StartTime>2016-04-02T12:00:00Z</StartTime>
+      <EndTime>2016-04-02T13:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-table-code-analysis</TalkId>
+      <StartTime>2016-04-02T13:30:00Z</StartTime>
+      <EndTime>2016-04-02T14:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Practice-WCF</TalkId>
+      <StartTime>2016-04-02T15:00:00Z</StartTime>
+      <EndTime>2016-04-02T16:00:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Machine-learning</TalkId>
     <TalkId>Modern-static-analyzers</TalkId>
