@@ -7,6 +7,18 @@
     <FriendId>Rambler</FriendId>
   </FriendIds>
   <VenueId>Msk-Rambler</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Flexible-modularity-with-AOP-tools</TalkId>
+      <StartTime>2017-10-12T16:00:00Z</StartTime>
+      <EndTime>2017-10-12T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>ReactJSDotNET-experience-of-server-rendering</TalkId>
+      <StartTime>2017-10-12T17:30:00Z</StartTime>
+      <EndTime>2017-10-12T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Flexible-modularity-with-AOP-tools</TalkId>
     <TalkId>ReactJSDotNET-experience-of-server-rendering</TalkId>

@@ -7,6 +7,18 @@
     <FriendId>JetBrains</FriendId>
   </FriendIds>
   <VenueId>Spb-Universe</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>How-it-works-DLR</TalkId>
+      <StartTime>2015-10-14T16:00:00Z</StartTime>
+      <EndTime>2015-10-14T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Lack-of-CPlusPlus-in-CSharp-1</TalkId>
+      <StartTime>2015-10-14T17:30:00Z</StartTime>
+      <EndTime>2015-10-14T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>How-it-works-DLR</TalkId>
     <TalkId>Lack-of-CPlusPlus-in-CSharp-1</TalkId>

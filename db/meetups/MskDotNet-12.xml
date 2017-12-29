@@ -7,6 +7,18 @@
     <FriendId>FINAM</FriendId>
   </FriendIds>
   <VenueId>Msk-FINAM</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Migration-to-Mono</TalkId>
+      <StartTime>2017-09-12T16:00:00Z</StartTime>
+      <EndTime>2017-09-12T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Theory-and-practice-of-parsing-formal-languages</TalkId>
+      <StartTime>2017-09-12T17:30:00Z</StartTime>
+      <EndTime>2017-09-12T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Migration-to-Mono</TalkId>
     <TalkId>Theory-and-practice-of-parsing-formal-languages</TalkId>

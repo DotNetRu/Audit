@@ -7,6 +7,18 @@
     <FriendId>Tinkoff</FriendId>
   </FriendIds>
   <VenueId>Spb-AnyDayCafe</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Roslyn-obvious</TalkId>
+      <StartTime>2017-07-27T16:00:00Z</StartTime>
+      <EndTime>2017-07-27T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>UWP-life</TalkId>
+      <StartTime>2017-07-27T17:30:00Z</StartTime>
+      <EndTime>2017-07-27T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Roslyn-obvious</TalkId>
     <TalkId>UWP-life</TalkId>

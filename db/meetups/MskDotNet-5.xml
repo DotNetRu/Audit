@@ -7,6 +7,18 @@
     <FriendId>CUSTIS</FriendId>
   </FriendIds>
   <VenueId>Msk-CUSTIS</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>HoloLens-for-non-gaming-applications</TalkId>
+      <StartTime>2016-12-07T16:00:00Z</StartTime>
+      <EndTime>2016-12-07T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>State-of-the-NET-Performance</TalkId>
+      <StartTime>2016-12-07T17:30:00Z</StartTime>
+      <EndTime>2016-12-07T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>HoloLens-for-non-gaming-applications</TalkId>
     <TalkId>State-of-the-NET-Performance</TalkId>

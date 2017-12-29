@@ -7,6 +7,18 @@
     <FriendId>Tinkoff</FriendId>
   </FriendIds>
   <VenueId>Msk-Tinkoff</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>The-load-testing-tools</TalkId>
+      <StartTime>2017-06-20T16:00:00Z</StartTime>
+      <EndTime>2017-06-20T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Cross-platform-server-development-tools-DotNet</TalkId>
+      <StartTime>2017-06-20T17:30:00Z</StartTime>
+      <EndTime>2017-06-20T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>The-load-testing-tools</TalkId>
     <TalkId>Cross-platform-server-development-tools-DotNet</TalkId>

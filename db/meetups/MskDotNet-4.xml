@@ -7,6 +7,18 @@
     <FriendId>Kaspersky</FriendId>
   </FriendIds>
   <VenueId>Msk-Kaspersky</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>What-is-useful-in-analyzing-dumps-for-NET-developers</TalkId>
+      <StartTime>2016-11-14T16:00:00Z</StartTime>
+      <EndTime>2016-11-14T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Desktop-applications-optimizing-methods</TalkId>
+      <StartTime>2016-11-14T17:30:00Z</StartTime>
+      <EndTime>2016-11-14T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>What-is-useful-in-analyzing-dumps-for-NET-developers</TalkId>
     <TalkId>Desktop-applications-optimizing-methods</TalkId>

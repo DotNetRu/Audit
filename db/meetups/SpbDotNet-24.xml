@@ -7,6 +7,18 @@
     <FriendId>Arcadia</FriendId>
   </FriendIds>
   <VenueId>Spb-Arcadia</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Type-Providers-without-Pain-and-Magic</TalkId>
+      <StartTime>2017-11-23T16:00:00Z</StartTime>
+      <EndTime>2017-11-23T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>The-Metrix-has-you</TalkId>
+      <StartTime>2017-11-23T17:30:00Z</StartTime>
+      <EndTime>2017-11-23T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Type-Providers-without-Pain-and-Magic</TalkId>
     <TalkId>The-Metrix-has-you</TalkId>

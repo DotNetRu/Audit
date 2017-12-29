@@ -7,6 +7,23 @@
     <FriendId>DeutscheBank</FriendId>
   </FriendIds>
   <VenueId>Msk-DeutscheBank</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Development-web-using-Asp-NET-Core-and-React-JS</TalkId>
+      <StartTime>2017-05-25T16:00:00Z</StartTime>
+      <EndTime>2017-05-25T16:40:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>TDD-in-a-hard-enterprise</TalkId>
+      <StartTime>2017-05-25T17:00:00Z</StartTime>
+      <EndTime>2017-05-25T17:40:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>AvaloniaUI-Cross-platform-Open-Source-UI-Framework</TalkId>
+      <StartTime>2017-05-25T18:00:00Z</StartTime>
+      <EndTime>2017-05-25T18:40:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Development-web-using-Asp-NET-Core-and-React-JS</TalkId>
     <TalkId>TDD-in-a-hard-enterprise</TalkId>

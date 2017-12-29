@@ -7,6 +7,18 @@
     <FriendId>DataArt</FriendId>
   </FriendIds>
   <VenueId>Spb-Telekom</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Theory-of-AppSec-Net</TalkId>
+      <StartTime>2015-06-25T16:00:00Z</StartTime>
+      <EndTime>2015-06-25T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Practice-of-AppSec-NET</TalkId>
+      <StartTime>2015-06-25T17:30:00Z</StartTime>
+      <EndTime>2015-06-25T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Theory-of-AppSec-Net</TalkId>
     <TalkId>Practice-of-AppSec-NET</TalkId>

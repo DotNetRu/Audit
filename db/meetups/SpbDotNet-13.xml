@@ -7,6 +7,28 @@
     <FriendId>ITGM</FriendId>
   </FriendIds>
   <VenueId>Spb-House</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>OAuth-for-NET</TalkId>
+      <StartTime>2016-07-23T09:00:00Z</StartTime>
+      <EndTime>2016-07-23T10:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>PowerShell-in-the-name-of-good</TalkId>
+      <StartTime>2016-07-23T10:30:00Z</StartTime>
+      <EndTime>2016-07-23T11:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>WTF-is-Service-Fabric</TalkId>
+      <StartTime>2016-07-23T12:00:00Z</StartTime>
+      <EndTime>2016-07-23T13:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Delegates-and-Events</TalkId>
+      <StartTime>2016-07-23T13:30:00Z</StartTime>
+      <EndTime>2016-07-23T14:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>OAuth-for-NET</TalkId>
     <TalkId>PowerShell-in-the-name-of-good</TalkId>

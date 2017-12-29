@@ -7,6 +7,18 @@
     <FriendId>Pilot</FriendId>
   </FriendIds>
   <VenueId>Kry-Furgon</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Saritasa-Tools</TalkId>
+      <StartTime>2017-11-18T05:00:00Z</StartTime>
+      <EndTime>2017-11-18T06:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>FSharp-for-Data-Analysis</TalkId>
+      <StartTime>2017-11-18T06:30:00Z</StartTime>
+      <EndTime>2017-11-18T07:30:00Z</EndTime>
+    </Session>
+  </Sessions>
   <TalkIds>
     <TalkId>Saritasa-Tools</TalkId>
     <TalkId>FSharp-for-Data-Analysis</TalkId>
