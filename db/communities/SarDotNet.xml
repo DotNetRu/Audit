@@ -1,4 +1,6 @@
 ﻿<Community>
   <Id>SarDotNet</Id>
   <Name>SarDotNet</Name>
+  <City>Саратов</City>
+  <TimeZone>Europe/Saratov</TimeZone>
 </Community>

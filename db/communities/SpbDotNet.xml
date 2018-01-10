@@ -1,4 +1,6 @@
 ﻿<Community>
   <Id>SpbDotNet</Id>
   <Name>SpbDotNet</Name>
+  <City>Санкт-Петербург</City>
+  <TimeZone>Europe/Moscow</TimeZone>
 </Community>

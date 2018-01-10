@@ -1,4 +1,6 @@
 ﻿<Community>
   <Id>MskDotNet</Id>
   <Name>MskDotNet</Name>
+  <City>Москва</City>
+  <TimeZone>Europe/Moscow</TimeZone>
 </Community>
