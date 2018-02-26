@@ -1,0 +1,20 @@
+﻿<Meetup>
+  <Id>KryDotNet-2</Id>
+  <Name>Встреча KryDotNet №2</Name>
+  <CommunityId>KryDotNet</CommunityId>
+  <Date>2018-02-18</Date>
+  <FriendIds>
+    <FriendId>Pilot</FriendId>
+  </FriendIds>
+  <VenueId>Kry-Furgon</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Fody-vs-Routine</TalkId>
+      <StartTime>2018-02-18T09:00:00Z</StartTime>
+      <EndTime>2018-02-18T10:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Fody-vs-Routine</TalkId>
+  </TalkIds>
+</Meetup>
