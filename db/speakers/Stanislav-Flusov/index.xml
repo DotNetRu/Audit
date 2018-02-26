@@ -1,0 +1,11 @@
+﻿<Speaker>
+  <Id>Stanislav-Flusov</Id>
+  <Name>Станислав Флусов</Name>
+  <CompanyName>MySale</CompanyName>
+  <CompanyUrl>http://www.mysalegroup.com/</CompanyUrl>
+  <Description>Разработчик .NET, интересующийся темой производительности и использования памяти в .NET приложениях. Поскольку начинчал свой путь с написания ПО для моделирования X-Ray спектров в сложной геометрии и далее ПО, связанное с обработкой аудио в реальном времени, где был в обилии предствален unsafe код.
+
+
+Сейчас разрабатывает и проектирует enterprise решения с использованием микросервисной архитектуры.</Description>
+  <HabrUrl>https://habrahabr.ru/users/stus/</HabrUrl>
+</Speaker>

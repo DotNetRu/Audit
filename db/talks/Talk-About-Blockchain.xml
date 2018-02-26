@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Talk-About-Blockchain</Id>
+  <SpeakerIds>
+    <SpeakerId>Egor-Grishechko</SpeakerId>
+  </SpeakerIds>
+  <Title>У вас найдётся минутка, чтобы поговорить о блокчейне?</Title>
+  <Description>Блокчейн, криптовалюта, ICO. Как много скрыто в этих словах. В рамках доклада Егор, с помощью простых примеров на C#, расскажет вам как это работает. А также поделится своим опытом и океаном боли, связанным с разработкой под Ethereum.</Description>
+</Talk>
