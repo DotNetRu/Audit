@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Razor-Pages</Id>
+  <SpeakerIds>
+    <SpeakerId>Stanislav-Ladokhin</SpeakerId>
+  </SpeakerIds>
+  <Title>Razor Pages: New page-based framework in ASP.NET Core</Title>
+  <Description>Razor Pages — это новый компонент платформы ASP.NET Core, который делает процесс создания веб-приложений проще, быстрее и эффективнее. Рассмотрим с чего начиналось создание Razor Pages. Какие цели ставили перед собой его создатели. Разработаем небольшое веб-приложение, демонстрирующее основные возможности фреймворка. Разберемся с тем, когда лучше его использовать. Заглянем в будущее — посмотрим что будет в новой версии.</Description>
+</Talk>
