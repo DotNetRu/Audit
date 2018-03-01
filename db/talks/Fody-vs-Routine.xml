@@ -5,5 +5,6 @@
   </SpeakerIds>
   <Title>Fody против рутины</Title>
   <Description>В программировании часто приходится сталкиваться с рутинными задачами, в которых довольно просто допустить ошибки. Константин расскажет, как Fody помогает с ними бороться, а также как она приносит с собой несколько дополнительных фишек.</Description>
+  <SlidesUrl>https://www.slideshare.net/SpbDotNet/fody</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=e-uj8SMOjh8</VideoUrl>
 </Talk>
