@@ -6,7 +6,7 @@
   <FriendIds>
     <FriendId>ICL</FriendId>
   </FriendIds>
-  <VenueId>Kzn-IT-Park.xml</VenueId>
+  <VenueId>Kzn-IT-Park</VenueId>
   <Sessions>
     <Session>
       <TalkId>Lock-Free-Multithreading</TalkId>
