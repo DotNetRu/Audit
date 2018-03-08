@@ -9,17 +9,18 @@
   <VenueId>Spb-Ostrov</VenueId>
   <Sessions>
     <Session>
-      <TalkId>Common-mistakes-in-Net-benchmarks</TalkId>
+      <TalkId>Common-mistakes-in-Net-benchmarks-1</TalkId>
       <StartTime>2015-11-16T16:00:00Z</StartTime>
       <EndTime>2015-11-16T17:00:00Z</EndTime>
     </Session>
     <Session>
-      <TalkId>Common-mistakes-in-Net-benchmarks</TalkId>
+      <TalkId>Common-mistakes-in-Net-benchmarks-2</TalkId>
       <StartTime>2015-11-16T17:30:00Z</StartTime>
       <EndTime>2015-11-16T18:30:00Z</EndTime>
     </Session>
   </Sessions>
   <TalkIds>
-    <TalkId>Common-mistakes-in-Net-benchmarks</TalkId>
+    <TalkId>Common-mistakes-in-Net-benchmarks-1</TalkId>
+    <TalkId>Common-mistakes-in-Net-benchmarks-2</TalkId>
   </TalkIds>
 </Meetup>
