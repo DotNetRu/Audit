@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Microsoft-Mobile-Development-in-2018</Id>
+  <SpeakerIds>
+    <SpeakerId>Roman-Zdebskiy</SpeakerId>
+  </SpeakerIds>
+  <Title>Что интересного есть у Microsoft для мобильной разработки в 2018 году</Title>
+  <Description>В докладе мы познакомимся с такими технологиями как:
+
+- Visual Studio AppCenter – поговорим о мобильном DevOps.
+- Xamarin – проведем небольшой сравнительный анализ с другими технологиями кроссплатформенной разработки и обсудим как можно аргументировать использование Xamarin в вашем проекте заказчику или руководству.
+- Azure – рассмотрим зачем нужен облачный backend для мобильных приложений.</Description>
+</Talk>

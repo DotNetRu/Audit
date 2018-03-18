@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>SpbDotNet-29</Id>
+  <Name>Встреча SpbDotNet №29</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2018-03-20</Date>
+  <FriendIds>
+    <FriendId>Microsoft</FriendId>
+  </FriendIds>
+  <VenueId>Spb-House</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Microsoft-Mobile-Development-in-2018</TalkId>
+      <StartTime>2018-03-20T19:00:00Z</StartTime>
+      <EndTime>2018-03-20T20:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>SignalR-Xamarin-Azure-Test-of-Strength</TalkId>
+      <StartTime>2018-03-20T20:30:00Z</StartTime>
+      <EndTime>2018-03-20T21:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Microsoft-Mobile-Development-in-2018</TalkId>
+    <TalkId>SignalR-Xamarin-Azure-Test-of-Strength</TalkId>
+  </TalkIds>
+</Meetup>
