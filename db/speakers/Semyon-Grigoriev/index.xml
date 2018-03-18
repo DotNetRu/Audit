@@ -1,0 +1,9 @@
+﻿<Speaker>
+  <Id>Semyon-Grigoriev</Id>
+  <Name>Семён Григорьев</Name>
+  <CompanyName>JetBrains Programming Languages and Tools Lab</CompanyName>
+  <CompanyUrl>https://research.jetbrains.org/groups/plt_lab</CompanyUrl>
+  <Description>Семён уже больше десяти лет на Математико-Механическом факультете СПбУ и большую часть этого времени занимается различными вопросам теории и практики синтаксического анализа. За это время он накопил немалый опыт использования F# в различных областях: от образования до промышленных проектов. В настоящее время — исследователь в лаборатории языковых инструментов.</Description>
+  <TwitterUrl>https://twitter.com/rsdpisuy</TwitterUrl>
+  <GitHubUrl>https://github.com/gsvgit</GitHubUrl>
+</Speaker>

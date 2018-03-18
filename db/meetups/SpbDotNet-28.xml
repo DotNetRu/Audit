@@ -1,0 +1,38 @@
+﻿<Meetup>
+  <Id>SpbDotNet-28</Id>
+  <Name>Встреча SpbDotNet №28</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2018-03-17</Date>
+  <FriendIds>
+    <FriendId>ITGM</FriendId>
+  </FriendIds>
+  <VenueId>Spb-House</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Manyfaced-Machine-Learning</TalkId>
+      <StartTime>2018-03-17T12:00:00Z</StartTime>
+      <EndTime>2018-03-17T13:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Theory-of-Formal-Languages-is-Not-only-about-Writing-Parsers</TalkId>
+      <StartTime>2018-03-17T13:00:00Z</StartTime>
+      <EndTime>2018-03-17T14:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>LXC-LXC-Legacy-Project-to-Containers</TalkId>
+      <StartTime>2018-03-17T15:00:00Z</StartTime>
+      <EndTime>2018-03-17T16:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Dictionary-First-Data-Access</TalkId>
+      <StartTime>2018-03-17T16:00:00Z</StartTime>
+      <EndTime>2018-03-17T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Manyfaced-Machine-Learning</TalkId>
+    <TalkId>Theory-of-Formal-Languages-is-Not-only-about-Writing-Parsers</TalkId>
+    <TalkId>LXC-LXC-Legacy-Project-to-Containers</TalkId>
+    <TalkId>Dictionary-First-Data-Access</TalkId>
+  </TalkIds>
+</Meetup>

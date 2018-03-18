@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>LXC-LXC-Legacy-Project-to-Containers</Id>
+  <SpeakerIds>
+    <SpeakerId>Kirill-Poletaev</SpeakerId>
+  </SpeakerIds>
+  <Title>LXC/LXD или как мы переводили легаси проект на контейнеры</Title>
+  <Description>Что делать когда использовать контейнеры очень хочется, а вы завязаны на системных сервисах и Docker не подходит, а виртуалка слишком тяжело? Тогда LXC идёт к вам! Только если вы его победите.</Description>
+</Talk>
