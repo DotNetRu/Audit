@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>MskDotNet-14</Id>
+  <Name>Встреча MskDotNet №14</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2017-11-14</Date>
+  <FriendIds>
+    <FriendId>Luxoft</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Luxoft</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>The-practice-of-using-NET-Core-on-Linux</TalkId>
+      <StartTime>2017-11-14T19:00:00Z</StartTime>
+      <EndTime>2017-11-14T20:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Fscheck-alternative-way-for-unit-tests</TalkId>
+      <StartTime>2017-11-14T20:30:00Z</StartTime>
+      <EndTime>2017-11-14T21:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>The-practice-of-using-NET-Core-on-Linux</TalkId>
+    <TalkId>Fscheck-alternative-way-for-unit-tests</TalkId>
+  </TalkIds>
+</Meetup>
