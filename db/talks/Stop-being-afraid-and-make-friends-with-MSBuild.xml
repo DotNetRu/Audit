@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Stop-being-afraid-and-make-friends-with-MSBuild</Id>
+  <SpeakerIds>
+    <SpeakerId>Nikita-Tsukanov</SpeakerId>
+  </SpeakerIds>
+  <Title>Как перестать бояться и подружиться с MSBuild</Title>
+  <Description>Система сборки. Не все знают, что в .NET она есть. Не все знают, что это вообще такое и с чем его едят. Не все знают, что можно сделать простыми правками в файле проекта и ограничиваются скудным набором опций, предоставляемых графическим интерфейсом Visual Studio. Доклад представляет собой краткий ликбез и обзор возможностей инструмента, которым мы каждый день пользуемся.</Description>
+  <VideoUrl>https://www.youtube.com/watch?v=6GG_4Mrt2Fs</VideoUrl>
+</Talk>

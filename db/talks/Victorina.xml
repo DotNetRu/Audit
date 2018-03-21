@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Victorina</Id>
+  <SpeakerIds>
+    <SpeakerId>Ilya-Fofanov</SpeakerId>
+  </SpeakerIds>
+  <Title>Викторина</Title>
+  <Description>Вопросы викторины Субботника. Отличный способ проверить свои глубинные познания платформы .NET</Description>
+  <SlidesUrl>https://www.slideshare.net/MskDotNet/mskdotnet</SlidesUrl>
+</Talk>
