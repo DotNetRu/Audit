@@ -1,0 +1,32 @@
+﻿<Meetup>
+  <Id>MskDotNet-16</Id>
+  <Name>Встреча MskDotNet №16</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2017-12-19</Date>
+  <FriendIds>
+    <FriendId>Tinkoff</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Tinkoff</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Functional-programming-for-csharp-developers</TalkId>
+      <StartTime>2017-12-19T19:00:00Z</StartTime>
+      <EndTime>2017-12-19T20:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>IIoT-on-the-HW-and-NET-border</TalkId>
+      <StartTime>2017-12-19T20:10:00Z</StartTime>
+      <EndTime>2017-12-19T21:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Approaches-and-practices-in-highly-loaded-distributed-systems</TalkId>
+      <StartTime>2017-12-19T21:10:00Z</StartTime>
+      <EndTime>2017-12-19T21:50:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Functional-programming-for-csharp-developers</TalkId>
+    <TalkId>IIoT-on-the-HW-and-NET-border</TalkId>
+    <TalkId>Approaches-and-practices-in-highly-loaded-distributed-systems</TalkId>
+  </TalkIds>
+</Meetup>

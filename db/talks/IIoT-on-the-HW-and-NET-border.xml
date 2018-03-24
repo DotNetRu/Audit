@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>IIoT-on-the-HW-and-NET-border</Id>
+  <SpeakerIds>
+    <SpeakerId>Anton-Sysoev</SpeakerId>
+  </SpeakerIds>
+  <Title>IIoT: на границе HW и .NET</Title>
+  <Description>Промышленные контроллеры IIoT — это целая экосистема, которую разработчики .NET обычно обходят стороной. В докладе продолжим погружение в мир дружбы .NET и автономного оборудования, рассмотрим некоторые частые проблемы и &quot;железные&quot; заморочки, возникающие при общении с промышленным контроллерами. Будет рассказано, как не сломать зубы о &quot;железные&quot; протоколы, и почему &quot;умные&quot; устройства пока не могут потеснить &quot;глупых&quot; промышленных собратьев в IIoT.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/anton-sysoiev-iiot-na-ghranitsie-hw-i-net</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=xFRBl-UTm0I</VideoUrl>
+</Talk>
