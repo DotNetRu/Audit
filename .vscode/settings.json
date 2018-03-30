@@ -1,0 +1,7 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+
+    "powershell.codeFormatting.preset": "Allman",
+    "powershell.scriptAnalysis.settingsPath": "PSScriptAnalyzerSettings.psd1"
+}

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:include schemaLocation="Types.xsd"/>
+
+  <xs:element name="Meetup">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Id" type="identity" />
+        <xs:element name="Name" type="requaredString" />
+        <xs:element name="CommunityId" type="identity" />
+        <!--Obsolete -->
+        <xs:element name="Date" type="xs:date" />
+
+        <xs:element name="FriendIds">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FriendId" type="identity" minOccurs="1" maxOccurs="unbounded" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <xs:element name="VenueId" type="identity" />
+
+        <xs:element name="Sessions">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Session" minOccurs="1" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="TalkId" type="identity" />
+                    <xs:element name="StartTime" type="xs:dateTime" />
+                    <xs:element name="EndTime" type="xs:dateTime" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <!--Obsolete -->
+        <xs:element name="TalkIds">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TalkId" type="identity" minOccurs="1" maxOccurs="unbounded" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

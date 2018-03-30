@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:include schemaLocation="Types.xsd"/>
+
+  <xs:element name="Community">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Id" type="identity" />
+        <xs:element name="Name" type="requaredString" />
+        <xs:element name="City" type="requaredString" />
+        <xs:element name="TimeZone" type="requaredString" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
