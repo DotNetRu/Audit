@@ -10,18 +10,18 @@
   <Sessions>  
     <Session>
       <TalkId>Functional-programming-for-csharp-developers</TalkId>
-      <StartTime>2017-12-19T19:00:00Z</StartTime>
-      <EndTime>2017-12-19T20:00:00Z</EndTime>
+      <StartTime>2017-12-19T16:00:00Z</StartTime>
+      <EndTime>2017-12-19T17:00:00Z</EndTime>
     </Session>
     <Session>
       <TalkId>IIoT-on-the-HW-and-NET-border</TalkId>
-      <StartTime>2017-12-19T20:10:00Z</StartTime>
-      <EndTime>2017-12-19T21:00:00Z</EndTime>
+      <StartTime>2017-12-19T17:10:00Z</StartTime>
+      <EndTime>2017-12-19T18:00:00Z</EndTime>
     </Session>
     <Session>
       <TalkId>Approaches-and-practices-in-highly-loaded-distributed-systems</TalkId>
-      <StartTime>2017-12-19T21:10:00Z</StartTime>
-      <EndTime>2017-12-19T21:50:00Z</EndTime>
+      <StartTime>2017-12-19T18:10:00Z</StartTime>
+      <EndTime>2017-12-19T18:50:00Z</EndTime>
     </Session>
   </Sessions>
   <TalkIds>
