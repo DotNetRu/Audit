@@ -9,29 +9,23 @@
   <Sessions>  
     <Session>
       <TalkId>OWASP-TOP-10-for-NET</TalkId>
-      <StartTime>2017-12-16T11:45:00Z</StartTime>
-      <EndTime>2017-12-16T12:45:00Z</EndTime>
+      <StartTime>2017-12-16T08:45:00Z</StartTime>
+      <EndTime>2017-12-16T09:45:00Z</EndTime>
     </Session>
     <Session>
       <TalkId>Stop-being-afraid-and-make-friends-with-MSBuild</TalkId>
-      <StartTime>2017-12-16T13:15:00Z</StartTime>
-      <EndTime>2017-12-16T13:45:00Z</EndTime>
-    </Session>
-    <Session>
-      <TalkId>Victorina</TalkId>
-      <StartTime>2017-12-16T13:45:00Z</StartTime>
-      <EndTime>2017-12-16T14:45:00Z</EndTime>
+      <StartTime>2017-12-16T10:15:00Z</StartTime>
+      <EndTime>2017-12-16T10:45:00Z</EndTime>
     </Session>
     <Session>
       <TalkId>AI-and-neural-networks-for-NET-developers</TalkId>
-      <StartTime>2017-12-16T15:30:00Z</StartTime>
-      <EndTime>2017-12-16T17:00:00Z</EndTime>
+      <StartTime>2017-12-16T12:30:00Z</StartTime>
+      <EndTime>2017-12-16T14:00:00Z</EndTime>
     </Session>
   </Sessions>
   <TalkIds>
     <TalkId>OWASP-TOP-10-for-NET</TalkId>
     <TalkId>Stop-being-afraid-and-make-friends-with-MSBuild</TalkId>
-	<TalkId>Victorina</TalkId>
 	<TalkId>AI-and-neural-networks-for-NET-developers</TalkId>
   </TalkIds>
 </Meetup>
