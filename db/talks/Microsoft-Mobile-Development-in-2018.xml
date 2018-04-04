@@ -9,4 +9,6 @@
 - Visual Studio AppCenter – поговорим о мобильном DevOps.
 - Xamarin – проведем небольшой сравнительный анализ с другими технологиями кроссплатформенной разработки и обсудим как можно аргументировать использование Xamarin в вашем проекте заказчику или руководству.
 - Azure – рассмотрим зачем нужен облачный backend для мобильных приложений.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/romual-d-zdiebskii-chto-intieriesnogho-iest-u-microsoft-dlia-mobil-noi-razrabotki-v-2018-ghodu</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=LltFUkWDxoQ</VideoUrl>
 </Talk>
