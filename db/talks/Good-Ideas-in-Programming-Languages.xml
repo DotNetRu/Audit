@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Хорошие идеи в современных языках программирования</Title>
   <Description>Прогресс не стоит на месте: старые языки вроде C# продолжают развиваться, а новые, такие как Rust и Kotlin изобилируют смелыми идеями. В этом докладе мы поговорим, о том какие же фичи современных языков являются самыми полезными и интересными, а также немного потеоретизируем на тему того, какие еще известные, но пока не реализованные, фичи были бы полезны в современных языках программирования.</Description>
-  <SlidesUrl>https://www.slideshare.net/DmitriNesteruk/good-ideas-in-programming-languages</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-niestieruk-khoroshiie-idiei-v-sovriemiennykh-iazykakh-proghrammirovaniia</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=WTiRddnYD9E</VideoUrl>
 </Talk>

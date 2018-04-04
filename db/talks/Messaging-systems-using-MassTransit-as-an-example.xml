@@ -7,6 +7,6 @@
   <Description>Разрабатывать большие продукты непросто. Когда сложность задач и нагрузка на приложения растёт с каждым днем, старые подходы и практики иногда уже не спасают. Могут ли системы на базе асинхронного обмена сообщениями быть той серебряной пулей, которая решит все наши проблемы?
 
 В докладе Яков ответит на этот вопрос, а также расскажет, какие подходы лежат в основе таких систем и что выбрать в мире .Net для их реализации. Разговор будет о том, какие задачи помогут решить такие подходы и чего стоит избегать при их использовании.</Description>
-  <SlidesUrl>http://www.slideshare.net/yuliafast/masstransit</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/iakov-povar-sistiemy-obmiena-soobshchieniiami-na-primierie-masstransit</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=3j7ZJ1JSAHU</VideoUrl>
 </Talk>

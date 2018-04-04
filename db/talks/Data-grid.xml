@@ -10,6 +10,6 @@
 - какие API есть и что скрывается за вызовами;
 - как распределяются данные в data grid;
 - как обеспечивается отказоустойчиовость.</Description>
-  <SlidesUrl>http://www.slideshare.net/yu5k3/inmemory-data-grid</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/iakov-zhdanov-znakomstvo-s-in-memory-data-grid</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=3gvuy30tHp0</VideoUrl>
 </Talk>

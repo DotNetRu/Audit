@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>RESTFul API в вашем .NET приложении: как, зачем и почему?</Title>
   <Description>Ни один современный продукт не обходится без API. Этот API может быть внешним, для публичного использования, а может быть сугубо внутренним, но требования к созданию расширяемого, версионируемого, тестируемого, документированного программного интерфейса очень похоже. В этом докладе мы поговорим о том, как создавать подобные API на основе REST, какие существуют best-practices, чего следует избегать, на что обращать внимание при проектировании.</Description>
-  <SlidesUrl>https://www.slideshare.net/yuliafast/restful-api-net</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/iuliia-tsisyk-restful-api-v-vashiem-net-prilozhienii-kak-zachiem-i-pochiemu</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=fRTlpFusCj4</VideoUrl>
 </Talk>

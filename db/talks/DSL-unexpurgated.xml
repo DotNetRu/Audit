@@ -5,5 +5,5 @@
   </SpeakerIds>
   <Title>DSL без купюр</Title>
   <Description>Три буквы, о которых многие слышали, кто-то видел, но при начальстве их не все решаются произносить. Предлагаю поговорить о DSL: domain specific language. Постараемся выяснить, как оценить все "за" и "против", и есть ли смысл придумывать свой язык. Я поделюсь личным опытом реализации DSL на основе C# + ANTLR и подводными камнями, с которыми пришлось столкнуться. Обсудим "удобную" архитектуру транслятора и пути реализации инструментов разработки языка.</Description>
-  <SlidesUrl>http://www.slideshare.net/yu5k3/dsl-49157368</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/nikita-kozlov-dsl-biez-kupiur</SlidesUrl>
 </Talk>

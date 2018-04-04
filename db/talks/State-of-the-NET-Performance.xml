@@ -10,6 +10,6 @@ C# 7: ref locals and ref returns, ValueTuples.
 .NET Core: Spans, Buffers, ValueTasks
 
 And how all of these things help build zero-copy streams aka Channels/Pipelines which are going to be a game changer in the next year.</Description>
-  <SlidesUrl>https://www.slideshare.net/yuliafast/adam-sitnik-state-of-the-net-performance</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/adam-sitnik-state-of-the-net-performance</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=PJbTXiun2qM</VideoUrl>
 </Talk>

@@ -5,5 +5,5 @@
   </SpeakerIds>
   <Title>Обзор технологических новинок в .Net с точки зрения Web-программиста</Title>
   <Description>В докладе будет рассказано о технологических новинках в предстоящей версии .Net Framework в целом и ASP .Net 5 в частности. Уделим внимание новому резилу MVC, заявленной кроссплатформенности, отвязанности от IIS и конечно же о том, как этому всему способствует недавняя передача .Net в open-source и нынешние отношения между Microsoft и Mono. Мы так же увидим, что было привнесено в новую версию Visual Studio.</Description>
-  <SlidesUrl>http://www.slideshare.net/yu5k3/aspnet5</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/anton-shabanov-obzor-tiekhnologhichieskikh-novinok-v-net-s-tochki-zrieniia-web-proghrammista</SlidesUrl>
 </Talk>
