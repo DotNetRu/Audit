@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>TDD в суровом энтерпрайзе</Title>
   <Description>Разговор будет о том, когда, как и для чего писать тесты, а так же будет сказано как проходить интервью на позицию junior test automation engineer. Озвучатся мысли о том, почему TDD не взлетает, и может ли что-то быть хуже. Также будет рассмотрено на примере использование таких инструментов, как NUnit, FluentAssertions, Moq, HttpMock.</Description>
-  <SlidesUrl>https://www.slideshare.net/EliasFofanov/tdd-79115954</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-zaitsiev-tdd-v-surovom-entierpraizie</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=x67E1yakRR4</VideoUrl>
 </Talk>

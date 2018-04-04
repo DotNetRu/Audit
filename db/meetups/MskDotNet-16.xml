@@ -7,7 +7,7 @@
     <FriendId>Tinkoff</FriendId>
   </FriendIds>
   <VenueId>Msk-Tinkoff</VenueId>
-  <Sessions>  
+  <Sessions>
     <Session>
       <TalkId>Functional-programming-for-csharp-developers</TalkId>
       <StartTime>2017-12-19T16:00:00Z</StartTime>

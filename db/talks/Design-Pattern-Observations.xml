@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Интересные подходы в реализации паттернов проектирования в C#</Title>
   <Description>Паттерны возможно уже не вызывают тот ажиотаж что раньше, но это потому, что все их знают. Тем не менее, есть интересные подходы к реализации паттернов на C#, и в этом докладе Дмитрий расскажет как фичи языка (extension method-ы, динамики, и т.п.) помогают реализовать некоторые из них. Доклад сделан по мотивам его курса по паттернам проектирования на Udemy.</Description>
-  <SlidesUrl>https://www.slideshare.net/DmitriNesteruk/design-pattern-observations</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-niestieruk-intieriesnyie-podkhody-v-riealizatsii-pattiernov-proiektirovaniia-v-c-number</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=bFZ9ytZnVmQ</VideoUrl>
 </Talk>

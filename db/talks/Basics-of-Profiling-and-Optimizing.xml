@@ -5,5 +5,5 @@
   </SpeakerIds>
   <Title>Основы профилирования и оптимизации приложений в .NET</Title>
   <Description>Рассмотрим что такое профилирование приложения и на какие вопросы оно позволяет получить ответы. Каким условиям должно соответствовать ПО для профилирования. Как работают .NET профайлеры. Познакомимся с особенностями профилирования памяти и производительности. Обсудим возможные пути оптимизации памяти и производительности.</Description>
-  <SlidesUrl>https://www.slideshare.net/SpbDotNet/net-80832833</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksandr-saitov-osnovy-profilirovaniia-i-optimizatsii-prilozhienii-v-net</SlidesUrl>
 </Talk>

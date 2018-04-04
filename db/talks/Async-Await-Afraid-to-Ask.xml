@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Async/Await и всё, что вы боялись спросить</Title>
   <Description>TAP появился достаточно давно. Однако, до сих пор вокруг него ходит много мифов и слухов. Вам приходилось задумываться как работают async/await? Или что конкретно делает ConfigureAwait(false)? В ходе доклада немножко подекомпелируем и копнём вглубь исходников. А на дессерт похоливарим о подходах и паттернах использования.</Description>
-  <SlidesUrl>https://www.slideshare.net/SpbDotNet/asyncawait-80830609</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/await-i-vsio-chto-vy-boialis-sprosit</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=xeZtWG81X-E</VideoUrl>
 </Talk>

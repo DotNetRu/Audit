@@ -6,6 +6,6 @@
   <Title>Шаблон Lifetime: для сложного Disposing</Title>
   <Description>Стандартный шаблон IDisposable решает множество задач освобождения ресурсов, перед которыми стоит разработчик. Однако для многих ситуаций приходится сначала поломать мозги, а потом – пальцы, чтобы решить те или иные проблемы в очерёдности вызова Dispose. Мы поговорим о простом, но крайне эффективном шаблоне, который по сути выполняет IoC процесса Dispose: Lifetime.</Description>
   <CodeUrl>https://github.com/sidristij/dataflow</CodeUrl>
-  <SlidesUrl>https://www.slideshare.net/SpbDotNet/lifetime-disposing</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/stanislav-sidristyi-shablon-lifetime-dlia-slozhnogho-disposing</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=F5oOYKTFpcQ</VideoUrl>
 </Talk>

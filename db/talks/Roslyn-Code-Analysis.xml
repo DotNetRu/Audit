@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Roslyn Code Analysis</Title>
   <Description>Roslyn открывает возможности для появления множества интересных сервисов. Одним из таких сервисов является Code Analysis. Теперь, под старым названием, скрывается абсолютно новая переработанная концепция. Свежая платформа даёт возможность поднять качество кода на принципиально иной уровень. Революция затрагивает множество ролей от суровых сторожил и до начинающих кодировщиков, а также PM’щиков, DevOps’ов, авторов различных библиотек и их фанатов.</Description>
-  <SlidesUrl>http://www.slideshare.net/yu5k3/roslyn-code-analysis</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/anatolii-kulakov-roslyn-code-analysis</SlidesUrl>
   <VideoUrl>http://www.youtube.com/watch?v=RR2b2i8BSRc</VideoUrl>
 </Talk>

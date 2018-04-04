@@ -1,9 +1,9 @@
 ﻿<Talk>
   <Id>Fscheck-alternative-way-for-unit-tests</Id>
   <SpeakerIds>
-    <SpeakerId>Yulia</SpeakerId>
+    <SpeakerId>Yulia-Kovaleva</SpeakerId>
   </SpeakerIds>
-  <Title>Fscheck — альтернативный путь для unit-тестов?</Title>
+  <Title>FsCheck — альтернативный путь для unit-тестов?</Title>
   <Description>Как помочь тестам находить баги? Что лучше: каждый новый запуск на новом наборе данных или же стабильность? Как сделать тестовые данные эффективными?
 В докладе рассматривается Property based подход для написания unit-тестов. 
 На реальных примерах будет показано то, какими возможностями обладает FsCheck в связке с C#, какие есть плюсы и минусы у данного инструмента и стоит ли тратить время на его изучение.</Description>

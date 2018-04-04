@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Обработка ошибок в C#</Title>
   <Description>В любой программе разработчики сталкиваются с необходимостью обработки ошибок. Основной механизм работы с ошибками в .NET Framework — это исключения. Мы поговорим о преимуществах и недостатках их использования. Вы узнаете, используются ли исключения для обработки ошибок в программном обеспечении марсохода NASA, а также о том, какие способы обработки исключений имеются в нашем распоряжении. Также обсудим, можно ли не использовать исключения для обработки ошибочных ситуаций. Приходите, будет интересно.</Description>
-  <SlidesUrl>http://www.slideshare.net/yuliafast/c-67275343</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/il-ia-fofanov-obrabotka-oshibok-v-c-number</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=7YxENZS6AjQ</VideoUrl>
 </Talk>
