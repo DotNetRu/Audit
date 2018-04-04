@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>OWASP-TOP-10-for-NET</Id>
+  <SpeakerIds>
+    <SpeakerId>Vladimir-Kochetkov</SpeakerId>
+  </SpeakerIds>
+  <Title>OWASP Top 10 для .NET</Title>
+  <Description>Доклад посвящён специфике .NET Framework в рамках очередной версии хит-парада угроз безопасности приложений OWASP Top 10, опубликованной в ноябре этого года. Поговорим о том, каким образом каждая из угроз может проявляться в .NET-приложениях, как от этого защищаться и, немного, об общем подходе к разработке защищённых приложений в .NET</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/vladimir-kochietkov-owasp-top-10-dlia-net</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=VntAz7La6iQ</VideoUrl>
+</Talk>

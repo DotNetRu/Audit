@@ -1,0 +1,31 @@
+﻿<Meetup>
+  <Id>MskDotNet-15</Id>
+  <Name>MskDotNet Новогодний Субботник</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>FINAM</FriendId>
+  </FriendIds>
+  <VenueId>Msk-FINAM</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>OWASP-TOP-10-for-NET</TalkId>
+      <StartTime>2017-12-16T08:45:00Z</StartTime>
+      <EndTime>2017-12-16T09:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Stop-being-afraid-and-make-friends-with-MSBuild</TalkId>
+      <StartTime>2017-12-16T10:15:00Z</StartTime>
+      <EndTime>2017-12-16T10:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>AI-and-neural-networks-for-NET-developers</TalkId>
+      <StartTime>2017-12-16T12:30:00Z</StartTime>
+      <EndTime>2017-12-16T14:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>OWASP-TOP-10-for-NET</TalkId>
+    <TalkId>Stop-being-afraid-and-make-friends-with-MSBuild</TalkId>
+	<TalkId>AI-and-neural-networks-for-NET-developers</TalkId>
+  </TalkIds>
+</Meetup>
