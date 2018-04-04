@@ -7,7 +7,7 @@
     <FriendId>Luxoft</FriendId>
   </FriendIds>
   <VenueId>Msk-Luxoft</VenueId>
-  <Sessions>  
+  <Sessions>
     <Session>
       <TalkId>The-practice-of-using-NET-Core-on-Linux</TalkId>
       <StartTime>2017-11-14T16:00:00Z</StartTime>
