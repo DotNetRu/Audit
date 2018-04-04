@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>The-practice-of-using-NET-Core-on-Linux</Id>
+  <SpeakerIds>
+    <SpeakerId>Kirill-Vetchinkin</SpeakerId>
+  </SpeakerIds>
+  <Title>Практика использования .NET Core на ОС Linux с применением автоматизации</Title>
+  <Description>Технология .NET Core от Microsoft позволила .NET разработчикам разворачивать приложения на Linux. Вместе с этим появилось и множество новых возможностей для более эффективной разработки и поставки. В докладе будут разобраны основные проблемы разработки, поставки, тестирования и рассмотрены схемы их решения, используя такие средства как: GitLab, Vgarant+VirtualBox, TeamCity, Ansible, Octopus Deploy, Docker. Мы поговорим про создание тестовых сред, управление инфраструктурой из кода и CI/CD. Основная цель доклада — продемонстрировать, что .NET Core на Linux — это выгодно, быстро и управляемо.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/kirill-vietchinkin-praktika-ispol-zovaniia-net-core-na-os-linux-s-primienieniiem-avtomatizatsii</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=fXjFDvE25aY</VideoUrl>
+</Talk>
