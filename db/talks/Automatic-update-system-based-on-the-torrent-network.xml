@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Automatic-update-system-based-on-the-torrent-network</Id>
+  <SpeakerIds>
+    <SpeakerId>Igor-Serkov</SpeakerId>
+  </SpeakerIds>
+  <Title>Система автоматического обновления на основе торрент сети</Title>
+  <Description>Поговорим о том, как можно реализовать возможность обновления системы с использованием торрент сети. Какие есть возможности у данного решения. </Description>
+  <VideoUrl>https://www.youtube.com/watch?v=UottlAqHhbY</VideoUrl>
+</Talk>
