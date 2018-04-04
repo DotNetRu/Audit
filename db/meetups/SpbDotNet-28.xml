@@ -19,7 +19,7 @@
       <EndTime>2018-03-17T14:00:00Z</EndTime>
     </Session>
     <Session>
-      <TalkId>LXC-LXC-Legacy-Project-to-Containers</TalkId>
+      <TalkId>LXC-LXD-Legacy-Project-to-Containers</TalkId>
       <StartTime>2018-03-17T15:00:00Z</StartTime>
       <EndTime>2018-03-17T16:00:00Z</EndTime>
     </Session>
@@ -32,7 +32,7 @@
   <TalkIds>
     <TalkId>Manyfaced-Machine-Learning</TalkId>
     <TalkId>Theory-of-Formal-Languages-is-Not-only-about-Writing-Parsers</TalkId>
-    <TalkId>LXC-LXC-Legacy-Project-to-Containers</TalkId>
+    <TalkId>LXC-LXD-Legacy-Project-to-Containers</TalkId>
     <TalkId>Dictionary-First-Data-Access</TalkId>
   </TalkIds>
 </Meetup>
