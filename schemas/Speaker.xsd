@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:include schemaLocation="Types.xsd"/>
+
+  <xs:element name="Speaker">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Id" type="identity" />
+        <xs:element name="Name" type="requaredString" />
+        <xs:element name="CompanyName" type="requaredString" minOccurs="0" maxOccurs="1" />
+        <xs:element name="CompanyUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+        <xs:element name="Description" type="requaredString" />
+
+        <xs:element name="BlogUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+        <xs:element name="ContactsUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+        <xs:element name="TwitterUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+        <xs:element name="HabrUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+        <xs:element name="GitHubUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

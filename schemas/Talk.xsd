@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:include schemaLocation="Types.xsd"/>
+
+  <xs:element name="Talk">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Id" type="identity" />
+
+        <xs:element name="SpeakerIds">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SpeakerId" type="identity" minOccurs="1" maxOccurs="unbounded" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <xs:element name="Title" type="requaredString" />
+        <xs:element name="Description" type="requaredString" />
+
+        <xs:element name="SeeAlsoTalkIds" minOccurs="0" maxOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TalkId" type="identity" minOccurs="0" maxOccurs="unbounded" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <xs:element name="CodeUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+        <xs:element name="SlidesUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+        <xs:element name="VideoUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
