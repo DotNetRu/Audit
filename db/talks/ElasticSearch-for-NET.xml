@@ -5,5 +5,6 @@
   </SpeakerIds>
   <Title>ElasticSearch для .NET</Title>
   <Description>При разработке высоконагруженных сайтов и систем возникает необходимость в хранении, обработке и визуализации большого количества данных в режиме реального времени. В докладе будет разобран вариант использования для этих целей стек ELK. Будет рассмотрено использование ElasticSearch в .NET на примере NEST. Также будут рассмотрены варианты использования фильтров, анализаторов. Основная цель доклада – продемонстрировать различные варианты использования ElasticSearch в .NET.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/tat-iana-iolkina-elasticsearch-dlia-net</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=qHpFiPiAF3I</VideoUrl>
 </Talk>
