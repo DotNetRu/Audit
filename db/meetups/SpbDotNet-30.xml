@@ -4,6 +4,7 @@
   <CommunityId>SpbDotNet</CommunityId>
   <Date>2018-04-20</Date>
   <FriendIds>
+    <FriendId>Selectel</FriendId>
     <FriendId>Kontur</FriendId>
   </FriendIds>
   <VenueId>Spb-Selectel</VenueId>
