@@ -1,0 +1,9 @@
+﻿<Speaker>
+  <Id>Alex-Kirpichnikov</Id>
+  <Name>Алексей Кирпичников</Name>
+  <CompanyName>Контур</CompanyName>
+  <CompanyUrl>https://kontur.ru/</CompanyUrl>
+  <Description>Выпускник матмеха УрГУ. С 2014 года занимается внедрением DevOps-практик в Контуре. Сферы профессионального интереса: мониторинг, деплой, облачный хостинг для платформы .NET. Выступает на конференциях DUMP (Екатеринбург), CodeFest (Новосибирск) с рассказами о том, как устроен продакшен микросервисов в Контуре. Для души читает популярные доклады о математике.</Description>
+  <HabrUrl>https://habrahabr.ru/users/beevee/</HabrUrl>
+  <GitHubUrl>https://github.com/beevee</GitHubUrl>
+</Speaker>

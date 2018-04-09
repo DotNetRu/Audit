@@ -1,0 +1,11 @@
+﻿<Speaker>
+  <Id>Igor-Mamay</Id>
+  <Name>Игорь Мамай</Name>
+  <CompanyName>Контур</CompanyName>
+  <CompanyUrl>https://kontur.ru/</CompanyUrl>
+  <Description>Игорь работаю в компании Контур в команде биллинга. Компания разрабатывает систему с микросервисной горизонтально масштабируемой архитектурой. Сервисы написаны на C# и взаимодействуют с MsSql, Apache Cassandra, Elasticsearch, Apache ZooKeeper.
+
+Также интересуется развитием языка C#, внедряемыми фишками и предложениями сообщества. В свободное время пишет плагины для Resharper.</Description>
+  <ContactsUrl>https://www.linkedin.com/in/игорь-мамай-989a18102/</ContactsUrl>
+  <GitHubUrl>https://github.com/BigBabay</GitHubUrl>
+</Speaker>
