@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>MskDotNet-17</Id>
+  <Name>Встреча MskDotNet №17</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2017-01-18</Date>
+  <FriendIds>
+    <FriendId>Odin</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Odin</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Automatic-update-system-based-on-the-torrent-network</TalkId>
+      <StartTime>2018-01-18T16:10:00Z</StartTime>
+      <EndTime>2018-01-18T16:50:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>ElasticSearch-for-NET</TalkId>
+      <StartTime>2018-01-18T17:20:00Z</StartTime>
+      <EndTime>2018-01-18T18:20:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Automatic-update-system-based-on-the-torrent-network</TalkId>
+    <TalkId>ElasticSearch-for-NET</TalkId>
+  </TalkIds>
+</Meetup>
