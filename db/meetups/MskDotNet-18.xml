@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>MskDotNet-19</Id>
+  <Name>Встреча MskDotNet №19</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2018-04-12</Date>
+  <FriendIds>
+    <FriendId>Rambler</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Rambler-Lecture</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Reactive-MVVM-in-NET-2018-edition</TalkId>
+      <StartTime>2018-04-12T16:00:00Z</StartTime>
+      <EndTime>2018-04-12T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Caching-data-on-a-content-site</TalkId>
+      <StartTime>2018-04-12T17:30:00Z</StartTime>
+      <EndTime>2018-04-12T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Reactive-MVVM-in-NET-2018-edition</TalkId>
+    <TalkId>Caching-data-on-a-content-site</TalkId>
+  </TalkIds>
+</Meetup>
