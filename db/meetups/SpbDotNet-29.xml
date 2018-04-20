@@ -10,13 +10,13 @@
   <Sessions>
     <Session>
       <TalkId>Microsoft-Mobile-Development-in-2018</TalkId>
-      <StartTime>2018-03-20T19:00:00Z</StartTime>
-      <EndTime>2018-03-20T20:00:00Z</EndTime>
+      <StartTime>2018-03-20T16:00:00Z</StartTime>
+      <EndTime>2018-03-20T17:00:00Z</EndTime>
     </Session>
     <Session>
       <TalkId>SignalR-Xamarin-Azure-Test-of-Strength</TalkId>
-      <StartTime>2018-03-20T20:30:00Z</StartTime>
-      <EndTime>2018-03-20T21:30:00Z</EndTime>
+      <StartTime>2018-03-20T17:30:00Z</StartTime>
+      <EndTime>2018-03-20T18:30:00Z</EndTime>
     </Session>
   </Sessions>
   <TalkIds>
