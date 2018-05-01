@@ -8,4 +8,6 @@
 
 Доклад будет полезен разработчикам приложений с микросервисной архитектурой на платформе .NET, которые понимают, насколько важен мониторинг приложений в продакшне через централизованный сбор метрик, агрегацию логов и распределённых трассировок сетевых вызовов.</Description>
   <CodeUrl>https://github.com/vostok</CodeUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksiei-kirpichnikov-vostok-pravil-naia-tieliemietriia-dlia-mikrosiervisov-na-net</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=RKmkXbUsK0w</VideoUrl>
 </Talk>
