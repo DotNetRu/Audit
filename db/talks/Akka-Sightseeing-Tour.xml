@@ -4,5 +4,5 @@
     <SpeakerId>Alexander-Shevnin</SpeakerId>
   </SpeakerIds>
   <Title>Akka.NET: обзорная экскурсия</Title>
-  <Description>Akka.NET — это фреймворк для создания распределенных, высококонкуретных и отказоустойчивых систем. Разговор пойдет про модель акторов, ее реализацию в Akka.NET, а еще про Event Sourcing и кластеры.</Description>
+  <Description>Akka.NET — это фреймворк для создания распределенных, высококонкуретных и отказоустойчивых систем. Разговор пойдёт про модель акторов, её реализацию в Akka.NET, а ещё про Event Sourcing и кластеры.</Description>
 </Talk>
