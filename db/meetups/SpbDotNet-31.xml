@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>SpbDotNet-31</Id>
+  <Name>Встреча SpbDotNet №31</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2018-05-24</Date>
+  <FriendIds>
+    <FriendId>Arcadia</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Arcadia</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Akka-Sightseeing-Tour</TalkId>
+      <StartTime>2018-04-20T16:00:00Z</StartTime>
+      <EndTime>2018-04-20T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>API-Versioning</TalkId>
+      <StartTime>2018-04-20T17:30:00Z</StartTime>
+      <EndTime>2018-04-20T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Akka-Sightseeing-Tour</TalkId>
+    <TalkId>API-Versioning</TalkId>
+  </TalkIds>
+</Meetup>

@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>API-Versioning</Id>
+  <SpeakerIds>
+    <SpeakerId>Daniel-Doronkin</SpeakerId>
+  </SpeakerIds>
+  <Title>Версионирование API</Title>
+  <Description>В докладе будут расмотрины все тонкости версионирования програмного обеспечения. В частности семантическое версионирование, секрет его популярности и области применения. Конечно затроним версионирование Web API и практические сценарии его использования. Расберём поддержку в библиотеке Microsoft ASP.NET API Versioning и её интеграцию с пакетом Swagger.</Description>
+</Talk>
