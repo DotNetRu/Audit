@@ -10,13 +10,13 @@
   <Sessions>
     <Session>
       <TalkId>Akka-Sightseeing-Tour</TalkId>
-      <StartTime>2018-04-20T16:00:00Z</StartTime>
-      <EndTime>2018-04-20T17:00:00Z</EndTime>
+      <StartTime>2018-05-24T16:00:00Z</StartTime>
+      <EndTime>2018-05-24T17:00:00Z</EndTime>
     </Session>
     <Session>
       <TalkId>API-Versioning</TalkId>
-      <StartTime>2018-04-20T17:30:00Z</StartTime>
-      <EndTime>2018-04-20T18:30:00Z</EndTime>
+      <StartTime>2018-05-24T17:30:00Z</StartTime>
+      <EndTime>2018-05-24T18:30:00Z</EndTime>
     </Session>
   </Sessions>
   <TalkIds>
