@@ -1,0 +1,9 @@
+<Talk>
+  <Id>Dieriev-ia-vyrazhienii-v-enterprise-razrabotkie</Id>
+  <SpeakerIds>
+    <SpeakerId>Maxim-Arshinov</SpeakerId>
+  </SpeakerIds>
+  <Title>Деревья выражений в enterprise-разработке</Title>
+  <Description>Для большинства разработчиков использование expression tree ограничивается лямбда-выражениями в LINQ. Зачастую мы вообще не придаем значения тому, как технология работает «под капотом». Цель доклада — продемонстрировать продвинутые техники работы с деревьями выражений: устранение дублирования кода в LINQ; метапрограмирование; кодогенерация; транспиляция; автоматизация тестирования. ​После доклада вы будете знать, как пользоваться expression tree напрямую, какие подводные камни приготовила технология и как их обойти.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/maksim-arshinov-dieriev-ia-vyrazhienii-v-enterprise-razrabotkie</SlidesUrl>
+</Talk>
