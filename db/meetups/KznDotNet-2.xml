@@ -9,18 +9,18 @@
   <VenueId>Kzn-BarsGroup</VenueId>
   <Sessions>
     <Session>
-      <TalkId>Dieriev-ia-vyrazhienii-v-enterprise-razrabotkie</TalkId>
+      <TalkId>Expression-Trees-in-Enterprise-Development</TalkId>
       <StartTime>2018-05-17T15:30:00Z</StartTime>
       <EndTime>2018-05-17T16:30:00Z</EndTime>
     </Session>
     <Session>
-      <TalkId>Instrumientarii-asp-dot-net-core</TalkId>
+      <TalkId>ASP-NET-Core-Tools</TalkId>
       <StartTime>2018-05-17T17:00:00Z</StartTime>
       <EndTime>2018-05-17T18:00:00Z</EndTime>
     </Session>
   </Sessions>
   <TalkIds>
-    <TalkId>Dieriev-ia-vyrazhienii-v-enterprise-razrabotkie</TalkId>
-    <TalkId>Instrumientarii-asp-dot-net-core</TalkId>
+    <TalkId>Expression-Trees-in-Enterprise-Development</TalkId>
+    <TalkId>ASP-NET-Core-Tools</TalkId>
   </TalkIds>
 </Meetup>
