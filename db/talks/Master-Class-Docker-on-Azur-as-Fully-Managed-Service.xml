@@ -1,0 +1,11 @@
+﻿<Talk>
+  <Id>Master-Class-Docker-on-Azur-as-Fully-Managed-Service</Id>
+  <SpeakerIds>
+    <SpeakerId>Jan-Pospisil</SpeakerId>
+  </SpeakerIds>
+  <Title>Master class: Docker on Azure as fully managed service</Title>
+  <Description>Come to see and try how to have Docker image store on Azure and use it to instantiate into various services like WebApp for Linux, Docker instance etc.
+
+Please have your own computer no matter if Linux, Mac or Windows with Azure CLI and Docker client installed. Ideally having Azure subscription as well.</Description>
+  <CodeUrl>https://github.com/pospanet/docker2azure</CodeUrl>
+</Talk>

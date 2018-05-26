@@ -1,0 +1,20 @@
+﻿<Meetup>
+  <Id>SpbDotNet-32</Id>
+  <Name>Встреча SpbDotNet №32</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2018-05-25</Date>
+  <FriendIds>
+    <FriendId>Microsoft</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Petrocongress</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Master-Class-Docker-on-Azur-as-Fully-Managed-Service</TalkId>
+      <StartTime>2018-05-25T16:30:00Z</StartTime>
+      <EndTime>2018-05-25T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Master-Class-Docker-on-Azur-as-Fully-Managed-Service</TalkId>
+  </TalkIds>
+</Meetup>
