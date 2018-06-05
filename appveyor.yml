@@ -1,6 +1,10 @@
 version: 1.0.0.{build}
 os: WMF 5
 
+environment:
+  github_token:
+    secure: Ad0aEWqg/7gJciH8GWrdgnMJ1+42OeMJXmnqHiq8q3sxfV8tpRPiBmpUDktWSE54NBZwxQS7TbUwsoKPE2hJR1pIOxwtAqK5oLLrRvwf4w+gPbetcnkAjcfsG6sGVK3Qi6IR4OAncv3ervfaeRoonbyL/tNFszsLzekdUFFwdqh8jXbHG0b1ffdDrAq4t+gKBURMMc7qCwtxJw2QtPH/Mw==
+
 branches:
   only:
     - master
@@ -53,7 +57,7 @@ on_success:
     }
 
     $Headers = @{
-        "Authorization" = "key=AAAAFNhjiFs:APA91bHOL6Mj_K1C-7svthHae1oWTMBhKwh3hHGgMtzrwRls7i3lVNqUX4vW07-8bxZzll5N6n6S8gFwIXdIJycKNWu3nXJlmrRdRRzb8zRIEEgF_-rpFziC5p6bmqFA89Bod_CgyTju"
+        "Authorization" = $env:github_token
         "Content-Type"  = "application/json"
     }
 
