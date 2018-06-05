@@ -67,7 +67,7 @@ on_success:
     @'
 
     {
-      "to": "/topics/AuditUpdate",
+      "to": "/topics/NewMeetup",
       "data": {
         "my_custom_key": "my_custom_value"
         }
