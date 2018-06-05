@@ -60,13 +60,13 @@ on_success:
     $url = "https://fcm.googleapis.com/fcm/send"
 
     $body =
-  @'
+    @'
     {
       "to": "/topics/AuditUpdate",
       "data": {
         "my_custom_key": "my_custom_value"
         }
     }
-  '@
+    '@
 
     Invoke-WebRequest -Uri $url -Headers $Headers -Method 'POST' -Body $body
