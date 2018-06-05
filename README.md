@@ -1,6 +1,6 @@
 # Audit
 
-[![Build status](https://ci.appveyor.com/api/projects/status/66po2pqg20s38kmi?svg=true)](https://ci.appveyor.com/project/AnatolyKulakov/audit)
+[![Build status](https://ci.appveyor.com/api/projects/status/66po2pqg20s38kmi/branch/master?svg=true)](https://ci.appveyor.com/project/AnatolyKulakov/audit)
 
 Аудит всей деятельности сообществ, представленный в дружелюбной к роботам форме.
 
