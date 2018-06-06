@@ -1,0 +1,14 @@
+<Meetup>
+  <Id>MskDotNet-18</Id>
+  <Name>Встреча MskDotNet №18</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2018-02-28</Date>
+  <FriendIds>
+    <FriendId>Msk-Yandex</FriendId>
+  </FriendIds>
+  <VenueId>Yandex</VenueId>
+  <Sessions>
+  </Sessions>
+  <TalkIds>
+  </TalkIds>
+</Meetup>
