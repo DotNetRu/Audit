@@ -8,7 +8,13 @@
   </FriendIds>
   <VenueId>Yandex</VenueId>
   <Sessions>
+    <Session>
+      <TalkId>Advanced-use-of-NuGet-and-MSBuild</TalkId>
+      <StartTime>2018-02-28T16:00:00Z</StartTime>
+      <EndTime>2018-02-28T17:10:00Z</EndTime>
+    </Session>
   </Sessions>
   <TalkIds>
+    <TalkId>Advanced-use-of-NuGet-and-MSBuild</TalkId>
   </TalkIds>
 </Meetup>
