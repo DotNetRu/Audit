@@ -1,6 +1,10 @@
 version: 1.0.0.{build}
 os: WMF 5
 
+environment:
+  github_token:
+    secure: Ad0aEWqg/7gJciH8GWrdgnMJ1+42OeMJXmnqHiq8q3sxfV8tpRPiBmpUDktWSE54NBZwxQS7TbUwsoKPE2hJR1pIOxwtAqK5oLLrRvwf4w+gPbetcnkAjcfsG6sGVK3Qi6IR4OAncv3ervfaeRoonbyL/tNFszsLzekdUFFwdqh8jXbHG0b1ffdDrAq4t+gKBURMMc7qCwtxJw2QtPH/Mw==
+
 branches:
   only:
     - master
@@ -26,3 +30,49 @@ test_script:
       $res = Invoke-Pester -Path $testSource -OutputFormat 'NUnitXml' -OutputFile $testResultsFile -PassThru
       (New-Object 'System.Net.WebClient').UploadFile("https://ci.appveyor.com/api/testresults/nunit/$($Env:APPVEYOR_JOB_ID)", $testResultsFile)
       if ($res.FailedCount -gt 0) { throw "$($res.FailedCount) tests failed."}
+
+on_success:
+- ps: >-
+    If ($env:APPVEYOR_PULL_REQUEST_NUMBER -ne $null)
+    {
+        Write-Host "Build is from a PR, not executing post-build step"
+        return
+    }
+    ElseIf ($env:APPVEYOR_REPO_BRANCH -ne "master")
+    {
+        Write-Host "Build is not from a master branch, not executing post-build step"
+        return
+    }
+
+    [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+
+    $diff = Invoke-RestMethod ("https://api.github.com/repos/DotNetRu/Audit/commits/" + $env:APPVEYOR_REPO_COMMIT)
+
+    $meetups = $diff.files | where {($_.status -eq "added") -and ($_.filename.StartsWith("db/meetups"))} | measure
+
+    if ($meetups.Count -eq 0)
+    {
+        Write-Host "No new meetups added, won't notify users"
+        return
+    }
+
+    $Headers = @{
+        "Authorization" = $env:github_token
+        "Content-Type"  = "application/json"
+    }
+
+    $url = "https://fcm.googleapis.com/fcm/send"
+
+    $body =
+    @'
+
+    {
+      "to": "/topics/NewMeetup",
+      "data": {
+        "my_custom_key": "my_custom_value"
+        }
+    }
+
+    '@
+
+    Invoke-WebRequest -Uri $url -Headers $Headers -Method 'POST' -Body $body
