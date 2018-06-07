@@ -38,6 +38,11 @@ on_success:
         Write-Host "Build is from a PR, not executing post-build step"
         return
     }
+    ElseIf ($env:APPVEYOR_REPO_BRANCH -ne "master")
+    {
+        Write-Host "Build is not from a master branch, not executing post-build step"
+        return
+    }
 
     [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
