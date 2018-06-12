@@ -1,0 +1,11 @@
+﻿<Talk>
+  <Id>ASP-NET-Boilerplate</Id>
+  <SpeakerIds>
+    <SpeakerId>Alex-Merson</SpeakerId>
+  </SpeakerIds>
+  <Title>ASP.NET Boilerplate: фреймворк по заветам Domain Driven Design</Title>
+  <Description>Суть Domain Driven Design лежит вне технической плоскости, а применять его можно в любом проекте, независимо от стека и масштаба. Однако если проект большой, сложно обойтись без применения тактических паттернов DDD, таких как репозиторий, сервис, спецификация и др. Что же делать, если готовых наработок нет, а дедлайн не за горами? На помощь приходит ASP.NET Boilerplate, фреймворк для разработки приложений, в котором уже реализованы лучшие практики применения DDD. Поговорим не только о фреймворке в целом, но и об успешном опыте его использования в реальном проекте.</Description>
+  <SeeAlsoTalkIds>
+    <TalkId>Domain-Driven-Design-Profit-of-Little-Blood</TalkId>
+  </SeeAlsoTalkIds>
+</Talk>
