@@ -6,4 +6,5 @@
   <Title>Особенности настройки и маршрутизации в NGINX</Title>
   <Description>Доклад будет о том, как в IIS уживаются ASP Classic, ASP.NET MVC и React.NET. Как маршрутизировать запросы пользователя на основе правил в web.config. Будут рассмотрены таблицы маршрутов в MVC-приложении и правилах NGINX. На что обратить внимание при первой настройке NGINX, какие способы перенаправления http-запросов поддерживаются, каковы особенности работы с ними, и как удостовериться, что пользователь попал туда, куда нужно. Будет рассказано, как осуществлять мониторинг доступных серверов, и как в случае возникновения проблем быстро выводить из дела «больные» сервера.</Description>
   <SlidesUrl>https://speakerdeck.com/dotnetru/anna-rysina-osobiennosti-nastroiki-i-marshrutizatsii-v-nginx</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=8NJFVUs2pKE</VideoUrl>
 </Talk>
