@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>MskDotNet-18</Id>
+  <Name>Встреча MskDotNet №18</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2018-02-28</Date>
+  <FriendIds>
+    <FriendId>Msk-Yandex</FriendId>
+  </FriendIds>
+  <VenueId>Yandex</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Features-of-configuration-and-routing-in-NGINX</TalkId>
+      <StartTime>2018-02-28T16:00:00Z</StartTime>
+      <EndTime>2018-02-28T17:10:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Multiplayer-game-server-NET-Core-Linux</TalkId>
+      <StartTime>2018-02-28T17:20:00Z</StartTime>
+      <EndTime>2018-02-28T18:20:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Features-of-configuration-and-routing-in-NGINX</TalkId>
+    <TalkId>Multiplayer-game-server-NET-Core-Linux</TalkId>
+  </TalkIds>
+</Meetup>
