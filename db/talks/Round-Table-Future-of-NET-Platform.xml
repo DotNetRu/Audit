@@ -1,0 +1,13 @@
+﻿<Talk>
+  <Id>Round-Table-Future-of-NET-Platform</Id>
+  <SpeakerIds>
+    <SpeakerId>Anatoly-Kulakov</SpeakerId>
+    <SpeakerId>Stanislav-Sidristy</SpeakerId>
+    <SpeakerId>Alexander-Kugushev</SpeakerId>
+    <SpeakerId>Valery-Petrov</SpeakerId>
+    <SpeakerId>Pavel-Fedotovsky</SpeakerId>
+    <SpeakerId>Egor-Grishechko</SpeakerId>
+  </SpeakerIds>
+  <Title>Круглый стол «Будущее платформы .NET»</Title>
+  <Description>Платформа .NET сейчас переживает второе рождение. Кроссплатформенность, .NET Core, бесконечные новые фичи C#, Docker, Avalonia — столько нового, что глаза разбегаются, мозг взрывается, и хочется сбежать в уютный мир старого доброго .NET Framework, где всё было просто и понятно. Если вам знакомо это чувство, а тем более если оно для вас пройденный этап и все эти вещи давно у вас в продакшене — приходите на наш круглый стол, посвященный развитию платформы. Обсудим тренды в мире .NET, поделимся проблемами и их решениями, послушаем истории от наших экспертов.</Description>
+</Talk>

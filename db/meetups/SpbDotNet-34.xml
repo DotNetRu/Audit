@@ -1,0 +1,32 @@
+﻿<Meetup>
+  <Id>SpbDotNet-34</Id>
+  <Name>Встреча SpbDotNet №34</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2018-07-28</Date>
+  <FriendIds>
+    <FriendId>ITGM</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Raivola</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>NET-Platform-Yesterday-Today-Tomorrow</TalkId>
+      <StartTime>2018-07-28T09:40:00Z</StartTime>
+      <EndTime>2018-07-28T09:50:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-Future-of-NET-Platform</TalkId>
+      <StartTime>2018-07-28T10:30:00Z</StartTime>
+      <EndTime>2018-07-28T11:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-NET-Platform-for-Architect</TalkId>
+      <StartTime>2018-07-28T11:30:00Z</StartTime>
+      <EndTime>2018-07-28T12:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>NET-Platform-Yesterday-Today-Tomorrow</TalkId>
+    <TalkId>Round-Table-Future-of-NET-Platform</TalkId>
+    <TalkId>Round-Table-NET-Platform-for-Architect</TalkId>
+  </TalkIds>
+</Meetup>
