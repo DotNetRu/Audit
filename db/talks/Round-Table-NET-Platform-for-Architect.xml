@@ -4,6 +4,7 @@
     <SpeakerId>Anatoly-Kulakov</SpeakerId>
     <SpeakerId>Alex-Merson</SpeakerId>
     <SpeakerId>Alexander-Kugushev</SpeakerId>
+    <SpeakerId>Alexander-Tceluiko</SpeakerId>
   </SpeakerIds>
   <Title>Круглый стол «Платформа .NET для архитектора»</Title>
   <Description>Статей и книг на тему архитектуры бесчисленное множество. Но каждый проект уникален по-своему. И какой бы подход вы не выбрали, вопросов всегда будет больше, чем готовых ответов. Что же делать? Форумы, StackOverflow? Лучше! За нашим круглым столом мы собрали экспертов, задайте вопросы им! Поговорим про большие проекты, тонкости Domain Driven Design и подводные камни микросервисов.</Description>
