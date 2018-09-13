@@ -1,0 +1,9 @@
+﻿<Speaker>
+  <Id>Kirill-Lutsenko</Id>
+  <Name>Кирилл Луценко</Name>
+  <CompanyName>ООО «Системы информации и связи»</CompanyName>
+  <CompanyUrl>https://siisltd.ru/</CompanyUrl>
+  <Description>Начинал карьеру как разработчик ПО для встраиваемых систем ЦОС и перешел на .NET с начала 2017 года. В данный момент основными профессиональными интересами являются платформа .NET Core и микросервисная архитектура. Вместе с командой регулярно участвует в крупных международных и российских хакатонах.</Description>
+  <ContactsUrl>https://www.linkedin.com/in/lucenkokirill/</ContactsUrl>
+  <GitHubUrl>https://github.com/LutsenkoKirill</GitHubUrl>
+</Speaker>
