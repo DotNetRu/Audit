@@ -1,0 +1,25 @@
+﻿<Meetup>
+  <Id>MskDotNet-22</Id>
+  <Name>Встреча MskDotNet №22</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>AlfaBank</FriendId>
+  </FriendIds>
+  <VenueId>Msk-СorporateInnovationsHub</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>PaaS-NET-Core-and-Mesos-Marathon</TalkId>
+      <StartTime>2018-06-07T16:00:00Z</StartTime>
+      <EndTime>2018-06-07T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Reflection-Emit-the-practice</TalkId>
+      <StartTime>2018-06-07T17:30:00Z</StartTime>
+      <EndTime>2018-06-07T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>SaaS-NET-Core-and-Mesos-Marathon</TalkId>
+    <TalkId>Reflection-Emit-the-practice</TalkId>
+  </TalkIds>
+</Meetup>
