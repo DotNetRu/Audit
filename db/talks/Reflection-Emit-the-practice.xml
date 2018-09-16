@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Reflection-Emit-the-practice</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrey-Kurosh</SpeakerId>
+  </SpeakerIds>
+  <Title>Reflection.Emit: практика использования</Title>
+  <Description>Reflection.Emit позволяет сгенерировать и запустить произвольный код во время работы вашей программы. Будут предприняты попытки решить несколько задач с его помощью, а также будут рассмотрены низкоуровневый язык CIL, ограничения и способы их обхода.</Description>
+</Talk>
