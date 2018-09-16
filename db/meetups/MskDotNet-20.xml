@@ -1,0 +1,25 @@
+﻿<Meetup>
+  <Id>MskDotNet-20</Id>
+  <Name>Встреча MskDotNet №20</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>CUSTIS</FriendId>
+  </FriendIds>
+  <VenueId>Msk-CUSTIS</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Use-AOT-compilation-right-way</TalkId>
+      <StartTime>2018-05-22T16:00:00Z</StartTime>
+      <EndTime>2018-05-22T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Practice-theory-and-tools-in-NET-modules</TalkId>
+      <StartTime>2018-05-22T17:30:00Z</StartTime>
+      <EndTime>2018-05-22T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+    <TalkIds>
+    <TalkId>Use-AOT-compilation-right-way</TalkId>
+    <TalkId>Practice-theory-and-tools-in-NET-modules</TalkId>
+  </TalkIds>
+</Meetup>

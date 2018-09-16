@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Use-AOT-compilation-right-way</Id>
+  <SpeakerIds>
+    <SpeakerId>Elizabeth-Holenok</SpeakerId>
+  </SpeakerIds>
+  <Title>Используем AOT-компиляцию правильно</Title>
+  <Description>Ahead-of-time компиляция - главная тема разговора. Поговорим о преимуществах и недостатках AOT, чем AOT отличается от JIT, AOT и Ngen, AOT для Mono и CoreRT, а также о том, как и когда необходимо применять AOT.</Description>
+  <VideoUrl>https://www.youtube.com/watch?v=uokOGsIw5Ns</VideoUrl>
+</Talk>
