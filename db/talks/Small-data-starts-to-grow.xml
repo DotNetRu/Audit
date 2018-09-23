@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Small-data-starts-to-grow</Id>
+  <SpeakerIds>
+    <SpeakerId>Ksenya-Tomak</SpeakerId>
+  </SpeakerIds>
+  <Title>Маленькие данные начинают расти</Title>
+  <Description>Ксения расскажет о том, что делать, когда СУБД перестает справляться с растущими нагрузками и объемами данных, предложит решение этой проблемы посредством тюнинга SQL Server, а также рассмотрит кардинальный способ: замену движка БД.</Description>
+  <VideoUrl>https://www.youtube.com/watch?v=lrVfXKh8vUg</VideoUrl>
+</Talk>
