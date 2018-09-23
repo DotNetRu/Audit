@@ -5,4 +5,5 @@
   </SpeakerIds>
   <Title>PaaS с .NET Core и Mesos Marathon</Title>
   <Description>Рассказ про собственный PaaS в Альфа-Банке и как мы подружили его с .NET Core. Из доклада можно узнать, с какими проблемами сталкиваются корпоративные компании при создании гетерогенных микросервисных приложений, как они решаются и какое место в этом занимает .NET.</Description>
+  <VideoUrl>https://www.youtube.com/watch?v=LpEVaGaM3UE</VideoUrl>
 </Talk>
