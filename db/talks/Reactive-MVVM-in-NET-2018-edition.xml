@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Reactive-MVVM-in-NET-2018-edition</Id>
+  <SpeakerIds>
+    <SpeakerId>Artem-Gorchakov</SpeakerId>
+  </SpeakerIds>
+  <Title>Reactive MVVM in .NET: 2018 edition</Title>
+  <Description>При разработке мобильных и настольных приложений с помощью платформы .NET, особенно больших и сложных, возникает необходимость писать переносимый, понятный, тестируемый и поддерживаемый код. Доклад будет о том, как в этом помогут шаблон проектирования MVVM, реактивные расширения и кодогенерация, будут рассмотрены возможности кроссплатформенной разработки с помощью .NET Standard и популярных XAML фреймворков. Будет написано простое приложение, демонстрирующее возможности валидации пользовательского ввода с использованием библиотек ReactiveUI и Fody, а также фреймворков Xamarin Forms, Avalonia, UWP и WPF, запустим его на Android и Windows.</Description>
+  <VideoUrl>https://www.youtube.com/watch?v=n9E-IZ7TGak</VideoUrl>
+</Talk>
