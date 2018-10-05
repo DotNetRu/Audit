@@ -3,7 +3,7 @@
   <Name>Андрей Акиньшин</Name>
   <CompanyName>JetBrains</CompanyName>
   <CompanyUrl>https://www.jetbrains.com/</CompanyUrl>
-  <Description>.NET MVP, к.ф.-м.н., серебряный призёр ACM ICPC, постдок в Вейцмановском институте науки. В свободное время любит разбираться во внутренностях .NET и делиться находками с сообществом.</Description>
+  <Description>Андрей Акиньшин работает в компании JetBrains, где трудится над проектом Rider (кроссплатформенная .NET IDE, основанная на платформе IntelliJ и ReSharper). Его любимые темы — производительность и микрооптимизации, он также мейнтейнер проекта BenchmarkDotNet (библиотека для написания .NET-бенчмарков, поддержанная .NET Foundation). Андрей — к.ф.-м.н., Microsoft .NET MVP, серебрянный медалист ACM ICPC. В свободное время любит заниматься наукой, основные научные интересы — математическая биология и теория бифуркаций.</Description>
   <BlogUrl>http://aakinshin.net/</BlogUrl>
   <TwitterUrl>https://twitter.com/andrey_akinshin</TwitterUrl>
 </Speaker>
