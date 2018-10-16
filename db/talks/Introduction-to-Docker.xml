@@ -9,4 +9,5 @@
 Цель доклада: познакомить слушателей с основными концепциями Docker, научить контейнеризировать ASP.NET Core приложения и настраивать их взаимодействие с другими контейнерами. Используемые технологии: ASP.NET Core 2.1, Docker.</Description>
   <CodeUrl>https://github.com/LutsenkoKirill/Docker-workshop</CodeUrl>
   <SlidesUrl>https://speakerdeck.com/dotnetru/kirill-lutsienko-znakomstvo-s-docker</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=n4P4OVo3Nlo</VideoUrl>
 </Talk>
