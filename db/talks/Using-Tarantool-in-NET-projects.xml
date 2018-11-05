@@ -5,5 +5,6 @@
   </SpeakerIds>
   <Title>Использование Tarantool в .NET-проектах</Title>
   <Description>.NET - это не только Windows, но ещё и Linux, и OS X. Нет, не Mono. Использование Tarantool в .NET Core: плюсы, минусы, проблемы и способы их решения. Производительность progaudi.tarantool. Возможно ли выжать 2М RPS с одного сервера на .NET Core? </Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/anatolii-popov-ispol-zovaniie-tarantool-v-net-proiektakh</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=McruT_lv3DY</VideoUrl>
 </Talk>
