@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>How-to-create-and-automate-an-OpenSource-project</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexey-Petryashev</SpeakerId>
+  </SpeakerIds>
+  <Title>Как создать и автоматизировать OpenSource проект</Title>
+  <Description>Многие хотят сделать что-то полезное для Community, но не знают как. Тут же возникает множество вопросов: как создать проект на GitHub, какую структуру проекта выбрать, какую лицензию выбрать, как автоматизировать сборку, как версионировать пакет, как собирать и выкладывать nuget пакеты? А еще есть куча других вещей: CI-сервера, MyGet, ведение документации, Support.</Description>
+  <VideoUrl>https://www.youtube.com/watch?v=7THGhD-SPUk</VideoUrl>
+</Talk>
