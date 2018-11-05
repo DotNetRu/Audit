@@ -1,0 +1,20 @@
+﻿<Meetup>
+  <Id>MskDotNet-21</Id>
+  <Name>MskDotNet QnA with Giorgio Sardo</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2018-06-04</Date>
+  <FriendIds>
+    <FriendId>Microsoft</FriendId>
+  </FriendIds>
+  <VenueId>Msk-DigitalOctober</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>MskDotNet-QnA-with-Giorgio-Sardo</TalkId>
+      <StartTime>2018-06-04T10:00:00Z</StartTime>
+      <EndTime>2018-06-04T10:45:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>MskDotNet-QnA-with-Giorgio-Sardo</TalkId>
+  </TalkIds>
+</Meetup>

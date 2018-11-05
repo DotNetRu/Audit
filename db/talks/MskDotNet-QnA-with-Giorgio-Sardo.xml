@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>MskDotNet-QnA-with-Giorgio-Sardo</Id>
+  <SpeakerIds>
+    <SpeakerId>Giorgio-Sardo</SpeakerId>
+  </SpeakerIds>
+  <Title>MskDotNet QnA with Giorgio Sardo</Title>
+  <Description>В рамках Insider Dev Tour проведём закрытую встречу с Giorgio Sardo в формате QnA. Будет возможность обсудить WPF, Windows Form и UWP apps, а также другие интересующие вопросы.</Description>
+</Talk>
