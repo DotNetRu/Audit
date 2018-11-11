@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Scaling-the-Disposable-pattern</Id>
+  <SpeakerIds>
+    <SpeakerId>Kirill-Maurin</SpeakerId>
+  </SpeakerIds>
+  <Title>Масштабирование паттерна Disposable в рамках проекта</Title>
+  <Description>Паттерн старый, заслуженный, его обязательно спрашивают на собеседованиях, но очень мало кто любит и умеет его правильно готовить. Расскажу, как без проблем реализовать паттерн в ваших бизнес-объектах и как смасштабировать его на ваш сколь угодно большой проект.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/kirill-maurin-masshtabirovaniie-pattierna-disposable-v-ramkakh-proiekta</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=6lz3R-zE8U4</VideoUrl>
+</Talk>

@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>MskDotNet-28</Id>
+  <Name>Встреча MskDotNet №28</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2018-10-18</Date>
+  <FriendIds>
+    <FriendId>Odin</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Odin</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Documentation-with-Markdown</TalkId>
+      <StartTime>2018-10-18T16:00:00Z</StartTime>
+      <EndTime>2018-10-18T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Scaling-the-Disposable-pattern</TalkId>
+      <StartTime>2018-10-18T17:30:00Z</StartTime>
+      <EndTime>2018-10-18T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Documentation-with-Markdown</TalkId>
+    <TalkId>Scaling-the-Disposable-pattern</TalkId>
+  </TalkIds>
+</Meetup>
