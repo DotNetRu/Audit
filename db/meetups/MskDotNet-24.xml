@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>MskDotNet-24</Id>
+  <Name>Встреча MskDotNet №24</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2018-07-24</Date>
+  <FriendIds>
+    <FriendId>SberbankTechnology</FriendId>
+  </FriendIds>
+  <VenueId>Msk-SberbankTechnology</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Nitra-modern-methods-of-implementing-languages</TalkId>
+      <StartTime>2018-07-24T16:00:00Z</StartTime>
+      <EndTime>2018-07-24T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>How-to-create-and-automate-an-OpenSource-project</TalkId>
+      <StartTime>2018-07-24T17:30:00Z</StartTime>
+      <EndTime>2018-07-24T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Nitra-modern-methods-of-implementing-languages</TalkId>
+    <TalkId>How-to-create-and-automate-an-OpenSource-project</TalkId>
+  </TalkIds>
+</Meetup>
