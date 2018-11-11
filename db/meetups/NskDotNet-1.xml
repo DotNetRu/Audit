@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>NskDotNet-1</Id>
+  <Name>Встреча NskDotNet №1</Name>
+  <CommunityId>NskDotNet</CommunityId>
+  <Date>2018-08-16</Date>
+  <FriendIds>
+    <FriendId>Leader-Id</FriendId>
+  </FriendIds>
+  <VenueId>Nsk-BoilingPoint</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>FSharp-and-Predictable-Code</TalkId>
+      <StartTime>2018-08-16T12:00:00Z</StartTime>
+      <EndTime>2018-08-16T13:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Launching-NET-Core-Microservices-in-K8S</TalkId>
+      <StartTime>2018-08-16T13:30:00Z</StartTime>
+      <EndTime>2018-08-16T14:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>FSharp-and-Predictable-Code</TalkId>
+    <TalkId>Launching-NET-Core-Microservices-in-K8S</TalkId>
+  </TalkIds>
+</Meetup>
