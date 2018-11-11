@@ -1,0 +1,13 @@
+﻿<Talk>
+  <Id>Round-table-Talk-about-Performance</Id>
+  <SpeakerIds>
+    <SpeakerId>Anna-Rysina</SpeakerId>
+    <SpeakerId>Anton-Sysoev</SpeakerId>
+    <SpeakerId>Kirill-Maurin</SpeakerId>
+    <SpeakerId>Denis-Kulikov</SpeakerId>
+    <SpeakerId>Elizabeth-Holenok</SpeakerId>
+    <SpeakerId>Kirill-Litveev</SpeakerId>
+  </SpeakerIds>
+  <Title>Поговорим о Performance. Круглый стол.</Title>
+  <Description>Наши эксперты могут ответить на ваши вопросы, и мы все вместе сможем обсудить проблемы и особенности производительности приложений на платформе .NET.</Description>
+</Talk>
