@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>MskDotNet-25</Id>
+  <Name>Встреча MskDotNet №25</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2018-08-15</Date>
+  <FriendIds>
+    <FriendId>DeutscheBank</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Aquamarine3</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>History-of-fp-and-the-monads</TalkId>
+      <StartTime>2018-08-15T16:00:00Z</StartTime>
+      <EndTime>2018-08-15T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>WebMarkupMin-HTML-minificator-for-the-platform-NET</TalkId>
+      <StartTime>2018-08-15T17:30:00Z</StartTime>
+      <EndTime>2018-08-15T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>History-of-fp-and-the-monads</TalkId>
+    <TalkId>WebMarkupMin-HTML-minificator-for-the-platform-NET</TalkId>
+  </TalkIds>
+</Meetup>

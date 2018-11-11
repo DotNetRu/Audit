@@ -1,0 +1,9 @@
+﻿<Speaker>
+  <Id>Andrey-Taritsyn</Id>
+  <Name>Андрей Тарицын</Name>
+  <CompanyName>Quantum Art</CompanyName>
+  <CompanyUrl>http://www.quantumart.ru/</CompanyUrl>
+  <Description>Андрей занимается веб-разработкой с 2001 года. Разрабатывать под платформу .NET начал еще в 2004 году. Работал в ЛАНИТе, Интернет-агентстве Артус, ФИНАМе, Правовесте и Quantum Art/Russia. Является автором следующих open source проектов: Bundle Transformer, WebMarkupMin, MSIE JS Engine, JavaScript Engine Switcher, JSMin for .NET и LibSass Host.</Description>
+  <BlogUrl>https://taritsyn.ru/</BlogUrl>
+  <TwitterUrl>http://twitter.com/taritsyn</TwitterUrl>
+</Speaker>
