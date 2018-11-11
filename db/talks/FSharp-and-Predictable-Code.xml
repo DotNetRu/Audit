@@ -1,0 +1,16 @@
+﻿<Talk>
+  <Id>FSharp-and-Predictable-Code</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Semenov</SpeakerId>
+  </SpeakerIds>
+  <Title>F# и предсказуемый код</Title>
+  <Description>Нужен ли вам F#? Cтоит ли прилагать усилия к изучению нового языка? Ответы обычно такие:
+
+- Зачем, если есть C#?
+- F# имеет свои преимущества, но они не такие уж существенные и и оно того не стоит.
+- Изучение F# дает полезные навыки разработчикам. Я не использую его проффессионально, но эти знания позволили мне программировать лучше!
+
+Давайте разберемся, что из этого правда, а что нет. И решим для себя, нужно ли нам учить F#.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-siemionov-f-number-i-priedskazuiemyi-kod</SlidesUrl>	
+  <VideoUrl>https://www.youtube.com/watch?v=-Cmpsryx6hI</VideoUrl>
+</Talk>
