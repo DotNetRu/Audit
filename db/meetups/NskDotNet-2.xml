@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>NskDotNet-2</Id>
+  <Name>Встреча NskDotNet №2</Name>
+  <CommunityId>NskDotNet</CommunityId>
+  <Date>2018-11-08</Date>
+  <FriendIds>
+    <FriendId>Leader-Id</FriendId>
+  </FriendIds>
+  <VenueId>Nsk-BoilingPoint</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Implementing-CQRS-ES-on-Dynamic-Models</TalkId>
+      <StartTime>2018-11-08T12:00:00Z</StartTime>
+      <EndTime>2018-11-08T13:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>At-the-Junction-of-Managed-and-Unmanaged-Worlds</TalkId>
+      <StartTime>2018-11-08T13:30:00Z</StartTime>
+      <EndTime>2018-11-08T14:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Implementing-CQRS-ES-on-Dynamic-Models</TalkId>
+    <TalkId>At-the-Junction-of-Managed-and-Unmanaged-Worlds</TalkId>
+  </TalkIds>
+</Meetup>
