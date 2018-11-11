@@ -5,5 +5,6 @@
   </SpeakerIds>
   <Title>Маленькие данные начинают расти</Title>
   <Description>Ксения расскажет о том, что делать, когда СУБД перестает справляться с растущими нагрузками и объемами данных, предложит решение этой проблемы посредством тюнинга SQL Server, а также рассмотрит кардинальный способ: замену движка БД.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/ksieniia-tomak-malien-kiie-dannyie-nachinaiut-rasti</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=lrVfXKh8vUg</VideoUrl>
 </Talk>
