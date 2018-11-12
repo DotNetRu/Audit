@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>MskDotNet-23</Id>
+  <Name>Встреча MskDotNet №23</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2018-06-28</Date>
+  <FriendIds>
+    <FriendId>MailRu</FriendId>
+  </FriendIds>
+  <VenueId>Msk-MailRu</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Using-Tarantool-in-NET-projects</TalkId>
+      <StartTime>2018-06-28T16:00:00Z</StartTime>
+      <EndTime>2018-06-28T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Small-data-starts-to-grow</TalkId>
+      <StartTime>2018-06-28T17:30:00Z</StartTime>
+      <EndTime>2018-06-07T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Using-Tarantool-in-NET-projects</TalkId>
+    <TalkId>Small-data-starts-to-grow</TalkId>
+  </TalkIds>
+</Meetup>
