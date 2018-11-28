@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>SpbDotNet-37</Id>
+  <Name>Встреча SpbDotNet №37</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2018-11-20</Date>
+  <FriendIds>
+    <FriendId>JetBrains</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Universe</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Efficient-Buffer-Manipulation-Using-Span</TalkId>
+      <StartTime>2018-11-20T16:30:00Z</StartTime>
+      <EndTime>2018-11-20T17:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Richter-QnA-Session</TalkId>
+      <StartTime>2018-11-20T17:30:00Z</StartTime>
+      <EndTime>2018-11-20T18:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Efficient-Buffer-Manipulation-Using-Span</TalkId>
+    <TalkId>Richter-QnA-Session</TalkId>
+  </TalkIds>
+</Meetup>

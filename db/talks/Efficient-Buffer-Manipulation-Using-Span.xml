@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Efficient-Buffer-Manipulation-Using-Span</Id>
+  <SpeakerIds>
+    <SpeakerId>Jeffrey-Richter</SpeakerId>
+  </SpeakerIds>
+  <Title>Efficient Buffer Manipulation using C# 7.2's Span</Title>
+  <Description>C# is a great language for developer productivity. However, a lot of this productivity comes at the cost of memory allocations which requires more frequent garbage collections. C# 7.2 introduces a new Span class that improves productivity while decreasing memory allocations and garbage collections. Come and learn how this new Span type can improve the performance of your .NET applications.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/jeffrey-richter-efficient-buffer-manipulation-using-c-number-7-dot-2-s-span</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=gWcyXGIbRDI</VideoUrl>
+</Talk>
