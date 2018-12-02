@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>Data-Science-in-Life-Sciences</Id>
+  <SpeakerIds>
+    <SpeakerId>Vyacheslav-Kotrachev</SpeakerId>
+  </SpeakerIds>
+  <Title>Data Science в Life Sciences</Title>
+  <Description>В настоящее время life sciences (науки о жизни) - одна из самых бурно развивающихся прикладных научных областей. Data science (наука о данных) с начала 2010-х годов тоже стала очень популярной - во многом благодаря росту вычислительной мощности машин, с одной стороны, и росту количества данных в цифровом виде, с другой.
+
+Вячеслав расскажет как наука о данных помогает наукам о жизни делать мир лучше:
+- что такое life sciences и что они изучают;
+- что такое data science и чем она занимается;
+- как data science работает в life sciences — а если не работает, то почему;
+- какие проблемы life sciences решают в Аркадии при помощи data science.</Description>
+</Talk>

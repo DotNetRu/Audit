@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>SpbDotNet-38</Id>
+  <Name>Встреча SpbDotNet №38</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2018-12-06</Date>
+  <FriendIds>
+    <FriendId>Arcadia</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Arcadia</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>CI-CD-Practices-in-Modern-IT-Culture</TalkId>
+      <StartTime>2018-12-06T16:00:00Z</StartTime>
+      <EndTime>2018-12-06T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Data-Science-in-Life-Sciences</TalkId>
+      <StartTime>2018-12-06T17:30:00Z</StartTime>
+      <EndTime>2018-12-06T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>CI-CD-Practices-in-Modern-IT-Culture</TalkId>
+    <TalkId>Data-Science-in-Life-Sciences</TalkId>
+  </TalkIds>
+</Meetup>
