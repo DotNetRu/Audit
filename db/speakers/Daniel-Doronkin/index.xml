@@ -1,8 +1,8 @@
 ﻿<Speaker>
   <Id>Daniel-Doronkin</Id>
   <Name>Даниил Доронкин</Name>
-  <CompanyName>Rubius</CompanyName>
-  <CompanyUrl>https://rubius.com/</CompanyUrl>
+  <CompanyName>Itransition</CompanyName>
+  <CompanyUrl>https://www.itransition.ru/</CompanyUrl>
   <Description>Даниил занимается разработкой web-приложений с front-end'ом на Vue и back-end'ом с WebAPI. Ему нравится быть частью .NET сообщества, посещать профессиональные мероприятия. Профессиональные интересы — современные подходы к разработке распределённых систем и их экосистема, изучение английского языка. Даниилу хочется стать по-настоящему сильным профессионалом с широким кругозором, он считает что community и спикерство - один из шагов на пути к этому.</Description>
   <ContactsUrl>https://www.linkedin.com/in/daniil-doronkin-886165105/</ContactsUrl>
   <GitHubUrl>https://github.com/ddydeveloper</GitHubUrl>
