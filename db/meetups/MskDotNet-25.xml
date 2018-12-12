@@ -14,13 +14,13 @@
       <EndTime>2018-08-15T17:00:00Z</EndTime>
     </Session>
     <Session>
-      <TalkId>WebMarkupMin-HTML-minificator-for-the-platform-NET</TalkId>
+      <TalkId>WebMarkupMin-HTML-minifier-for-the-NET-platform</TalkId>
       <StartTime>2018-08-15T17:30:00Z</StartTime>
       <EndTime>2018-08-15T18:30:00Z</EndTime>
     </Session>
   </Sessions>
   <TalkIds>
     <TalkId>History-of-fp-and-the-monads</TalkId>
-    <TalkId>WebMarkupMin-HTML-minificator-for-the-platform-NET</TalkId>
+    <TalkId>WebMarkupMin-HTML-minifier-for-the-NET-platform</TalkId>
   </TalkIds>
 </Meetup>
