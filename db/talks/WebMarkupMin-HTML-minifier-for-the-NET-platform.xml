@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>WebMarkupMin-HTML-minifier-for-the-NET-platform</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrey-Taritsyn</SpeakerId>
+  </SpeakerIds>
+  <Title>WebMarkupMin — HTML-минификатор для платформы .NET</Title>
+  <Description>Сначала разговор пойдет о том, зачем нужна HTML-минификация, о ее почти 20-летней истории и эволюции программных средств, автоматизирующих данный процесс. Затем о WebMarkupMin и его модулях. Будут рассмотрены примеры его использования в ASP.NET Core и ASP.NET 4.X. Будет измерена эффективность минификации с помощью WebMarkupMin. Будут перечислены известные программные продукты и веб-сайты, которые его используют. А также ознакомимся с альтернативными решениями для .NET и ASP.NET.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-taritsyn-webmarkupmin-html-minifikator-dlia-platformy-net</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=jmPkUD_SDOk</VideoUrl>
+</Talk>
