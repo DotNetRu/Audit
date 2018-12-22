@@ -30,5 +30,25 @@ Describe 'Storage verification' {
 
             $unixFiles | Should BeNullOrEmpty
         }
+
+        It 'Should have UTF-8 with BOM encoding' {
+            filter Test-Utf8WithBOMEncoding()
+            {
+                $file = $_
+                $buffer = [System.IO.File]::ReadAllBytes($file.FullName)
+
+                ($buffer.Length -ge 3) -and
+                ($buffer[0] -eq 0xEF) -and
+                ($buffer[1] -eq 0xBB) -and
+                ($buffer[2] -eq 0xBF)
+            }
+
+            $badFiles =
+                Get-AllDBFile |
+                Where-Object { -not ($_ | Test-Utf8WithBOMEncoding) } |
+                ForEach-Object { Resolve-Path $_.FullName -Relative }
+
+            $badFiles | Should BeNullOrEmpty
+        }
     }
 }
