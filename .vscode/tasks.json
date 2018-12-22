@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "taskName": "Test All",
+            "label": "Test All",
             "type": "shell",
             "command": "Invoke-Pester -PesterOption @{IncludeVSCodeMarker=$true}",
             "group": {
@@ -20,7 +20,7 @@
             }
         },
         {
-            "taskName": "Test Current File",
+            "label": "Test Current File",
             "type": "shell",
             "command": "Invoke-Pester -Path \"${file}\" -PesterOption @{IncludeVSCodeMarker=$true}",
             "group": "test",
