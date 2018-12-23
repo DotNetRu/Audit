@@ -9,7 +9,7 @@
   <VenueId>Msk-Luxoft</VenueId>
   <Sessions>  
     <Session>
-      <TalkId>Three-years-with-F#-in-production</TalkId>
+      <TalkId>Three-years-with-F-Sharp-in-production</TalkId>
       <StartTime>2018-11-21T16:00:00Z</StartTime>
       <EndTime>2018-11-21T17:00:00Z</EndTime>
     </Session>
@@ -20,7 +20,7 @@
     </Session>
   </Sessions>
   <TalkIds>
-    <TalkId>Three-years-with-F#-in-production</TalkId>
+    <TalkId>Three-years-with-F-Sharp-in-production</TalkId>
     <TalkId>Migrating-from-NET-Framework-to-NET-Core</TalkId>
   </TalkIds>
 </Meetup>
