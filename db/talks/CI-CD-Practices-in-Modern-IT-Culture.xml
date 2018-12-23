@@ -6,4 +6,5 @@
   <Title>Практики CI/CD и их место в современной IT культуре</Title>
   <Description>В условиях развития сервис-ориентированной архитектуры и контейнеризации CI/CD становится незаменимой вещью для создания, поддержки и внедрения продукта. Но далеко не все преимущества данного подхода можно прочувствовать на себе. В своем докладе Даниил поделится опытом внедрения CI/CD, а также покажет, как построить эффективный конвейер на open source решениях.</Description>
   <SlidesUrl>https://speakerdeck.com/dotnetru/cd-i-ikh-miesto-v-sovriemiennoi-it-kul-turie</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=ebPApQRanzE</VideoUrl>
 </Talk>
