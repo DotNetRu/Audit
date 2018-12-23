@@ -4,7 +4,7 @@
     <SpeakerId>Raffaele-Rialdi</SpeakerId>
   </SpeakerIds>
   <Title>Migrating server apps from the .NET Framework to .NET Core</Title>
-  <Description>After just few years.NET Core is now mature for going in production with several advantages over the .NET Framework, such as cross platform support.
+  <Description>After just few years. NET Core is now mature for going in production with several advantages over the .NET Framework, such as cross platform support.
 But what does it mean porting a server application to .NET Core? What are the steps to make the transition as smooth as possible?
 Most of the libraries are basically identical but the ASP.NET Core and Entity Framework Core have been totally rewritten, making the transition not often so trivial.
 Also, while netstandard support is great for library developer, how can you leverage the same technology to write libraries that need to behave differently depending on the operating system or the underlying framework implementation?
