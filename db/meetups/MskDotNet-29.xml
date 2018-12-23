@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>MskDotNet-29</Id>
+  <Name>Встреча MskDotNet №29</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <Date>2018-11-21</Date>
+  <FriendIds>
+    <FriendId>Luxoft</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Luxoft</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Three-years-with-F#-in-production</TalkId>
+      <StartTime>2018-11-21T16:00:00Z</StartTime>
+      <EndTime>2018-11-21T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Migrating-from-NET-Framework-to-NET-Core</TalkId>
+      <StartTime>2018-12-23T17:30:00Z</StartTime>
+      <EndTime>2018-12-23T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Three-years-with-F#-in-production</TalkId>
+    <TalkId>Migrating-from-NET-Framework-to-NET-Core</TalkId>
+  </TalkIds>
+</Meetup>
