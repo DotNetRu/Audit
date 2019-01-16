@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>DevOps-Everywhere-from-MSI-to-Docker-for-Windows</Id>
+  <SpeakerIds>
+    <SpeakerId>Pavel-Voronov</SpeakerId>
+  </SpeakerIds>
+  <Title>DevOps повсюду – От MSI к Docker for Windows</Title>
+  <Description>Захватывающая история про то, как поставить приложение на любое окружение или добавить Docker жизни в скучный enterprise.</Description>
+</Talk>

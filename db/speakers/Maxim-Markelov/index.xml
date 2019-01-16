@@ -1,0 +1,9 @@
+﻿<Speaker>
+  <Id>Maxim-Markelov</Id>
+  <Name>Максим Маркелов</Name>
+  <CompanyName>Системы информации и связи</CompanyName>
+  <CompanyUrl>https://siisltd.ru/</CompanyUrl>
+  <Description>Тимлид в компании Системы информации и связи, выпускник Университета ИТМО. Занимается разработкой микросервисов на .NET Core, принимал участие в разработке enterpise приложений в рамках распределенной телематической платформы. Постоянный участник российских и международных хакатонов.</Description>
+  <ContactsUrl>https://www.linkedin.com/in/maxim-markelow-a24573123/</ContactsUrl>
+  <GitHubUrl>https://github.com/Markeli</GitHubUrl>
+</Speaker>
