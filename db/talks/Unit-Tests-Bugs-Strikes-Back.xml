@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Unit Tests: bugs strikes back</Title>
   <Description>Альянс разработчиков выпустил крупный релиз. Но баги наносят ответный удар. Должен ли разработчик тестировать свой код, а не только проверять его в отладке? Да. Тестирование помимо очевидного исправления дефектов может помочь улучшить архитектуру приложения. За счёт чего это происходит? С чего начать писать тесты? А если система legacy? Какой framework выбрать? Нужно ли проверять интеграцию? Доклад поможет найти ответы на эти вопросы.</Description>
+  <CodeUrl>https://github.com/Markeli/BugsStrikesBack</CodeUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/maksim-markielov-unit-tests-bugs-strikes-back</SlidesUrl>
 </Talk>
