@@ -1,0 +1,27 @@
+﻿<Meetup>
+  <Id>SpbDotNet-40</Id>
+  <Name>Встреча SpbDotNet №40</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Date>2019-02-07</Date>
+  <FriendIds>
+    <FriendId>T-Systems</FriendId>
+    <FriendId>Sprinthost</FriendId>
+  </FriendIds>
+  <VenueId>Spb-T-Systems</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Test-Last-Test-First-TDD</TalkId>
+      <StartTime>2019-02-07T16:00:00Z</StartTime>
+      <EndTime>2019-02-07T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>ValueTask-What-and-Why</TalkId>
+      <StartTime>2019-02-07T17:30:00Z</StartTime>
+      <EndTime>2019-02-07T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Test-Last-Test-First-TDD</TalkId>
+    <TalkId>ValueTask-What-and-Why</TalkId>
+  </TalkIds>
+</Meetup>
