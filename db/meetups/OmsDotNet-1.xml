@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>OmsDotNet-1</Id>
+  <Name>Встреча OmsDotNet №1</Name>
+  <CommunityId>OmsDotNet</CommunityId>
+  <Date>2019-02-07</Date>
+  <FriendIds>
+    <FriendId>RaiffeisenBank</FriendId>
+  </FriendIds>
+  <VenueId>Oms-Studio1901</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Specification-Pattern</TalkId>
+      <StartTime>2019-02-07T13:00:00Z</StartTime>
+      <EndTime>2019-02-07T13:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Roslyn-Code-Analyzers</TalkId>
+      <StartTime>2019-02-07T14:00:00Z</StartTime>
+      <EndTime>2019-02-07T14:45:00Z</EndTime>
+    </Session>
+  </Sessions>
+  <TalkIds>
+    <TalkId>Specification-Pattern</TalkId>
+    <TalkId>Roslyn-Code-Analyzers</TalkId>
+  </TalkIds>
+</Meetup>

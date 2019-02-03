@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Roslyn-Code-Analyzers</Id>
+  <SpeakerIds>
+    <SpeakerId>Sergey-Ogorodnikov</SpeakerId>
+  </SpeakerIds>
+  <Title>Roslyn code analyzers</Title>
+  <Description>Обзор технологии анализаторов кода для компилятора Roslyn, начиная с базового уровня (с чего начать писать свой первый анализатор), и заканчивая выводами по результатам (положительным и отрицательным) использования.</Description>
+</Talk>
