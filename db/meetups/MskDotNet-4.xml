@@ -2,7 +2,6 @@
   <Id>MskDotNet-4</Id>
   <Name>Встреча MskDotNet №4</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2016-11-14</Date>
   <FriendIds>
     <FriendId>Kaspersky</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2016-11-14T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>What-is-useful-in-analyzing-dumps-for-NET-developers</TalkId>
-    <TalkId>Desktop-applications-optimizing-methods</TalkId>
-  </TalkIds>
 </Meetup>

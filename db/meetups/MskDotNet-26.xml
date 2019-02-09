@@ -2,7 +2,6 @@
   <Id>MskDotNet-26</Id>
   <Name>Встреча MskDotNet №26</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2018-09-04</Date>
   <FriendIds>
     <FriendId>RaiffeisenBank</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2018-09-04T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>DDD-in-legacy-code-software-complexity</TalkId>
-    <TalkId>C-Sharp-in-the-browser-myth-or-reality</TalkId>
-  </TalkIds>
 </Meetup>

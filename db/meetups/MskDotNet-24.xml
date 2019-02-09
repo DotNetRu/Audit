@@ -2,7 +2,6 @@
   <Id>MskDotNet-24</Id>
   <Name>Встреча MskDotNet №24</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2018-07-24</Date>
   <FriendIds>
     <FriendId>SberbankTechnology</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2018-07-24T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Nitra-modern-methods-of-implementing-languages</TalkId>
-    <TalkId>How-to-create-and-automate-an-OpenSource-project</TalkId>
-  </TalkIds>
 </Meetup>

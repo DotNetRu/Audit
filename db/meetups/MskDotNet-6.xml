@@ -2,7 +2,6 @@
   <Id>MskDotNet-6</Id>
   <Name>Встреча MskDotNet №6</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2017-01-25</Date>
   <FriendIds>
     <FriendId>SberbankTechnology</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2017-01-25T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Theory-and-practice-of-NET-benchmarking-1</TalkId>
-    <TalkId>Theory-and-practice-of-NET-benchmarking-2</TalkId>
-  </TalkIds>
 </Meetup>

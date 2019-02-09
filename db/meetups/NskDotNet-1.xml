@@ -2,7 +2,6 @@
   <Id>NskDotNet-1</Id>
   <Name>Встреча NskDotNet №1</Name>
   <CommunityId>NskDotNet</CommunityId>
-  <Date>2018-08-16</Date>
   <FriendIds>
     <FriendId>Leader-Id</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2018-08-16T14:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>FSharp-and-Predictable-Code</TalkId>
-    <TalkId>Launching-NET-Core-Microservices-in-K8S</TalkId>
-  </TalkIds>
 </Meetup>

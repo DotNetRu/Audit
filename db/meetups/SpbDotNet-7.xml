@@ -2,7 +2,6 @@
   <Id>SpbDotNet-7</Id>
   <Name>Встреча SpbDotNet №7</Name>
   <CommunityId>SpbDotNet</CommunityId>
-  <Date>2015-11-28</Date>
   <FriendIds>
     <FriendId>ITGM</FriendId>
   </FriendIds>
@@ -29,10 +28,4 @@
       <EndTime>2015-11-28T14:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Lack-of-CPlusPlus-in-CSharp-2</TalkId>
-    <TalkId>Sandboxing-in-Net-CLR</TalkId>
-    <TalkId>Using-Apache-Cordova</TalkId>
-    <TalkId>Simple-cross-platform-Web-server</TalkId>
-  </TalkIds>
 </Meetup>

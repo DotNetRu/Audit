@@ -2,7 +2,6 @@
   <Id>SpbDotNet-10</Id>
   <Name>Встреча SpbDotNet №10</Name>
   <CommunityId>SpbDotNet</CommunityId>
-  <Date>2016-04-02</Date>
   <FriendIds>
     <FriendId>ITGM</FriendId>
   </FriendIds>
@@ -34,11 +33,4 @@
       <EndTime>2016-04-02T16:00:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Machine-learning</TalkId>
-    <TalkId>Modern-static-analyzers</TalkId>
-    <TalkId>Using-static-analyzers</TalkId>
-    <TalkId>Round-table-code-analysis</TalkId>
-    <TalkId>Practice-WCF</TalkId>
-  </TalkIds>
 </Meetup>

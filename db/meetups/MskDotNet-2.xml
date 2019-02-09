@@ -2,7 +2,6 @@
   <Id>MskDotNet-2</Id>
   <Name>Встреча MskDotNet №2</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2016-09-09</Date>
   <FriendIds>
     <FriendId>Microsoft</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2016-09-09T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>RESTFul-API-how-and-why</TalkId>
-    <TalkId>Web-Single-Sign-On-in-10-lines</TalkId>
-  </TalkIds>
 </Meetup>

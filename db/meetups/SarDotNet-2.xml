@@ -2,7 +2,6 @@
   <Id>SarDotNet-2</Id>
   <Name>Встреча SarDotNet №2</Name>
   <CommunityId>SarDotNet</CommunityId>
-  <Date>2018-03-31</Date>
   <FriendIds>
     <FriendId>EPAM</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2018-03-31T10:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Simulation-of-Complexity</TalkId>
-    <TalkId>Paranoid-Programming</TalkId>
-  </TalkIds>
 </Meetup>

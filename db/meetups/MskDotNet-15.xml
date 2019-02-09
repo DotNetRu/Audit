@@ -2,7 +2,6 @@
   <Id>MskDotNet-15</Id>
   <Name>MskDotNet Новогодний Субботник</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2017-12-16</Date>
   <FriendIds>
     <FriendId>FINAM</FriendId>
   </FriendIds>
@@ -24,9 +23,4 @@
       <EndTime>2017-12-16T14:00:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>OWASP-TOP-10-for-NET</TalkId>
-    <TalkId>Stop-being-afraid-and-make-friends-with-MSBuild</TalkId>
-    <TalkId>AI-and-neural-networks-for-NET-developers</TalkId>
-  </TalkIds>
 </Meetup>

@@ -2,7 +2,6 @@
   <Id>SpbDotNet-38</Id>
   <Name>Встреча SpbDotNet №38</Name>
   <CommunityId>SpbDotNet</CommunityId>
-  <Date>2018-12-06</Date>
   <FriendIds>
     <FriendId>Arcadia</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2018-12-06T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>CI-CD-Practices-in-Modern-IT-Culture</TalkId>
-    <TalkId>Data-Science-in-Life-Sciences</TalkId>
-  </TalkIds>
 </Meetup>

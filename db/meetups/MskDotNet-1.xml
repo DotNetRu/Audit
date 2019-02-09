@@ -2,7 +2,6 @@
   <Id>MskDotNet-1</Id>
   <Name>Встреча MskDotNet №1</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2016-08-11</Date>
   <FriendIds>
     <FriendId>CUSTIS</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2016-08-11T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Concurrency-and-distributed-computing-with-Akka</TalkId>
-    <TalkId>WinDbg-and-friends</TalkId>
-  </TalkIds>
 </Meetup>

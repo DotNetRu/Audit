@@ -2,7 +2,6 @@
   <Id>OmsDotNet-1</Id>
   <Name>Встреча OmsDotNet №1</Name>
   <CommunityId>OmsDotNet</CommunityId>
-  <Date>2019-02-07</Date>
   <FriendIds>
     <FriendId>RaiffeisenBank</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2019-02-07T14:45:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Specification-Pattern</TalkId>
-    <TalkId>Roslyn-Code-Analyzers</TalkId>
-  </TalkIds>
 </Meetup>

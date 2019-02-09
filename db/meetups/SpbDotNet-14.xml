@@ -2,7 +2,6 @@
   <Id>SpbDotNet-14</Id>
   <Name>Встреча SpbDotNet №14</Name>
   <CommunityId>SpbDotNet</CommunityId>
-  <Date>2016-09-15</Date>
   <FriendIds>
     <FriendId>SEMrush</FriendId>
   </FriendIds>
@@ -24,9 +23,4 @@
       <EndTime>2016-09-15T19:00:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Functional-NET</TalkId>
-    <TalkId>Experience-and-prospects-of-F</TalkId>
-    <TalkId>F-Battle</TalkId>
-  </TalkIds>
 </Meetup>

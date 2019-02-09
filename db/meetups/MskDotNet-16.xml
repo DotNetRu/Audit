@@ -2,7 +2,6 @@
   <Id>MskDotNet-16</Id>
   <Name>Встреча MskDotNet №16</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2017-12-19</Date>
   <FriendIds>
     <FriendId>Tinkoff</FriendId>
   </FriendIds>
@@ -24,9 +23,4 @@
       <EndTime>2017-12-19T18:50:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Functional-programming-for-csharp-developers</TalkId>
-    <TalkId>IIoT-on-the-HW-and-NET-border</TalkId>
-    <TalkId>Approaches-and-practices-in-highly-loaded-distributed-systems</TalkId>
-  </TalkIds>
 </Meetup>

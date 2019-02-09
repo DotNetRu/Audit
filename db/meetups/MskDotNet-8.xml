@@ -2,7 +2,6 @@
   <Id>MskDotNet-8</Id>
   <Name>Встреча MskDotNet №8</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2017-03-21</Date>
   <FriendIds>
     <FriendId>Microsoft</FriendId>
   </FriendIds>
@@ -24,9 +23,4 @@
       <EndTime>2017-03-21T18:40:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Things-of-the-Internet-of-Things</TalkId>
-    <TalkId>Building-a-secure-architecture-for-IoT</TalkId>
-    <TalkId>Industrial-IoT-in-practice</TalkId>
-  </TalkIds>
 </Meetup>
