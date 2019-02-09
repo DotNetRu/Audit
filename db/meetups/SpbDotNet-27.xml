@@ -2,7 +2,6 @@
   <Id>SpbDotNet-27</Id>
   <Name>Встреча SpbDotNet №27</Name>
   <CommunityId>SpbDotNet</CommunityId>
-  <Date>2018-02-28</Date>
   <FriendIds>
     <FriendId>Arcadia</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2018-02-28T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Sharing-Common-Assemblies</TalkId>
-    <TalkId>Talk-About-Blockchain</TalkId>
-  </TalkIds>
 </Meetup>

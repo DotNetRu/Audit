@@ -2,7 +2,6 @@
   <Id>MskDotNet-11</Id>
   <Name>Встреча MskDotNet №11</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2017-06-20</Date>
   <FriendIds>
     <FriendId>Tinkoff</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2017-06-20T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>The-load-testing-tools</TalkId>
-    <TalkId>Cross-platform-server-development-tools-DotNet</TalkId>
-  </TalkIds>
 </Meetup>

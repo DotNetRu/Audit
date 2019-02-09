@@ -2,7 +2,6 @@
   <Id>SpbDotNet-16</Id>
   <Name>Встреча SpbDotNet №16</Name>
   <CommunityId>SpbDotNet</CommunityId>
-  <Date>2016-12-03</Date>
   <FriendIds>
     <FriendId>ITGM</FriendId>
   </FriendIds>
@@ -29,10 +28,4 @@
       <EndTime>2016-12-03T14:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>In-search-of-paradigm</TalkId>
-    <TalkId>Octopus-in-the-name-of-good</TalkId>
-    <TalkId>Windows-Containers</TalkId>
-    <TalkId>SQL-Server-Performance-101</TalkId>
-  </TalkIds>
 </Meetup>

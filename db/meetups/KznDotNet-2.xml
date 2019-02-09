@@ -2,7 +2,6 @@
   <Id>KznDotNet-2</Id>
   <Name>Встреча KznDotNet №2</Name>
   <CommunityId>KznDotNet</CommunityId>
-  <Date>2018-05-17</Date>
   <FriendIds>
     <FriendId>BarsGroup</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2018-05-17T18:00:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Expression-Trees-in-Enterprise-Development</TalkId>
-    <TalkId>ASP-NET-Core-Tools</TalkId>
-  </TalkIds>
 </Meetup>

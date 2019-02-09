@@ -2,7 +2,6 @@
   <Id>MskDotNet-13</Id>
   <Name>Встреча MskDotNet №13</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2017-10-12</Date>
   <FriendIds>
     <FriendId>Rambler</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2017-10-12T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Flexible-modularity-with-AOP-tools</TalkId>
-    <TalkId>ReactJSDotNET-experience-of-server-rendering</TalkId>
-  </TalkIds>
 </Meetup>

@@ -2,7 +2,6 @@
   <Id>SpbDotNet-15</Id>
   <Name>Встреча SpbDotNet №15</Name>
   <CommunityId>SpbDotNet</CommunityId>
-  <Date>2016-11-17</Date>
   <FriendIds>
     <FriendId>JetBrains</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2016-11-17T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Automatic-Input-Output-Matching</TalkId>
-    <TalkId>Rider-Internals</TalkId>
-  </TalkIds>
 </Meetup>

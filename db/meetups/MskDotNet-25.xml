@@ -2,7 +2,6 @@
   <Id>MskDotNet-25</Id>
   <Name>Встреча MskDotNet №25</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2018-08-15</Date>
   <FriendIds>
     <FriendId>DeutscheBank</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2018-08-15T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>History-of-fp-and-the-monads</TalkId>
-    <TalkId>WebMarkupMin-HTML-minifier-for-the-NET-platform</TalkId>
-  </TalkIds>
 </Meetup>

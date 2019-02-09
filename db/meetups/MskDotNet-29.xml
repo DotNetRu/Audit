@@ -2,12 +2,11 @@
   <Id>MskDotNet-29</Id>
   <Name>Встреча MskDotNet №29</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2018-11-21</Date>
   <FriendIds>
     <FriendId>Luxoft</FriendId>
   </FriendIds>
   <VenueId>Msk-Luxoft</VenueId>
-  <Sessions>  
+  <Sessions>
     <Session>
       <TalkId>Three-years-with-F-Sharp-in-production</TalkId>
       <StartTime>2018-11-21T16:00:00Z</StartTime>
@@ -19,8 +18,4 @@
       <EndTime>2018-11-21T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Three-years-with-F-Sharp-in-production</TalkId>
-    <TalkId>Migrating-from-NET-Framework-to-NET-Core</TalkId>
-  </TalkIds>
 </Meetup>

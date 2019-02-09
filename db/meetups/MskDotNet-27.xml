@@ -2,12 +2,11 @@
   <Id>MskDotNet-27</Id>
   <Name>Встреча MskDotNet №27</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2018-09-18</Date>
   <FriendIds>
     <FriendId>Kaspersky</FriendId>
   </FriendIds>
   <VenueId>Msk-Kaspersky</VenueId>
-  <Sessions>  
+  <Sessions>
     <Session>
       <TalkId>Difficult-tasks-in-C-Sharp</TalkId>
       <StartTime>2018-09-18T16:00:00Z</StartTime>
@@ -19,8 +18,4 @@
       <EndTime>2018-09-18T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Difficult-tasks-in-C-Sharp</TalkId>
-    <TalkId>Round-table-Talk-about-Performance</TalkId>
-  </TalkIds>
 </Meetup>

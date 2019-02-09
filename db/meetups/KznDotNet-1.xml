@@ -2,7 +2,6 @@
   <Id>KznDotNet-1</Id>
   <Name>Встреча KznDotNet №1</Name>
   <CommunityId>KznDotNet</CommunityId>
-  <Date>2018-03-15</Date>
   <FriendIds>
     <FriendId>ICL</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2018-03-15T17:45:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Lock-Free-Multithreading</TalkId>
-    <TalkId>Razor-Pages</TalkId>
-  </TalkIds>
 </Meetup>

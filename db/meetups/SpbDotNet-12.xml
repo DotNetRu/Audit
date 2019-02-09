@@ -2,7 +2,6 @@
   <Id>SpbDotNet-12</Id>
   <Name>Встреча SpbDotNet №12</Name>
   <CommunityId>SpbDotNet</CommunityId>
-  <Date>2016-06-02</Date>
   <FriendIds>
     <FriendId>DotNext</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2016-06-02T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Brave-CoreCLR</TalkId>
-    <TalkId>GC-Tips</TalkId>
-  </TalkIds>
 </Meetup>

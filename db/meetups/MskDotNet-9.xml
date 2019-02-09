@@ -2,7 +2,6 @@
   <Id>MskDotNet-9</Id>
   <Name>Встреча MskDotNet №9</Name>
   <CommunityId>MskDotNet</CommunityId>
-  <Date>2017-04-20</Date>
   <FriendIds>
     <FriendId>DodoPizza</FriendId>
   </FriendIds>
@@ -19,8 +18,4 @@
       <EndTime>2017-04-20T18:30:00Z</EndTime>
     </Session>
   </Sessions>
-  <TalkIds>
-    <TalkId>Basic-principles-of-micro-services</TalkId>
-    <TalkId>Configuration-in-DotNet</TalkId>
-  </TalkIds>
 </Meetup>
