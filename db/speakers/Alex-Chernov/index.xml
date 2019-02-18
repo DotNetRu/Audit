@@ -1,0 +1,10 @@
+﻿<Speaker>
+  <Id>Alex-Chernov</Id>
+  <Name>Алексей Чернов</Name>
+  <CompanyName>Veeam Software</CompanyName>
+  <CompanyUrl>https://www.veeam.com/ru/</CompanyUrl>
+  <Description>Фронтенд-разработчик. Основное время посвящает созданию библиотеки UI-компонентов, помимо этого занимается внедрением CI и автоматизацией тестирования в соседних проектах.</Description>
+  <ContactsUrl>https://www.linkedin.com/in/aleksei-chernov-9362a3ab/</ContactsUrl>
+  <TwitterUrl>https://twitter.com/kot_lex</TwitterUrl>
+  <GitHubUrl>https://github.com/kot-lex</GitHubUrl>
+</Speaker>
