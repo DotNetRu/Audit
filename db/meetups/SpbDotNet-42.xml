@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-42</Id>
+  <Name>Встреча SpbDotNet №42</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Arcadia</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Arcadia</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Mutation-Testin-in-NET</TalkId>
+      <StartTime>2019-03-14T16:00:00Z</StartTime>
+      <EndTime>2019-03-14T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>SSO-and-OpenId-in-Corporate-System</TalkId>
+      <StartTime>2019-03-14T17:30:00Z</StartTime>
+      <EndTime>2019-03-14T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

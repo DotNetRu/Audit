@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Mutation-Testin-in-NET</Id>
+  <SpeakerIds>
+    <SpeakerId>Nikolay-Molchanov</SpeakerId>
+  </SpeakerIds>
+  <Title>Мутационное тестирование в .NET</Title>
+  <Description>Хорошо ли вы пишите код и тесты для него? Николай расскажет:
+
+- про мутационное тестирование на .NET Core;
+- про то как впасть в депрессию и как из нее выйти;
+- как проверить себя как разработчика.</Description>
+</Talk>
