@@ -1,0 +1,9 @@
+﻿<Speaker>
+  <Id>Irina-Ananieva</Id>
+  <Name>Ирина Ананьева</Name>
+  <CompanyName>Контур</CompanyName>
+  <CompanyUrl>https://kontur.ru/</CompanyUrl>
+  <Description>Работает в компании «Контур», где занимается разработкой различных веб-сервисов для бизнеса. В свободное время участвует в open source-проекте BenchmarkDotNet (библиотека для написания .NET-бенчмарков, поддержанная .NET Foundation). Участвует в програмном комитете DotNext – крупнейшей в России .NET конференции. Интересуется внутренним устройством .NET CLR, производительностью и микрооптимизациями.</Description>
+  <TwitterUrl>https://twitter.com/morgan_kn</TwitterUrl>
+  <GitHubUrl>https://github.com/morgan-kn</GitHubUrl>
+</Speaker>

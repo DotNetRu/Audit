@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Round-Table-HR-and-IT-Friends-or-Fight</Id>
+  <SpeakerIds>
+    <SpeakerId>Anatoly-Kulakov</SpeakerId>
+    <SpeakerId>Alex-Merson</SpeakerId>
+    <SpeakerId>Andrey-Stepanov</SpeakerId>
+    <SpeakerId>Irina-Ananieva</SpeakerId>
+    <SpeakerId>Alexander-Kugushev</SpeakerId>
+  </SpeakerIds>
+  <Title>Круглый стол HR и IT: дружить нельзя воевать</Title>
+  <Description>Существует и постоянно тиражируется мнение, что между HR и IT лежит пропасть непонимания. Хотя по идее должно быть наоборот, ведь цели общие - найти и успешно делать работу. Приглашаем присоединиться к нашей дискуссии, рассказать свои истории, прокомментировать чужие, а главное - разобраться наконец, есть ли пропасть и если да, то как ее преодолеть.</Description>
+</Talk>
