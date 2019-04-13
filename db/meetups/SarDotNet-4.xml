@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>SarDotNet-4</Id>
+  <Name>Встреча SarDotNet №4</Name>
+  <CommunityId>SarDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>EPAM</FriendId>
+  </FriendIds>
+  <VenueId>Sar-HaratsNavigator</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Introduction-to-SignalR</TalkId>
+      <StartTime>2018-11-03T14:30:00Z</StartTime>
+      <EndTime>2018-11-03T15:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>FSharp-basics</TalkId>
+      <StartTime>2018-11-03T16:00:00Z</StartTime>
+      <EndTime>2018-11-03T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Magic-of-Dapper-plus-Oracle</TalkId>
+      <StartTime>2018-11-03T17:30:00Z</StartTime>
+      <EndTime>2018-11-03T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
