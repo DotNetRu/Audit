@@ -1,0 +1,10 @@
+﻿<Speaker>
+  <Id>Dmitry-Pavlov</Id>
+  <Name>Дмитрий Павлов</Name>
+  <CompanyName>Coding Machine</CompanyName>
+  <CompanyUrl>https://dmitry-pavlov.com/</CompanyUrl>
+  <Description>Дмитрий более 15 лет занимается разработкой программного обеспечения на базе .NET. 7 раз награждался Microsoft статусом Microsoft MVP в номинации Visual C#. Имеет два магистерских диплома (комьютерные сети в Политехе, геология в СПбГУ). С 2011 полнотью перешел на режим работы удалённо в качестве программиста и консультанта. Любит кино, иностранные языки, предпринимательство и IT.</Description>
+  <ContactsUrl>https://dmitry-pavlov.com/</ContactsUrl>
+  <TwitterUrl>https://www.twitter.com/dr_dimaka</TwitterUrl>
+  <GitHubUrl>https://github.com/dmitry-pavlov</GitHubUrl>
+</Speaker>

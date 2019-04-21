@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>CSharp-8-Indices-and-Ranges</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexander-Shevchenko</SpeakerId>
+  </SpeakerIds>
+  <Title>C# 8: Indices and Ranges</Title>
+  <Description>В докладе рассматриваются новые фичи языка, такие как Indices (Индексы) и Ranges (Интервалы). Как их использовать, во что они компилируются и на что нужно обратить внимание.</Description>
+</Talk>

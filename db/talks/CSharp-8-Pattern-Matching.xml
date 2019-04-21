@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>CSharp-8-Pattern-Matching</Id>
+  <SpeakerIds>
+    <SpeakerId>Kirill-Poletaev</SpeakerId>
+  </SpeakerIds>
+  <Title>Pattern Matching в C# 8</Title>
+  <Description>Pattern Matching и с чем его едят. Пройдёмся по истории этого механизма и как его можно применить на практике.</Description>
+</Talk>

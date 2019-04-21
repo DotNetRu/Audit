@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Ansible для управления конфигурацией Windows</Title>
   <Description>Алексей расскажет от том, как он и его команда применили подходы давно ставшие стандартом в мире Linux для автоматизации Windows инфраструктуры. Начнём с краткого обзора экосистемы Ansible и перейдём к практическому примеру настройки окружения и последующего развёртования ASP.NET приложения.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksiei-chiernov-ansible-dlia-upravlieniia-konfighuratsiiei-windows</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=nEA3sSE33U4</VideoUrl>
 </Talk>

@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-43</Id>
+  <Name>Встреча SpbDotNet №43</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>ITGM</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Radison</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Round-Table-HR-and-IT-Friends-or-Fight</TalkId>
+      <StartTime>2019-03-23T08:30:00Z</StartTime>
+      <EndTime>2019-03-23T10:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Sit-on-Two-Chairs-at-Same-Time-Isolated-Tests</TalkId>
+      <StartTime>2019-03-23T14:00:00Z</StartTime>
+      <EndTime>2019-03-23T15:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

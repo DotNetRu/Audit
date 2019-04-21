@@ -1,0 +1,13 @@
+﻿<Talk>
+  <Id>Visual-Studio-Extensibility-Key-Features</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Pavlov</SpeakerId>
+  </SpeakerIds>
+  <Title>Visual Studio Extensibility: основные возможности</Title>
+  <Description>Дмитрий расскажет:
+
+- какие основные возможности для расширения студии имеются;
+- как студия понимает, что в нее добавлено;
+- кратко как деплоить (раньше и сейчас);
+- как войти в тему.</Description>
+</Talk>

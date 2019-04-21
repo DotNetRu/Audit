@@ -1,0 +1,41 @@
+﻿<Meetup>
+  <Id>SpbDotNet-44</Id>
+  <Name>Встреча SpbDotNet №44</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>EPAM</FriendId>
+  </FriendIds>
+  <VenueId>Spb-EPAM-North</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>CSharp-8-Async-Streams-in-ReSharper-2019</TalkId>
+      <StartTime>2019-04-18T16:00:00Z</StartTime>
+      <EndTime>2019-04-18T16:20:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>CSharp-8-Indices-and-Ranges</TalkId>
+      <StartTime>2019-04-18T16:20:00Z</StartTime>
+      <EndTime>2019-04-18T16:40:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>CSharp-8-Pattern-Matching</TalkId>
+      <StartTime>2019-04-18T16:40:00Z</StartTime>
+      <EndTime>2019-04-18T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Filtered-Solutions</TalkId>
+      <StartTime>2019-04-18T17:30:00Z</StartTime>
+      <EndTime>2019-04-18T17:50:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Visual-Studio-Extensibility-Key-Features</TalkId>
+      <StartTime>2019-04-18T17:50:00Z</StartTime>
+      <EndTime>2019-04-18T18:10:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Most-Delicious-Features-of-Visual-Studio-2019</TalkId>
+      <StartTime>2019-04-18T18:10:00Z</StartTime>
+      <EndTime>2019-04-18T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
