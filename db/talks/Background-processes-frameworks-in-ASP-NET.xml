@@ -4,7 +4,7 @@
     <SpeakerId>Ivan-Kirichuk</SpeakerId>
   </SpeakerIds>
   <Title>Background processes frameworks in ASP.NET</Title>
-  <Description>Обзор фреймворков для запуска фоновых операций в ASP.NET через призму практического опыта. Рассмотрим какие требования стоит предъявлять к выбору инструментов, проведем анализ возможностей применения фреймворков.</Description>
+  <Description>Обзор фреймворков для запуска фоновых операций в ASP.NET через призму практического опыта. Рассмотрим какие требования стоит предъявлять к выбору инструментов, проведём анализ возможностей применения фреймворков.</Description>
   <SlidesUrl>https://speakerdeck.com/dotnetru/ivan-kirichuk-background-processes-frameworks-in-asp-dot-net</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=dq3ICU3l_VA</VideoUrl>
 </Talk>
