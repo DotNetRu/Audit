@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-45</Id>
+  <Name>Встреча SpbDotNet №45</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Selectel</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Selectel</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Deep-Div-into-ASP-Core-Authorization</TalkId>
+      <StartTime>2019-05-14T16:00:00Z</StartTime>
+      <EndTime>2019-05-14T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Ref-Everything</TalkId>
+      <StartTime>2019-05-14T17:30:00Z</StartTime>
+      <EndTime>2019-05-14T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
