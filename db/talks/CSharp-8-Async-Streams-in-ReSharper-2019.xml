@@ -6,4 +6,5 @@
   <Title>Поддержка C# 8 Async Streams в ReSharper 2019.1</Title>
   <Description>В докладе кратко рассмотрим нововведения в C# 8 для поддержки асинхронного программирования, а также покажем как ReSharper помогает использовать новые языковые возможности.</Description>
   <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-karpov-poddierzhka-c-number-8-async-streams-v-resharper-2019-dot-1</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=GTWwlf_DAGY</VideoUrl>
 </Talk>

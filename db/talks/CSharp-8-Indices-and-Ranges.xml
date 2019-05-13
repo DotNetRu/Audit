@@ -6,4 +6,5 @@
   <Title>C# 8: Indices and Ranges</Title>
   <Description>В докладе рассматриваются новые фичи языка, такие как Indices (Индексы) и Ranges (Интервалы). Как их использовать, во что они компилируются и на что нужно обратить внимание.</Description>
   <SlidesUrl>https://speakerdeck.com/dotnetru/alieksandr-shievchienko-c-number-8-indices-and-ranges</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=ozHhJzp5yAM</VideoUrl>
 </Talk>
