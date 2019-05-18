@@ -9,7 +9,7 @@
   <VenueId>Spb-Selectel</VenueId>
   <Sessions>
     <Session>
-      <TalkId>Deep-Div-into-ASP-Core-Authorization</TalkId>
+      <TalkId>Deep-Dive-into-ASP-Core-Authorization</TalkId>
       <StartTime>2019-05-14T16:00:00Z</StartTime>
       <EndTime>2019-05-14T17:00:00Z</EndTime>
     </Session>

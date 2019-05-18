@@ -1,5 +1,5 @@
 ﻿<Talk>
-  <Id>Deep-Div-into-ASP-Core-Authorization</Id>
+  <Id>Deep-Dive-into-ASP-Core-Authorization</Id>
   <SpeakerIds>
     <SpeakerId>Raffaele-Rialdi</SpeakerId>
   </SpeakerIds>
@@ -7,4 +7,5 @@
   <Description>Every request journey in a secured web application starts with the authentication process providing the essential information for authorizing the requests. The authorization process has been totally rewritten in ASP.NET Core to support the modern concepts of claim-based authorization based on the concept of policies.
 
 During the session, after analyzing all the pieces that builds up the new authorization framework, we will see how to structure the resource-based authorization and analyze the different opportunities to filter database queries based on the effective permissions of the user.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/raffaele-rialdi-deep-dive-into-the-asp-dot-net-core-authorization-framework</SlidesUrl>
 </Talk>
