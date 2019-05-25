@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>NnvDotNet-1</Id>
+  <Name>Встреча NnvDotNet №1</Name>
+  <CommunityId>NnvDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>DodoPizza</FriendId>
+  </FriendIds>
+  <VenueId>Nnv-Forself</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Why-is-Your-Architecture-Functional</TalkId>
+      <StartTime>2019-05-22T16:00:00Z</StartTime>
+      <EndTime>2019-05-22T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>How-to-Collect-Quantitative-Data</TalkId>
+      <StartTime>2019-05-22T17:15:00Z</StartTime>
+      <EndTime>2019-05-22T18:15:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
