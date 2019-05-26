@@ -9,10 +9,10 @@
         <xs:element name="Name" type="requaredString" />
         <xs:element name="CommunityId" type="identity" />
 
-        <xs:element name="FriendIds">
+        <xs:element name="FriendIds" minOccurs="0" maxOccurs="1">
           <xs:complexType>
             <xs:sequence>
-              <xs:element name="FriendId" type="identity" minOccurs="0" maxOccurs="unbounded" />
+              <xs:element name="FriendId" type="identity" minOccurs="1" maxOccurs="unbounded" />
             </xs:sequence>
           </xs:complexType>
         </xs:element>
