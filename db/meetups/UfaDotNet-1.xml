@@ -1,0 +1,18 @@
+﻿<Meetup>
+  <Id>UfaDotNet-1</Id>
+  <Name>Встреча UfaDotNet №1</Name>
+  <CommunityId>UfaDotNet</CommunityId>
+  <VenueId>Ufa-Territory3000</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>GC-Tin-which-We-do-Not-Care</TalkId>
+      <StartTime>2019-06-11T14:00:00Z</StartTime>
+      <EndTime>2019-06-11T15:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Visual-Studio-and-ReSharper-Chips</TalkId>
+      <StartTime>2019-06-11T15:15:00Z</StartTime>
+      <EndTime>2019-06-11T16:15:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
