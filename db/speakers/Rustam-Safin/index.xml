@@ -1,0 +1,10 @@
+﻿<Speaker>
+  <Id>Rustam-Safin</Id>
+  <Name>Рустам Сафин</Name>
+  <CompanyName>Directum</CompanyName>
+  <CompanyUrl>https://www.directum.ru/</CompanyUrl>
+  <Description>C# разработчик в Directum. Разрабатывает платформу для системы электронного документооборота DirectumRX. Любит заниматься оптимизацией производительности и утечками памяти. Занимается скалолазанием. Любит боулдеринг.</Description>
+  <BlogUrl>http://snegovikufa.blogspot.com/</BlogUrl>
+  <HabrUrl>https://habr.com/ru/users/snegovikufa/</HabrUrl>
+  <GitHubUrl>https://github.com/Snegovikufa</GitHubUrl>
+</Speaker>
