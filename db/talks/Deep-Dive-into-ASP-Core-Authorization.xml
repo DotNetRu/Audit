@@ -8,4 +8,5 @@
 
 During the session, after analyzing all the pieces that builds up the new authorization framework, we will see how to structure the resource-based authorization and analyze the different opportunities to filter database queries based on the effective permissions of the user.</Description>
   <SlidesUrl>https://speakerdeck.com/dotnetru/raffaele-rialdi-deep-dive-into-the-asp-dot-net-core-authorization-framework</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Fw2trz2HMvE</VideoUrl>
 </Talk>

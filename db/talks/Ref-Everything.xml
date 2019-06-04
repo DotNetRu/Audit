@@ -8,4 +8,5 @@
 
 I believe so, as all those changes perfectly fit into the ongoing process of speeding up .NET and its performance possibilities. There is a lot of ways to optimize your code with the conscious use of those constructs, although some caveats exist that we should be aware of. Let me introduce you to such "ref-world"!</Description>
   <SlidesUrl>https://speakerdeck.com/dotnetru/konrad-kokosa-ref-struct-ref-readonly-struct-ref-returning-ref-everything</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=bYBbhqvC26Y</VideoUrl>
 </Talk>
