@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Kak-studienty-i-filologh-pisali-tiekhnichieski-slozhnyi-proiekt</Id>
+  <SpeakerIds>
+    <SpeakerId>Evgeniy-Tymencev</SpeakerId>
+  </SpeakerIds>
+  <Title>Как студенты и филолог писали технически сложный проект: акторная модель, методы обнаружения разладки и natural language processing</Title>
+  <Description>Рассказ об опыте реализации сайта бесплатных объявлений с помощью акторной модели на .NET, как удалось сократить парк серверов в 5 раз, а количество таблиц БД с 200 до 10.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/ievghienii-tiumientsiev-kak-studienty-i-filologh-pisali-tiekhnichieski-slozhnyi-proiekt-aktornaia-modiel-mietody-obnaruzhieniia-razladki-i-natural-language-processing</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=XKm4Ai3BpFY</VideoUrl>
+</Talk>

@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>OmsDotNet-3</Id>
+  <Name>Встреча OmsDotNet №3</Name>
+  <CommunityId>OmsDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Luxoft</FriendId>
+  </FriendIds>
+  <VenueId>Oms-Luxoft-1</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Ot-sierviera-kliientu-ili-kak-eto-rabotaiet-v-drughuiu-storonu</TalkId>
+      <StartTime>2019-05-30T13:00:00Z</StartTime>
+      <EndTime>2019-05-30T13:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Kak-studienty-i-filologh-pisali-tiekhnichieski-slozhnyi-proiekt</TalkId>
+      <StartTime>2019-05-30T14:00:00Z</StartTime>
+      <EndTime>2019-05-30T14:45:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
