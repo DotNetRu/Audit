@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Deploy-ASP-NET-Core-Application-to-Kubernetes</Id>
+  <SpeakerIds>
+    <SpeakerId>Daniel-Doronkin</SpeakerId>
+  </SpeakerIds>
+  <Title>Разворачиваем ASP.NET Core приложение в Kubernetes</Title>
+  <Description>Kubernetes - это популярная платформа для развертывания и управления контейнеризованными сервисами. К сожалению, мы не всегда можем внедрить данное решение для рабочих проектов, а изучать что-то новое всегда интересно! В докладе мы попрактикуемся с ASP.NET Core и k8s, рассмотрим объекты k8s, а конце опубликуем production-ready приложение в облачном кластере.</Description>
+</Talk>

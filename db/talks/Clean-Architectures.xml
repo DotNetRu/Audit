@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Clean-Architectures</Id>
+  <SpeakerIds>
+    <SpeakerId>Ivan-Patudin</SpeakerId>
+  </SpeakerIds>
+  <Title>Clean Architectures</Title>
+  <Description>Небольшой рассказ о том как сделать свое приложение более масштабируемым, долгоиграющим и устойчивым к внешним изменениям. Даже если о них заранее не известно.</Description>
+</Talk>
