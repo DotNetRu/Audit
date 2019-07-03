@@ -1,5 +1,8 @@
 ﻿<Speaker>
   <Id>Vladimir-Zarubin</Id>
   <Name>Владимир Зарубин</Name>
-  <Description>.NET разработчик в Luxoft. Участвовал в разработке проектов для BOEING и ГЛОНАСС.</Description>
+  <CompanyName>Luxoft</CompanyName>
+  <CompanyUrl>https://www.luxoft.com/</CompanyUrl>  
+  <Description>.NET разработчик. Участвовал в разработке проектов для BOEING и ГЛОНАСС.</Description>
+  <ContactsUrl>https://vk.com/voland69</ContactsUrl>
 </Speaker>
