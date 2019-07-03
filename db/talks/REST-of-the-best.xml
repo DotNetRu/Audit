@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>REST-of-the-best</Id>
+  <SpeakerIds>
+    <SpeakerId>Roman-Prosin</SpeakerId>
+  </SpeakerIds>
+  <Title>REST of the best</Title>
+  <Description>Вспомним основные концепции архитектурного стиля REST, рассмотрим лучшие практики применения на примерах ASP.NET Web API-сервисов.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/roman-prosin-rest-of-the-best</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=kLG1Dt2zrDI</VideoUrl>
+</Talk>

@@ -1,5 +1,8 @@
 ﻿<Speaker>
   <Id>Evgeniy-Tymencev</Id>
   <Name>Евгений Тюменцев</Name>
-  <Description>Опыт работы в ИТ-отрасли 14 лет. Был программистом, системным архитектором, руководителем проектов. Специализировался на разработке серверных, многопоточных, высокопроизводительных приложений.</Description>
+  <CompanyName>Hello World! Technologies</CompanyName>
+  <CompanyUrl>https://hwdtech.ru/</CompanyUrl>  
+  <Description>Опыт работы в ИТ-отрасли с 2005 года. Был программистом, системным архитектором, руководителем проектов. Специализировался на разработке серверных, многопоточных, высокопроизводительных приложений.</Description>
+  <ContactsUrl>https://vk.com/etyumentcev</ContactsUrl>
 </Speaker>
