@@ -9,6 +9,13 @@
         <xs:element name="Name" type="requaredString" />
         <xs:element name="City" type="requaredString" />
         <xs:element name="TimeZone" type="requaredString" />
+
+        <xs:element name="VkUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+        <xs:element name="TwitterUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+        <xs:element name="TelegramChannelUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+        <xs:element name="TelegramChatUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+        <xs:element name="MeetupComUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
+        <xs:element name="TimePadUrl" type="requaredUri" minOccurs="0" maxOccurs="1" />
       </xs:sequence>
     </xs:complexType>
   </xs:element>

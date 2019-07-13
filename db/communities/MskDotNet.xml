@@ -3,4 +3,7 @@
   <Name>MskDotNet</Name>
   <City>Москва</City>
   <TimeZone>Europe/Moscow</TimeZone>
+  <VkUrl>https://vk.com/MskDotNet</VkUrl>
+  <TwitterUrl>https://twitter.com/MskDotNet</TwitterUrl>
+  <TimePadUrl>https://MskDotNet.timepad.ru/</TimePadUrl>
 </Community>
