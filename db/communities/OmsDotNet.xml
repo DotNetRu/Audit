@@ -3,4 +3,6 @@
   <Name>OmsDotNet</Name>
   <City>Омск</City>
   <TimeZone>Asia/Omsk</TimeZone>
+  <VkUrl>https://vk.com/OmsDotNet</VkUrl>
+  <TimePadUrl>https://OmsDotNet.timepad.ru/</TimePadUrl>
 </Community>
