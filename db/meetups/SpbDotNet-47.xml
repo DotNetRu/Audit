@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-47</Id>
+  <Name>Встреча SpbDotNet №47</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Luxoft</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Osen</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Just-In-Time-Hooking</TalkId>
+      <StartTime>2019-07-18T16:00:00Z</StartTime>
+      <EndTime>2019-07-18T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Working-on-Performance-with-Knowledge-of-GC</TalkId>
+      <StartTime>2019-07-18T17:30:00Z</StartTime>
+      <EndTime>2019-07-18T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

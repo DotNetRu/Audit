@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Just-In-Time-Hooking</Id>
+  <SpeakerIds>
+    <SpeakerId>George-Plotnikov</SpeakerId>
+  </SpeakerIds>
+  <Title>Just In Time hooking</Title>
+  <Description>Вы когда-нибудь пытались писать код, который будет оптимизирован? Всегда ли код работает настолько быстро, насколько вы ожидали? Не ломай голову - сломай Clr и пусть он сам тебе расскажет всё, что думает о твоем коде. Как это сделать - в этом докладе.</Description>
+</Talk>
