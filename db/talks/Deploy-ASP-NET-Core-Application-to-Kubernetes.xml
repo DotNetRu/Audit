@@ -5,4 +5,7 @@
   </SpeakerIds>
   <Title>Разворачиваем ASP.NET Core приложение в Kubernetes</Title>
   <Description>Kubernetes - это популярная платформа для развертывания и управления контейнеризованными сервисами. К сожалению, мы не всегда можем внедрить данное решение для рабочих проектов, а изучать что-то новое всегда интересно! В докладе мы попрактикуемся с ASP.NET Core и k8s, рассмотрим объекты k8s, а конце опубликуем production-ready приложение в облачном кластере.</Description>
+  <CodeUrl>https://github.com/ddydeveloper/ng-task-management-system/tree/k8s</CodeUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/daniil-doronkin-razvorachivaiem-asp-dot-net-core-prilozhieniie-v-kubernetes</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=qe_a8sdC1Hk</VideoUrl>
 </Talk>
