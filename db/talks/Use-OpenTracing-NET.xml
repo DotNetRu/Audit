@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Use-OpenTracing-NET</Id>
+  <SpeakerIds>
+    <SpeakerId>Igor-Chakrygin</SpeakerId>
+  </SpeakerIds>
+  <Title>Использование OpenTracing в .NET</Title>
+  <Description>Некоторое время назад в OZON.ru начали активно распиливать существующие монолитные системы на микросервисы и постепенно переносить их в Kubernetes.
+Вместе с этим возникла потребность понимать пути выполнения запросов и находить в них узкие места, поэтому появилась необходимость в системе распределённой трассировки.
+В качестве такой системы было решено использовать OpenTracing и Jaeger. В данном докладе Игорь расскажет, что это такое, и как их можно использовать в .NET приложениях.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/ighor-chakryghin-ispol-zovaniie-opentracing-v-net</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=-siZv8TZoMg</VideoUrl>
+</Talk>

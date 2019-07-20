@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Migrating-apps-from-SQL-Server-to-PostgreSQL</Id>
+  <SpeakerIds>
+    <SpeakerId>Vladimir-Kulikov</SpeakerId>
+  </SpeakerIds>
+  <Title>Миграция приложений с SQL Server на PostgreSQL</Title>
+  <Description>Что может быть проще, чем переход с одной СУБД на другую со стороны кода приложения? 
+ADO.NET предоставляет базовые интерфейсы по работе с данными, и разница сводится лишь к диалекту SQL и замене используемых классов одного провайдера на другие… Но это всё лишь на первый взгляд.
+В данном докладе Вы узнаете про разницу между устройством SQL Server и PostgreSQL, их клиентов, а также про способы, которые помогут улучшить производительность приложений.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/vladimir-kulikov-mighratsiia-prilozhienii-s-sql-server-na-postgresql</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=QlbVWmz8Kuw</VideoUrl>
+</Talk>
