@@ -5,12 +5,12 @@
   <FriendIds>
     <FriendId>OZON</FriendId>
   </FriendIds>
-  <VenueId>Msk-OZONNaberezhnaya</VenueId>
+  <VenueId>Msk-OZON-Naberezhnaya</VenueId>
   <Sessions>  
     <Session>
       <TalkId>Use-OpenTracing-NET</TalkId>
-      <StartTime>2018-12-11T21:00:00Z</StartTime>
-      <EndTime>2018-12-11T21:00:00Z</EndTime>
+      <StartTime>2018-12-11T16:00:00Z</StartTime>
+      <EndTime>2018-12-11T17:00:00Z</EndTime>
     </Session>
     <Session>
       <TalkId>Migrating-apps-from-SQL-Server-to-PostgreSQL</TalkId>
