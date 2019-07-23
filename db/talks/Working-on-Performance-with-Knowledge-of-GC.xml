@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Работа над производительностью, вооружившись знаниями о GC</Title>
   <Description>В докладе мы рассмотрим ряд техник, которые помогут избежать проблем со срабатыванием GC в самые неподходящие моменты, научившись заранее предсказывать его запуск.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/stanislav-sidristyi-rabota-nad-proizvoditiel-nost-iu-vooruzhivshis-znaniiami-o-gc</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=NVuenOuu2u0</VideoUrl>
 </Talk>
