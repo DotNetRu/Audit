@@ -1,0 +1,31 @@
+﻿<Meetup>
+  <Id>SpbDotNet-48</Id>
+  <Name>Встреча SpbDotNet №48</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>ITGM</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Tuutari-Park</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Round-Table-Practice-Of-Pure-Architecture</TalkId>
+      <StartTime>2019-07-27T09:00:00Z</StartTime>
+      <EndTime>2019-07-27T10:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-The-Quality-Of-The-Code</TalkId>
+      <StartTime>2019-07-27T10:00:00Z</StartTime>
+      <EndTime>2019-07-27T11:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-The-Truth-And-Fiction-Of-IT-Podcasts</TalkId>
+      <StartTime>2019-07-27T13:00:00Z</StartTime>
+      <EndTime>2019-07-27T14:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Dotnet-And-Java-Are-We-On-The-Sides-Of-Different-Forces</TalkId>
+      <StartTime>2019-07-27T14:00:00Z</StartTime>
+      <EndTime>2019-07-27T15:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
