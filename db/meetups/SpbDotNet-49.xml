@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-49</Id>
+  <Name>Встреча SpbDotNet №49</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>DataArt</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Telekom</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Monolith-Few-Sources-2-Developers</TalkId>
+      <StartTime>2019-08-15T16:00:00Z</StartTime>
+      <EndTime>2019-08-15T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Event-Brokers-as-Connecting-Element-of-Architecture</TalkId>
+      <StartTime>2019-08-15T17:30:00Z</StartTime>
+      <EndTime>2019-08-15T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

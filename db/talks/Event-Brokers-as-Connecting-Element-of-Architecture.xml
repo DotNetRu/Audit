@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Event-Brokers-as-Connecting-Element-of-Architecture</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
+  </SpeakerIds>
+  <Title>Брокеры событий как связующий элемент архитектуры</Title>
+  <Description>Что будет если мы совместим паттерны Command, Observer и Mediator? У нас получится сущность именуемая "брокер событий" (также известна как "шина событий" — event bus). Эта конструкция представляет собой центральный шлюз, через который все компоненты системы общаются друг с другом. В этом докладе мы посмотрим на типовые реализации брокера событий и обсудим как такие брокеры применяются в контекте таких подходов как CQRS и Event Sourcing.</Description>
+</Talk>
