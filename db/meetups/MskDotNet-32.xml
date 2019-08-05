@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-32</Id>
+  <Name>Встреча MskDotNet №32</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Europlan</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Europlan</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Help-all-humans-why-we-created-our-own-chatbot-engine</TalkId>
+      <StartTime>2019-01-31T16:00:00Z</StartTime>
+      <EndTime>2019-01-31T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Finer-points-of-asynchronous-programming-in-ASP-NET-Core</TalkId>
+      <StartTime>2019-01-31T17:30:00Z</StartTime>
+      <EndTime>2019-01-31T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
