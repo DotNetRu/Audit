@@ -4,5 +4,6 @@
   <City>Омск</City>
   <TimeZone>Asia/Omsk</TimeZone>
   <VkUrl>https://vk.com/OmsDotNet</VkUrl>
+  <TelegramChatUrl>https://t.me/OmsDotNetChat</TelegramChatUrl>
   <TimePadUrl>https://OmsDotNet.timepad.ru/</TimePadUrl>
 </Community>
