@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Why-Request-for-EF6-so-Slow</Id>
+  <SpeakerIds>
+    <SpeakerId>Alex-Kapustyanenko</SpeakerId>
+  </SpeakerIds>
+  <Title>Почему же мой запрос на Entity Framework 6 так тормозит? Часть 9000</Title>
+  <Description>Алексей расскажет о хитростях кеширования в Entity Framework 6 и о том, как простые на первый взгляд LINQ-выражения могут замедлить ваши запросы на несколько порядков.</Description>
+</Talk>
