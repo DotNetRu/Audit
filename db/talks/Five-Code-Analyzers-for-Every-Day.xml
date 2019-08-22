@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Five-Code-Analyzers-for-Every-Day</Id>
+  <SpeakerIds>
+    <SpeakerId>Alex-Chirkin</SpeakerId>
+  </SpeakerIds>
+  <Title>Доверяй, но проверяй! 5 анализаторов кода на каждый день</Title>
+  <Description>В докладе Алексей поделится своим опытом расширения статической валидации кода с помощью Roslyn API, а также расскажет о том, когда и зачем это может пригодиться.</Description>
+</Talk>
