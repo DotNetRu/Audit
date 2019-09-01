@@ -1,22 +1,8 @@
 ﻿<Speaker>
   <Id>Alexander-Barmin</Id>
   <Name>Александр Бармин</Name>
-  <CompanyName>Epum</CompanyName>
-  <Description>Lead Software Engineer в компании EPAM. До EPAM занимался разработкой системы электронного документооборота "БОСС-Референт" и ее кастомизацией под нужды заказчиков. В EPAM являюсь техлидом проекта для британского заказчика в legal-домене, а также обучаю студентов в тренинг-центре. 
-
-Контакты
-twitter: https://twitter.com/AlexBarmin
-email: barmin.alexander@gmail.com
-
-Доклады
-https://www.youtube.com/watch?v=8Eo6bf-bPes
-https://www.youtube.com/watch?v=HC-0urj5UTg
-https://www.youtube.com/watch?v=D4JfXA7TToY
-https://vk.com/findit_spb?w=wall-26277718_7981
-https://events.epam.com/events/java-9-modules-osgi/talks/10716
-https://events.epam.com/events/java-meetup-spb/talks/5533
-
-Статьи
-https://habr.com/en/post/126248/
-https://habr.com/en/post/114571/</Description>
+  <CompanyName>EPAM</CompanyName>
+  <CompanyUrl>https://www.epam.com/</CompanyUrl>
+  <Description>Lead Software Engineer в компании EPAM. До EPAM занимался разработкой системы электронного документооборота "БОСС-Референт" и ее кастомизацией под нужды заказчиков. В EPAM являтеся техлидом проекта для британского заказчика в legal-домене, а также обучает студентов в тренинг-центре.</Description>
+  <TwitterUrl>https://twitter.com/AlexBarmin</TwitterUrl>
 </Speaker>
