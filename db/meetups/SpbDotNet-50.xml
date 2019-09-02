@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-50</Id>
+  <Name>Встреча SpbDotNet №50</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>GazpromMt</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Vedensky</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Near-Silent-Trading</TalkId>
+      <StartTime>2019-09-10T16:00:00Z</StartTime>
+      <EndTime>2019-09-10T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Reading-the-News-programmatically-An-Example</TalkId>
+      <StartTime>2019-09-10T17:30:00Z</StartTime>
+      <EndTime>2019-09-10T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
