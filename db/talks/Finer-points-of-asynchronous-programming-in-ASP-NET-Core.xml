@@ -6,4 +6,5 @@
   <Title>Тонкости асинхронного программирования в ASP.NET Core. Плохие и хорошие примеры на практике в микросервисах</Title>
   <Description>Конструкция async/await стала популярной во многих языках и платформах, от .NET до ES7! В этом докладе речь пойдет о тонкостях использования асинхронного программирования в .NET, рассмотрим плохие и хорошие сценарии написания кода. И поскольку докладчик активно распиливает монолиты и взял на вооружение .NET Core, то он  расскажет об их практике и стандартах асинхронного программирования в сервисах.</Description>
   <SlidesUrl>https://speakerdeck.com/dotnetru/alieksandr-shatilov-tonkosti-asinkhronnogho-proghrammirovaniia-v-asp-dot-net-core</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=WjnJlMzgs-0</VideoUrl>
 </Talk>
