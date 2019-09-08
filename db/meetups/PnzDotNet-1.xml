@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>PnzDotNet-1</Id>
+  <Name>Встреча PnzDotNet №1</Name>
+  <CommunityId>PnzDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>MoeDelo</FriendId>
+  </FriendIds>
+  <VenueId>Pnz-MoeDelo</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Touch-BitMap-Indexes</TalkId>
+      <StartTime>2019-08-28T16:00:00Z</StartTime>
+      <EndTime>2019-08-28T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Vulnerabilities-in-Deserialization</TalkId>
+      <StartTime>2019-08-28T17:00:00Z</StartTime>
+      <EndTime>2019-08-28T18:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
