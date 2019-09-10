@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>ORM-You-have-Never-Heard-of</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexander-A-Ivanov</SpeakerId>
+  </SpeakerIds>
+  <Title>ORM о котором вы (скорее всего) никогда не слышали</Title>
+  <Description>Александр расскажет про один непопулярный ORM, который используется на текущем проекте, про его особенности, плюсы и минусы.</Description>
+</Talk>
