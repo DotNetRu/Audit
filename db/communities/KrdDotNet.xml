@@ -1,0 +1,10 @@
+﻿<Community>
+  <Id>KrdDotNet</Id>
+  <Name>KrdDotNet</Name>
+  <City>Краснодар</City>
+  <TimeZone>Europe/Moscow</TimeZone>
+  <VkUrl>https://vk.com/KrdDotNet</VkUrl>
+  <TelegramChatUrl>https://t.me/KrdDotNetCommunity</TelegramChatUrl>
+  <MeetupComUrl>https://www.meetup.com/KrdDotNet</MeetupComUrl>
+  <TimePadUrl>https://KrdDotNet.timepad.ru/</TimePadUrl>
+</Community>
