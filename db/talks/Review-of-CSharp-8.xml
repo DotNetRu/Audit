@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Review-of-CSharp-8</Id>
+  <SpeakerIds>
+    <SpeakerId>Evgeniy-Makarov</SpeakerId>
+  </SpeakerIds>
+  <Title>Обзор C# 8.0</Title>
+  <Description>Какие новые фичи мы так долго ждали, и какие из них точно не появятся в релизе C# 8.0? 
+Отличаются ли теперь интерфейсы от абстрактных классов?
+На какие два лагеря скоро смогут разделиться C# разработчики?
+Об этом и многом другом расскажет Евгений в своем обзоре последней версии C#.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/ievghienii-makarov-obzor-c-number-8-dot-0</SlidesUrl>
+</Talk>

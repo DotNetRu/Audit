@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-33</Id>
+  <Name>Встреча MskDotNet №33</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Luxoft</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Luxoft</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Review-of-CSharp-8</TalkId>
+      <StartTime>2019-03-14T16:00:00Z</StartTime>
+      <EndTime>2019-03-14T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-New-Technologies-in-Existing-Projects</TalkId>
+      <StartTime>2019-03-14T17:30:00Z</StartTime>
+      <EndTime>2019-03-14T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

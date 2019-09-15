@@ -1,0 +1,11 @@
+﻿<Talk>
+  <Id>Round-Table-New-Technologies-in-Existing-Projects</Id>
+  <SpeakerIds>
+    <SpeakerId>Kirill-Maurin</SpeakerId>
+    <SpeakerId>Nikita-Tsukanov</SpeakerId>
+    <SpeakerId>Elizabeth-Holenok</SpeakerId>
+    <SpeakerId>Ilya-Fofanov</SpeakerId>
+  </SpeakerIds>
+  <Title>Круглый стол по теме &quot;Новые технологии: быть или не быть новым технологиям в существующих решениях&quot;</Title>
+  <Description>Вы работаете в одной и той же компании много лет? Или Вы пришли работать в крупную компанию, где много legacy? А вы хотите писать на .NET Core, использовать деконструкторы, именованные кортежи и сразу после релиза C# 8.0 внедрить у себя nullable-фичи и async streams? Стоит ли это делать? Почему не все компании готовы придерживаться современных тенденций? А может просто стоит с кем-то поговорить из руководства и не все так страшно?  Обсуждаем эти и другие вопросы с нашими экспертами.</Description>
+</Talk>
