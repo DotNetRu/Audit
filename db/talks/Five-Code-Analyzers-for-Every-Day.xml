@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Доверяй, но проверяй! 5 анализаторов кода на каждый день</Title>
   <Description>В докладе Алексей поделится своим опытом расширения статической валидации кода с помощью Roslyn API, а также расскажет о том, когда и зачем это может пригодиться.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksiei-chirkin-dovieriai-no-provieriai-5-analizatorov-koda-na-kazhdyi-dien</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=t68_moVH7P8</VideoUrl>
 </Talk>
