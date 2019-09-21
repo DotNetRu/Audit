@@ -7,4 +7,5 @@
   <Description>In an age of technology reading the news maybe have moved to our phones but there is always too much information to read on one day.
 
 We explore an example use case of one approach to reading news programmatically using .NET and Azure that Gazprom Germania has worked on. This starts off with the initial premise of the News reading area and then takes a high-level technical walkthrough of the technical phases and approach that was taken and lessons learnt through that journey.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/stewart-ridgway-reading-the-news-programmatically-an-example</SlidesUrl>
 </Talk>
