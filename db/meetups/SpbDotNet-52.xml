@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-52</Id>
+  <Name>Встреча SpbDotNet №52</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Intermedia</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Intermedia</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>HttpClient-Basic-Errors-and-How-to-Avoid-Them</TalkId>
+      <StartTime>2019-10-03T16:00:00Z</StartTime>
+      <EndTime>2019-10-03T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Integration-Hell-Guide</TalkId>
+      <StartTime>2019-10-03T17:30:00Z</StartTime>
+      <EndTime>2019-10-03T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
