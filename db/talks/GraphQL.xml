@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>GraphQL</Id>
+  <SpeakerIds>
+    <SpeakerId>Maxim-Shiryaev</SpeakerId>
+  </SpeakerIds>
+  <Title>GraphQL: просто, четко, оптимально.</Title>
+  <Description>В рамках доклада будут рассмотрены история GraphQL и язык запросов, роль и место данной технологии. Будут разобраны основные библиотеки и паттерны. Будут продемонстрированы на примере преимущества GraphQL в продакшене. Будет дан ответ на вопрос: какие проблемы и перспективы связаны с данной технологией. И многое, многое другое.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/maksim-shiriaiev-graphql-prosto-chietko-optimal-no</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Me-b29vDCgU</VideoUrl>
+</Talk>
