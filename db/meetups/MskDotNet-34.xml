@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-34</Id>
+  <Name>Встреча MskDotNet №34</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>RaiffeisenBank</FriendId>
+  </FriendIds>
+  <VenueId>Msk-RaiffeisenBankTechnopark</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Blazor-frontend</TalkId>
+      <StartTime>2019-03-28T16:00:00Z</StartTime>
+      <EndTime>2019-03-28T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>GraphQL-simply-clearly-optimally</TalkId>
+      <StartTime>2019-03-28T17:30:00Z</StartTime>
+      <EndTime>2019-03-28T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

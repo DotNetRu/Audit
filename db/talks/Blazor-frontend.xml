@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Blazor-frontend</Id>
+  <SpeakerIds>
+    <SpeakerId>Ilya-Chertorylsky</SpeakerId>
+  </SpeakerIds>
+  <Title>Blazor глазами фронтенд-разработчика</Title>
+  <Description>В рамках доклада рассмотрим Blazor, как один из не многих или, возможно, единственный WebAssembly фреймворк для создания SPA приложения на одном из популярных языков программирования С#. </Description>
+  <VideoUrl>https://www.youtube.com/watch?v=l7QDdA9HQOQ</VideoUrl>
+</Talk>
