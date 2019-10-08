@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-53</Id>
+  <Name>Встреча SpbDotNet №53</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>T-Systems</FriendId>
+  </FriendIds>
+  <VenueId>Spb-T-Systems</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Flying-Over-the-Level-of-Abstraction</TalkId>
+      <StartTime>2019-10-17T16:00:00Z</StartTime>
+      <EndTime>2019-10-17T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Software-Development-for-Architecture-and-Design</TalkId>
+      <StartTime>2019-10-17T17:30:00Z</StartTime>
+      <EndTime>2019-10-17T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
