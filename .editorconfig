@@ -1,0 +1,16 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+[*]
+# Don't use tabs for indentation.
+indent_style = space
+indent_size = 4
+
+# Data and Schema files
+[*.{xml,xsd}]
+end_of_line = crlf
+insert_final_newline = true
+charset = utf-8-bom
+indent_size = 2
