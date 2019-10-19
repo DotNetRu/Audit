@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>OmsDotNet-2</Id>
+  <Name>Встреча OmsDotNet №2</Name>
+  <CommunityId>OmsDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>RaiffeisenBank</FriendId>
+  </FriendIds>
+  <VenueId>Oms-RigaMoscow</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Background-processes-frameworks-in-ASP-NET</TalkId>
+      <StartTime>2019-04-18T13:00:00Z</StartTime>
+      <EndTime>2019-04-18T13:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>A-proper-way-to-develop-a-REST-service</TalkId>
+      <StartTime>2019-04-18T14:00:00Z</StartTime>
+      <EndTime>2019-04-18T14:45:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

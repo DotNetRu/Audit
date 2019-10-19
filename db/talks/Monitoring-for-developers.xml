@@ -1,0 +1,11 @@
+﻿<Talk>
+  <Id>Monitoring-for-developers</Id>
+  <SpeakerIds>
+    <SpeakerId>Pavel-Pritchin</SpeakerId>
+  </SpeakerIds>
+  <Title>Мониторинг для разработчиков</Title>
+  <Description>Мониторинг — это множество возможностей, но надо уметь с ним обращаться в сложной распределенной системе. Докладчик покажет, как это делается в нашем .NET. Из доклада слушатели вынесут: какие бывают аспекты мониторинга системы, зачем он нужен с разных сторон, на конкретных примерах узнают, как использовать технологии мониторинга. Как дополнение, узнают несколько примеров наших(додовских) сбоев.
+Доклад рассчитан на разработчиков, которые хотят сами следить за своей системой в боевых условиях и понимать ее работу.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/paviel-pitchin-monitoringh-dlia-razrabotchikov</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=EZxdRzzifII</VideoUrl>
+</Talk>

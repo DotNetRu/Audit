@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>OmsDotNet-4</Id>
+  <Name>Встреча OmsDotNet №4</Name>
+  <CommunityId>OmsDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>RaiffeisenBank</FriendId>
+  </FriendIds>
+  <VenueId>Oms-RigaMoscow</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>REST-of-the-best</TalkId>
+      <StartTime>2019-06-27T13:00:00Z</StartTime>
+      <EndTime>2019-06-27T13:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>CLRMD-how-to-write-your-debug-tool</TalkId>
+      <StartTime>2019-06-27T14:00:00Z</StartTime>
+      <EndTime>2019-06-27T14:45:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

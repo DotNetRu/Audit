@@ -1,0 +1,9 @@
+﻿<Speaker>
+  <Id>Andrey-Karpov</Id>
+  <Name>Андрей Карпов</Name>
+  <CompanyName>JetBrains</CompanyName>
+  <CompanyUrl>https://www.jetbrains.com/</CompanyUrl>
+  <Description>Андрей Карпов работает в компании JetBrains, где занимается поддержкой языка C# в продуктах ReSharper и Rider. Интересуется дизайном языков программирования, функциональным программированием, статическим анализом и преобразованием программ.</Description>
+  <TwitterUrl>https://twitter.com/akarpov89</TwitterUrl>
+  <GitHubUrl>https://github.com/akarpov89</GitHubUrl>
+</Speaker>

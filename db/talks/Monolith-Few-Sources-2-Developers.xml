@@ -1,0 +1,19 @@
+﻿<Talk>
+  <Id>Monolith-Few-Sources-2-Developers</Id>
+  <SpeakerIds>
+    <SpeakerId>Nikita-Kozlov</SpeakerId>
+  </SpeakerIds>
+  <Title>Монолит, немного исходников, 2 разработчика: ещё одна история миграции приложения в облако</Title>
+  <Description>На примере реального проекта рассмотрим процесс миграции ASP.NET-приложения в Azure Cloud.
+Звучит скучно? Тогда добавим вводных:
+
+- килобайты исходников;
+- часть приложения в бинарниках;
+- рост команды разработки до 30+ человек;
+- 3 новых продукта.
+
+Стало интереснее? На закуску — уменьшение стоимости облачного решения и модернизация приложения.</Description>
+  <CodeUrl>https://github.com/DataArt/meetup-azure-monolith-migration</CodeUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/nikita-kozlov-monolit-niemnogho-iskhodnikov-2-razrabotchika-ieshchio-odna-istoriia-mighratsii-prilozhieniia-v-oblako</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=ZSuk_6kkEA0</VideoUrl>
+</Talk>

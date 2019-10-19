@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-46</Id>
+  <Name>Встреча SpbDotNet №46</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Arcadia</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Arcadia</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Deploy-ASP-NET-Core-Application-to-Kubernetes</TalkId>
+      <StartTime>2019-06-27T16:00:00Z</StartTime>
+      <EndTime>2019-06-27T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Clean-Architectures</TalkId>
+      <StartTime>2019-06-27T17:30:00Z</StartTime>
+      <EndTime>2019-06-27T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-51</Id>
+  <Name>Встреча SpbDotNet №51</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>AlfaBank</FriendId>
+  </FriendIds>
+  <VenueId>Spb-YasnayaPolyana</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Battle-SQL-vs-DocumentDB</TalkId>
+      <StartTime>2019-09-19T16:00:00Z</StartTime>
+      <EndTime>2019-09-19T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Team-Management-Developer-Perspective</TalkId>
+      <StartTime>2019-09-19T17:30:00Z</StartTime>
+      <EndTime>2019-09-19T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Integration-Hell-Guide</Id>
+  <SpeakerIds>
+    <SpeakerId>Alex-Merson</SpeakerId>
+  </SpeakerIds>
+  <Title>Integration hell: путеводитель</Title>
+  <Description>Жизнь энтерпрайз-разработчика - это бесконечные интеграции. Интеграции повсюду. Если не интегрируетесь вы, то интегрируются с вами. И почти всегда интеграции - это боль. Много боли. В своем докладе Алексей расскажет, как купировать боль и выжить.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksiei-mierson-integration-hell-putievoditiel</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=rj5HbgMoXG0</VideoUrl>
+</Talk>

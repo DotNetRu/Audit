@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SamDotNet-1</Id>
+  <Name>Встреча SamDotNet №1</Name>
+  <CommunityId>SamDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>EPAM</FriendId>
+  </FriendIds>
+  <VenueId>Sam-Monolith</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Why-Request-for-EF6-so-Slow</TalkId>
+      <StartTime>2019-08-28T15:00:00Z</StartTime>
+      <EndTime>2019-08-28T16:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Five-Code-Analyzers-for-Every-Day</TalkId>
+      <StartTime>2019-08-28T16:30:00Z</StartTime>
+      <EndTime>2019-08-28T17:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

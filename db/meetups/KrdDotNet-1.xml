@@ -1,0 +1,18 @@
+﻿<Meetup>
+  <Id>KrdDotNet-1</Id>
+  <Name>Встреча KrdDotNet №1</Name>
+  <CommunityId>KrdDotNet</CommunityId>
+  <VenueId>Krd-Krylya</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>ORM-You-have-Never-Heard-of</TalkId>
+      <StartTime>2019-10-03T16:00:00Z</StartTime>
+      <EndTime>2019-10-03T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Why-DDD-is-Correct-and-Why-It-does-Not-Work</TalkId>
+      <StartTime>2019-10-03T17:30:00Z</StartTime>
+      <EndTime>2019-10-03T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

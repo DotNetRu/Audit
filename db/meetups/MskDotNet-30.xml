@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-30</Id>
+  <Name>Встреча MskDotNet №30</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>OZON</FriendId>
+  </FriendIds>
+  <VenueId>Msk-OZON-Naberezhnaya</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Use-OpenTracing-NET</TalkId>
+      <StartTime>2018-12-11T16:00:00Z</StartTime>
+      <EndTime>2018-12-11T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Migrating-apps-from-SQL-Server-to-PostgreSQL</TalkId>
+      <StartTime>2018-12-11T17:30:00Z</StartTime>
+      <EndTime>2018-12-11T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Ref-Everything</Id>
+  <SpeakerIds>
+    <SpeakerId>Konrad-Kokosa</SpeakerId>
+  </SpeakerIds>
+  <Title>Ref struct, ref readonly struct, ref returning, ref everything!</Title>
+  <Description>Managed pointers, in the form of ref variables, existed in .NET since the very beginning. But only recently they gained much bigger interest - there are such constructs like in parameters, local ref variables and readonly refs. Moreover, recently so-called ref structs were introduced and in the context of Span&lt;T&gt; type one could hear of byref-like instance fields. We can hear about those "ref-something" things a lot, but should one really care?
+
+I believe so, as all those changes perfectly fit into the ongoing process of speeding up .NET and its performance possibilities. There is a lot of ways to optimize your code with the conscious use of those constructs, although some caveats exist that we should be aware of. Let me introduce you to such "ref-world"!</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/konrad-kokosa-ref-struct-ref-readonly-struct-ref-returning-ref-everything</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=bYBbhqvC26Y</VideoUrl>
+</Talk>

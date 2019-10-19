@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Team-Management-Developer-Perspective</Id>
+  <SpeakerIds>
+    <SpeakerId>Mikhail-Galushko</SpeakerId>
+  </SpeakerIds>
+  <Title>Управление командой: взгляд со стороны разработчика</Title>
+  <Description>В этом докладе мы рассмотрим разные стили управления командой. От  тотального контроля у начинающих тимлилов до набирающего популярность Servant Lead. Узнаем как методологии управления влияют на круг задач над которыми работает разработчик. И как все эти знания могут помочь изменить работу в команде к лучшему.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/mikhail-galushko-upravlieniie-komandoi-vzghliad-so-storony-razrabotchika</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=BVmGU279oAQ</VideoUrl>
+</Talk>

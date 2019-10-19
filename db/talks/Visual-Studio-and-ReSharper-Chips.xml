@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Visual-Studio-and-ReSharper-Chips</Id>
+  <SpeakerIds>
+    <SpeakerId>Rustam-Safin</SpeakerId>
+  </SpeakerIds>
+  <Title>Фишечки Visual Studio и ReSharper</Title>
+  <Description>Доклад Рустама будет посвящен тому, как программировать быстро и эффективно, используя всю мощь современных IDE и плагинов.</Description>
+</Talk>

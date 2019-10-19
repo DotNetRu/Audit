@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Most-Delicious-Features-of-Visual-Studio-2019</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexander-Kugushev</SpeakerId>
+  </SpeakerIds>
+  <Title>Самые вкусные возможности Visual Studio 2019</Title>
+  <Description>Visual Studio 2019 вышла только в этом месяце, и не все готовы переходить со стабильно работающей 2017 версии. В данном докладе мы пробежимся по самым вкусным возможностями "чистой" студии и попытаемся решить, стоит ли сломя голову обновляться, или же "подождём первого Service Pack".</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksandr-kughushiev-samyie-vkusnyie-vozmozhnosti-visual-studio-2019</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=kpgG9imQ2fU</VideoUrl>
+</Talk>

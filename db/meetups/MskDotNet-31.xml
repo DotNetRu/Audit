@@ -1,0 +1,36 @@
+﻿<Meetup>
+  <Id>MskDotNet-31</Id>
+  <Name>MskDotNet Субботник 2018</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>DodoPizza</FriendId>
+  </FriendIds>
+  <VenueId>Msk-DodoPizza</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>WPF-memory-leaks</TalkId>
+      <StartTime>2018-12-15T08:15:00Z</StartTime>
+      <EndTime>2018-12-15T09:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Flyweight-pattern-in-Unity3D</TalkId>
+      <StartTime>2018-12-11T09:15:00Z</StartTime>
+      <EndTime>2018-12-11T10:15:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Monitoring-for-developers</TalkId>
+      <StartTime>2018-12-11T11:00:00Z</StartTime>
+      <EndTime>2018-12-11T11:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Data-structures</TalkId>
+      <StartTime>2018-12-11T12:00:00Z</StartTime>
+      <EndTime>2018-12-11T13:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Hardware-code</TalkId>
+      <StartTime>2018-12-11T13:30:00Z</StartTime>
+      <EndTime>2018-12-11T14:15:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

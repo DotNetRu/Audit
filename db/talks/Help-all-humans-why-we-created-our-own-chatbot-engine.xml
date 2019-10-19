@@ -1,0 +1,15 @@
+﻿<Talk>
+  <Id>Help-all-humans-why-we-created-our-own-chatbot-engine</Id>
+  <SpeakerIds>
+    <SpeakerId>Oleg-Tarasov</SpeakerId>
+  </SpeakerIds>
+  <Title>Помочь всем человекам: зачем мы написали свой движок чат-бота</Title>
+  <Description>В докладе речь пойдет о своем движке для создания чат-ботов с полностью кастомизируемой системой сценариев. В качестве базового транспортного уровня используется MS Bot Framework, поверх которого работает сценарный движок. Для того чтобы бот мог обрабатывать запросы на естественном языке, был с нуля разработан сервис Natural Language Understanding (аналог LUIS от MS), который может использоваться как отдельный продукт, доступный по REST API.
+Докладчик расскажет:
+* почему решили писать собственный движок;
+* какие вызовы стоят перед чат-ботом, который оказывает поддержку для крупного телеком-оператора;
+* какие алгоритмы лежали в основе первых прототипов NLU и как он работает сейчас;
+* какие приёмы и технологии используются в разработке.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/oliegh-tarasov-pomoch-vsiem-chieloviekam-zachiem-my-napisali-svoi-dvizhok-chat-bota</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=CPriMB30uZ4</VideoUrl>
+</Talk>

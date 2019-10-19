@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>A-proper-way-to-develop-a-REST-service</Id>
+  <SpeakerIds>
+    <SpeakerId>Sergey-Ogorodnikov</SpeakerId>
+  </SpeakerIds>
+  <Title>A proper way to develop a REST service</Title>
+  <Description>В докладе будет рассмотрена история возникновения Swagger, его предназначение, использование в .NET, опыт работы с ним в компании OneInc, а также альтернативные способы написания клиентов для сервисов.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/sierghiei-oghorodnikov-a-proper-way-to-develop-a-rest-service</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=SOXJdStHqlQ</VideoUrl>
+</Talk>

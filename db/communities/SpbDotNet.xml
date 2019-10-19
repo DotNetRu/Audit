@@ -3,4 +3,9 @@
   <Name>SpbDotNet</Name>
   <City>Санкт-Петербург</City>
   <TimeZone>Europe/Moscow</TimeZone>
+  <VkUrl>https://vk.com/SpbDotNet</VkUrl>
+  <TwitterUrl>https://twitter.com/SpbDotNet</TwitterUrl>
+  <TelegramChannelUrl>https://t.me/SpbDotNet</TelegramChannelUrl>
+  <MeetupComUrl>https://www.meetup.com/SpbDotNet</MeetupComUrl>
+  <TimePadUrl>https://SpbDotNet.timepad.ru/</TimePadUrl>
 </Community>

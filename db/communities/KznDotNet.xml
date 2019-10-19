@@ -3,4 +3,8 @@
   <Name>KznDotNet</Name>
   <City>Казань</City>
   <TimeZone>Europe/Moscow</TimeZone>
+  <VkUrl>https://vk.com/KznDotNet</VkUrl>
+  <TelegramChannelUrl>https://t.me/KznDotNet</TelegramChannelUrl>
+  <TelegramChatUrl>https://t.me/KznDotNetChat</TelegramChatUrl>
+  <TimePadUrl>https://KznDotNet.timepad.ru/</TimePadUrl>
 </Community>

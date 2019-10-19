@@ -1,0 +1,7 @@
+﻿<Speaker>
+  <Id>Alexander-Shatilov</Id>
+  <Name>Александр Шатилов</Name>
+  <CompanyName>Европлан</CompanyName>
+  <CompanyUrl>https://europlan.ru/</CompanyUrl>
+  <Description>Работает в компании Европлан fullstack разработчиком. Занимается разработкой на .NET более 8 лет. Долгое время разрабатывал решения на WinForms/WPF/WCF/ASP.NET MVC, в последние годы ушёл в веб-разработку на Angular(React)/.NET Core/PostgreSQL. В свободное время исследует кроссплатформенные решения, например capacitor от команды Ionic, пушит на GitHub в open source для Яндекс.Карты.</Description>
+</Speaker>

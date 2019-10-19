@@ -1,0 +1,10 @@
+﻿<Community>
+  <Id>PnzDotNet</Id>
+  <Name>PnzDotNet</Name>
+  <City>Пенза</City>
+  <TimeZone>Europe/Moscow</TimeZone>
+  <VkUrl>https://vk.com/PenzaDotNet</VkUrl>
+  <TelegramChannelUrl>https://t.me/PnzDotNet</TelegramChannelUrl>
+  <TelegramChatUrl>https://t.me/PnzDotNetGroup</TelegramChatUrl>
+  <TimePadUrl>https://PenzaDotNet.timepad.ru/</TimePadUrl>
+</Community>

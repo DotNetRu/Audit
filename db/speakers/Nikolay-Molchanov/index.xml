@@ -1,8 +1,6 @@
 ﻿<Speaker>
   <Id>Nikolay-Molchanov</Id>
   <Name>Николай Молчанов</Name>
-  <CompanyName>Альфа-Банк</CompanyName>
-  <CompanyUrl>https://alfabank.ru/</CompanyUrl>
   <Description>Руководитель центра компетенции .NET в Альфа-Банке</Description>
   <GitHubUrl>https://github.com/kroniak</GitHubUrl>
 </Speaker>

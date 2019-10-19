@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>How-to-Collect-Quantitative-Data</Id>
+  <SpeakerIds>
+    <SpeakerId>Oleg-Blokhin</SpeakerId>
+    <SpeakerId>Matvey-Grigorev</SpeakerId>
+  </SpeakerIds>
+  <Title>Как организовать сбор количественных данных о работе .NET приложения, если некому это сделать за вас</Title>
+  <Description>Большинство разработчиков стремится писать хороший код. Но достаточно ли этого для того чтобы сделать хорошее приложение, которое ведёт себя на продакшене стабильно, предсказуемо и держит необходимую нагрузку? Олег и Матвей считают, что не достаточно. И одним из важных элеменов любого приложения являются механизмы мониторинга, позволяющие понять как оно на самом деле ведет себя в боевых условиях.
+
+Они расскажут необходимый минимум из теории мониторинга и проведут лайвкодинг сессию, где покажут, как можно собирать телеметрию в .NET приложении при помощи Prometheus и как поднять всю необходимую для этого инфраструктуру.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/oliegh-blokhin-i-matviei-grighor-iev-kak-orghanizovat-sbor-kolichiestviennykh-dannykh-o-rabotie-net-prilozhieniia-iesli-niekomu-eto-sdielat-za-vas</SlidesUrl>
+</Talk>

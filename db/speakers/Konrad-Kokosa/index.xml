@@ -1,0 +1,9 @@
+﻿<Speaker>
+  <Id>Konrad-Kokosa</Id>
+  <Name>Konrad Kokosa</Name>
+  <CompanyName>Gritstep</CompanyName>
+  <CompanyUrl>http://gritstep.com/</CompanyUrl>
+  <Description>Author of the Pro .NET Memory Management book. Programming for over a dozen years, solving performance problems and architectural puzzles in the .NET world, speeding up web applications. Independent consultant, blogger, speaker and fan of Twitter. He also shares his passion as a trainer at Bottega IT Solutions in the area of .NET, especialy about application performance and diagnostics. Founder of the Warsaw Web Performance group. Microsoft MVP in the Visual Studio and Development Tools category. Co-founder of https://dotnetos.org initiative.</Description>
+  <BlogUrl>http://tooslowexception.com/</BlogUrl>
+  <TwitterUrl>https://twitter.com/konradkokosa</TwitterUrl>
+</Speaker>

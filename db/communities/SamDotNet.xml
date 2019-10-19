@@ -1,0 +1,11 @@
+﻿<Community>
+  <Id>SamDotNet</Id>
+  <Name>SamDotNet</Name>
+  <City>Самара</City>
+  <TimeZone>Europe/Samara</TimeZone>
+  <VkUrl>https://vk.com/SamDotNet</VkUrl>
+  <TwitterUrl>https://twitter.com/SamDotNetC</TwitterUrl>
+  <TelegramChannelUrl>https://t.me/SamDotNet</TelegramChannelUrl>
+  <TelegramChatUrl>https://t.me/SamDotNetChat</TelegramChatUrl>
+  <TimePadUrl>https://SamDotNet.timepad.ru/</TimePadUrl>
+</Community>
