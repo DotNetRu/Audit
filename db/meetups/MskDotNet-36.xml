@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-36</Id>
+  <Name>Встреча MskDotNet №36</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>CUSTIS</FriendId>
+  </FriendIds>
+  <VenueId>Msk-CUSTIS</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Boundary-Between-Database-Logic-and-Application-Server</TalkId>
+      <StartTime>2019-04-19T16:00:00Z</StartTime>
+      <EndTime>2019-04-19T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Cross-procedural-Analysis-for-Local-Functions-in-Resharper</TalkId>
+      <StartTime>2019-04-19T17:30:00Z</StartTime>
+      <EndTime>2019-04-19T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

@@ -1,0 +1,9 @@
+﻿<Speaker>
+  <Id>Andrey-Dyatlov</Id>
+  <Name>Андрей Дятлов</Name>
+  <CompanyName>JetBrains</CompanyName>
+  <CompanyUrl>https://www.jetbrains.com/</CompanyUrl>
+  <Description>Работает в JetBrains более 3.5 лет, занимается поддержкой языка C# в ReSharper/Rider - от реализации парсера до статических анализов и рефакторингов. Начинал свой путь к программированию со SCADA-систем и автоматизации промышленного оборудования — установок магнетронного напыления и плазмохимического травления. Интересуется статическим анализом кода, теорией типов и метапрограммированием.</Description>
+  <BlogUrl>https://github.com/TessenR</BlogUrl>
+  <TwitterUrl>https://twitter.com/a_tessenr</TwitterUrl>
+</Speaker>

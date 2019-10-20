@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Boundary-Between-Database-Logic-and-Application-Server</Id>
+  <SpeakerIds>
+    <SpeakerId>Mariya-Shekochikhina</SpeakerId>
+  </SpeakerIds>
+  <Title>Граница между бизнес-логикой в СУБД и сервером приложений</Title>
+  <Description>Все приложения работают с данными. Пока объем данных не слишком большой и приложение простое, не принципиально, где размещать бизнес-логику: в СУБД или на сервере приложений. С ростом объема данных и усложнением приложений появляется вопрос, где граница между логикой в СУБД и на сервере приложений. Когда C#-разработчику нужно звать на помощь SQL-разработчика? Всегда ли можно обойтись своими силами?</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/mariia-shchiekochikhina-granitsa-miezhdu-biznies-loghikoi-v-subd-i-siervierom-prilozhienii</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=BqFCajUnyQ4</VideoUrl>
+</Talk>
