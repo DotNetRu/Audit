@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Unity-for-Gamification-and-Enterprise</Id>
+  <SpeakerIds>
+    <SpeakerId>Anton-Pudikov</SpeakerId>
+  </SpeakerIds>
+  <Title>Unity для игрофикации и корпоративной разработки</Title>
+  <Description>Игровые движки перестали быть инструментом предназначенным только для игр. Пользовательские приложения уже захвачены игровыми механиками, графикой, визуализацией с различными видами интерактива. Самое время обсудить, как Unity может помочь выжить в мире работы с пользователями, для которых игрофикация (геймификация) стала повседневной нормой.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/anton-pudikov-unity-dlia-ighrofikatsii-i-korporativnoi-razrabotki</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=oTtBQVt6HwI</VideoUrl>
+</Talk>

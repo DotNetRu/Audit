@@ -1,0 +1,15 @@
+﻿<Talk>
+  <Id>Xamarin-vs-Unity-rakes-of-mobile-development-for-Android</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexey-Matveev</SpeakerId>
+  </SpeakerIds>
+  <Title>Xamarin vs Unity — Собираем грабли мобильной разработки под Android</Title>
+  <Description> - Xamarin — это ведь тот же WPF только под мобилы… Да?
+ - Нет!
+ - Unity — это ведь только для игр… Да?
+ - Нет!
+
+Xamarin и Unity (Unity3D) это не только ценный TECH, но и 3-4 тонны разномастных граблей. Некоторые грабли — общие для обеих технологий. Другие грабли — особые для конкретной платформы. В докладе пойдет речь и о тех, и о других. Будут затронуты вопросы работы с инерциальными датчиками, звуком, вопросы работы в фоне и сложности отладки на мобильных устройствах.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksiei-matvieiev-xamarin-vs-unity-sobiraiem-ghrabli-mobil-noi-razrabotki-pod-android</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=gg9_aZ44mTY</VideoUrl>
+</Talk>
