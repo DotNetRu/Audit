@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>OmsDotNet-Community-2019</Id>
+  <SpeakerIds>
+    <SpeakerId>Pavel-Kulbida</SpeakerId>
+  </SpeakerIds>
+  <Title>OmsDotNet Community</Title>
+  <Description>Рассказ о сообществе .NET разработчиков в Омске.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/paviel-kul-bida-omsdotnet-community</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=aXRJaDFH9O0</VideoUrl>
+</Talk>

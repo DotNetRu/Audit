@@ -1,0 +1,11 @@
+﻿<Talk>
+  <Id>This-is-wonderful-GraphQL</Id>
+  <SpeakerIds>
+    <SpeakerId>Sergey-Ogorodnikov</SpeakerId>
+    <SpeakerId>Alya-Latypova</SpeakerId>	
+  </SpeakerIds>
+  <Title>Этот замечательный GraphQL</Title>
+  <Description>В докладе рассмотрим успешный опыт запуска проекта, использующего GraphQL для связи фронта (React) с бэком (.NET Core). Покажем, что GraphQL — это не сложно и не страшно, сравним с подходом REST/Redux. На фронте apollo-client помог сократить количество кода и сделать его более элегантным. На бэке связка GraphQL + CQRS + DDD позволила написать понятный код, API бэка стал более гибким, однако при этом потребовалось учитывать некоторые подводные камни.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/sierghiei-oghorodnikov-aliia-latypova-etot-zamiechatiel-nyi-graphql</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Zr6kujL7mYY</VideoUrl>
+</Talk>
