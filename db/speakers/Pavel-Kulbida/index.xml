@@ -1,0 +1,11 @@
+﻿<Speaker>
+  <Id>Pavel-Kulbida</Id>
+  <Name>Павел Кульбида</Name>
+  <CompanyName>Raiffeisenbank</CompanyName>
+  <CompanyUrl>https://www.raiffeisen.ru</CompanyUrl>
+  <Description>Разработчик С# с 2007 года, до этого 9 лет на C++. Обладатель статусов Microsoft: MCPD, MCTS, MCITP, MCP. Люблю создавать и развивать desktop, web, mobile проекты.
+
+Организатор OmsDotNet – сообщества .NET разработчиков в Омске.</Description>
+  <ContactsUrl>http://dataspace.azurewebsites.net/PK/</ContactsUrl>
+  <GitHubUrl>https://github.com/PavelKulbida</GitHubUrl>
+</Speaker>
