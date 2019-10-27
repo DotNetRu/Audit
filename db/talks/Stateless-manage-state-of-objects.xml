@@ -4,7 +4,7 @@
     <SpeakerId>Vladislav-Shakirov</SpeakerId>
   </SpeakerIds>
   <Title>Stateless: управляем состоянием объектов</Title>
-  <Description>В докладе описана библиотека Stateless, которая управляет состоянием объекта на основе диаграммы конечного автомата. Рассмотрим практику динамического создания диаграммы состояний объекта из любого источника. А так же посмотрим на пример из нашего проекта и какие бенефиты мы получили.</Description>
+  <Description>В докладе описана библиотека Stateless, которая управляет состоянием объекта на основе диаграммы конечного автомата. Рассмотрим практику динамического создания диаграммы состояний объекта из любого источника. А так же на примере из реального проекта мы увидим и какие бенефиты удалось получить.</Description>
   <SlidesUrl>https://speakerdeck.com/dotnetru/vladislav-shakirov-stateless-upravliaiem-sostoianiiem-obiektov</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=p1puCNxM6ls</VideoUrl>
 </Talk>
