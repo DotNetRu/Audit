@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Cloud-Services-What-Where-And-What-For</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexander-Baranov</SpeakerId>
+  </SpeakerIds>
+  <Title>Облачные сервисы: что, где и зачем?</Title>
+  <Description>8 октября 2019 Сатья Наделла заявил, что Windows более не является самым главным приоритетом Microsoft.
+Теперь фокус Microsoft - облачные сервисы (https://habr.com/ru/news/t/470495/)
+Поговорим о том, что такое облака и почему они являются самым быстрорастущим сегментом Software.
+Рассмотрим, какой код является cloud native, а какой таковым не является.
+И ответим на главный вопрос - нужно ли они Вам?</Description>
+</Talk>
