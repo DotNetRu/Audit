@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-54</Id>
+  <Name>Встреча SpbDotNet №54</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Veeam</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Lenpoligraphmash</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Reactive-Programming-And-Its-Application-In-Frontend-Development-WPF</TalkId>
+      <StartTime>2019-11-27T16:00:00Z</StartTime>
+      <EndTime>2019-11-27T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Cloud-Services-What-Where-And-What-For</TalkId>
+      <StartTime>2019-11-27T17:30:00Z</StartTime>
+      <EndTime>2019-11-27T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
