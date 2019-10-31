@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>MskDotNet-36</Id>
+  <Name>Встреча MskDotNet №36</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>RaiffeisenBank</FriendId>
+  </FriendIds>
+  <VenueId>Msk-RaiffeisenBankTechnopark</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Coding-conventions-practice</TalkId>
+      <StartTime>2019-06-25T16:00:00Z</StartTime>
+      <EndTime>2019-06-25T16:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Technical-interview-tips</TalkId>
+      <StartTime>2019-06-25T17:00:00Z</StartTime>
+      <EndTime>2019-06-25T17:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-table-hiring-developers</TalkId>
+      <StartTime>2019-06-25T18:00:00Z</StartTime>
+      <EndTime>2019-06-25T18:45:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
