@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Technical-interview-tips</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrey-Zaytsev</SpeakerId>
+  </SpeakerIds>
+  <Title>Проведение технических интервью</Title>
+  <Description>Tips and trics для начинающего интервьюера.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-zaitsiev-proviedieniie-tiekhnichieskikh-intierv-iu</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=dY34z0PPNa8</VideoUrl>
+</Talk>

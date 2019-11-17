@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>Round-table-hiring-developers</Id>
+  <SpeakerIds>
+    <SpeakerId>Yuri-Orlov</SpeakerId>
+    <SpeakerId>Andrey-Zaytsev</SpeakerId>
+  </SpeakerIds>
+  <Title>Круглый стол о найме разработчиков </Title>
+  <Description>Поговорим о найме разработчиков:
+- собеседования сегодня;
+- тенденции в индустрии;
+- ключевые навыки современного соискателя;
+- и многое другое.</Description>
+  <VideoUrl>https://www.youtube.com/watch?v=0bCZncUtqSA</VideoUrl>
+</Talk>
