@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Quality-Of-The-Code</Id>
+  <SpeakerIds>
+    <SpeakerId>Nikolay-Molchanov</SpeakerId>
+    <SpeakerId>Andrey-Ganin</SpeakerId>
+  </SpeakerIds>
+  <Title>Качество кода</Title>
+  <Description>Обсудим вопросы качества ПО. Из каких составляющих складывается понятие качества продукта. Кто ответственнен за качество, и с помощью чего разработчики могут достигнуть желаемых высот. Доклад будет полезен разработчикам на любой платформе и любого уровня компетенции.</Description>
+</Talk>
