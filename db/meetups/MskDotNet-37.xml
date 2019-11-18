@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-37</Id>
+  <Name>Встреча MskDotNet №37</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>FINAM</FriendId>
+  </FriendIds>
+  <VenueId>Msk-FINAM</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Event-sourcing-in-NET</TalkId>
+      <StartTime>2019-11-19T16:00:00Z</StartTime>
+      <EndTime>2019-11-19T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Difference-between-value-and-reference-types</TalkId>
+      <StartTime>2019-11-19T17:30:00Z</StartTime>
+      <EndTime>2019-11-19T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
