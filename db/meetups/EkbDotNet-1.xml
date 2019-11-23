@@ -1,0 +1,18 @@
+﻿<Meetup>
+  <Id>EkbDotNet-1</Id>
+  <Name>Встреча EkbDotNet №1</Name>
+  <CommunityId>EkbDotNet</CommunityId>
+  <VenueId>Ekb-Titers</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>How-Shoot-Yourself-in-Foot-from-Standard-Library</TalkId>
+      <StartTime>2019-11-28T14:30:00Z</StartTime>
+      <EndTime>2019-11-28T15:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>PostgreSQL-Under-Pressure</TalkId>
+      <StartTime>2019-11-28T15:30:00Z</StartTime>
+      <EndTime>2019-11-28T16:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
