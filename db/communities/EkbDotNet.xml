@@ -1,0 +1,10 @@
+﻿<Community>
+  <Id>EkbDotNet</Id>
+  <Name>EkbDotNet</Name>
+  <City>Екатеринбург</City>
+  <TimeZone>Asia/Yekaterinburg</TimeZone>
+  <VkUrl>https://vk.com/EkbDotNet</VkUrl>
+  <TelegramChannelUrl>https://t.me/EkbDotNet</TelegramChannelUrl>
+  <TelegramChatUrl>https://t.me/EkbDotNetCommunity</TelegramChatUrl>
+  <TimePadUrl>https://EkbDotNet.timepad.ru/</TimePadUrl>
+</Community>
