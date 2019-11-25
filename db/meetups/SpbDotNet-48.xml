@@ -1,4 +1,4 @@
-﻿<Meetup>
+<Meetup>
   <Id>SpbDotNet-48</Id>
   <Name>Встреча SpbDotNet №48</Name>
   <CommunityId>SpbDotNet</CommunityId>
@@ -23,7 +23,7 @@
       <EndTime>2019-07-27T14:00:00Z</EndTime>
     </Session>
     <Session>
-      <TalkId>Dotnet-And-Java-Are-We-On-The-Sides-Of-Different-Forces</TalkId>
+      <TalkId>DotNet-And-Java-Are-We-On-The-Sides-Of-Different-Forces</TalkId>
       <StartTime>2019-07-27T14:00:00Z</StartTime>
       <EndTime>2019-07-27T15:00:00Z</EndTime>
     </Session>
