@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-55</Id>
+  <Name>Встреча SpbDotNet №55</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>JetBrains</FriendId>
+  </FriendIds>
+  <VenueId>Spb-JetBrains</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Dependency-Treatment</TalkId>
+      <StartTime>2019-12-12T16:00:00Z</StartTime>
+      <EndTime>2019-12-12T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Nullable-Reference-Types-Advanced-Guide</TalkId>
+      <StartTime>2019-12-12T17:30:00Z</StartTime>
+      <EndTime>2019-12-12T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
