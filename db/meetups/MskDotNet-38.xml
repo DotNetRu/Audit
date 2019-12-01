@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-38</Id>
+  <Name>Встреча MskDotNet №38</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>OZON</FriendId>
+  </FriendIds>
+  <VenueId>Msk-OZON-Naberezhnaya</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Why-your-architecture-is-functional</TalkId>
+      <StartTime>2019-08-15T16:30:00Z</StartTime>
+      <EndTime>2019-08-15T17:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Crossplatform-OO-Interaction-between-Csharp-and-Cpp</TalkId>
+      <StartTime>2019-08-15T18:00:00Z</StartTime>
+      <EndTime>2019-08-15T19:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
