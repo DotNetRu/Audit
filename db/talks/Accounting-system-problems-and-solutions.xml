@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Accounting-system-problems-and-solutions</Id>
+  <SpeakerIds>
+    <SpeakerId>Maxim-Shiryaev</SpeakerId>
+  </SpeakerIds>
+  <Title>Учётные системы: проблемы и решения</Title>
+  <Description>Доклад посвящён истории моделирования и реализации учётных систем. Будут рассмотрены основополагающие принципы построения учётных систем и современные паттерны. Поговорим о таких категориях, как: типовые модели учётных операций, декларативные роли, регистры учёта и диаграммы состояний.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/maksim-shiriaiev-uchiotnyie-sistiemy-probliemy-i-rieshieniia</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=RBcoO6bJk7M</VideoUrl>
+</Talk>
