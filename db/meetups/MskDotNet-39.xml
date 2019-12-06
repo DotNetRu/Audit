@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-39</Id>
+  <Name>Встреча MskDotNet №39</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>RaiffeisenBank</FriendId>
+  </FriendIds>
+  <VenueId>Msk-RaiffeisenBankTechnopark</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Filtering-GPS-tracks-FSharp</TalkId>
+      <StartTime>2019-09-12T16:00:00Z</StartTime>
+      <EndTime>2019-09-12T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Accounting-system-problems-and-solutions</TalkId>
+      <StartTime>2019-09-12T17:30:00Z</StartTime>
+      <EndTime>2019-09-12T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
