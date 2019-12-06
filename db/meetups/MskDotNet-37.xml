@@ -9,13 +9,13 @@
   <Sessions>  
     <Session>
       <TalkId>Event-sourcing-in-NET</TalkId>
-      <StartTime>2019-11-19T16:00:00Z</StartTime>
-      <EndTime>2019-11-19T17:00:00Z</EndTime>
+      <StartTime>2019-07-16T16:00:00Z</StartTime>
+      <EndTime>2019-07-16T17:00:00Z</EndTime>
     </Session>
     <Session>
       <TalkId>Difference-between-value-and-reference-types</TalkId>
-      <StartTime>2019-11-19T17:30:00Z</StartTime>
-      <EndTime>2019-11-19T18:30:00Z</EndTime>
+      <StartTime>2019-07-16T17:30:00Z</StartTime>
+      <EndTime>2019-07-16T18:30:00Z</EndTime>
     </Session>
   </Sessions>
 </Meetup>
