@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Functional-programming-patterns-for-fsharp</Id>
+  <SpeakerIds>
+    <SpeakerId>Rustam-Shekhmametyev</SpeakerId>
+  </SpeakerIds>
+  <Title>Функциональные паттерны программирования на примере F#</Title>
+  <Description>Переход на функциональный язык бывает тяжёл не только из-за сложности смены парадигмы, но и из-за отсутствия привычных нам паттернов проектирования. Но в функциональном программировании паттерны тоже есть и, если вы знакомы с ними, всё становится проще, а код яснее.
+    В докладе разбираются основные приёмы из арсенала функциональных разработчиков для построения типового CRUD. Также показывается, что большинство из вас применяли эти приёмчики в некоторой степени в своём собственном коде, пусть и не в полную силу.
+  </Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/rustam-shiekhmamiet-iev-funktsional-nyie-pattierny-proghrammirovaniia-na-primierie-f-number</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=o2G22AIhplU</VideoUrl>
+</Talk>

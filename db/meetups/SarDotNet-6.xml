@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SarDotNet-6</Id>
+  <Name>Встреча SarDotNet №6</Name>
+  <CommunityId>SarDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>EPAM</FriendId>
+  </FriendIds>
+  <VenueId>Sar-EPAM-Tankistov</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Functional-programming-patterns-for-fsharp</TalkId>
+      <StartTime>2019-09-29T12:00:00Z</StartTime>
+      <EndTime>2019-09-29T13:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Algorithms-and-data-structures-for-csharp</TalkId>
+      <StartTime>2019-09-29T13:30:00Z</StartTime>
+      <EndTime>2019-09-29T14:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
