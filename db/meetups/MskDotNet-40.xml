@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-40</Id>
+  <Name>Встреча MskDotNet №40</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>MTS</FriendId>
+  </FriendIds>
+  <VenueId>Msk-MTSBank</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Observability-NET-Applications</TalkId>
+      <StartTime>2019-10-10T16:00:00Z</StartTime>
+      <EndTime>2019-10-10T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Overview-Xamarin-Forms</TalkId>
+      <StartTime>2019-10-10T17:30:00Z</StartTime>
+      <EndTime>2019-10-10T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
