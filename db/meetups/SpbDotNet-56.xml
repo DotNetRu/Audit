@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-56</Id>
+  <Name>Встреча SpbDotNet №56</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>JetBrains</FriendId>
+  </FriendIds>
+  <VenueId>Spb-JetBrains</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>JetBrains-Lifetimes-library</TalkId>
+      <StartTime>2020-01-16T16:00:00Z</StartTime>
+      <EndTime>2020-01-16T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>JetBrains-RdFramework</TalkId>
+      <StartTime>2020-01-16T17:30:00Z</StartTime>
+      <EndTime>2020-01-16T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
