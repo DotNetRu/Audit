@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-41</Id>
+  <Name>Встреча MskDotNet №41</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Europlan</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Europlan</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>How-to-Add-Your-Own-Optimization-in-JIT-for-CSharp</TalkId>
+      <StartTime>2019-11-05T16:00:00Z</StartTime>
+      <EndTime>2019-11-05T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Span-Memory-and-Pipelines</TalkId>
+      <StartTime>2019-11-05T17:30:00Z</StartTime>
+      <EndTime>2019-11-05T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
