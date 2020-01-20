@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>Span-Memory-and-Pipelines</Id>
+  <SpeakerIds>
+    <SpeakerId>Raffaele-Rialdi</SpeakerId>
+  </SpeakerIds>
+  <Title>Span, Memory and Pipelines, the APIs you always missed</Title>
+  <Description>The new Span&lt;T&gt; and Memory&lt;T&gt; are a new set of APIs offering the ability to dramatically lower memory copies obtaining native-like performance while still coding safely. An interesting bonus is the support for unsafe pointers and memory manipulation that voids the need of native languages in many scenarios.
+
+In addition to that, the Pipelines and Buffers APIs, created to boost the ASP.NET Core performances, provides a very powerful replacement of stream-based processing with the minimum possible overhead.
+
+During the session we will see all of those APIs in action, understanding how they works and when they should be adopted.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/raffaele-rialdi-span-memory-and-pipelines-the-apis-you-always-missed</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=tNtqXpilOj4</VideoUrl>
+</Talk>
