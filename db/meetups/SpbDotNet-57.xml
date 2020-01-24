@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-57</Id>
+  <Name>Встреча SpbDotNet №57</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>UnionBar</FriendId>
+  </FriendIds>
+  <VenueId>Spb-UnionBar</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Basis-for-Understanding-of-Quantum-Algorithms</TalkId>
+      <StartTime>2020-01-30T16:00:00Z</StartTime>
+      <EndTime>2020-01-30T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Corporate-Cancerology</TalkId>
+      <StartTime>2020-01-30T17:30:00Z</StartTime>
+      <EndTime>2020-01-30T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

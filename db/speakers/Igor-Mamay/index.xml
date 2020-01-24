@@ -1,11 +1,9 @@
 ﻿<Speaker>
   <Id>Igor-Mamay</Id>
   <Name>Игорь Мамай</Name>
-  <CompanyName>Контур</CompanyName>
-  <CompanyUrl>https://kontur.ru/</CompanyUrl>
-  <Description>Игорь работает в компании Контур в команде биллинга. Компания разрабатывает систему с микросервисной горизонтально масштабируемой архитектурой. Сервисы написаны на C# и взаимодействуют с MsSql, Apache Cassandra, Elasticsearch, Apache ZooKeeper.
-
-Также интересуется развитием языка C#, внедряемыми фишками и предложениями сообщества. В свободное время пишет плагины для Resharper.</Description>
+  <CompanyName>Veeam Software</CompanyName>
+  <CompanyUrl>https://www.veeam.com</CompanyUrl>
+  <Description>Игорь интересуется развитием языков программирования, внедряемыми фишками и предложениями сообщества. Пишет небольшой анализатор-плагин для решарпера. С ним можно подискутировать о том каким какие новые языки появились и когда всё это кончится. А так же позатирать про настольные игры.</Description>
   <ContactsUrl>https://www.linkedin.com/in/игорь-мамай-989a18102/</ContactsUrl>
   <GitHubUrl>https://github.com/BigBabay</GitHubUrl>
 </Speaker>

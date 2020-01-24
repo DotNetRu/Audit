@@ -1,0 +1,8 @@
+﻿<Speaker>
+  <Id>Anatoly-Zhmur</Id>
+  <Name>Анатолий Жмур</Name>
+  <CompanyName>Broadridge</CompanyName>
+  <CompanyUrl>https://www.broadridge.com/</CompanyUrl>
+  <Description>Познакомился с .NET в 2002 году на этапе беты. Работает на нём большую часть карьеры. На данный момент занимает должность Senior Technical Architect в компании Broadridge и все еще пишет код. Последние пять лет занимается проектом собственной битемпоральной документной базы данных для хранения и обработки информации о ценных бумагах. Активно играется с rocksdb и своим сокетным транспортом, чтобы выйти за performance-ограничения Asp.Net Core + PostgreSQL.</Description>
+  <TwitterUrl>https://twitter.com/AnatolyZhmur</TwitterUrl>
+</Speaker>
