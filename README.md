@@ -6,7 +6,7 @@
 
 ## Назначение
 
-Данный репозиторий - это самый полный архив всех встреч, спикеров, докладов, слайдов, видеозаписей и прочих артефактов активности [DotNetRu](http://dotnet.ru). Его основная цель - быть единым источником данных для всех последующих представлений ([сайтов](http://dotnet.ru/), [энциклопедий](https://github.com/AnatolyKulakov/SpbDotNet/wiki/SpbDotNet), [приложений](https://github.com/DotNetRu/App), [видеотек](https://www.youtube.com/DotNetRu), статистике и т.д.).
+Данный репозиторий - это самый полный архив всех встреч, спикеров, докладов, слайдов, видеозаписей и прочих артефактов активности [DotNetRu](http://dotnet.ru). Его основная цель - быть единым источником данных для всех последующих представлений ([сайтов](http://dotnet.ru/), [энциклопедий](https://github.com/AnatolyKulakov/SpbDotNet/wiki/SpbDotNet), [приложений](https://github.com/DotNetRu/App), [видеотек](https://www.youtube.com/DotNetRu), [статистике](https://github.com/AnatolyKulakov/SpbDotNet/wiki/LikedVideos) и т.д.).
 
 ## Формат
 
