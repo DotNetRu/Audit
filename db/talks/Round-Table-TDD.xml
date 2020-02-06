@@ -1,0 +1,11 @@
+﻿<Talk>
+  <Id>Round-Table-TDD</Id>
+  <SpeakerIds>
+    <SpeakerId>Evgeniy-Makarov</SpeakerId>
+    <SpeakerId>Nikita-Tsukanov</SpeakerId>
+    <SpeakerId>Kirill-Maurin</SpeakerId>
+    <SpeakerId>Vitaliy-Ilukhin</SpeakerId>
+  </SpeakerIds>
+  <Title>Круглый стол &quot;Поговорим о TDD&quot;</Title>
+  <Description>В формате круглого стола обсудим наболевшие вопросы, связанные с TDD, поделимся своим опытом и наблюдениями и подискутируем обо всём этом</Description>
+</Talk>
