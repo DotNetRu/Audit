@@ -5,7 +5,7 @@
     <SpeakerId>Evgeniy-Makarov</SpeakerId>
   </SpeakerIds>
   <Title>TDD. Обзорный курс для новичков и профи</Title>
-  <Description>Доклад на основную тему Субботника — TDD. Вспомним что это такое, что лежит в основе этой техники, поговорим о достоинствах и недостатках, а также попробуем разобраться, где границы её применимости.</Description>
+  <Description>Вспомним что такое TDD, что лежит в основе этой техники, поговорим о достоинствах и недостатках, а также попробуем разобраться, где границы её применимости.</Description>
   <SlidesUrl>https://speakerdeck.com/dotnetru/ievghienii-makarov-vitalii-iliukhin-tdd-obzornyi-kurs-dlia-novichkov-i-profi</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=Juek3zdI8oA</VideoUrl>
 </Talk>
