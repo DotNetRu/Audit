@@ -1,0 +1,36 @@
+﻿<Meetup>
+  <Id>MskDotNet-42</Id>
+  <Name>MskDotNet Субботник 2019</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>CUSTIS</FriendId>
+  </FriendIds>
+  <VenueId>Msk-CUSTIS</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>GRPC-for-Net-Developers</TalkId>
+      <StartTime>2019-12-14T08:15:00Z</StartTime>
+      <EndTime>2019-12-14T09:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Dependencies-Control-between-Elements-of-Application-Structure</TalkId>
+      <StartTime>2019-12-14T09:15:00Z</StartTime>
+      <EndTime>2019-12-14T10:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>TDD-Overview-Course-for-Beginners-and-Professionals</TalkId>
+      <StartTime>2019-12-14T11:00:00Z</StartTime>
+      <EndTime>2019-12-14T11:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-TDD</TalkId>
+      <StartTime>2019-12-14T12:00:00Z</StartTime>
+      <EndTime>2019-12-14T13:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Virtual-Actors-What-How-Why</TalkId>
+      <StartTime>2019-12-14T13:15:00Z</StartTime>
+      <EndTime>2019-12-14T14:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

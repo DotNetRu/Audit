@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Virtual-Actors-What-How-Why</Id>
+  <SpeakerIds>
+    <SpeakerId>Mark-Tkachenko</SpeakerId>
+  </SpeakerIds>
+  <Title>Virtual actors: что, как и зачем.</Title>
+  <Description>Поговорим о модели виртуальных акторов в контексте первой их реализации — Microsoft Orleans — что привело к созданию, какие проблемы классической модели решались, какие инструменты имеются на сегодня.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/mark-tkachienko-virtual-actors-chto-kak-i-zachiem</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=ujOFO00SFJk</VideoUrl>
+</Talk>
