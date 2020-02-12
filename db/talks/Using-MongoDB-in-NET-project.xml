@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Using-MongoDB-in-NET-project</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Eliseev</SpeakerId>
+    <SpeakerId>Roman-Shcherbakov</SpeakerId>
+  </SpeakerIds>
+  <Title>Внедрение MongoDB в .NET проект</Title>
+  <Description>В какой проект можно внедрить MongoDB? Как продать эту идею руководству и коллегам? Трудности с которыми столкнётся каждый. Ответы на эти вопросы, а так же примеры из истории внедрения в реальный production, вы найдёте в этом докладе.</Description>
+</Talk>
