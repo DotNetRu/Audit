@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Why-do-We-Write-in-FSharp-in-Production</Id>
+  <SpeakerIds>
+    <SpeakerId>Roman-Liman</SpeakerId>
+  </SpeakerIds>
+  <Title>Зачем мы пишем на F# в продакшене</Title>
+  <Description>Роман расскажет как F# упрощает повседневную энтерпрайз разработку и почему вам стоит его попробовать</Description>
+</Talk>
