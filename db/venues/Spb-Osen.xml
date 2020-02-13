@@ -1,6 +1,7 @@
 ﻿<Venue>
   <Id>Spb-Osen</Id>
   <Name>БЦ «Осень»</Name>
+  <Capacity>100</Capacity>
   <Address>Санкт-Петербург, Свердловская наб., 44, литера Я, БЦ «Осень»</Address>
   <MapUrl>https://maps.yandex.ru/-/CVHJvX4I</MapUrl>
 </Venue>
