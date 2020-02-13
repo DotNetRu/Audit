@@ -1,6 +1,7 @@
 ﻿<Venue>
   <Id>Spb-Intermedia</Id>
   <Name>Столовая «Intermedia»</Name>
+  <Capacity>120</Capacity>
   <Address>Санкт-Петербург, площадь Александра Невского, дом 2 (10 этаж)</Address>
   <MapUrl>https://yandex.ru/maps/-/CBQ5USaV8B</MapUrl>
 </Venue>

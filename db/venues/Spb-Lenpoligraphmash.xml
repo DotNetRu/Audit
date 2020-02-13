@@ -1,6 +1,7 @@
 ﻿<Venue>
   <Id>Spb-Lenpoligraphmash</Id>
   <Name>Амфитеатр в Ленполиграфмаше</Name>
+  <Capacity>250</Capacity>
   <Address>Санкт-Петербург, наб. реки Карповки, дом 5</Address>
   <MapUrl>https://yandex.ru/maps/-/CGH5mVml</MapUrl>
 </Venue>

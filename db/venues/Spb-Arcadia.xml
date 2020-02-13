@@ -1,6 +1,7 @@
 ﻿<Venue>
   <Id>Spb-Arcadia</Id>
   <Name>Конференц-зал «Arcadia»</Name>
+  <Capacity>120</Capacity>
   <Address>Санкт-Петербург, Большой Сампсониевский пр., 28, корп. 2 (6 этаж), БЦ «MEZON PLAZA»</Address>
   <MapUrl>https://yandex.ru/maps/-/CBarNXcsgD</MapUrl>
 </Venue>

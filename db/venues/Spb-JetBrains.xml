@@ -1,6 +1,7 @@
 ﻿<Venue>
   <Id>Spb-JetBrains</Id>
   <Name>Конференц-зал «JetBrains»</Name>
+  <Capacity>400</Capacity>
   <Address>Санкт-Петербург, Приморский проспект, 70</Address>
   <MapUrl>https://yandex.ru/maps/-/CGdnAIkg</MapUrl>
 </Venue>
