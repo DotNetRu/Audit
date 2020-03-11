@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>OmsDotNet-6</Id>
+  <Name>Выступление спикеров DotNext в Омске</Name>
+  <CommunityId>OmsDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>RaiffeisenBank</FriendId>
+  </FriendIds>
+  <VenueId>Oms-RigaMoscow</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>CodeReview-growth-art</TalkId>
+      <StartTime>2020-02-25T13:00:00Z</StartTime>
+      <EndTime>2020-02-25T13:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>DDD-validation</TalkId>
+      <StartTime>2020-02-25T14:00:00Z</StartTime>
+      <EndTime>2020-02-25T14:45:00Z</EndTime>
+    </Session>    
+  </Sessions>
+</Meetup>
