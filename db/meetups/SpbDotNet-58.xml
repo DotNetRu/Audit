@@ -4,6 +4,8 @@
   <CommunityId>SpbDotNet</CommunityId>
   <FriendIds>
     <FriendId>SpeechPro</FriendId>
+    <FriendId>Intermedia</FriendId>
+    <FriendId>Sprintbox</FriendId>
   </FriendIds>
   <VenueId>Spb-YasnayaPolyana</VenueId>
   <Sessions>
