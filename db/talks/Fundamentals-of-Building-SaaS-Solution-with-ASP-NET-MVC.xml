@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Fundamentals-of-Building-SaaS-Solution-with-ASP-NET-MVC</Id>
+  <SpeakerIds>
+    <SpeakerId>Victor-Ilukhin</SpeakerId>
+  </SpeakerIds>
+  <Title>Основы создания SaaS-решений на ASP.NET MVC — от идеи до реализации</Title>
+  <Description>SaaS — то есть программные продукты в виде облачного сервиса, стали особенно популярны в наше время и их востребованность продолжает расти. В то же время, при наличии идеи, .NET предоставляет инструменты, позволяющие быстро добиться начального результата минимальными силами. Освоение набора таких инструментов даёт .NET разработчику большие возможности в экспериментах в создание программных продуктов.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/viktor-iliukhin-osnovy-sozdaniia-saas-rieshienii-na-asp-dot-net-mvc-ot-idiei-do-riealizatsii</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=P3-qQfn-Aro</VideoUrl>
+</Talk>

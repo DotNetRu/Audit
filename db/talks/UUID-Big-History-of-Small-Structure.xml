@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>UUID-Big-History-of-Small-Structure</Id>
+  <SpeakerIds>
+    <SpeakerId>Roman-Bukin</SpeakerId>
+  </SpeakerIds>
+  <Title>UUID — большая история маленькой структуры</Title>
+  <Description>В докладе рассматривается реализация собственной структуры данных, аналогичной System.Guid, и поэтапная оптимизация различных методов для работы с ней.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/roman-bukin-uuid-bol-shaia-istoriia-malien-koi-struktury</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=OGK4Lkd6p6s</VideoUrl>
+</Talk>
