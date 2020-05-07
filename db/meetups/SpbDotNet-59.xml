@@ -1,0 +1,20 @@
+﻿<Meetup>
+  <Id>SpbDotNet-59</Id>
+  <Name>Встреча SpbDotNet №59</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Game-Development-using-Unity-Engine</TalkId>
+      <StartTime>2020-05-15T17:00:00Z</StartTime>
+      <EndTime>2020-05-15T18:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>GameDev-as-a-Hobby</TalkId>
+      <StartTime>2020-05-15T18:10:00Z</StartTime>
+      <EndTime>2020-05-15T19:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
