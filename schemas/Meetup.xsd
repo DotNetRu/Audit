@@ -17,7 +17,7 @@
           </xs:complexType>
         </xs:element>
 
-        <xs:element name="VenueId" type="identity" />
+        <xs:element name="VenueId" type="identity" minOccurs="0" maxOccurs="1"/>
 
         <xs:element name="Sessions">
           <xs:complexType>
