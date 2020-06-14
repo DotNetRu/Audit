@@ -6,7 +6,7 @@
         {
             "label": "Test All",
             "type": "shell",
-            "command": "Invoke-Pester -PesterOption @{IncludeVSCodeMarker=$true}",
+            "command": "Invoke-Pester",
             "group": {
                 "kind": "test",
                 "isDefault": true
@@ -22,7 +22,7 @@
         {
             "label": "Test Current File",
             "type": "shell",
-            "command": "Invoke-Pester -Path \"${file}\" -PesterOption @{IncludeVSCodeMarker=$true}",
+            "command": "Invoke-Pester -Path \"${file}\"",
             "group": "test",
             "problemMatcher": [
                 "$pester"
