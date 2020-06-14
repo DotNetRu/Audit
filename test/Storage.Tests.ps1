@@ -1,15 +1,18 @@
 Set-StrictMode -version Latest
 $ErrorActionPreference = 'Stop'
 
-$dbPath = Join-Path $PSScriptRoot '../db' -Resolve
-
 Describe 'Storage verification' {
 
     Context 'All data files in storage' {
 
-        function Get-AllDBFile()
-        {
-            Get-ChildItem -Path $dbPath -Filter '*.xml' -File -Recurse
+        BeforeAll {
+
+            $dbPath = Join-Path $PSScriptRoot '../db' -Resolve
+
+            function Get-AllDBFile()
+            {
+                Get-ChildItem -Path $dbPath -Filter '*.xml' -File -Recurse
+            }
         }
 
         It 'Should have windows like end of file' {
@@ -28,7 +31,7 @@ Describe 'Storage verification' {
                 Select-UnixEndOfLine |
                 ForEach-Object { Resolve-Path $_.FullName -Relative }
 
-            $unixFiles | Should BeNullOrEmpty
+            $unixFiles | Should -BeNullOrEmpty
         }
 
         It 'Should have UTF-8 with BOM encoding' {
@@ -48,7 +51,7 @@ Describe 'Storage verification' {
                 Where-Object { -not ($_ | Test-Utf8WithBOMEncoding) } |
                 ForEach-Object { Resolve-Path $_.FullName -Relative }
 
-            $badFiles | Should BeNullOrEmpty
+            $badFiles | Should -BeNullOrEmpty
         }
     }
 }
