@@ -1,0 +1,16 @@
+﻿<Talk>
+  <Id>Functional-Way-for-Solving-Nullability-Problem</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrey-Sergeev</SpeakerId>
+  </SpeakerIds>
+  <Title>Вопросы nullabilily в платформе .NET, применение функционального подхода в разработке с использованием типов Unit, Tagged Union, Optional, Result, разделение исключительных ситуаций и ожидаемых результатов при обработке ошибок.</Title>
+  <Description>Разработчиков программного обеспечения на языках со статической типизацией вечно преследовала известная «ошибка на миллиард долларов» — нарушение статической типизации и драматическое снижение ее строгости в результате того, что практически в любом месте программы в качестве значения ссылочной переменной может оказаться null.
+
+Андрей расскажет, как участники команды банка, в которую он входит, вначале стали работать с nullability feature в C# версии 8, с каким ограничениями технологии столкнулись, какие были найдены решения и ограничения области применения технологии.
+
+И как затем плавно перешли к большему — идее и реализации портирования в C# известных в функциональном программировании Unit, Discriminated (Tagged) Union, Optional и Result-типов, и какая в результат получается модель создаваемого программного обеспечения, от библиотечного уровня до моделей сущностей в микросервисах и заканчивая конечными точками (endpoints).
+
+Одна из важных тем доклада — то, как данный подход позволил разделить в разрабатываемых приложениях фатальные ошибки (исключения) и «ошибки», которые не являются «успехом», но являются одним из ожидаемых результатов.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-sierghieiev-voprosy-nullabilily-v-platformie-net-primienieniie-funktsional-nogho-podkhoda-v-razrabotkie-s-ispol-zovaniiem-tipov-unit-tagged-union-optional-result-razdielieniie-iskliuchitiel-nykh-situatsii-i-ozhidaiemykh-riezul-tatov-pri-obrabotk</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=hfcMtCyacLc</VideoUrl>
+</Talk>

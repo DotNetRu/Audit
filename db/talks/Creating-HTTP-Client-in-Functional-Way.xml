@@ -1,0 +1,13 @@
+﻿<Talk>
+  <Id>Creating-HTTP-Client-in-Functional-Way</Id>
+  <SpeakerIds>
+    <SpeakerId>Pavel-Moskovoy</SpeakerId>
+  </SpeakerIds>
+  <Title>Работа с HTTP в платформе .NET, собственный движок для работы с HTTP, использующий функциональный подход на основе типа Result для обработки HTTP-ответа вместо исключений.</Title>
+  <Description>В .NET core для работы с HTTP принято использовать класс HttpClient. Он позволяет легко отправлять и получать данные. Однако возвращаемый ответ может отличаться в зависимости от статус-кода. Для работы с ним удобно использовать функциональный подход и тип Result.
+При этом для взаимодействия с SOAP часто используются автосгенерированные клиенты на основе встроенного механизма в Visual Studio. Такое решение несет в себе определённые проблемы, которые будут упомянуты в докладе.  
+Павел расскажет, как участники команды банка, в которую он входит, выработали единый подход для работы с HTTP на основе REST и SOAP, разработав собственный движок, основанный на использовании HttpClient и функциональных компонентов.
+Эта часть доклада является логичным продолжением рассказа Андрея о том, как с помощью функционального программирования можно разделить ошибки на фатальные и &quot;ожидаемые&quot;. Это особенно наглядно можно продемонстрировать на примере обработки HTTP-ответов. Также будет показано применение разработанного движка для построения клиентов удалённых сервисов на основе REST и SOAP, альтернативных механизму предлагаемому по умолчанию в Visual Studio.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/paviel-moskovoi-rabota-s-http-v-platformie-net-sobstviennyi-dvizhok-dlia-raboty-s-http-ispol-zuiushchii-funktsional-nyi-podkhod-na-osnovie-tipa-result-dlia-obrabotki-http-otvieta-vmiesto-iskliuchienii-dot</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=skhtSSXjCLo</VideoUrl>
+</Talk>
