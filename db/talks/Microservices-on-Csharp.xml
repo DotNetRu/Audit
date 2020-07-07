@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Microservices-on-Csharp</Id>
+  <SpeakerIds>
+    <SpeakerId>Mark-Schevchenko</SpeakerId>
+  </SpeakerIds>
+  <Title>Микросервисы на С#</Title>
+  <Description>Введение в тему микросервисов и конкретно их разработку на С#. Немного о подводных камнях и том, как с ними справляться.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/mark-shievchienko-mikrosiervisy-na-s-number</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Gdiewr3Ux8o</VideoUrl>
+</Talk>
