@@ -1,0 +1,20 @@
+﻿<Meetup>
+  <Id>SpbDotNet-60</Id>
+  <Name>Встреча SpbDotNet №60</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>EPAM</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Integrate-Unreliable-API-using-Polly</TalkId>
+      <StartTime>2020-07-23T16:00:00Z</StartTime>
+      <EndTime>2020-07-23T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>GRPC-and-Implementation-in-NET-Core</TalkId>
+      <StartTime>2020-07-23T17:10:00Z</StartTime>
+      <EndTime>2020-07-23T18:10:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

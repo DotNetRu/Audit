@@ -1,0 +1,10 @@
+﻿<Speaker>
+  <Id>Artem-Mikulich</Id>
+  <Name>Артём Микулич</Name>
+  <CompanyName>ISsoft Solutions</CompanyName>
+  <CompanyUrl>https://issoft.by/</CompanyUrl>
+  <Description>Артём работает в компании ISsoft Solutions более 7 лет. В основном в качестве Tech Lead'а. Любимые теги - .NET, Cloud, REST, DDD. Так же иногда погружается в Python и ML.</Description>
+  <BlogUrl>https://www.facebook.com/devinjacket</BlogUrl>
+  <ContactsUrl>https://www.linkedin.com/in/amikulich/</ContactsUrl>
+  <GitHubUrl>https://github.com/amikulich</GitHubUrl>
+</Speaker>
