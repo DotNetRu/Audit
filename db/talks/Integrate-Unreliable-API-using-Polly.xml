@@ -7,4 +7,6 @@
   <Description>Интеграция с third-party сервисами дело неблагодарное. Когда мы делаем запросы в сторонний сервис, всегда есть вероятность, что что-то может пойти «не так» — отвалится сеть, сервис выбросит 429 Too Many Requests и т.д. 
 
 Зачастую мы не можем устранить причину таких проблем, но в наших силах минимизировать возникающий ущерб. Вы наверняка слышали о Retry-логике, кешировании, fallback-механизмах. До появления библиотеки Polly всё это мы изобретали сами. Но теперь у нас есть отличный инструмент, который сохранит наше время и нервы.</Description>
+  <CodeUrl>https://github.com/amikulich/polly-best-practices</CodeUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/artiom-mikulich-kak-intieghrirovat-sia-s-nie-nadiozhnym-third-party-api-pri-pomoshchi-polly</SlidesUrl>
 </Talk>
