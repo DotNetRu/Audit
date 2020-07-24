@@ -5,7 +5,6 @@
   <FriendIds>
     <FriendId>RaiffeisenBank</FriendId>
   </FriendIds>
-  <VenueId></VenueId>
   <Sessions>  
     <Session>
       <TalkId>Functional-Way-for-Solving-Nullability-Problem</TalkId>
