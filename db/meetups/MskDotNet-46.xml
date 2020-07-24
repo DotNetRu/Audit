@@ -5,7 +5,6 @@
   <FriendIds>
     <FriendId>DotNext</FriendId>
   </FriendIds>
-  <VenueId></VenueId>
   <Sessions>  
     <Session>
       <TalkId>Microservices-on-Csharp</TalkId>
