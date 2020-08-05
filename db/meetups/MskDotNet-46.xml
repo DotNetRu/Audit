@@ -1,0 +1,20 @@
+﻿<Meetup>
+  <Id>MskDotNet-46</Id>
+  <Name>Встреча MskDotNet №46</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <Sessions>  
+    <Session>
+      <TalkId>Microservices-on-Csharp</TalkId>
+      <StartTime>2020-05-29T17:00:00Z</StartTime>
+      <EndTime>2020-05-29T18:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>How-to-Grow-Open-Source-in-Bank</TalkId>
+      <StartTime>2020-05-29T18:20:00Z</StartTime>
+      <EndTime>2020-05-29T19:20:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
