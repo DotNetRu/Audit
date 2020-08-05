@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>MskDotNet-44</Id>
+  <Name>Встреча MskDotNet №44</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Kaspersky</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Kaspersky</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>What-NET-Developer-Wanted-to-Know-About-Deep-Learning</TalkId>
+      <StartTime>2020-02-13T16:00:00Z</StartTime>
+      <EndTime>2020-02-13T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Story-About-How-To-Improve-Code-Quality-Using-Unit-Tests</TalkId>
+      <StartTime>2020-02-13T17:30:00Z</StartTime>
+      <EndTime>2020-02-13T18:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Generics-Optimization-Which-Does-Not-Work</TalkId>
+      <StartTime>2020-02-13T18:00:00Z</StartTime>
+      <EndTime>2020-02-13T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

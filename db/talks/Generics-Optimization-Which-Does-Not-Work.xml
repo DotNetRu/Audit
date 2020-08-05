@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Generics-Optimization-Which-Does-Not-Work</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrey-Mikhailov</SpeakerId>
+  </SpeakerIds>
+  <Title>Оптимизация Generics, которая не работает</Title>
+  <Description>Поглядим внутренности Generics: посмотрим оптимизации CLR и узнаем что может пойти не так. Разберём интересный случай сломавшейся оптимизации, который был поднят на GitHub.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-mikhailov-optimizatsiia-generics-kotoraia-nie-rabotaiet</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=9OjWL4gP1Jo</VideoUrl>
+</Talk>

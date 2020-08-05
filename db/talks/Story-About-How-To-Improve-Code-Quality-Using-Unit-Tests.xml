@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Story-About-How-To-Improve-Code-Quality-Using-Unit-Tests</Id>
+  <SpeakerIds>
+    <SpeakerId>Ivan-Kalashnikov</SpeakerId>
+  </SpeakerIds>
+  <Title>Очевидная история о том, как повысить качество кода юнит-тестами</Title>
+  <Description>Опыт внедрения юнит-тестирования в существующий проект. Докладчик поделится инструментами, связанными с тестированием, которые пригодились его команде.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/ivan-kalashnikov-ochievidnaia-istoriia-o-tom-kak-povysit-kachiestvo-koda-iunit-tiestami-dot</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=yjIzQrTjD6A</VideoUrl>
+</Talk>
