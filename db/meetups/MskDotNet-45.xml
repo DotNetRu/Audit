@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-45</Id>
+  <Name>Встреча MskDotNet №45</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>BCS</FriendId>
+  </FriendIds>
+  <VenueId>Msk-Calibr</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Component-Tests-as-Acceptance-Tests-for-Microservices</TalkId>
+      <StartTime>2020-02-27T16:00:00Z</StartTime>
+      <EndTime>2020-02-27T16:40:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-Microservices-and-DDD</TalkId>
+      <StartTime>2020-02-27T17:00:00Z</StartTime>
+      <EndTime>2020-02-27T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

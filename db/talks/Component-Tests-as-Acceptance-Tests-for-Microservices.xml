@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Component-Tests-as-Acceptance-Tests-for-Microservices</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Anikin</SpeakerId>
+  </SpeakerIds>
+  <Title>Компонентные тесты как способ написания приемочных тестов микросервисов</Title>
+  <Description>Дмитрий расскажет про то, что такое компонентные тесты в контексте тестирования микросервисов, с чего вдруг им стали нужны эти компонентные тесты, про то как тестируются микросервисы и немного про пирамиду тестирования. Дмитрий будет больше делать упор на личный опыт, с какими трудностями столкнулись и немного коснётся теории.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-anikin-komponientnyie-tiesty-kak-sposob-napisaniia-priiemochnykh-tiestov-mikrosiervisov</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=CVENXLEyOsI</VideoUrl>
+</Talk>
