@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Practice-of-Developing-Services-on-ViennaNET</Id>
+  <SpeakerIds>
+    <SpeakerId>Sergey-Ogorodnikov</SpeakerId>
+  </SpeakerIds>
+  <Title>Практика построения сервисов на основе ViennaNET</Title>
+  <Description>При разработке микросервисов одним из челленджей является создание универсальной базы (платформы) для быстрой и эффективно разработки сервисов. Сообщество .NET разработчиков Райффайзенбанка разработало и внедрило в компании такую платформу. В этом году мы сделали следующий шаг – дали нашей платформе название ViennaNET вывели её в open source. В данном докладе представлен обзор библиотек, входящих в нашу платформу, а также в режиме live coding продемонстрировано её использование.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/sierghiei-oghorodnikov-praktika-postroieniia-siervisov-na-osnovie-viennanet</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=MHgwdFU9Xvc</VideoUrl>
+</Talk>

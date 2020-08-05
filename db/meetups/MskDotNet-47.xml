@@ -1,0 +1,25 @@
+﻿<Meetup>
+  <Id>MskDotNet-47</Id>
+  <Name>Встреча MskDotNet №47</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>RaiffeisenBank</FriendId>
+  </FriendIds>
+  <Sessions>  
+    <Session>
+      <TalkId>Functional-Way-for-Solving-Nullability-Problem</TalkId>
+      <StartTime>2020-06-11T16:00:00Z</StartTime>
+      <EndTime>2020-06-11T16:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Creating-HTTP-Client-in-Functional-Way</TalkId>
+      <StartTime>2020-06-11T16:30:00Z</StartTime>
+      <EndTime>2020-06-11T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Practice-of-Developing-Services-on-ViennaNET</TalkId>
+      <StartTime>2020-06-11T17:10:00Z</StartTime>
+      <EndTime>2020-06-11T18:10:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
