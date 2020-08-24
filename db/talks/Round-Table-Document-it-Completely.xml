@@ -1,0 +1,15 @@
+﻿<Talk>
+  <Id>Round-Table-Document-it-Completely</Id>
+  <SpeakerIds>
+    <SpeakerId>Anatoly-Kulakov</SpeakerId>
+    <SpeakerId>Alexander-Kugushev</SpeakerId>
+    <SpeakerId>Artem-Akulakov</SpeakerId>
+    <SpeakerId>Alex-Merson</SpeakerId>
+  </SpeakerIds>
+  <Title>Круглый стол «Документируй это полностью»</Title>
+  <Description>Её сложно найти, легко потерять и невозможно забыть. Конечно же мы имеем ввиду документацию.
+
+Возможное, это одна из самых холиварных тем, ведь очень сложно понять что, когда и как написать, так чтобы это было не то что небесполезно, но хотя бы безвредно. А, может быть, документация вообще не нужна? А если и писать, то что, когда и как?
+
+На круглом столе мы постараемся ответить на данные вопросы, собрав воедино знания, опыт и здравый смысл.</Description>
+</Talk>

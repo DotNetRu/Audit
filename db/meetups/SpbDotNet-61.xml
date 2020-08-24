@@ -1,0 +1,20 @@
+﻿<Meetup>
+  <Id>SpbDotNet-61</Id>
+  <Name>Встреча SpbDotNet №61</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Veeam</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Merge-Sln</TalkId>
+      <StartTime>2020-08-27T16:00:00Z</StartTime>
+      <EndTime>2020-08-27T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-Document-it-Completely</TalkId>
+      <StartTime>2020-08-27T17:10:00Z</StartTime>
+      <EndTime>2020-08-27T18:10:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
