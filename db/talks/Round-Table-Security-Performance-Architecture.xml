@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Round-Table-Security-Performance-Architecture</Id>
+  <SpeakerIds>
+    <SpeakerId>Mikhail-Shcherbakov</SpeakerId>
+    <SpeakerId>Alexander-Semenov</SpeakerId>
+  </SpeakerIds>
+  <Title>Круглый стол про безопасность, производительность и архитектуру</Title>
+  <Description>Круглый стол, на котором мы будем говорить про безопасность, а также затронем темы производительности и архитектуры.</Description>
+</Talk>

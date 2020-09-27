@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>KznDotNet-4</Id>
+  <Name>Встреча KznDotNet №3</Name>
+  <CommunityId>KznDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>BarsGroup</FriendId>
+  </FriendIds>
+  <VenueId>Kzn-BarsGroup</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Mythbusters-Web-Security</TalkId>
+      <StartTime>2018-08-29T15:00:00Z</StartTime>
+      <EndTime>2018-08-29T16:20:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-Security-Performance-Architecture</TalkId>
+      <StartTime>2018-08-29T16:40:00Z</StartTime>
+      <EndTime>2018-08-29T18:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
