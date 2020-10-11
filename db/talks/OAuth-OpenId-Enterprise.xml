@@ -3,8 +3,8 @@
   <SpeakerIds>
     <SpeakerId>Alexander-Semenov</SpeakerId>
   </SpeakerIds>
-  <Title>Аутентификация OAuth / OpenID Connect в Enterprise и среда Open API</Title>
+  <Title>Аутентификация OAuth/OpenID Connect в Enterprise и среда Open API</Title>
   <Description>Казалось бы, такая избитая тема как аутентификация и авторизация уже не может быть интересной, однако, стремительное развитие ИТ с каждым свои витком постоянно поднимает ее на новый уровень. В докладе автор познакомит с современными требованиями enterprise-решений и такими новыми темами в индустрии ИТ, как Open API, аутентификация и авторизация, OAuth 2.0 и Open ID Connect 1.0.</Description>
-  <SlidesUrl>https://vk.com/doc-161778786_469646631</SlidesUrl>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/openid-connect-v-enterprise-i-srieda-open-api</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=i7vuFHH0nxY</VideoUrl>
 </Talk>
