@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Developing-Production-Ready-AspNetCore</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Polomoshnov</SpeakerId>
+  </SpeakerIds>
+  <Title>Разработка готовых к production web приложений на ASP.NET Core</Title>
+  <Description>ASP.NET Core с каждой новой версией становится удобнее для разработки качественных веб приложений. Помимо реализации основных бизнес фич, также стоит уделить немало внимания будущей поддержке приложения после публикации в продакшн-среде. В докладе показано как, используя возможности последней версии ASP.NET Core, можно быстро закрыть такие потребности современного облачного приложения, как версионирование API, мониторинг, надежность, документация, регрессионное тестирование и другое.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-polomoshnov-razrabotka-ghotovykh-k-production-web-prilozhienii-na-asp-dot-net-core?slide=21</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=9grzuD9bgNk</VideoUrl>
+</Talk>
+
+

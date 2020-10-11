@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Practical-Aspects-Migrating-To-Microservices</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrey-Schilling</SpeakerId>
+  </SpeakerIds>
+  <Title>Практические аспекты перехода на микросервисы</Title>
+  <Description>Хайп вокруг микросервисов не утихает уже который год и сегодня они стали мейнстримом. К чему нужно быть готовым сразу, а что отложить на потом, ступая на этот путь? Мы поговорим про практические и философские аспекты миграции на микросервисы в enterprise-разработках и о том, о чём не всегда пишут в интернете.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-shillingh-praktichieskiie-aspiekty-pieriekhoda-na-mikrosiervisy</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=8l9QxJEBi_k</VideoUrl>
+</Talk>

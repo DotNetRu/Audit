@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>KznDotNet-3</Id>
+  <Name>Встреча KznDotNet №3</Name>
+  <CommunityId>KznDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>BarsGroup</FriendId>
+  </FriendIds>
+  <VenueId>Kzn-Bars-Talent-Center</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>OAuth-OpenId-Enterprise</TalkId>
+      <StartTime>2018-06-05T15:20:00Z</StartTime>
+      <EndTime>2018-06-05T16:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Developing-Production-Ready-AspNetCore</TalkId>
+      <StartTime>2018-06-05T16:15:00Z</StartTime>
+      <EndTime>2018-06-05T16:55:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Practical-Aspects-Migrating-To-Microservices</TalkId>
+      <StartTime>2018-06-05T17:10:00Z</StartTime>
+      <EndTime>2018-06-05T17:50:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
