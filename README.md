@@ -6,7 +6,7 @@
 
 ## Назначение
 
-Данный репозиторий - это самый полный архив всех встреч, спикеров, докладов, слайдов, видеозаписей и прочих артефактов активности [DotNetRu](http://dotnet.ru). Его основная цель - быть единым источником данных для всех последующих представлений ([сайтов](http://dotnet.ru/), [энциклопедий](https://github.com/AnatolyKulakov/SpbDotNet/wiki/SpbDotNet), [приложений](https://github.com/DotNetRu/App), [видеотек](https://www.youtube.com/DotNetRu), [статистике](https://github.com/AnatolyKulakov/SpbDotNet/wiki/LikedVideos) и т.д.).
+Данный репозиторий - это самый полный архив всех встреч, спикеров, докладов, слайдов, видеозаписей и прочих артефактов активности [DotNetRu](http://dotnet.ru). Его основная цель - быть единым источником данных для всех последующих представлений ([сайтов](http://dotnet.ru/), [энциклопедий](https://github.com/DotNetRu/BrandBook/wiki), [приложений](https://github.com/DotNetRu/App), [видеотек](https://www.youtube.com/DotNetRu), [статистике](https://github.com/DotNetRu/BrandBook/wiki/LikedVideos) и т.д.).
 
 ## Формат
 
@@ -19,7 +19,7 @@ DotNetRu состоит из [Сообществ](db/communities). Каждое 
 ### Формальная структура
 
 - [Xml Schema](schemas)
-- [PowerShell](https://github.com/AnatolyKulakov/Boombr/blob/master/src/Model.ps1)
+- [PowerShell](https://github.com/kulakovt/Boombr/blob/master/src/Model.ps1)
 
 ## Настройка редактора
 
