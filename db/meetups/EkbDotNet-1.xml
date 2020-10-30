@@ -2,6 +2,9 @@
   <Id>EkbDotNet-1</Id>
   <Name>Встреча EkbDotNet №1</Name>
   <CommunityId>EkbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Kontur</FriendId>
+  </FriendIds>
   <VenueId>Ekb-Titers</VenueId>
   <Sessions>
     <Session>

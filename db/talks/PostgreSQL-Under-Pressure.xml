@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>PostgreSQL: Under Pressure</Title>
   <Description>Евгений расскажет, как правильно спроектировать масштабируемое хранилище для нагруженной системы с использованием PostgreSQL и эффективно импортировать в него гигабайты данных. Он познакомит вас с тёмной стороной Entity Framework-а и покажет ультратехнологичные механизмы для работы с большим количеством данных в PostgreSQL.</Description>
+  <SlidesUrl>https://speakerdeck.com/dotnetru/ievghienii-firstov-postgresql-under-ressur</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=ZH7VtsyYSGk</VideoUrl>
 </Talk>
