@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Round-Table-Web-API</Id>
+  <SpeakerIds>
+    <SpeakerId>Igor-Labutin</SpeakerId>
+    <SpeakerId>Kirill-Likhtarovich</SpeakerId>
+    <SpeakerId>Pavel-Fedotovsky</SpeakerId>
+  </SpeakerIds>
+  <Title>Web API: версионирование и дизайн</Title>
+  <Description>В современном мире без Web API никуда и мало найдётся проектов где вообще нет никакого API. По мере роста проекта API тоже необходимо развивать. Удобство и простота изменения определяется в том числе подходами к дизайну и версионированию.
+
+На круглом столе обсудим как можно подходить к дизайну API, что выбрать — code first или design first, как учесть необходимость версионирования и нужна ли вся эта сложность.</Description>
+</Talk>
