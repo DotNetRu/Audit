@@ -1,0 +1,8 @@
+﻿<Speaker>
+  <Id>Kirill-Likhtarovich</Id>
+  <Name>Кирилл Лихтарович</Name>
+  <CompanyName>Veeam Software</CompanyName>
+  <CompanyUrl>https://www.veeam.com/ru/</CompanyUrl>
+  <Description>Кирилл работает в Veeam Software 5 лет. За это время успел поработать с различными REST API платформами, начиная от WCF REST API, заканчивая .NET Core 3.1.</Description>
+  <HabrUrl>https://habr.com/ru/users/likhtarovich/</HabrUrl>
+</Speaker>
