@@ -4,6 +4,8 @@
     <SpeakerId>Igor-Labutin</SpeakerId>
     <SpeakerId>Kirill-Likhtarovich</SpeakerId>
     <SpeakerId>Pavel-Fedotovsky</SpeakerId>
+    <SpeakerId>Vladimir-Rogozhin</SpeakerId>
+    <SpeakerId>Anatoly-Kulakov</SpeakerId>
   </SpeakerIds>
   <Title>Web API: версионирование и дизайн</Title>
   <Description>В современном мире без Web API никуда и мало найдётся проектов где вообще нет никакого API. По мере роста проекта API тоже необходимо развивать. Удобство и простота изменения определяется в том числе подходами к дизайну и версионированию.
