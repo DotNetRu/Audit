@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>CQRS-ES-for-Online-Auctions</Id>
+  <SpeakerIds>
+    <SpeakerId>Mikhail-Seliverstov</SpeakerId>
+  </SpeakerIds>
+  <Title>CQRS &amp; ES для онлайн-аукционов. Грабли и опыт</Title>
+  <Description>Михаил расскажет об опыте применения подхода CQRS &amp; Event Sourcing в проекте, представляющем собой площадку для проведения онлайн-аукционов. О том, что из этого получилось, какие из этого опыта можно сделать выводы и на какие грабли важно не наступить тем, кто отправится путём CQRS &amp; ES.</Description>
+</Talk>

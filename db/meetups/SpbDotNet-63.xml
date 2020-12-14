@@ -1,0 +1,20 @@
+﻿<Meetup>
+  <Id>SpbDotNet-63</Id>
+  <Name>Встреча SpbDotNet №63</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Arcadia</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>CQRS-ES-for-Online-Auctions</TalkId>
+      <StartTime>2020-12-17T16:00:00Z</StartTime>
+      <EndTime>2020-12-17T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Quick-Excel-Calculation</TalkId>
+      <StartTime>2020-12-17T17:10:00Z</StartTime>
+      <EndTime>2020-12-17T18:10:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
