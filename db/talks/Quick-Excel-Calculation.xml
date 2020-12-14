@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Quick-Excel-Calculation</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexey-Mulyukin</SpeakerId>
+  </SpeakerIds>
+  <Title>Быстрый расчёт формул из Excel на C#</Title>
+  <Description>В данном докладе мы погрузимся в задачу интеграции веб-проекта с Excel, разберёмся в существующих библиотеках и посмотрим, как можно достичь высокой производительности в расчёте формул на основе формул и данных, хранящихся в Excel файлах.</Description>
+</Talk>
