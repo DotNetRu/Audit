@@ -4,6 +4,7 @@
   <CommunityId>SpbDotNet</CommunityId>
   <FriendIds>
     <FriendId>Arcadia</FriendId>
+    <FriendId>DotNext</FriendId>
   </FriendIds>
   <Sessions>
     <Session>
