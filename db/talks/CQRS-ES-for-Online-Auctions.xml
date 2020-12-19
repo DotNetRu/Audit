@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>CQRS &amp; ES для онлайн-аукционов. Грабли и опыт</Title>
   <Description>Михаил расскажет об опыте применения подхода CQRS &amp; Event Sourcing в проекте, представляющем собой площадку для проведения онлайн-аукционов. О том, что из этого получилось, какие из этого опыта можно сделать выводы и на какие грабли важно не наступить тем, кто отправится путём CQRS &amp; ES.</Description>
+  <SlidesUrl>https://drive.google.com/file/d/1vniz_z01AidYSNSo47LtyBxMr2lCBGZp/view</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=KB6aI6qltEw</VideoUrl>
 </Talk>

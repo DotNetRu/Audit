@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Быстрый расчёт формул из Excel на C#</Title>
   <Description>В данном докладе мы погрузимся в задачу интеграции веб-проекта с Excel, разберёмся в существующих библиотеках и посмотрим, как можно достичь высокой производительности в расчёте формул на основе формул и данных, хранящихся в Excel файлах.</Description>
+  <SlidesUrl>https://drive.google.com/file/d/1UuiDw7JQ72SLe1Gots_27VyFknTdwhD5/view</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=0BlE0z9TTRk</VideoUrl>
 </Talk>
