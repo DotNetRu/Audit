@@ -1,9 +1,9 @@
 ﻿<Speaker>
   <Id>Roman-Nevolin</Id>
   <Name>Роман Неволин</Name>
-  <CompanyName>Careem</CompanyName>
-  <CompanyUrl>https://www.careem.com/</CompanyUrl>
-  <Description>Разработчик приложений для биоинформатиков на .NET, для химиков на Java, для финансистов на Haskell и множества других интересных вещей. Любит изучать новые области и языки, а потом рассказывать о них на конференциях и по необходимости использовать в продакшне.</Description>
+  <CompanyName>Контур</CompanyName>
+  <CompanyUrl>https://kontur.ru/</CompanyUrl>
+  <Description>Разработчик приложений для биоинформатиков на .NET, для химиков на Java, для финансистов на Haskell, и множества других интересных вещей. Любит изучать новые области и языки, а потом рассказывать о них на конференциях и по необходимости использовать в продакшне.</Description>
   <TwitterUrl>https://twitter.com/nevoroman</TwitterUrl>
   <GitHubUrl>https://github.com/nevoroman</GitHubUrl>
 </Speaker>

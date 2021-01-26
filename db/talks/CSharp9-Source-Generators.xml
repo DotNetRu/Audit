@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>CSharp9-Source-Generators</Id>
+  <SpeakerIds>
+    <SpeakerId>Roman-Shcherbakov</SpeakerId>
+  </SpeakerIds>
+  <Title>C# 9.0 Source Generators</Title>
+  <Description>Добро пожаловать на Курс молодого бойца по кодогенарции и метапрограммированию!</Description>
+</Talk>
