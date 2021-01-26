@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Blazor-Intro</Id>
+  <SpeakerIds>
+    <SpeakerId>Ivan-Cherkasov</SpeakerId>
+  </SpeakerIds>
+  <Title>Blazor intro</Title>
+  <Description>Глубоко субъективное мнение по поводу Blazor WebAssembly на основе опыта использования в реальном проекте. Будет полезно тем кто присматривается к Blazor WebAssembly.</Description>
+</Talk>

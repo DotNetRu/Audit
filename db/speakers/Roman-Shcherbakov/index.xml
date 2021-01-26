@@ -1,8 +1,10 @@
 ﻿<Speaker>
   <Id>Roman-Shcherbakov</Id>
   <Name>Роман Щербаков</Name>
-  <CompanyName>Группа компаний ЦРТ</CompanyName>
+  <CompanyName>ЦРТ</CompanyName>
   <CompanyUrl>https://www.speechpro.ru/</CompanyUrl>
-  <Description>Software Engineer. Интересуется математикой, алгоритмами и Data Science.</Description>
+  <Description>Участвует в разработке систем по сбору, хранению и анализу биометрических данных, а также занимается глубокой оптимизацией производительности полученных решений.
+
+Интересуется математикой, алгоритмами и Data Science.</Description>
   <GitHubUrl>https://github.com/daredever</GitHubUrl>
 </Speaker>

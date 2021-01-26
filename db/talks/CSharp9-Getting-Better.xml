@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>CSharp9-Getting-Better</Id>
+  <SpeakerIds>
+    <SpeakerId>Yuri-Lobodanov</SpeakerId>
+  </SpeakerIds>
+  <Title>C# 9.0 становится лучше</Title>
+  <Description>Данный доклад расскажет о новых полезных фичах языка, которые помогут сделать ваш ежедневный код лучше.</Description>
+</Talk>
