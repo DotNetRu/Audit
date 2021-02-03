@@ -6,4 +6,5 @@
   <Title>.NET 5 Assembly trimming</Title>
   <Description>На докладе мы, на основе двух практически идентичных приложений, написанных для .NET 5 и .NET Core 3.1 посмотрим, как новый .NET умеет сжимать self-contained приложения и насколько (в цифрах) это лучше получается чем у его предшественника. В качестве примера будем развёртывать приложения через .deb пакеты и в Docker контейнерах, а также поговорим о разнице между Framework-dependent и Self-contained деплое.</Description>
   <SlidesUrl>https://drive.google.com/file/d/1ZYojzNXkK38CEar_O9WsbmYxQ8vmq3RU/view</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=OI2S3uJfTQQ</VideoUrl>
 </Talk>

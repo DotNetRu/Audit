@@ -6,4 +6,5 @@
   <Title>Performance improvements of .NET 5 GC</Title>
   <Description>.NET часто ругают за производительность, а иногда даже говорят, что управляемая память — главное зло. Ребята из Microsoft проделали большую работу, чтобы пользователи и разработчики могли меньше беспокоиться о перфомансе сборки мусора. Женя расскажет, какие изменения были внесены в GC в пятом дотнете, и как это повлияет на нашу с вами жизнь.</Description>
   <SlidesUrl>https://drive.google.com/file/d/1N5gMJ7-nKRILwAZ0JSF9k3imiEosmTLX/view</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Qt0VvcDWVNo</VideoUrl>
 </Talk>
