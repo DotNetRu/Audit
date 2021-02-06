@@ -1,9 +1,9 @@
 ﻿<Speaker>
   <Id>Stanislav-Sidristy</Id>
   <Name>Станислав Сидристый</Name>
-  <CompanyName>EPAM</CompanyName>
-  <CompanyUrl>https://www.epam-group.ru/</CompanyUrl>
-  <Description>Разработчик .NET с большим стажем работы в самых разных областях: от ОСРВ до enterprise решений. Докладчик на конференциях: DotNext, Apps4All Forum, CLRium, QA:Conference. Автор проекта книги по ядру .NET.</Description>
+  <CompanyName>ЦРТ</CompanyName>
+  <CompanyUrl>https://www.speechpro.ru/</CompanyUrl>
+  <Description>Станислав работал во многих крупных компаниях, набирая опыт разработки на платформе .NET. Спикер многих конференций, в том числе DotNext, SpbDotNet, автор и основной спикер семинаров CLRium. Интересы Станислава долгое время лежали в области алгоритмов управления памятью и техник манимулирования рантаймом CLR из unsafe кода. Но в последнее время вектор изменён на более практичную часть разработки: многопоточность, блокирующие и неблокирующие алгоритмы. Является автором онлайн-книги «.NET Platform Architecture», получившей широкое распространение благодаря хорошему переводу на английский и китайский языки. Книга настолько легко читается, что понемногу начала выходить её аудиоверсия.</Description>
   <HabrUrl>https://habrahabr.ru/users/sidristij/</HabrUrl>
   <GitHubUrl>https://github.com/sidristij</GitHubUrl>
 </Speaker>
