@@ -1,0 +1,16 @@
+﻿<Meetup>
+  <Id>SpbDotNet-65</Id>
+  <Name>Встреча SpbDotNet №65</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>DotNext</FriendId>
+    <FriendId>JetBrains</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Zero-Allocation-Code</TalkId>
+      <StartTime>2021-02-11T16:00:00Z</StartTime>
+      <EndTime>2021-02-11T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
