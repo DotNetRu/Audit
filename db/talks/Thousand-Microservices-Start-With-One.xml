@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Thousand-Microservices-Start-With-One</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexander-Murzaev</SpeakerId>
+  </SpeakerIds>
+  <Title>Путь в тысячу микросервисов начинается с одного</Title>
+  <Description>Многие разработчики не раз слышали о микросервисах. Кто-то уже использует микросервисы в своих проектах от маленьких до больших. У каждой технологии есть свои преимущества и недостатки. Разберем подход совмещения монолита и микросервисов на конкретном примере.</Description>
+  <SlidesUrl>https://drive.google.com/file/d/1Vqupl3QdAzsLAKB61GBeDiq1MvXMaQlR/view</SlidesUrl>
+</Talk>
