@@ -1,0 +1,16 @@
+﻿<Meetup>
+  <Id>SpbDotNet-66</Id>
+  <Name>Встреча SpbDotNet №66</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Croc</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Source-Generators-in-Action</TalkId>
+      <StartTime>2021-02-25T16:00:00Z</StartTime>
+      <EndTime>2021-02-25T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
