@@ -1,0 +1,18 @@
+﻿<Talk>
+  <Id>Technical-Debt-Round-Table</Id>
+  <SpeakerIds>
+    <SpeakerId>Valentin-Kononov</SpeakerId>
+    <SpeakerId>Pavel-Agurov</SpeakerId>
+    <SpeakerId>Artem-Akulakov</SpeakerId>
+    <SpeakerId>Sergey-Buyanov</SpeakerId>
+    <SpeakerId>Nikita-Danilov</SpeakerId>
+  </SpeakerIds>
+  <Title>Круглый стол «Технический долг»</Title>
+  <Description>
+    Многие разработчики интуитивно понимают, что такое технический долг и чем он грозит проекту. Если задуматься, то можно придумать и интересные метафоры про его природу, и как должен закрываться. Вероятно, вы даже вспомните те фрагменты кода, которые давно хотите переписать.
+
+    Но как всем договориться о самом определении, что есть технический долг? Как организовать работу с техническим долгом? Как не навредить работе с основным бэклогом продукта?
+
+    Если эти вопросы неоднократно у вас возникали, приглашаем к нам на встречу, где наши гости поделятся своим многолетним разнообразным опытом борьбы (или дружбы?) с техническим долгом на проектах.</Description>
+  <VideoUrl>https://www.youtube.com/watch?v=KidaTDKxrlQ</VideoUrl>
+</Talk>
