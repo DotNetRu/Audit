@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Round-table-Microservices-And-Infrastructure</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexander-Murzaev</SpeakerId>
+  </SpeakerIds>
+  <Title>Круглый стол «Микросервисы и инфраструктура»</Title>
+  <Description>Неформальное обсуждение инфраструктуры, необходимой для функционирования микросервисов в новых или уже действующих решениях. Будем делиться опытом эксплуатации, идеями, обсуждать разные подходы и use-cases.</Description>
+</Talk>
