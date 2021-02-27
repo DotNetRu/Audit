@@ -1,0 +1,15 @@
+﻿<Meetup>
+  <Id>SarDotNet-7</Id>
+  <Name>Встреча SarDotNet №7</Name>
+  <CommunityId>SarDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>EPAM</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Technical-Debt-Round-Table</TalkId>
+      <StartTime>2021-01-30T12:00:00Z</StartTime>
+      <EndTime>2021-01-30T14:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
