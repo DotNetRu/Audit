@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Master-Class-Event-Storming</Id>
+  <SpeakerIds>
+    <SpeakerId>Sergey-Baranov</SpeakerId>
+  </SpeakerIds>
+  <Title>Воркшоп Event Storming</Title>
+  <Description>Проведём совместный Event Storming для процесса подготовки митапов.
+Воркшоп будет проходить в Miro.</Description>
+</Talk>

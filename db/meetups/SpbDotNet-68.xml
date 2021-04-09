@@ -1,0 +1,16 @@
+﻿<Meetup>
+  <Id>SpbDotNet-68</Id>
+  <Name>Встреча SpbDotNet №68</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>JetBrains</FriendId>
+    <FriendId>Kontur</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Master-Class-Event-Storming</TalkId>
+      <StartTime>2021-04-14T16:00:00Z</StartTime>
+      <EndTime>2021-04-14T19:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
