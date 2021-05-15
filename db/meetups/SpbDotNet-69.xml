@@ -1,0 +1,15 @@
+﻿<Meetup>
+  <Id>SpbDotNet-69</Id>
+  <Name>Встреча SpbDotNet №69</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Arcadia</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>DevOps-to-DataOps</TalkId>
+      <StartTime>2021-05-13T16:00:00Z</StartTime>
+      <EndTime>2021-05-13T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
