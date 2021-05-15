@@ -11,4 +11,5 @@
 Обратим наш взгляд на применение Azure DevOps API и других функций облачного окружения Microsoft, вместе с PowerBI и другими технологиями, для создания наглядной и доступной отчётности по поставляемому облачному решению на базе Docker.
 
 В заключении доклада будет продемонстрирован полезный инструмент, реализованный при помощи PowerBI, с минимальным использованием кода.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/DevOps-to-DataOps.pdf</SlidesUrl>
 </Talk>
