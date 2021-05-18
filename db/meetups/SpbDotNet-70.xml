@@ -1,0 +1,15 @@
+﻿<Meetup>
+  <Id>SpbDotNet-70</Id>
+  <Name>Встреча SpbDotNet №70</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>JetBrains</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Unity-Enterprise-Market</TalkId>
+      <StartTime>2021-05-27T16:00:00Z</StartTime>
+      <EndTime>2021-05-27T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
