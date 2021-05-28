@@ -5,4 +5,5 @@
   </SpeakerIds>
   <Title>Как Unity захватывает Enterprise рынок сегодня?</Title>
   <Description>В рамках доклада мы рассмотрим какой путь прошёл Unity от движка для инди-игр до полноценной среды разработки Enterprise решений. Сделаем обзор экосистемы Unity и основных видов продуктов, которые на ней разрабатываются. А также выясним почему Unity должен быть интересен сегодня всем C# программистам, если они хотят развиваться.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Unity-Enterprise-Market.pdf</SlidesUrl>
 </Talk>
