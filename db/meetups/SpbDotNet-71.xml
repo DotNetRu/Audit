@@ -1,0 +1,16 @@
+﻿<Meetup>
+  <Id>SpbDotNet-71</Id>
+  <Name>Встреча SpbDotNet №71</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Monopoly</FriendId>
+    <FriendId>JetBrains</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Migrating-from-MSSQL-to-PostgreSQL</TalkId>
+      <StartTime>2021-06-17T16:00:00Z</StartTime>
+      <EndTime>2021-06-17T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
