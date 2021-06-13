@@ -1,0 +1,15 @@
+﻿<Meetup>
+  <Id>SpbDotNet-72</Id>
+  <Name>Встреча SpbDotNet №72</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>JetBrains</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Message-Based-Approach-in-Distributed-Systems</TalkId>
+      <StartTime>2021-06-24T16:00:00Z</StartTime>
+      <EndTime>2021-06-24T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
