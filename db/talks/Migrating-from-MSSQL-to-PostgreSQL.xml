@@ -17,4 +17,5 @@
 - Результаты нагрузочного тестирования
 - Синхронизация и проверка целостности данных</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Migrating-from-MSSQL-to-PostgreSQL.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=MAl0BPYHoiM</VideoUrl>
 </Talk>
