@@ -9,4 +9,5 @@
 - сравнение временных таблиц и табличных переменных — обсуждение сценариев, когда есть смысл использовать те и другие
 - тип данных Float — чем потенциально опасен
 - оконные функции SQL Server — воможности, чем могут быть полезны</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Sql-Server-Developer-Tips.pdf</SlidesUrl>
 </Talk>
