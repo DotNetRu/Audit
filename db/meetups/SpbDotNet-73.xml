@@ -1,0 +1,15 @@
+﻿<Meetup>
+  <Id>SpbDotNet-73</Id>
+  <Name>Встреча SpbDotNet №73</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Arcadia</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Exceptions-Among-Exceptions</TalkId>
+      <StartTime>2021-07-21T16:00:00Z</StartTime>
+      <EndTime>2021-07-21T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
