@@ -14,6 +14,7 @@ Patrons:
   - Владислав
 Home: https://anchor.fm/radiodotnet/episodes/GraphQL-e14f3oi
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/37244114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-14%2F92a11a4c-0990-fe86-d4a8-8c6f2807ea62.mp3
+Video: https://www.youtube.com/watch?v=bDFF9bbureU
 Topics:
 
   - Subject: Memory Anti-Patterns in C#
