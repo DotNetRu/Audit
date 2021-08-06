@@ -14,6 +14,7 @@ Patrons:
   - Владислав
 Home: https://anchor.fm/radiodotnet/episodes/NET-6-P6---Bing----JSON-Source-Generator-e159lut
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/38114717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-31%2Fcab0606a-8f7c-29c1-a44c-5087af41db86.mp3
+Video: https://www.youtube.com/watch?v=gpa-E_3ORSE
 Topics:
 
   - Subject: Announcing .NET 6 Preview 6
