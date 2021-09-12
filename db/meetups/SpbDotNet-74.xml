@@ -1,0 +1,15 @@
+﻿<Meetup>
+  <Id>SpbDotNet-74</Id>
+  <Name>Встреча SpbDotNet №74</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Intermedia</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Message-Based-Approach-in-Distributed-Systems</TalkId>
+      <StartTime>2021-08-12T16:00:00Z</StartTime>
+      <EndTime>2021-08-12T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
