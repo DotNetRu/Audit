@@ -7,4 +7,5 @@
   <Description>Поговорим о пользе message broker'а в организации взаимодействия между компонентами системы. О том, какие задачи мы стараемся решить и на какие моменты стоит обратить внимание при проектировании/развитии архитектуры вашей системы.</Description>
   <CodeUrl>https://github.com/ddydeveloper/distributed-system-messaging</CodeUrl>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Message-Based-Approach-in-Distributed-Systems.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=-izdfoIznL4</VideoUrl>
 </Talk>
