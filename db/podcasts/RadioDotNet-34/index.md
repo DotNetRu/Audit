@@ -14,6 +14,7 @@ Patrons:
   - Владислав
 Home: https://anchor.fm/radiodotnet/episodes/NET-6-P7---Generic-Math-e162l3h
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/38933041/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-17%2F269dd28a-5579-95b2-4d3d-ff37013baab6.mp3
+Video: https://www.youtube.com/watch?v=9wPPilll5fs
 Topics:
 
   - Subject: Announcing .NET 6 Preview 7
