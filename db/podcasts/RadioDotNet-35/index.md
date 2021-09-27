@@ -15,6 +15,7 @@ Patrons:
   - Владислав
 Home: https://anchor.fm/radiodotnet/episodes/NET-6----ReSharper--Rider-2021-3-e17mkuj
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/40636819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-21%2F83f7d89e-f3dc-e8b1-c00f-b0076ee68360.mp3
+Video: https://www.youtube.com/watch?v=8r__x8SMFRU
 Topics:
 
   - Subject: Performance Improvements in .NET 6
