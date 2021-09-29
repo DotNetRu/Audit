@@ -8,6 +8,6 @@
 
 В рамках доклада Марк продемонстрирует приёмы функциональной разработки на задаче фильтрации треков. Она действительно практическая — с одной стороны, а с другой — достаточно сложная. Эта задача способна продемонстрировать мощность функциональных средств. Мы поговорим о сферической геометрии, о модульном тестировании, о фильтре Калмана и о том, как подключить код F# к обычному проекту на C#. Библиотека, о которой спикер будет рассказывать, сейчас работает в Azure и в мобильном приложении, написанном на Xamarin. Никаких высоких материй, только практика, только хардкор.</Description>
   <CodeUrl>https://github.com/binateq/gps-track-filter</CodeUrl>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/mark-shievchienko-fil-tratsiia-triekov-gps-na-f-number</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Filtering-GPS-tracks-FSharp.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=JSh1B2xJU6k</VideoUrl>
 </Talk>

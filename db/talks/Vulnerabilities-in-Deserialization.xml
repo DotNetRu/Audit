@@ -9,6 +9,6 @@
 Разберем, какие .NET-сериализаторы (и в каких конфигурациях) уязвимы, какие инструменты мы можем использовать на практике для поиска уязвимостей, какие payload’ы известны для .NET-приложений. В том числе посмотрим на созданные Михаилом инструменты статического анализа для поиска потенциальных недостатков в коде приложений. Использование инструментов будет проиллюстрировано на примерах уязвимостей, найденных Михаилом в продуктах Microsoft за время его участия в bug bounty.
 
 Разбереём best practices в разработке для избежания ошибок использования сериализаторов и подходы снижения рисков эксплуатации таких уязвимостей.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/mikhail-shchierbakov-uiazvimosti-v-protsiessie-diesierializatsii-proshloie-nastoiashchieie-i-budushchieie</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Vulnerabilities-in-Deserialization.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=xOuaGzFGPG8</VideoUrl>
 </Talk>

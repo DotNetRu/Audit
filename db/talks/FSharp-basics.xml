@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Основы F#</Title>
   <Description>Слышали что-то об F# и хотели бы узнать, что это за язык и чем он отличается от C#? На этом докладе мы познакомимся с языком F# и посмотрим, чем функциональное программирование отличается от объектно-ориентированного. В ходе доклада будут представлены примеры одинакового кода, написанного на F# и C#, чтобы можно было наглядно увидеть разницу между ними.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/osnovy-f-number</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/FSharp-basics.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=yD6D1u7974E</VideoUrl>
 </Talk>

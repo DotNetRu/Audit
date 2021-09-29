@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Кроссплатформенные инструменты серверной разработки .NET</Title>
   <Description>Расскажет, как жить, если вы хотите разрабатывать и запускать серверные приложения под .NET, не используя Windows.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/dienis-davydov-krossplatformiennyie-instrumienty-sierviernoi-razrabotki-net</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Cross-platform-server-development-tools-DotNet.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=vqCo7HIZsNU</VideoUrl>
 </Talk>

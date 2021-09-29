@@ -11,6 +11,6 @@
 И как затем плавно перешли к большему — идее и реализации портирования в C# известных в функциональном программировании Unit, Discriminated (Tagged) Union, Optional и Result-типов, и какая в результат получается модель создаваемого программного обеспечения, от библиотечного уровня до моделей сущностей в микросервисах и заканчивая конечными точками (endpoints).
 
 Одна из важных тем доклада — то, как данный подход позволил разделить в разрабатываемых приложениях фатальные ошибки (исключения) и «ошибки», которые не являются «успехом», но являются одним из ожидаемых результатов.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-sierghieiev-voprosy-nullabilily-v-platformie-net-primienieniie-funktsional-nogho-podkhoda-v-razrabotkie-s-ispol-zovaniiem-tipov-unit-tagged-union-optional-result-razdielieniie-iskliuchitiel-nykh-situatsii-i-ozhidaiemykh-riezul-tatov-pri-obrabotk</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Functional-Way-for-Solving-Nullability-Problem.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=hfcMtCyacLc</VideoUrl>
 </Talk>

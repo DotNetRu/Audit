@@ -6,5 +6,5 @@
   <Title>Функциональные трюки для вашего объектно-ориентированного кода</Title>
   <Description>Вы наверняка частенько слышите о том, какая же это чудесная штука - функциональное программирование. Все эти статьи и доклады про великолепие F#, Haskell, Scala и других функциональных языков на каждом шагу... Вот только в продакшене их все не видно.
 Но вы же не думаете, что функциональное программирование - это только вышеперечисленные языки? Пусть этот блиц-доклад окончательно убедит вас в обратном, показав множество прекрасных идей из функционального мира, которые можно использовать в любом современном языке - например C#.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/roman-nievolin-funktsional-nyie-triuki-dlia-vashiegho-obiektno-oriientirovannogho-koda</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Functional-tricks-for-OO-code.pdf</SlidesUrl>
 </Talk>

@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>gRPC для .NET разработчика</Title>
   <Description>Последние годы, казалось, что RPC решения в экосистеме .Net стремительно уходят в небытие. Но не так давно вышел ASP.NET Core 3.0, где одной из главных фич стал gRPC- современный RPC фреймворк разработанный компанией Google и активно поддерживаемый Cloud Native Computing Foundation. В рамках доклада мы рассмотрим как внедрить gRPC в свой проект, что нам это даст(и даст ли?) и с какими проблемами мы можем столкнуться.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksandr-chiertov-grpc-dlia-net-razrabotchika-cbd74271-7ec5-4e1a-ad48-3e7dd6c6d0a9</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/GRPC-for-Net-Developers.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=axxhK9lWfYQ</VideoUrl>
 </Talk>

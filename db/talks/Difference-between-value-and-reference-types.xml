@@ -6,5 +6,5 @@
   <Title>Чем значимые типы отличаются от ссылочных?</Title>
   <Description>Этот вопрос давно считается дурным тоном на собеседованиях. Вроде бы правильный ответ на него знают все. У докладчика есть задача, для решения которой его достаточно. Только ни один из кандидатов не смог ее решить.
 В докладе будет показано, как можно использовать особенности значимых типов для повышения эффективности вашего кода без потери читаемости и выразительности.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/kirill-maurin-chiem-znachimyie-tipy-otlichaiutsia-ot-ssylochnykh</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Difference-between-value-and-reference-types.pdf</SlidesUrl>
 </Talk>

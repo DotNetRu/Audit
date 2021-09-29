@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Почему же мой запрос на Entity Framework 6 так тормозит? Часть 9000</Title>
   <Description>Алексей расскажет о хитростях кеширования в Entity Framework 6 и о том, как простые на первый взгляд LINQ-выражения могут замедлить ваши запросы на несколько порядков.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksiei-kapustianienko-pochiemu-zhie-moi-zapros-na-entity-framework-6-tormozit-chast-9000</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Why-Request-for-EF6-so-Slow.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=IQjFIvkuFhM</VideoUrl>
 </Talk>

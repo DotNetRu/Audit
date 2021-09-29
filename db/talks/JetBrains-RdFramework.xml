@@ -7,6 +7,6 @@
   <Description>Давайте шаг за шагом напишем «мини-райдер» - распределённое многопоточное приложение на нескольких языках программирования (в нашем случае это будут C# и Kotlin, оставим C++ в покое).
 
 Какие строительные кирпичики, идеи и технические решения нам потребуются?</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-ivanov-jetbrains-dot-rdframework-konsistientnoie-rieaktivnoie-proghrammirovaniie-v-raspriedielionnom-mirie</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/JetBrains-RdFramework.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=GYTaDQIksDI</VideoUrl>
 </Talk>

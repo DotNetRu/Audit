@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>WinDbg и сотоварищи</Title>
   <Description>Поговорим о самом мощном отладчике для Windows – WinDbg. Разберем как начать использовать этот отладчик, чем он может быть полезен для.NET разработчиков. Подробней остановимся на практических моментах его применения, зачем он прикладным программистам, web-разработчикам. Посмотрим и на другие инструменты отладки, которые занимают нишу между интуитивно управляемым комбайном Visual Studio и легким, но крайне аскетичным WinDbg.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/mikhail-shchierbakov-windbg-i-sotovarishchi</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/WinDbg-and-friends.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=0gH0q9gA0dc</VideoUrl>
 </Talk>

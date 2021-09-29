@@ -6,6 +6,6 @@
   <Title>Clean Architectures</Title>
   <Description>Небольшой рассказ о том как сделать свое приложение более масштабируемым, долгоиграющим и устойчивым к внешним изменениям. Даже если о них заранее не известно.</Description>
   <CodeUrl>https://github.com/grem0087/CleanArchitecture</CodeUrl>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/ivan-patudin-clean-architectures</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Clean-Architectures.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=flLFXTJQHko</VideoUrl>
 </Talk>

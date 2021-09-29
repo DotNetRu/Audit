@@ -9,6 +9,6 @@
 В докладе представлен обзор этих ключевых технологий. Речь пойдут о проблемах, с которыми сталкиваются разработчики WEB-приложений, и о том, как они решаются благодаря .NET Core и OWIN.
 
 Также мы поделимся опытом использования стандарта OWIN в реальном, хоть и не большом, проекте. Использую реализацию OWIN, мы смогли реализовать простой и эффективный WEB-сервис, который легко разворачивается и поддерживается во время эксплуатации.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksandr-ivanov-roman-pravuk-prostoi-i-kross-platformiennyi-web-siervier-na-bazie-net-framework</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Simple-cross-platform-Web-server.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=PbdPSlGJp48</VideoUrl>
 </Talk>

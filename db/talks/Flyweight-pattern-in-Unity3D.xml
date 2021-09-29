@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Unity3d + Flyweight – Оптимизация сеточной 2d карты</Title>
   <Description>Поговорим о разработке игр на C# и возможностях Unity3D. Решим проблему оптимизации сеточной 2D карты, вспомним шаблон проектирования Flyweight и напишем тесты.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-kirpichiev-unity3d-plus-flyweight-optimizatsiia-sietochnoi-2d-karty</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Flyweight-pattern-in-Unity3D.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=rMChHUk2ba8</VideoUrl>
 </Talk>

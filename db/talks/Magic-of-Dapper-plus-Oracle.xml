@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Магия Dapper + Oracle</Title>
   <Description>В докладе будут рассмотрены примеры использования ORM Dapper и некоторых фич современных СУБД для создания приложений с быстрой обработкой большого количества данных и сложной бизнес-логикой. Какие конструкции и шаблоны упрощают жизнь в подобных проектах.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/maghiia-dapper-plus-oracle</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Magic-of-Dapper-plus-Oracle.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=kaxIS949C90</VideoUrl>
 </Talk>

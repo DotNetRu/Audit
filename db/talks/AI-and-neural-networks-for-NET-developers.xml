@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Искусственный интеллект и нейросети для.NET-разработчиков</Title>
   <Description>Искусственный интеллект сейчас является одной из самых обсуждаемых тем и главным двигателем цифровой трансформации бизнеса. Стратегия Microsoft в области ИИ включает в себя демократизацию ИИ для разработчиков, т.е. предоставление простых в использовании фреймворков и сервисов для решения интеллектуальных задач. Мы расскажем, как .NET-разработчики могут использовать возможности ИИ в своих проектах: начиная от готовых когнитивных сервисов, работающих в облаке, заканчивая обучением нейросетей на .NET-языках и запуском сложных нейросетевых моделей на компактных устройствах типа Raspberry Pi.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-soshnikov-iskusstviennyi-intielliekt-i-nieirosieti-dlia-dot-net-razrabotchikov</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/AI-and-neural-networks-for-NET-developers.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=ATTZX3cnBE8</VideoUrl>
 </Talk>

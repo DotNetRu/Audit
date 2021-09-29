@@ -10,5 +10,5 @@
 - как Event sourcing может помочь решить функциональные и нефункциональные требования, которые часто предъявляются к приложениям;
 - что есть в экосистеме .NET для реализации такого подхода;
 - как связать Event sourcing и распределенные системы, отдельно разберем как в этом случае находить и разрешать конфликты изменения данных.​</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/iakov-povar-event-sourcing-v-net</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Event-sourcing-in-NET.pdf</SlidesUrl>
 </Talk>

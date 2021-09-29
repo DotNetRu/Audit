@@ -5,5 +5,5 @@
   </SpeakerIds>
   <Title>Заклятые друзья или как подружить .NET и Java</Title>
   <Description>Как заставить Apache Ignite работать на .NET? Построчно спортировать с Java? Все 500 тысяч строк? Мы пошли другим путем, решив переиспользовать существующую Java-логику прямо внутри .NET процесса. В докладе я расскажу, почему мы приняли такое решение, как мы это сделали, и с какими трудностями столкнулись.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/vladimir-ozierov-zakliatyie-druz-ia-ili-kak-podruzhit-net-i-java</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/DotNet-and-Java.pdf</SlidesUrl>
 </Talk>

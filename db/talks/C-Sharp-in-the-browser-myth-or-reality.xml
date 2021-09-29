@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>C# в браузере — миф или реальность?</Title>
   <Description>С каждым годом мир всё больше и больше двигается от полноценных устанавливаемых приложений в сторону выполняемых в браузере клиентов к веб-сервисам. Вместе с этим переходом требования к сложности таковых продолжают расти, что ведёт к необходимости использования языков со строгой типизацией и богатыми синтаксическими возможностями. Успешно заняв ниши серверной, десктопной и мобильной разработки, C# теперь двигается и в браузер. В докладе будут рассмотрены средства компиляции C# в JavaScript, обеспечивающие бесшовную интеграцию с имеющейся веб-экосистемой, а также возможности по запуску программ в полноценной .NET-среде средствами WebAssembly.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/nikita-tsukanov-c-number-v-brauzierie-mif-ili-rieal-nost</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/C-Sharp-in-the-browser-myth-or-reality.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=0CYxsQn1n-o</VideoUrl>
 </Talk>

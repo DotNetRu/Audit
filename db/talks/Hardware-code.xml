@@ -5,5 +5,5 @@
   </SpeakerIds>
   <Title>Железный код</Title>
   <Description>В рамках доклада поговорим о том, с какими задачами может столкнуться .NET разработчик при взаимодействии с различного рода оборудованием: какие протоколы используются; какие типовые проблемы могут возникнуть и на что стоит обращать внимание. Также поговорим об автоматизации технологических процессов и особенностях взаимодействия с промышленным оборудованием.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/iurii-kierbitskov-zhielieznyi-kod</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Hardware-code.pdf</SlidesUrl>
 </Talk>

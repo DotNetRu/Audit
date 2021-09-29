@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Сервер для многопользовательской игры на .NET Core под Linux</Title>
   <Description>В докладе будет рассмотрен пример использования .NET Core для создания многопользовательской игры с тонким клиентом. Поговорим о том, почему была выбрана именно эта платформа, и для каких типов игр её можно использовать. Рассмотрим проблемы, с которыми можно столкнуться: на что стоит обратить внимание при разработке клиент-серверных игр, как правильно балансировать нагрузку и обрабатывать входящий трафик.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/iurii-orlov-siervier-dlia-mnoghopol-zovatiel-skoi-ighry-na-net-core-pod-linux</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Multiplayer-game-server-NET-Core-Linux.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=hmbKGG_xtvc</VideoUrl>
 </Talk>

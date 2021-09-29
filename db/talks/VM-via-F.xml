@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>VM via F#</Title>
   <Description>Рассмотрим принципы устройства всеми любимой CLR, а также подумаем, как реализовать схожую работу на функционально-направленном F#.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/iurii-volkov-vm-via-f-number</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/VM-via-F.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=mtYAry42MkU</VideoUrl>
 </Talk>

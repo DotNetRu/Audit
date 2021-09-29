@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Pattern Matching в C# 8</Title>
   <Description>Pattern Matching и с чем его едят. Пройдёмся по истории этого механизма и как его можно применить на практике.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/kirill-polietaiev-pattern-matching-v-c-number-8</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/CSharp-8-Pattern-Matching.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=oEi23omYFek</VideoUrl>
 </Talk>

@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Roslyn code analyzers</Title>
   <Description>Обзор технологии анализаторов кода для компилятора Roslyn, начиная с базового уровня (с чего начать писать свой первый анализатор), и заканчивая выводами по результатам (положительным и отрицательным) использования.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/sierghiei-oghorodnikov-roslyn-code-analyzers</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Roslyn-Code-Analyzers.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=9OxyvRnaICY</VideoUrl>
 </Talk>

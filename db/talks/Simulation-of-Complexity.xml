@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Имитация сложности</Title>
   <Description>Программисты много говорят про сложность решений. Мы можем часами размышлять о правильных шаблонах, красивых абстракциях и цепочках зависимостей. Но давайте поговорим открыто, всегда ли сложность обусловлена решаемой проблемой? Не оказываемся ли мы в плену наших стереотипов и убеждений?</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/nikita-danilov-imitatsiia-slozhnosti</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Simulation-of-Complexity.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=z6yxXJxmst8</VideoUrl>
 </Talk>

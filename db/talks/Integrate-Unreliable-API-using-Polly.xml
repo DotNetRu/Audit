@@ -8,6 +8,6 @@
 
 Зачастую мы не можем устранить причину таких проблем, но в наших силах минимизировать возникающий ущерб. Вы наверняка слышали о Retry-логике, кешировании, fallback-механизмах. До появления библиотеки Polly всё это мы изобретали сами. Но теперь у нас есть отличный инструмент, который сохранит наше время и нервы.</Description>
   <CodeUrl>https://github.com/amikulich/polly-best-practices</CodeUrl>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/artiom-mikulich-kak-intieghrirovat-sia-s-nie-nadiozhnym-third-party-api-pri-pomoshchi-polly</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Integrate-Unreliable-API-using-Polly.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=PAic9JHl6LA</VideoUrl>
 </Talk>

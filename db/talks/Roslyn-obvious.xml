@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Roslyn: очевидные неочевидности</Title>
   <Description>Разработка синтаксических анализаторов и рефакторингов с помощью Roslyn (Microsoft.CodeAnalysys) интересное и захватывющее занятие. Но путь изучения тернист, полон неожиданностей и неочевидностей. Давайте же рассмотрим основные сложности, которые вы можете встретить и составим шпаргалку, которая поможет вам в нелёгком деле синтаксического анализа.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksandr-kughushiev-roslyn-ochievidnyie-nieochievidnosti</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Roslyn-obvious.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=8stwekff5YI</VideoUrl>
 </Talk>

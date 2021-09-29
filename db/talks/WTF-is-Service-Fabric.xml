@@ -8,5 +8,5 @@
   <Description>Наш доклад про Microsoft Azure Service Fabric - облачную платформу, временами позволяющую легко разворачивать, скалировать и мониторить Ваши приложения.
 
 Service Fabric - весьма свежее решение, увидевшее свет в начале 2016 года. Однако Microsoft использует платформу с 2010 года, в частности для таких облачных сервисов, как: Skype for Business, Cortana, Azure SQL.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/nikita-kozlov-ivan-pashchienko-wtf-is-service-fabric</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/WTF-is-Service-Fabric.pdf</SlidesUrl>
 </Talk>

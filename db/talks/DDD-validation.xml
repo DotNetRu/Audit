@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Валидация в DDD</Title>
   <Description>Подход DDD сейчас набирает популярность в связи с активным переходом на продуктовую модель разработки. Множество людей хотят активно его использовать, но сталкиваются со сложностями. Дело в том, что это набор принципов и схем, и не всегда понятно, как правильно представить в коде тот или иной аспект. В докладе рассказывается, какие взгляды в сообществе есть на процесс валидации, о попытке использования внешнего фреймворка и причинах отказа от него в пользу собственного решения.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/konstantin-gustov-validatsiia-v-ddd</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/DDD-validation.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=JqqHbrzJLi4</VideoUrl>
 </Talk>

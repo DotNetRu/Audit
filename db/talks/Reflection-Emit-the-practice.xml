@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Reflection.Emit: практика использования</Title>
   <Description>Reflection.Emit позволяет сгенерировать и запустить произвольный код во время работы вашей программы. Будут предприняты попытки решить несколько задач с его помощью, а также будут рассмотрены низкоуровневый язык CIL, ограничения и способы их обхода.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-kurosh-reflection-dot-emit-praktika-ispol-zovaniia</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Reflection-Emit-the-practice.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=f3l-Ixbq_wk</VideoUrl>
 </Talk>

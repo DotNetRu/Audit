@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Версионирование API</Title>
   <Description>В докладе будут расмотрины все тонкости версионирования програмного обеспечения. В частности семантическое версионирование, секрет его популярности и области применения. Конечно затроним версионирование Web API и практические сценарии его использования. Разберём поддержку в библиотеке Microsoft ASP.NET API Versioning и её интеграцию с пакетом Swagger.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/daniil-doronkin-viersionirovaniie-api</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/API-Versioning.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=mKTfsqgugfg</VideoUrl>
 </Talk>

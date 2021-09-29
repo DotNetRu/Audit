@@ -6,6 +6,6 @@
   <Title>Реактивное программирование и его применение в frontend разработке (WPF)</Title>
   <Description>Реактивное программирование приобрело большую популярность за последние годы, так как позволяет упростить реализацию приложений основанных на событиях, а также выполнение асинхронного кода.
 Владимир расскажет нам о реактивном программировании, познакомит нас с манифестом реактивных систем, расскажет чем отличаются “горячие” и “холодные” последовательности. На примере WPF-приложения покажет, чем может быть полезно реактивное программирование при разработке frontend’а, а также, чем может помочь библиотека ReactiveUI.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/vladimir-roghozhin-rieaktivnoie-proghrammirovaniie-i-iegho-primienieniie-v-frontend-razrabotkie-wpf</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Reactive-Programming-And-Its-Application-In-Frontend-Development-WPF.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=_faOxMnxtP0</VideoUrl>
 </Talk>

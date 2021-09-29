@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Разработка игр на движке Unity</Title>
   <Description>Наверняка у многих людей возникало желание сделать свою игру, но с чего начать разработку не понятно. В докладе будут рассмотрены основные этапы пайплайна разработки игр от дизайнерского документа до релиза, а так же затронуты вопросы особенностей разработки на движке Unity глазами инди разработчика игр.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/artiom-luniov-razrabotka-ighr-na-dvizhkie-unity</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Game-Development-using-Unity-Engine.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=r7g0X0rgtYA</VideoUrl>
 </Talk>

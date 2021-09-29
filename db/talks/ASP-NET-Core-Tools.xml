@@ -5,5 +5,5 @@
   </SpeakerIds>
   <Title>Инструментарий ASP.NET Core</Title>
   <Description>Одной из проблем с которой сталкиваются разработчики при попытке смены наработанного стека технологий — утрата отточенного годами набора сопутствующих инструментов. Но, к счастью, для новых технологий появляются и новые инструменты, которые являются альтернативой для хорошо зарекомендовавших себя в прошлом. В докладе рассмотрим имеющиеся на сегодняшний день актуальные библиотеки и инструменты для ASP.NET Core, такие как: IoC контейнеры, ORM, библиотеки и стандарты авторизации, библиотеки логгирования, профилировщики API, системы автогенерации документации.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/timur-zamalieiev-instrumientarii-asp-dot-net-core</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/ASP-NET-Core-Tools.pdf</SlidesUrl>
 </Talk>

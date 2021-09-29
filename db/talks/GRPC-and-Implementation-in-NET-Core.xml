@@ -8,6 +8,6 @@
 
 В этом докладе мы разберём какие у него могут быть юзкейсы и какие задачи он решает, сильные и слабые стороны, и посравниваем его с REST и с WCF. А также разберём, как он работает, какие интересные фичи предлагает, и как помогает в кроссплатформенной разработке.</Description>
   <CodeUrl>https://github.com/grem0087/gRpcNext</CodeUrl>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/ivan-patudin-grpc-i-iegho-riealizatsiia-v-net-core</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/GRPC-and-Implementation-in-NET-Core.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=kD_Ad37GLDw</VideoUrl>
 </Talk>

@@ -6,6 +6,6 @@
   </SpeakerIds>
   <Title>TDD. Обзорный курс для новичков и профи</Title>
   <Description>Вспомним что такое TDD, что лежит в основе этой техники, поговорим о достоинствах и недостатках, а также попробуем разобраться, где границы её применимости.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/ievghienii-makarov-vitalii-iliukhin-tdd-obzornyi-kurs-dlia-novichkov-i-profi</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/TDD-Overview-Course-for-Beginners-and-Professionals.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=Juek3zdI8oA</VideoUrl>
 </Talk>

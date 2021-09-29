@@ -14,6 +14,6 @@
 - какие подводные камни могут ожидать пользователей этой фичи языка, когда она может сработать неожиданно или неправильно, и что делать в этом случае.
 
 Доклад будет интересен всем, кто планирует использовать nullable reference types, т.к. раскрывает подробности их работы. Наиболее полезен он будет тем, кто планирует использовать их в больших проектах, которые невозможно перевести на использование NRT и проаннотировать целиком за короткое время; проектах, в которых используются собственные решения для ассертов или исключений, либо методы со сложными контрактами, связывающими наличие null во входных и выходных значениях, т.к. эти методы придется аннотировать для корректной работы компилятора с ними.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-diatlov-nullable-reference-types-advanced-guide</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Nullable-Reference-Types-Advanced-Guide.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=PgvSZlBNWr8</VideoUrl>
 </Talk>

@@ -5,5 +5,5 @@
   </SpeakerIds>
   <Title>OAuth для .NET</Title>
   <Description>Доклад про использование OAuth на платформе .NET</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/artiom-zhuravliov-oauth-dlia-net</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/OAuth-for-NET.pdf</SlidesUrl>
 </Talk>

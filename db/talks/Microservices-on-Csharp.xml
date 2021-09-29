@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Микросервисы на С#</Title>
   <Description>Введение в тему микросервисов и конкретно их разработку на С#. Немного о подводных камнях и том, как с ними справляться.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/mark-shievchienko-mikrosiervisy-na-s-number</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Microservices-on-Csharp.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=Gdiewr3Ux8o</VideoUrl>
 </Talk>

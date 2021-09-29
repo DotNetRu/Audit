@@ -6,6 +6,6 @@
   <Title>Saritasa Tools или ещё один подход к архитектуре приложения</Title>
   <Description>Порой сложно работать с большими системами, особенно если они достались в наследство, и уж тем более если в команде много неопытных разработчиков. В таких случаях на помощь может прийти практика типовой архитектуры. Иван расскажет о подобной архитектуре и своей библиотеке «Saritasa Tools» для реализации такого рода задач.</Description>
   <CodeUrl>https://github.com/Saritasa/SaritasaTools</CodeUrl>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/ivan-kozhin-saritasa-tools-ili-ieshchio-odin-podkhod-k-arkhitiekturie-prilozhieniia</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Saritasa-Tools.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=7pb0PJ5EXnM</VideoUrl>
 </Talk>

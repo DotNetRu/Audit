@@ -7,6 +7,6 @@
   <Description>Каждый .NET-разработчик рано или поздно сталкивается с тем, что его приложение перестаёт работать из-за проблем с подключаемыми библиотеками: не компилируется, падает с FileNotFoundException в рантайме или, на первый взгляд, просто загадочно ничего не делает. Это может происходить как из-за реальных проблем с обратной совместимостью, так и из-за строгих правил версионирования сборок.
 
 В докладе Евгений расскажет о случаях, когда подобные ошибки возникают на .NET Framework и .NET Core, о некоторых общих подходах к решению проблем. Также мы рассмотрим особенности разработки приложений, которые загружают исполняемый код с зависимостями (плагины) в рантайме.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/ievghienii-pieshkov-dot-net-liechieniie-zavisimostiei</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Dependency-Treatment.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=WgB_YPf5mSU</VideoUrl>
 </Talk>

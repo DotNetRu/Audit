@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Akka.NET: обзорная экскурсия</Title>
   <Description>Akka.NET — это фреймворк для создания распределенных, высококонкуретных и отказоустойчивых систем. Разговор пойдёт про модель акторов, её реализацию в Akka.NET, а ещё про Event Sourcing и кластеры.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksandr-shievnin-akka-dot-net-obzornaia-ekskursiia</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Akka-Sightseeing-Tour.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=5QpXnANkuqo</VideoUrl>
 </Talk>

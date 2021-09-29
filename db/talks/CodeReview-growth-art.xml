@@ -9,6 +9,6 @@
 Доклад будет об общении автора и рецензента, правилах хорошего тона, культуре давать обратную связь, подходах к организации эффективного процессов ручной и автоматической инспекции кода. 
 
 Материал будет полезен новичкам в качестве фундамента и практикующим в качестве напоминания. А также тем, кто столкнулся с проблемами вроде длительной инспекции кода, долгоживущих веток, большого количества ошибок в проде, высокой стоимости разработки и т. д.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/roman-prosin-code-review-iskusstvo-razvivat</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/CodeReview-growth-art.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=2qwn_i4KGrg</VideoUrl>
 </Talk>

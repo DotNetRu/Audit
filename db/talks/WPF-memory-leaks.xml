@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Утечки памяти в WPF приложениях</Title>
   <Description>Находим утечки памяти в WPF приложении до его запуска в production и получения жалоб от пользователей. Какие распространённые (и не очень) проблемы встречаются, а также как их находить и устранять – поговорим в рамках доклада.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/ievghienii-makarov-utiechki-pamiati-v-wpf-prilozhieniiakh</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/WPF-memory-leaks.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=EDLQSHttDuI</VideoUrl>
 </Talk>

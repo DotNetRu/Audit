@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Проектирование и разработка модульных приложений</Title>
   <Description>Кирилл хочет показать, что по вдоль и поперек изъезженной теме разработки модульных приложений есть много нового и полезного для большей части аудитории. Будет много материала из личного опыта автора с иллюстрацией из собственной микробиблиотеки с отрытым исходным кодом.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/kirill-maurin-proiektirovaniie-i-razrabotka-modul-nykh-prilozhienii</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Design-and-development-of-modular-applications.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=Gd9Ze7-CIb0</VideoUrl>
 </Talk>

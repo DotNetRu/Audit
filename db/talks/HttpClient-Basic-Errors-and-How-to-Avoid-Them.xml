@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>HttpClient: основные ошибки и способы как их избежать</Title>
   <Description>HttpClient является неотъемлимой частью большинаства современных приложений, поэтому правильность его использования напрямую влияет на производительность. В докладе рассмотрим самые роспространённые ошибки, связанные с HttpClient, способы эти ошибки избежать, а также инструменты, которые были добавлены в новые версии платформы, облегчающие жизнь разработчикам.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/rival-abdrakhmanov-httpclient-osnovnyie-oshibki-i-sposoby-kak-ikh-izbiezhat</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/HttpClient-Basic-Errors-and-How-to-Avoid-Them.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=r16Zx591LJs</VideoUrl>
 </Talk>

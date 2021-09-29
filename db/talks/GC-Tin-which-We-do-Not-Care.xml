@@ -5,5 +5,5 @@
   </SpeakerIds>
   <Title>GC — жесть, о которой мы не заботимся</Title>
   <Description>Александр расскажет об основных источниках проблем и о том, как с ними боролись — на котятах и примерах из жизни.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/gc-zhiest-o-kotoroi-my-nie-zabotimsia</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/GC-Tin-which-We-do-Not-Care.pdf</SlidesUrl>
 </Talk>

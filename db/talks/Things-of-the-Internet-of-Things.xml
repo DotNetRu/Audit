@@ -5,5 +5,5 @@
   </SpeakerIds>
   <Title>«Вещи» в «Интернете вещей»</Title>
   <Description>Сегодня понятие интернета вещей ассоциируется с двумя направлениями: облаком и устройствами. И если об облаках говорят много, то о устройствах в концепции IoT информации намного меньше. Разговор будет о том, что же это за "вещи", какая у них роль, из чего они сделаны и как они работают.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksandr-surkov-vieshchi-v-intiernietie-vieshchiei</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Things-of-the-Internet-of-Things.pdf</SlidesUrl>
 </Talk>

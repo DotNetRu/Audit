@@ -7,6 +7,6 @@
   <Description>Доклад для тех, кто разрабатывает или планирует разрабатывать чувствительные к безопасности приложения, задумывается над проектированием расширяемой плагинами системы. Или просто интересуется технологиями, на основе которых построена вся модель безопасности в .NET Framework.
 
 Основные компоненты архитектуры безопасности .NET FW 4.0 и последующих версий. Особенности типобезопасности в .NET CLR. Домены приложений (AppDomain) и Code Access Security. Как, где и когда нужно строить собственные песочницы (sandbox) для выполнения недоверенного кода. Как все это работает в ASP.NET. Также мы вместе создадим эксплойт для .NET Framework, который продемонстрирует выход из песочницы, и разберем, за счет каких атак это возможно.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/mikhail-shchierbakov-sandboxing-in-net-clr</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Sandboxing-in-Net-CLR.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=tyvquVdhWzA</VideoUrl>
 </Talk>

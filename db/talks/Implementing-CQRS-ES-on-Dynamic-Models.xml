@@ -7,6 +7,6 @@
   <Description>Архитектурный подход CQRS+ES известен относительно широко, однако его применение в коммерческих проектах сопряжено с отсутствием готовых инструментов, отсутствием опыта команд и, как следствие, высоким риском выхода проекта из графика с непредсказуемым результатом.
 
 В докладе представлен опыт реализации CQRS+ES с метамоделью на примере задачи формирования энергетического паспорта предприятия, которая перемолола три различные системы за 8 лет. Рассмотрена микросервисная архитектура системы, способы повышения производительности, решение проблем согласования изменений ES и проекций, а так же выводы применения CQRS на практике.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/sierghiei-andriushkievich-riealizatsiia-cqrs-plus-es-na-dinamichieskikh-modieliakh-v-rieal-nom-proiektie</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Implementing-CQRS-ES-on-Dynamic-Models.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=ZiYql72h614</VideoUrl>
 </Talk>

@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Параноидальное программирование</Title>
   <Description>Вместе обсудим проблемы с которыми мы сталкиваемся повседневно, а именно, как перестать бояться null-reference исключений, должно ли приложение падать и кто отвественнен за ошибки в коде. Самое главное, как перестать быть жертвой багов, победить паранойю и начать улучшать код прямо сейчас.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/il-ia-shchietinin-paranoidal-noie-proghrammirovaniie</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Paranoid-Programming.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=gGI9urm3hcw</VideoUrl>
 </Talk>
