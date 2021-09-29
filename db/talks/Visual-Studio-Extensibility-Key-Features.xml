@@ -10,6 +10,6 @@
 - как студия понимает, что в нее добавлено;
 - кратко как деплоить (раньше и сейчас);
 - как войти в тему.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-pavlov-visual-studio-extensibility-osnovnyie-vozmozhnosti</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Visual-Studio-Extensibility-Key-Features.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=zfl5IHJnr9I</VideoUrl>
 </Talk>

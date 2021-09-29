@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Automatic Input/Output Matching in .NET</Title>
   <Description>Наверное, многие из вас сталкивались с задачей, когда нужно преобразовать один набор данных в другой, но вы понятия не имеете, какой магический обряд нужно провести чтобы звезды сложились и на выходе было именно то, что нужно. Вместо того чтобы итеративно лезть на StackOverflow и пробовать разные варианты для достижения нужной цели, Дмитрий предлагает другой вариант: использовать reflection для автоматизированного поиска нужной цепочки вызовов на основе входных и выходных данных. В этом докладе он покажет проект CallSharp который реализует как раз этот подход для вывода правильных цепочек. Мы поговорим про reflection, подводные камни произвольных вызовов всего и вся, а также возможные оптимизации и пути развития проекта.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/output-matching-in-net</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Automatic-Input-Output-Matching.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=sriXY5HErxA</VideoUrl>
 </Talk>

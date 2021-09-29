@@ -5,5 +5,5 @@
   </SpeakerIds>
   <Title>SpecFlow: Начало</Title>
   <Description>Автоматизированное тестирование — мистическая область, где стирается грань между тестировщиком и разработчиком. Познакомимся с популярным фреймворком автоматизации BDD-тестирования: SpecFlow — реализация широко известного Cucumber на платформе .NET.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-vierieskun-specflow-nachalo</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Specflow-Intro.pdf</SlidesUrl>
 </Talk>

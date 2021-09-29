@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Функциональный .NET</Title>
   <Description>Пожалуй, уже не осталось .NET разработчиков, не слышавших об F#. Но далеко не каждый понимает, что это за язык и зачем рядовому разработчику «эта ваша функциональщина». Самое время это исправить! Мы поговорим как о роли и преимуществах функционального программирования в целом, так и о его использовании в языке F#. Посмотрим на кейсы применения функционального подхода и разберем, как ФП позволяет «проапрегрейдить» ваш код.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/roman-nievolin-funktsional-nyi-net</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Functional-NET.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=Y7i3fJrZyr8</VideoUrl>
 </Talk>

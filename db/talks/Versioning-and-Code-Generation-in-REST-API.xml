@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Версионирование и кодогенерация в REST API</Title>
   <Description>Кирилл расскажет о проблемах версионирования REST API на примерах, покажет какие способы версионирования он применяет и в чём их отличие друг от друга. Познакомимся с разницей между code first и contract first подходов и о том, почему он выбрал contract first как основной для проектирования новых API. Расскажет о кодогенерации и сделает акцент на связке кодогенерации с версионированием. Покажет приниципиальную схему кодогенератора, позволяющего прозрачно и понятно поддерживать разные версии вашего API.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/kirill-likhtarovich-viersionirovaniie-i-kodoghienieratsiia-v-rest-api</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Versioning-and-Code-Generation-in-REST-API.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=BpxJrozgISw</VideoUrl>
 </Talk>

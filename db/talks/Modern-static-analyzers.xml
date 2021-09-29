@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>На что способны современные статические анализаторы для C#</Title>
   <Description>При разработке на C# все мы используем статический анализ. Стандартные предупреждения Visual Studio, FxCop, Visual Studio Code Analysis, ReSharper и не только. Однако, многие относятся к статическому анализу как к черному ящику, выдающему непредсказуемые и нередко ложные результаты. Мы поговорим о типичных ситуациях, которые обнаруживают статические анализаторы, и о принципиальных проблемах, приводящих к ложным срабатываниям. Обсудим основные идеи, позволяющие реализовать анализ, работающий за разумное время. В заключение мы расскажем об анализаторе, который разрабатывается в ИСП РАН.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/vladimir-koshieliev-na-chto-sposobny-sovriemiennyie-statichieskiie-analizatory-dlia-c-number</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Modern-static-analyzers.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=6qu1k6xF3TI</VideoUrl>
 </Talk>

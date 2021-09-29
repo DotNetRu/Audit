@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>От сервера клиенту или как это работает в другую сторону</Title>
   <Description>Сервер и много клиентов. Как нотифицировать клиента о каком либо событии в системе. В докладе будут рассмотрены технологии как этого можно достичь, и с какими проблемами придется столкнуться.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/vladimir-zarubin-ot-sierviera-kliientu-ili-kak-eto-rabotaiet-v-drughuiu-storonu</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/From-server-to-client.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=oyU3leXalHo</VideoUrl>
 </Talk>

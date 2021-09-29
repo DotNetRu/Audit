@@ -9,6 +9,6 @@
 Загир и Георгий расскажут о том, сколько стоил вход в эти технологии, какие барьеры им пришлось преодолеть. Можно ли делать это на практике с минимальными рисками для результатов проекта.
 
 Будут подробности про архитектуру, инфраструктуру, конвейер CI/CD.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/zaghir-aknazarov-zapuskaiem-v-k8s-mikrosiervisy-na-net-core-nash-opyt</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Launching-NET-Core-Microservices-in-K8S.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=mTjhOo16SvQ</VideoUrl>
 </Talk>

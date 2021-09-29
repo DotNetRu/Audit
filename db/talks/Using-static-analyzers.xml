@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Сценарии использования статического анализатора</Title>
   <Description>В докладе будут рассмотрены типичные сценарии использования статического анализатора.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/valierii-ighnat-iev-stsienarii-ispol-zovaniia-statichieskogho-analizatora</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Using-static-analyzers.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=k9zjmg7spEA</VideoUrl>
 </Talk>

@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Разработка мобильных приложений на С# с использованием Xamarin</Title>
   <Description>В этом докладе мы поговорим про кросс-платформенную разработку мобильных приложений на платформе Xamarin.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/vsievolod-ivanov-razrabotka-mobil-nykh-prilozhienii-na-s-number-s-ispol-zovaniiem-xamarin</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Xamarin-mobile-apps.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=_5qBAL5K6ls</VideoUrl>
 </Talk>

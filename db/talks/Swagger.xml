@@ -10,5 +10,5 @@
 - как сгенерировать код клиента/сервера по Swagger спецификации;
 - где лучше всего хранить документацию;
 - какие подводные камни вас могут подстерегать при работе со Swagger.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/paviel-fiedotovskii-dokumientatsiia-rest-api-c-ispol-zovaniiem-swagger</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Swagger.pdf</SlidesUrl>
 </Talk>

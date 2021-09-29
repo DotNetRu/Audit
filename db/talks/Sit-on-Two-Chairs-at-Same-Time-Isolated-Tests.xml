@@ -9,5 +9,5 @@
 Так было раньше. На сегодняшний день, благодаря гибкости современного .NET мы можем создавать быстрые, легко портируемые, простые в написании функциональные тесты.
 
 В данном докладе мы рассмотрим средства, позволяющие достичь следующих результатов: простой запуск и настройка тестового приложения, высокоуровневая изоляция базы данных и обращений к другим сервисам, решение инфраструктурных проблем. В дополнение к этому, мы сделаем наши тесты читабельными не только для разработчиков, но и для тестировщиков, и для бизнес аналитиков.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksandr-kughushiev-sadimsia-na-dva-stula-odnovriemienno-izolirovannyie-funktsional-nyie-tiesty-asp-dot-net-core-webapi</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Sit-on-Two-Chairs-at-Same-Time-Isolated-Tests.pdf</SlidesUrl>
 </Talk>

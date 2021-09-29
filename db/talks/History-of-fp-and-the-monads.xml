@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>История функционального программирования и щепотка монад</Title>
   <Description>Функциональный стиль всё глубже проникает в привычные императивные языки. И всё равно для многих это диковинка, которую тыкают палкой издалека. Многие апологеты сразу начинают тыкать функторами и монадами в лицо, рассказывая какие же они клёвые. Разберем все с самого начала. А откуда ж взялись "лямбды"? Что за теория категорий, о которой все говорят, и как она связана с кодом? Как можно "доказать" программу? Ну и, наконец, все вокруг говорят о монадах, а все ни сном, ни духом! Всё это и ещё немного философских размышлений ждут на докладе!</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/airat-khudaighulov-istoriia-funktsional-nogho-proghrammirovaniia-i-shchiepotka-monad</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/History-of-fp-and-the-monads.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=xzlfWOQNWnM</VideoUrl>
 </Talk>

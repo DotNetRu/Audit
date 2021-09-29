@@ -9,6 +9,6 @@
 — Как при помощи флэшки «повесить» WPF-приложение?
 — Безопасно ли вызывать DateTime.Now?
 и другие жизненные ситуации.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksandr-romanov-chto-polieznogho-v-razborie-dampov-dlia-net-razrabotchikov</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/What-is-useful-in-analyzing-dumps-for-NET-developers.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=EfRcC4j_764</VideoUrl>
 </Talk>

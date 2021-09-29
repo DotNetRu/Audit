@@ -4,7 +4,7 @@
     <SpeakerId>Ilya-Efimov</SpeakerId>
   </SpeakerIds>
   <Title>Обзор Xamarin Forms</Title>
-  <Description>Как только речь заходит о Xamarin, все начинают спрашивать: &quot;А не тормозит? А, наверное, много багов? А, наверное, можно реализовать не всё, что есть в нативных решениях?&quot;. Так что об этом поговорим в первую очередь. Дальше поговорим о самой разработке на Xamarin: конечно же про MVVM, code-behind, ReactiveUI, IoC DI, DependencyService — чтобы архитектура была слаженной. Отдельная тема — навигация, создание экземпляров страниц и передача в них параметров. В конце поговорим о CI, аналитике и баг-репортах на примере AppCenter.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/il-ia-iefimov-obzor-xamarin-forms</SlidesUrl>
+  <Description>Как только речь заходит о Xamarin, все начинают спрашивать: "А не тормозит? А, наверное, много багов? А, наверное, можно реализовать не всё, что есть в нативных решениях?". Так что об этом поговорим в первую очередь. Дальше поговорим о самой разработке на Xamarin: конечно же про MVVM, code-behind, ReactiveUI, IoC DI, DependencyService — чтобы архитектура была слаженной. Отдельная тема — навигация, создание экземпляров страниц и передача в них параметров. В конце поговорим о CI, аналитике и баг-репортах на примере AppCenter.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Overview-Xamarin-Forms.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=ca-A41wnjck</VideoUrl>
 </Talk>

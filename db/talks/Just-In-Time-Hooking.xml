@@ -6,6 +6,6 @@
   <Title>Just In Time hooking</Title>
   <Description>Вы когда-нибудь пытались писать код, который будет оптимизирован? Всегда ли код работает настолько быстро, насколько вы ожидали? Не ломай голову - сломай CLR и пусть он сам тебе расскажет всё, что думает о твоем коде. Как это сделать - в этом докладе.</Description>
   <CodeUrl>https://github.com/GeorgePlotnikov/ClrAnalyzer</CodeUrl>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/gieorghii-plotnikov-just-in-time-hooking</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Just-In-Time-Hooking.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=39fOc4Jr8lE</VideoUrl>
 </Talk>

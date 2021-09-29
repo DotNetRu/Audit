@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>DDD в унаследованном коде - способы борьбы со сложностью ПО</Title>
   <Description>Почти все разработчики сталкивались с системами, которые было сложно развивать и поддерживать. Для таких систем есть всем известное название – legacy. Legacy всех раздражает, а причина этого обычно – сложная, запутанная логика приложения, в которой так сложно что-то понять. В данном докладе будет рассказано о том, что представляет из себя подход DDD. Будет показано на примере, как он помогает упрощать логику и делать приложение структурированным и понятным.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/konstantin-gustov-ddd-v-unasliedovannom-kodie-sposoby-bor-by-so-slozhnost-iu-po</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/DDD-in-legacy-code-software-complexity.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=kKOrx7dKCC0</VideoUrl>
 </Talk>

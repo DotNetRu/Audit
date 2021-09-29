@@ -8,6 +8,6 @@
   <Description>Для чего вам не стоит использовать DocumentDB? Для чего вам не стоит использовать Relation SQL DB?
 Разберём в докладе сравнение подходов в хранении и эффективном доступе до информации при разных вариантах хранения на примере MongoDB и SQL Server. Сравним данные по цифрам и по использованию стандартных инструментов из .NET. Разберём слабые и сильные стороны, разберём моделирование хранения и то, что вы делаете неверно при проектировании.</Description>
   <CodeUrl>https://github.com/kroniak/mongodb-benchmark-samples</CodeUrl>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/nikolai-molchanov-i-dmitrii-ielisieiev-bitva-sql-vs-documentdb</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Battle-SQL-vs-DocumentDB.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=E8EwG3RE1XE</VideoUrl>
 </Talk>

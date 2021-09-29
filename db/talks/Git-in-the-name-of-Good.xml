@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Git во имя добра</Title>
   <Description>Git становится де-факто стандартом как система контроля версий – все, кому не лень, переходят на Git. Даже код нашего любимого .NET Framework теперь на GitHub, не говоря уже о всех остальных продуктах Microsoft. Но вместе с тем, git слишком сложен и часто ставит в неловкие ситуации – приходится гуглить и выполнять непонятные команды в консоли. Давайте вместе разберёмся, чем же git так хорош и как научиться его готовить – после доклада вы сможете уверенно выйти сухим из воды из практически любой деликатной ситуации.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/paviel-fiedotovskii-git-vo-imia-dobra</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Git-in-the-name-of-Good.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=8nts8C209W0</VideoUrl>
 </Talk>

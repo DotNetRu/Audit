@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>CLRMD как написать свой инструментарий отладки</Title>
   <Description>Исследование аварийных дампов - весьма сложный процесс. Привычный арсенал - использование WinDBG и SOS.dll, но они весьма сложны для понимания начинающими разработчиками. В докладе мы рассмотрим, как делать все то же самое с помощью CLRMD.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/oliegh-pieriesada-clrmd-kak-napisat-svoi-instrumientarii-otladki</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/CLRMD-how-to-write-your-debug-tool.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=V2wONbGQROo</VideoUrl>
 </Talk>

@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Практика принятия и применения Coding сonventions в разработке</Title>
   <Description>Задача данного доклада – объяснить, для чего же все-таки нужны на первый взгляд нудные соглашения и стандарты, принимаемые в командах. На конкретных примерах будет показано, что нужно упоминать в соглашениях, а что – нет. Можно ли их заменить различными современными утилитами? Какие выгоды и социальные последствия стоят за процессами принятия и применения? Все это можно будет узнать из данного доклада​</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/iurii-orlov-praktika-priniatiia-i-primienieniia-coding-sonventions-v-razrabotkie</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Coding-conventions-practice.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=U9oIFvEhzMI</VideoUrl>
 </Talk>

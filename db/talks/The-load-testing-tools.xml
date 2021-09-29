@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Инструменты нагрузочного тестирования</Title>
   <Description>Есть три богатыря нагрузочного тестирования, и каждый инструмент хорош по-своему: Microsoft Visual Studio, HP LoadRunner и Apache JMeter. Хотели бы Вы выполнять нагрузочное тестирование удобно, бесплатно и правильно? Тогда можно взять от каждого инструмента самое лучшее. Впомогательные инструменты и структуру теста удобно взять из HP LoadRunner. Писать и отлаживать скрипт удобнее всего в Visual Studio. А подавать нагрузку, создавать контролируемое количество потоков выполнения, из Apache JMeter.​</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/viachieslav-smirnov-instrumienty-naghruzochnogho-tiestirovaniia</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/The-load-testing-tools.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=8wDoiyIOd14</VideoUrl>
 </Talk>

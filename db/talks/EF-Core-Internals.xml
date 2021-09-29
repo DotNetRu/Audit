@@ -5,5 +5,5 @@
   </SpeakerIds>
   <Title>Внутреннее устройство EF Core</Title>
   <Description>Рассмотрим внутреннюю архитектуру нового EF. Посмотрим как теперь работают основные его фичи внутри. Начнем с инструментов разработчика и CLI, а закончим генерацией provider специфичных запросов. Посмотрим на точки расширения для новых провайдеров, а так же рассмотрим гипотетические возможности по написанию своего.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-tieriekhov-vnutriennieie-ustroistvo-ef-core</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/EF-Core-Internals.pdf</SlidesUrl>
 </Talk>

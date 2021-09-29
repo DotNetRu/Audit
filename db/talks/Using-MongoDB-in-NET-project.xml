@@ -7,6 +7,6 @@
   <Title>Внедрение MongoDB в .NET проект</Title>
   <Description>В какой проект можно внедрить MongoDB? Как продать эту идею руководству и коллегам? Трудности с которыми столкнётся каждый. Ответы на эти вопросы, а так же примеры из истории внедрения в реальный production, вы найдёте в этом докладе.</Description>
   <CodeUrl>https://github.com/daredever/MongoHell/</CodeUrl>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-ielisieiev-i-roman-shchierbakov-vniedrieniie-mongodb-v-net-proiekt</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Using-MongoDB-in-NET-project.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=6yZu_SIV9rY</VideoUrl>
 </Talk>

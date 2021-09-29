@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>У вас найдётся минутка, чтобы поговорить о блокчейне?</Title>
   <Description>Блокчейн, криптовалюта, ICO. Как много скрыто в этих словах. В рамках доклада Егор, с помощью простых примеров на C#, расскажет вам как это работает. А также поделится своим опытом и океаном боли, связанным с разработкой под Ethereum.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/ieghor-grishiechko-u-vas-naidiotsia-minutka-chtoby-poghovorit-o-blokchieinie</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Talk-About-Blockchain.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=gzTzjyYDn5A</VideoUrl>
 </Talk>

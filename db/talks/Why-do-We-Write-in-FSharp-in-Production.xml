@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Зачем мы пишем на F# в продакшене</Title>
   <Description>Роман расскажет как F# упрощает повседневную энтерпрайз разработку и почему вам стоит его попробовать</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/roman-liman-zachiem-my-pishiem-na-f-number-v-prodakshienie</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Why-do-We-Write-in-FSharp-in-Production.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=pLUV5vJM0TA</VideoUrl>
 </Talk>

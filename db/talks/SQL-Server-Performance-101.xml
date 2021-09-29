@@ -7,6 +7,6 @@
   <Description>Как бы нам ни хотелось верить в то, что оптимизатор запросов всегда сделает всё сам, на практике нередко возникают ситуации, когда для того, чтобы добиться нужной производительности, нам приходится лезть во внутренности сервера баз данных.
 
 В докладе мы поговорим о практических подходах к анализу перформанса SQL Server: профилировании и Extended Events, чтении планов выполнения и о том, о каких фичах SQL Server не стоит забывать в борьбе за производительность.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/alieksandr-shieliomin-sql-server-performance-101</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/SQL-Server-Performance-101.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=wSDMM6w-xVg</VideoUrl>
 </Talk>

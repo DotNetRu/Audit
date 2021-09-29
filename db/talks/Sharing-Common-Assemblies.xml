@@ -8,6 +8,6 @@
 
 
 В данном докладе пойдет речь о механизмах позволяющих значительно снизить потребление оперативной памяти и улучшить производительность. В некоторых ситуациях речь пойдет о разах. Дополнительно слушатель узнает о различных типах памяти и случаях при которых они используются.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/stanislav-flusov-sharing-obshchikh-sborok-miezhdu-protsiessami-i-domienami-v-iis</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Sharing-Common-Assemblies.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=RfLqkdtoKpA</VideoUrl>
 </Talk>

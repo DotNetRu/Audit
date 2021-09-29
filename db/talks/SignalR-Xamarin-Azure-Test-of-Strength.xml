@@ -21,6 +21,6 @@
 
 Далее в докладе поговорим о каждой технологии подробнее и вместе сделаем приложение в связке Azure + SignalR  + Xamarin.</Description>
   <CodeUrl>https://github.com/kretovd/xamarinday2018/</CodeUrl>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/dienis-krietov-signalr-xamarin-i-azure-provierka-na-prochnost-kak-my-obiedinili-tysiachi-boliel-shchikov-v-riezhimie-rieal-nogho-vriemieni</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/SignalR-Xamarin-Azure-Test-of-Strength.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=USlkX1fwOUw</VideoUrl>
 </Talk>

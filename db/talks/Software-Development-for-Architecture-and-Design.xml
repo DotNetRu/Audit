@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Разработка ПО для архитектуры и дизайна</Title>
   <Description>Ни для кого не будет сюрпризом, что большинство ПО для дизайна зданий (как внутри так и снаружи) идет по принципу полного ручного контроля: ты должен вручную создать каждый элемент, и ни о каком «искусственном интелекте» не может быть и речи. В результате, процесс дизайна трудоемок и достаточно дорог. В этом докладе мы посмотрим на то, какие аспекты разработки зданий (интерьера и экстерьера) можно частично или полностью автоматизировать, и какие уникальные возможности даёт «самописный» подход к архитектурному проектированию.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-niestieruk-razrabotka-po-dlia-arkhitiektury-i-dizaina</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Software-Development-for-Architecture-and-Design.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=26bM0yiB5eE</VideoUrl>
 </Talk>

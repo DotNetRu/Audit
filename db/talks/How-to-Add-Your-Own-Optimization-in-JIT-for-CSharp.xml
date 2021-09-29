@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Как добавить свою оптимизацию в JIT для C#</Title>
   <Description>В этом докладе Егор на примере нескольких своих оптимизаций внутри RyuJIT расскажет, каким образом это работает и как можно попробовать свои силы и реализовать свою собственную оптимизацию для C#.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/ieghor-boghatov-kak-dobavit-svoiu-optimizatsiiu-v-jit-dlia-c-number</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/How-to-Add-Your-Own-Optimization-in-JIT-for-CSharp.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=s-0FXVP9w8w</VideoUrl>
 </Talk>

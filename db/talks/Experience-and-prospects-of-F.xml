@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>F#: Опыт и Перспективы</Title>
   <Description>Рассказ про то зачем нужен F#, его текущее положение в индустрии, а также примеры того, как его использовать для разных целей, в т.ч. в математике, для построения DSLей, написания парсеров/трансляторов и использование REPL-среды для ускорения разработки.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-niestieruk-f-number-opyt-i-pierspiektivy</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Experience-and-prospects-of-F.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=a4fD2Nl7R0A</VideoUrl>
 </Talk>

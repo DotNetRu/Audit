@@ -6,6 +6,6 @@
   <Title>Кросс-процедурные анализы на примере локальных функций в ReSharper</Title>
   <Description>В докладе, с практическими примерами, будет рассказано о том, как писать кросс-процедурные анализы кода и почему это теперь необходимо для самых разнообразных анализаторов C#-кода, неважно, написаны они на базе ReSharper, Roslyn или собственных моделей кода.
 В качестве примера в общих чертах будет описано, как работает dataflow анализ в ReSharper и как на него повлияли локальные функции, появившиеся в C# 7. Будет итеративно рассмотрен алгоритм сбора данных для кросс-процедурных анализов без привязки к конкретным API Roslyn/ReSharper и дана оценка сложности построения модели по памяти/времени на каждом шаге. Андрей также приведет несколько примеров использования полученной модели вне рамок исходного примера.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/andriei-diatlov-kross-protsiedurnyie-analizy-na-primierie-lokal-nykh-funktsii-v-resharper</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Cross-procedural-Analysis-for-Local-Functions-in-Resharper.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=ERBLLHDntKs</VideoUrl>
 </Talk>

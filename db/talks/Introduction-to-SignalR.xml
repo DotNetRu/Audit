@@ -6,6 +6,6 @@
   <Title>Введение в SignalR</Title>
   <Description>SignalR – это технология, которая позволяет обмениваться мгновенными сообщениями между клиентом и сервером. Мы поговорим о том, для чего нужна эта технология, как она изменилась с выходом .NET Core и как её можно применять на практике.</Description>
   <CodeUrl>https://github.com/akuzn1/SpaceGameSignalRDemo</CodeUrl>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/vviedieniie-v-signalr</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Introduction-to-SignalR.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=n5SFKAAbIhk</VideoUrl>
 </Talk>

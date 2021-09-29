@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>SSO на базе OpenId Connect в корпоративной системе</Title>
   <Description>В докладе мы немного выйдем за рамки quick start'ов, рассмотрим, как прикрутить OIDC к унаследованному коду MVC и не только. Как организовать Single Sign Out в наборе внутрикорпоративных приложений, расширить «коробочный» функционал Identity Server'а, организовать масштабирование и другие вопросы из процесса реальной разработки реальных приложений.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/dmitrii-fiodorov-sso-na-bazie-openid-connect-v-korporativnoi-sistiemie</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/SSO-and-OpenId-in-Corporate-System.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=bF0JhYxeg7I</VideoUrl>
 </Talk>

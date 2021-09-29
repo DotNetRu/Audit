@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Продвинутое использование NuGet и MSBuild</Title>
   <Description>NuGet пакеты используют все. А рано или поздно приходится собрать такой пакет самому. Хорошо если это просто несколько DLL собранных вместе. Встречаются и более сложные случаи — несколько целевых версий фреймворка, специальные скрипты установки и вдобавок расширения MSBuild. Если вы разработчик библиотеки, публикуемой на nuget.org, или вы просто захотели поделиться чем-то полезным с коллегами, выложив ваш пакет на внутренний NuGet-сервер — вам нужно владеть навыками создания NuGet пакетов и помнить о тонкостях которые могут вас подстерегать. В докладе рассмотрим полный цикл создания NuGet пакета и особое внимание уделим «продвинутым» возможностям — скриптам и встраивание в MSBuild.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/ighor-labutin-prodvinutoie-ispol-zovaniie-nuget-i-msbuild</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Advanced-use-of-NuGet-and-MSBuild.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=GddbhA0gsdg</VideoUrl>
 </Talk>

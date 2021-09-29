@@ -6,6 +6,6 @@
   <Title>Structured logging</Title>
   <Description>Доклад рассказывает о том, как превратить кучу текстовых логов в полноценную Event Source систему. А каждому разработчику дать почувствовать себя всемогущим аналитиком. Всё это возможно благодаря структурному логированию (Structured logging), которое привносит в ваши логи семантическую составляющую. Так же будут рассмотрены основные проблемы стека ELK (Elasticsearch, Logstash, Kibana). Мы попробуем решить эти концептуальные проблемы с помощью структурного логирования. Мы так же рассмотрим как работать со структурными логами в .NET с помощью библиотеки Serilog. Решим несколько практических задач с помощью подручных средств, которые без семантики журнала были бы не подъёмны. Разберёмся со специализированным сервером Seq. И конечно же найдём пути быстрой и безболезненной миграции существующих приложений на этот чудо-стек.</Description>
   <CodeUrl>https://github.com/AnatolyKulakov/Samples/tree/spbdotnet/StructuredLogging/Demo</CodeUrl>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/anatolii-kulakov-structured-logging</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Structured-logging.pdf</SlidesUrl>
   <VideoUrl>http://www.youtube.com/watch?v=f0UGDHT7ZwY</VideoUrl>
 </Talk>

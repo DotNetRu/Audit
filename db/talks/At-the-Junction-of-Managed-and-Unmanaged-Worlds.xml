@@ -9,6 +9,6 @@
 К счастью, .NET обладает богатым инструментарием, который позволяет практически прозрачно общаться с нативным кодом. Этот доклад познакомит вас с основными техниками вызова нативных функций из .NET-приложений, особенностями размещения в памяти структур, которыми может обмениваться управляемый и неуправляемый код, а также некоторыми подводными камнями, которые обязательно оказываются на пути у тех, кто начинает работу с нативным кодом из .NET.
 
 В докладе Иван будет говорить обо всех современных реализациях .NET: о .NET Framework, Mono и .NET Core.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/ivan-mighaliov-na-stykie-upravliaiemogho-i-nieupravliaiemogho-mirov</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/At-the-Junction-of-Managed-and-Unmanaged-Worlds.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=-KBkAOtvIUM</VideoUrl>
 </Talk>

@@ -6,6 +6,6 @@
   <Title>Контроль зависимостей между элементами структуры приложения</Title>
   <Description>Проектирование архитектуры приложения в стиле «большого комка грязи» может привести к печальным последствиям. К сожалению, в долгосрочной перспективе все приложения начинают превращаться в этот самый «комок». Размытие границ между слоями и контекстами усложняет внесение изменений в код и его развитие. И задумываться об этом стоит не только для новых проектов, но и для существующего legacy.
 В докладе будут рассмотрены варианты организации структуры приложения с помощью сборок и пространств имён и как средства статического анализа кода помогают не только найти нарушения в существующей архитектуре, но и автоматизировать контроль соблюдения принятых правил в момент разработки и отложено.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/iurii-soldatkin-kontrol-zavisimostiei-miezhdu-eliemientami-struktury-prilozhieniia</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Dependencies-Control-between-Elements-of-Application-Structure.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=W1uFm_oPUbE</VideoUrl>
 </Talk>

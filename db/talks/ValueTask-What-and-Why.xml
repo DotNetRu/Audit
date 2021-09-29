@@ -5,5 +5,5 @@
   </SpeakerIds>
   <Title>ValueTask: что, зачем и почему</Title>
   <Description>Недавно, в свежих версиях языка, появились ValueTask, task-like типы и IValueTaskSource. Многие даже не знают о том, что эти типы существуют, а большинство из тех, кто знает об их существовании, не понимает, зачем они. Егор расскажет, что это за новые средства, для чего они и когда их использование обосновано, а когда нет.</Description>
-  <SlidesUrl>https://speakerdeck.com/dotnetru/ieghor-grishiechko-valuetask-chto-zachiem-i-pochiemu</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/ValueTask-What-and-Why.pdf</SlidesUrl>
 </Talk>
