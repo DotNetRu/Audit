@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Blazor intro</Title>
   <Description>Глубоко субъективное мнение по поводу Blazor WebAssembly на основе опыта использования в реальном проекте. Будет полезно тем кто присматривается к Blazor WebAssembly.</Description>
-  <SlidesUrl>https://drive.google.com/file/d/17oUTV_wUQ79vaeBjgRC_wqxgKhDHdrua/view</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Blazor-Intro.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=m9EvcieZj54</VideoUrl>
 </Talk>
