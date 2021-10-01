@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>C# 9.0 Source Generators</Title>
   <Description>Добро пожаловать на Курс молодого бойца по кодогенарции и метапрограммированию!</Description>
-  <SlidesUrl>https://drive.google.com/file/d/1-y0Y1vjuA5bQ_NcMN6K9EePd-XxK4Edf/view</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/CSharp9-Source-Generators.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=Xeuewv-5nOA</VideoUrl>
 </Talk>

@@ -5,6 +5,6 @@
   </SpeakerIds>
   <Title>Обзор перфомансных изменений в .NET 5</Title>
   <Description>Рассказывая о новом дотнете только ленивый не упоминал, насколько быстрее всё стало работать. Кстати, а что именно ускорилось? А почему? А что при этом произошло под капотом? Самое время посмотреть на эти изменения чуть поближе и разобраться, что изменилось.</Description>
-  <SlidesUrl>https://drive.google.com/file/d/1bIEj1v3EoUFJx3TGyXhBgGJahUXgRXq_/view</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Overview-of-Performance-Changes-in-NET5.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=wC4Ki6YF5y0</VideoUrl>
 </Talk>
