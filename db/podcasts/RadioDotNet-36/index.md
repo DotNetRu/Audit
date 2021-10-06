@@ -15,6 +15,7 @@ Patrons:
   - Владислав
 Home: https://anchor.fm/radiodotnet/episodes/NET-6-RC1----HTTP3-e181bs8
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/40987976/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-28%2F06ef55a7-d614-b565-d903-935cd4a31034.mp3
+Video: https://www.youtube.com/watch?v=piEjUiZWKlM
 Topics:
 
   - Subject: Announcing .NET 6 Release Candidate 1
