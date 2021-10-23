@@ -15,6 +15,7 @@ Patrons:
   - Владислав
 Home: https://anchor.fm/radiodotnet/episodes/DotNext-2021-Moscow-e18u2p7
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/41928935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-17%2Fbebbe8be-a7b4-fdce-0381-be36b3337225.mp3
+Video: https://www.youtube.com/watch?v=_1JkBoSbL10
 Topics:
 
   - Subject: Trends
