@@ -14,6 +14,7 @@ Patrons:
   - Владислав
 Home: https://anchor.fm/radiodotnet/episodes/NET-6-RC2----VS-Code-for-the-Web---VS-2022-e198hdu
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/42271614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-24%2F8f1a9063-7c51-10f4-fd4a-a48170bc7b92.mp3
+Video: https://www.youtube.com/watch?v=txnREvOBLnE
 Topics:
 
   - Subject: Announcing .NET 6 Release Candidate 2
