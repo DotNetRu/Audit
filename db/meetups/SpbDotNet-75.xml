@@ -1,0 +1,12 @@
+﻿<Meetup>
+  <Id>SpbDotNet-75</Id>
+  <Name>Встреча SpbDotNet №74</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Sessions>
+    <Session>
+      <TalkId>Refactor-Complex-Project-Live</TalkId>
+      <StartTime>2021-11-11T16:00:00Z</StartTime>
+      <EndTime>2021-11-11T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
