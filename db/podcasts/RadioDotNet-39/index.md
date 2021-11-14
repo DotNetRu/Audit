@@ -14,6 +14,7 @@ Patrons:
   - Владислав
 Home: https://anchor.fm/radiodotnet/episodes/Hot-Reload--ASP----Endpoints-e19vclu
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/43020414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-8%2F8cf5f7f7-90f4-b44f-690b-419c168c4f45.mp3
+Video: https://www.youtube.com/watch?v=W7pVXnCDg6I
 Topics:
 
   - Subject: What's New in EF Core 6.0
