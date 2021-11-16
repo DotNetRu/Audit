@@ -1,0 +1,12 @@
+﻿<Meetup>
+  <Id>SpbDotNet-76</Id>
+  <Name>Встреча SpbDotNet №76</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Sessions>
+    <Session>
+      <TalkId>Http-Client-in-NET</TalkId>
+      <StartTime>2021-11-17T16:00:00Z</StartTime>
+      <EndTime>2021-11-17T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
