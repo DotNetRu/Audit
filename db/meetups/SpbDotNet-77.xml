@@ -1,0 +1,12 @@
+﻿<Meetup>
+  <Id>SpbDotNet-77</Id>
+  <Name>Встреча SpbDotNet №77</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Sessions>
+    <Session>
+      <TalkId>ThreadPool-Adapts-to-External-Load</TalkId>
+      <StartTime>2021-11-25T16:00:00Z</StartTime>
+      <EndTime>2021-11-25T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
