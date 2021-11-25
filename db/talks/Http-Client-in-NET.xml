@@ -19,4 +19,5 @@
 - подготовятся к миграции приложений с .NET Framework и старых версий .NET Core на .NET 5;
 - получат актуальную информацию о поддержке HTTP/2 в .NET, с тестами производительности.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Http-Client-in-NET.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Y9QfF0OsYLc</VideoUrl>
 </Talk>
