@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>ThreadPool для сервиса, адаптирующегося под внешнюю нагрузку</Title>
   <Description>Встроенный ThreadPool хорош во всём. Будучи реализованным через алгоритм hill climbing, он умеет грамотно утилизировать ресурсы. Однако история с сервисами, работающими через протокол SMB, продолжается. Как итог — хочется иметь такое решение по скачиванию файлов с удалённого сервера, которое бы с одной стороны максимально утилизировало CPU и сеть, а с другой — не мешало бы остальной системе, гибко сокращая утилизируемые ресурсы при возрастании нагрузки на более высокоприоритетных сервисах.</Description>
+  <CodeUrl>https://github.com/sidristij/threading-kit</CodeUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/ThreadPool-Adapts-to-External-Load.pdf</SlidesUrl>
 </Talk>
