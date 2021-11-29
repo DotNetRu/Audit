@@ -16,6 +16,7 @@ Patrons:
   - Владислав
 Home: https://anchor.fm/radiodotnet/episodes/NET-6--ASP-NET-Core-6--C-10--Visual-Studio-2022-e1altlg
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/43758704/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-22%2Fcc574fb7-214e-85bd-811c-386b2234cef0.mp3
+Video: https://www.youtube.com/watch?v=2mICiajFoZ0
 Topics:
 
   - Subject: Announcing .NET 6
