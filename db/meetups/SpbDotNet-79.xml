@@ -1,0 +1,12 @@
+﻿<Meetup>
+  <Id>SpbDotNet-79</Id>
+  <Name>Встреча SpbDotNet №79</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Sessions>
+    <Session>
+      <TalkId>Source-Generators-2-Incremental</TalkId>
+      <StartTime>2021-12-16T16:00:00Z</StartTime>
+      <EndTime>2021-12-16T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
