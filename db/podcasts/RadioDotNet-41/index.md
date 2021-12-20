@@ -14,6 +14,7 @@ Patrons:
   - Владислав
 Home: https://anchor.fm/radiodotnet/episodes/C-11---YARP-e1bk4co
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/44748632/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-12%2F7674988e-a39b-6532-1550-672bc29bf7d1.mp3
+Video: https://www.youtube.com/watch?v=4Egi_HHL2wM
 Topics:
 
   - Subject: C# 11 Initial Triage
