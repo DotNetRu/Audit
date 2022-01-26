@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>NET6-LINQ-Improvements</Id>
+  <SpeakerIds>
+    <SpeakerId>Roman-Gashkov</SpeakerId>
+  </SpeakerIds>
+  <Title>.NET6: LINQ improvements</Title>
+  <Description>LINQ предоставляет удобный API для работы с данными в декларативном стиле. Практически каждый .NET разработчик в своей работе регулярно сталкивается с LINQ. В последнем обновлении .NET LINQ мы получили несколько приятных улучшений, о которых хочется рассказать.</Description>
+</Talk>

@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>NET6-System-Text-Json</Id>
+  <SpeakerIds>
+    <SpeakerId>Renat-Taziev</SpeakerId>
+  </SpeakerIds>
+  <Title>.NET 6: System.Text.Json</Title>
+  <Description>В докладе разберём как изменилась библиотеке System.Text.Json в .NET 6</Description>
+</Talk>

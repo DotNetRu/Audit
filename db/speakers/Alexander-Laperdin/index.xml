@@ -1,0 +1,12 @@
+﻿<Speaker>
+  <Id>Alexander-Laperdin</Id>
+  <Name>Александр Лапердин</Name>
+  <CompanyName>Plan A Technologies</CompanyName>
+  <CompanyUrl>https://planatechnologies.com/</CompanyUrl>
+  <Description>Разработчик .NET. Прошёл путь с WPF до веб-приложений на .NET Core, успел поработать с промышленными микроконтроллерами при испытаниях авиационной техники.
+
+Считает, что .NET сообщество является важной частью жизни любого разработчика на C#.
+
+Александр любит изучать и разбираться в новых технологиях. Интересуется DevOps и всем что связано с C# и .NET.</Description>
+  <ContactsUrl>https://www.linkedin.com/in/aleksandrdotnet/</ContactsUrl>
+</Speaker>

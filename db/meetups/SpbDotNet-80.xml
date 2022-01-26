@@ -1,0 +1,46 @@
+﻿<Meetup>
+  <Id>SpbDotNet-80</Id>
+  <Name>​Launch of  .NET 6</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Kontur</FriendId>
+    <FriendId>Tinkoff</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>How-is-Blazer-WebAssembly-Doing</TalkId>
+      <StartTime>2022-01-27T16:00:00Z</StartTime>
+      <EndTime>2022-01-27T16:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>NET6-LINQ-Improvements</TalkId>
+      <StartTime>2022-01-27T16:30:00Z</StartTime>
+      <EndTime>2022-01-27T16:50:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>CSharp10-Interpolated-String-Handlers</TalkId>
+      <StartTime>2022-01-27T16:50:00Z</StartTime>
+      <EndTime>2022-01-27T17:15:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>CSharp10-Record-Structs</TalkId>
+      <StartTime>2022-01-27T17:15:00Z</StartTime>
+      <EndTime>2022-01-27T17:40:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>NET6-System-Text-Json</TalkId>
+      <StartTime>2022-01-27T17:40:00Z</StartTime>
+      <EndTime>2022-01-27T18:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>DotNet-Monitor-and-All</TalkId>
+      <StartTime>2022-01-27T18:00:00Z</StartTime>
+      <EndTime>2022-01-27T18:20:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>CSharp10-in-Rider</TalkId>
+      <StartTime>2022-01-27T18:20:00Z</StartTime>
+      <EndTime>2022-01-27T19:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
