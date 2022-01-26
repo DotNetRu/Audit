@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>CSharp10-in-Rider</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
+  </SpeakerIds>
+  <Title>Инструментальная поддержка C#10 в Rider</Title>
+  <Description>В этом докладе мы посмотрим на механизмы поддержки новых фич C#10/.NET 6 в среде разработки JetBrains Rider.</Description>
+</Talk>
