@@ -14,6 +14,7 @@ Patrons:
   - Владислав
 Home: https://anchor.fm/radiodotnet/episodes/EF7------NET-6---Hot-Reload-e1c5h9d
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/45318893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-25%2Fc9b1fbba-a4c1-a3c0-050e-ecc497b12dbc.mp3
+Video: https://www.youtube.com/watch?v=kHDWFhSua4U
 Topics:
 
   - Subject: Announcing the Plan for EF7
