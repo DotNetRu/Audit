@@ -5,4 +5,5 @@
   </SpeakerIds>
   <Title>.NET 6: System.Text.Json</Title>
   <Description>В докладе разберём как изменилась библиотеке System.Text.Json в .NET 6</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/NET6-System-Text-Json.pdf</SlidesUrl>
 </Talk>

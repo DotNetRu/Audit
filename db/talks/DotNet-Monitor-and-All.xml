@@ -9,4 +9,5 @@
 Как раз для этих задач существует dotnet monitor, который предназначен для мониторинга производительности и сбора диагностических артефактов в процессе dotnet.
 
 Познакомимся с dotnet monitor и его возможностями. Настроим его с Prometheus и Grafana c выводом графиков и всё это в docker.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/DotNet-Monitor-and-All.pdf</SlidesUrl>
 </Talk>
