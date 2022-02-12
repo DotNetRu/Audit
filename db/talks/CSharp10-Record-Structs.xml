@@ -6,4 +6,5 @@
   <Title>C# 10 Record structs</Title>
   <Description>В докладе рассматривается новый Value type — Record structs, в том числе его новые возможности и подводные камни. Доклад ориентирован именно на практическое применение — на что нужно обращать внимание чтобы не наступать на грабли, какие типичные проблемы могут возникнуть и как их можно решать, как лучше использовать новые возможности и т.п. Рассматривается широкий круг вопросов, после чего вы сможете самостоятельно решать, в каких случаях нужно использовать Record structs и, главное, почему.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/CSharp10-Record-Structs.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Qtlw-AbLysQ</VideoUrl>
 </Talk>

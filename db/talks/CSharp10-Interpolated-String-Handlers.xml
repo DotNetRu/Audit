@@ -6,4 +6,5 @@
   <Title>C# 10: Interpolated string handlers</Title>
   <Description>Доклад о том, почему в языке появились кастомные обработчики интерполируемых строк, и для чего мы их можем использовать.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/CSharp10-Interpolated-String-Handlers.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=TMRDEbi8uYg</VideoUrl>
 </Talk>
