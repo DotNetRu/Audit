@@ -10,4 +10,5 @@
 
 Познакомимся с dotnet monitor и его возможностями. Настроим его с Prometheus и Grafana c выводом графиков и всё это в docker.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/DotNet-Monitor-and-All.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=ERdGdFJFlCo</VideoUrl>
 </Talk>
