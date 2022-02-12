@@ -3,6 +3,7 @@
   <SpeakerIds>
     <SpeakerId>Roman-Nevolin</SpeakerId>
   </SpeakerIds>
-  <Title>Как поживет Blazor WebAssembly и нужен ли он мне?</Title>
+  <Title>Как поживает Blazor WebAssembly и нужен ли он мне?</Title>
   <Description>.NET 6 принёс много изменений в Blazor, наконец-то доводящих его до production-ready состояния. В этом докладе мы сфокусируемся на его Web Assembly части и посмотрим, что интересного с ней происходит.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/How-is-Blazer-WebAssembly-Doing.pdf</SlidesUrl>
 </Talk>
