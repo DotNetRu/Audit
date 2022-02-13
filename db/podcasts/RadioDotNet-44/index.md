@@ -16,6 +16,7 @@ Patrons:
   - Шевченко Антон
 Home: https://anchor.fm/radiodotnet/episodes/MediatR----NET-6-GC---Standard-e1d4q67
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/46343815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-18%2Fffa9ef2e-e8d4-d53f-1869-fd32e3c9fcc0.mp3
+Video: https://www.youtube.com/watch?v=-jG3RnuTq7U
 Topics:
 
   - Subject: Visual Studio 17.1 Preview 2
