@@ -1,0 +1,10 @@
+﻿<Speaker>
+  <Id>Anton-Eremin</Id>
+  <Name>Антон Ерёмин</Name>
+  <CompanyName>Veeam Software</CompanyName>
+  <CompanyUrl>https://www.veeam.com/</CompanyUrl>
+  <Description>Ведущий разработчик в компании Veeam Software. Активно применяет средства для автоматизации написания и анализа кода в повседневной деятельности.</Description>
+  <BlogUrl>http://aeremin.net/</BlogUrl>
+  <TwitterUrl>https://twitter.com/eremintonny</TwitterUrl>
+  <GitHubUrl>https://github.com/tonnyeremin</GitHubUrl>
+</Speaker>
