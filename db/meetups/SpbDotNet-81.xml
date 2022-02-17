@@ -1,0 +1,15 @@
+﻿<Meetup>
+  <Id>SpbDotNet-81</Id>
+  <Name>Встреча SpbDotNet №81</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Veeam</FriendId>
+  </FriendIds>
+  <Sessions>
+    <Session>
+      <TalkId>Introduction-to-DotNet-Compiler-Platform</TalkId>
+      <StartTime>2022-02-17T16:00:00Z</StartTime>
+      <EndTime>2022-02-17T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

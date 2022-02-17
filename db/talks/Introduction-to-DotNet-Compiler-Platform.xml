@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Introduction-to-DotNet-Compiler-Platform</Id>
+  <SpeakerIds>
+    <SpeakerId>Anton-Eremin</SpeakerId>
+  </SpeakerIds>
+  <Title>Знакомство с .NET Compiler Platform</Title>
+  <Description>Как сэкономить более 3000 человеко-часов? Доклад представляет собой введение в платформу Roslyn. Мы рассмотрим основные компоненты платформы и принципы работы с ними. Разберём практический пример того, как создать собственное расширение для рефакторинга. В конце рассмотрим, как мы применяем платформу для решения реальных задач.</Description>
+</Talk>
