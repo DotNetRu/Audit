@@ -18,6 +18,7 @@ Patrons:
   - Илья
 Home: https://anchor.fm/radiodotnet/episodes/MediatR--StringBuilder-e1e34ct
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/47337309/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-7%2F3d1a5b7d-b71f-5732-e0fc-b6d54dd1af21.mp3
+Video: https://www.youtube.com/watch?v=25urFdROGFw
 Topics:
 
   - Subject: .NET MAUI Preview 12
