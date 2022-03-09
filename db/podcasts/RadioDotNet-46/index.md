@@ -18,6 +18,7 @@ Patrons:
   - Илья
 Home: https://anchor.fm/radiodotnet/episodes/F----double-bang-----IDE-e1f0bij
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/48294931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-27%2F9560159d-b2e4-eabe-231d-18ad5f0b2e90.mp3
+Video: https://www.youtube.com/watch?v=NoSZS13SPdo
 Topics:
 
   - Subject: Happy 20th Anniversary, .NET!
