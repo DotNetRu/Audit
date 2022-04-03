@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Round-Table-Pros-and-Cons-Prototyping</Id>
+  <SpeakerIds>
+    <SpeakerId>Stanislav-Prodan</SpeakerId>
+    <SpeakerId>Maxim-Arshinov</SpeakerId>
+    <SpeakerId>Kirill-Maurin</SpeakerId>
+    <SpeakerId>Mikhail-Kopytin</SpeakerId>
+  </SpeakerIds>
+  <Title>Круглый стол. Польза и вред прототипирования</Title>
+  <Description>По мотивам доклада Станислава про прототипирование поговорим о том, в каких случаях целесообразно использовать прототипирование, что потом делать с быстронаписанным кодом, и поделимся личным опытом создания, использования и утилизации прототипов.</Description>
+  <VideoUrl>https://youtu.be/4_YxT3fO5iQ</VideoUrl>
+</Talk>
