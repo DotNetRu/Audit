@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-50</Id>
+  <Name>Встреча MskDotNet №50</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>DodoPizza</FriendId>
+  </FriendIds>
+  <VenueId></VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Why-We-Write-Hundreds-of-Logs-and-How-To-Search-in-Them</TalkId>
+      <StartTime>2021-08-05T16:00:00Z</StartTime>
+      <EndTime>2021-08-05T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-Future-NET-development</TalkId>
+      <StartTime>2021-08-05T17:20:00Z</StartTime>
+      <EndTime>2021-08-05T18:20:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
