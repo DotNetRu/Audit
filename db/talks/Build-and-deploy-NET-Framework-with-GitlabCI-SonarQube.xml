@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Build-and-deploy-NET-Framework-with-GitlabCI-SonarQube</Id>
+  <SpeakerIds>
+    <SpeakerId>Pavel-Khrulev</SpeakerId>
+  </SpeakerIds>
+  <Title> Сборка, анализ кода, unit-тестирование и публикация приложения .NET Framework с использованием GitLab CI, SonarQube и OpenCover.</Title>
+  <Description>В рамках доклада спикер расскажет, как настроить сборку WPF-приложения в GitLab CI и подключить статический анализатор кода за пару часов, а также как отправить полученные артефакты в телеграмм. </Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Build-and-Deploy-.NET-Framework-with-GitlabCI-SonarQube.pdf</SlidesUrl>
+  <VideoUrl>https://youtu.be/gt6U9At3DfE</VideoUrl>
+</Talk>

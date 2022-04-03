@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>MskDotNet-48</Id>
+  <Name>Встреча MskDotNet №48</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Kaspersky</FriendId>
+  </FriendIds>
+  <VenueId></VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Obfuscation-NET-Code</TalkId>
+      <StartTime>2020-10-22T16:00:00Z</StartTime>
+      <EndTime>2020-10-22T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Build-and-deploy-NET-Framework-with-GitlabCI-SonarQube</TalkId>
+      <StartTime>2020-10-22T17:10:00Z</StartTime>
+      <EndTime>2020-10-22T17:40:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-CI-CD</TalkId>
+      <StartTime>2020-10-22T17:40:00Z</StartTime>
+      <EndTime>2020-10-22T19:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

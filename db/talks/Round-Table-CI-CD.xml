@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Round-Table-CI-CD</Id>
+  <SpeakerIds>
+    <SpeakerId>Leonid-Andrievskiy</SpeakerId>
+    <SpeakerId>Pavel-Khrulev</SpeakerId>
+    <SpeakerId>Alexander-Chertov</SpeakerId>
+    <SpeakerId>Alexey-Churbanov</SpeakerId>
+  </SpeakerIds>
+  <Title>Круглый стол. Поговорим о CI/CD</Title>
+  <Description>В рамках круглого стола обсудим: какие задачи решает CI/CD; как объяснить бизнесу, что тебе нужен CI/CD; когда нужен отдельный человек для настройки процессов CI/CD; что нужно автоматизировать, а что нет; используемые инструменты; тестирование процесса деплоя; tips-n-tricks.</Description>
+  <VideoUrl>https://youtu.be/SFs1smqXrhk</VideoUrl>
+</Talk>
