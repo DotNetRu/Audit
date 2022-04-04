@@ -5,7 +5,6 @@
   <FriendIds>
     <FriendId>Kaspersky</FriendId>
   </FriendIds>
-  <VenueId></VenueId>
   <Sessions>  
     <Session>
       <TalkId>Obfuscation-NET-Code</TalkId>
