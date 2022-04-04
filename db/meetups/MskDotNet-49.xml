@@ -5,7 +5,6 @@
   <FriendIds>
     <FriendId>RaiffeisenBank</FriendId>
   </FriendIds>
-  <VenueId></VenueId>
   <Sessions>  
     <Session>
       <TalkId>Dependency-pipeline</TalkId>
