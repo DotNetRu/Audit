@@ -5,7 +5,6 @@
   <FriendIds>
     <FriendId>DodoPizza</FriendId>
   </FriendIds>
-  <VenueId></VenueId>
   <Sessions>  
     <Session>
       <TalkId>Why-We-Write-Hundreds-of-Logs-and-How-To-Search-in-Them</TalkId>
