@@ -18,7 +18,7 @@
 Во-вторых, для создания простых экспериментов используется Xamarin, чтоб не было соблазна вмердживать успешные эксперименты в основную ветку. В основной ветке используются нативные инструменты Android и iOS. 
 
 Как создать, настроить взаимодействие и поддерживать эти контролы в Nuget — об этом и будет доклад.</Description>
+  <CodeUrl>https://github.com/sprodan/XamarinControllsToolkit</CodeUrl>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Creating-and-reusing-modules-for-prototyping.pdf</SlidesUrl>
   <VideoUrl>https://youtu.be/UNbsuF8RmHk</VideoUrl>
-  <CodeUrl>https://github.com/sprodan/XamarinControllsToolkit</CodeUrl>
 </Talk>
