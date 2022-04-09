@@ -1,0 +1,14 @@
+﻿<Talk>
+  <Id>Dependency-pipeline</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrey-Sergeev</SpeakerId>
+  </SpeakerIds>
+  <Title>Dependency pipeline</Title>
+  <Description>В современной промышленной разработке широко используется инверсия управления и внедрение зависимостей — как подход и как набор популярных Dependency Injection-фреймворков, которые, с помощью в том числе механизма рефлексии, обходят ограничения модели ОО-языков.
+
+В докладе мы расскажем, как мы прошли этот путь: задавались вопросами, нашли ответы и создали решение в функциональном стиле — Dependency Pipeline — готовое для стандартного DI-механизма .NET Core (а также которое может быть адаптировано для сторонних DI-решений, если они используются в .NET Core напрямую).
+
+Также расскажем о том, как теперь, после внедрения Dependency Pipeline, мы регистрируем web-контроллеры с помощью наиболее общего механизма .NET Core, нежели предлагаемое по умолчанию более частное решение в типовом .NET Core-сервисе.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Dependency-pipeline.pdf</SlidesUrl>
+  <VideoUrl>https://youtu.be/pI_FCRAoUQs</VideoUrl>
+</Talk>

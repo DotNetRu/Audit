@@ -1,0 +1,25 @@
+﻿<Meetup>
+  <Id>MskDotNet-49</Id>
+  <Name>Встреча MskDotNet №49</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>RaiffeisenBank</FriendId>
+  </FriendIds>
+  <Sessions>  
+    <Session>
+      <TalkId>Dependency-pipeline</TalkId>
+      <StartTime>2020-11-19T16:00:00Z</StartTime>
+      <EndTime>2020-11-19T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Creating-and-Reusing-Modules-for-Prototyping</TalkId>
+      <StartTime>2020-11-19T17:10:00Z</StartTime>
+      <EndTime>2020-11-19T18:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-Pros-and-Cons-Prototyping</TalkId>
+      <StartTime>2020-11-19T18:00:00Z</StartTime>
+      <EndTime>2020-11-19T19:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
