@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Obfuscation-NET-Code</Id>
+  <SpeakerIds>
+    <SpeakerId>Leonid-Andrievskiy</SpeakerId>
+  </SpeakerIds>
+  <Title> Защита программного кода .NET: разумное применение обфускации.</Title>
+  <Description>В рамках доклада поговорим про обфускацию кода в .NET приложениях.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Obfuscation-NET-Code.pdf</SlidesUrl>
+  <VideoUrl>https://youtu.be/w9Qbxg5Krqc</VideoUrl>
+</Talk>
