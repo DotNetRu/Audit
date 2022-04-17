@@ -1,0 +1,11 @@
+﻿<Talk>
+  <Id>Orchestration-Infinite-Tasks-Orchestratr</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Kazakov</SpeakerId>
+  </SpeakerIds>
+  <Title>Оркестрация бесконечных задач, OrchestratR</Title>
+  <Description>История о том как очередь сообщений стала планировщиком задач. В докладе будет рассмотрен вопрос о том, чем бесконечные задачи отличаются от обычных и почему ими сложнее управлять, поищем готовые решения и на базе push-очередей построим собственную оркестрацию задач.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Orchestration-Infinite-Tasks-Orchestratr.pdf</SlidesUrl>
+  <VideoUrl>https://youtu.be/fAbNSiJBsSs</VideoUrl>
+  <CodeUrl>https://github.com/dkzkv/OrchestratR</CodeUrl>
+</Talk>

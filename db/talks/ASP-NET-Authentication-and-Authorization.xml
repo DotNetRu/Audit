@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>ASP-NET-Authentication-and-Authorization</Id>
+  <SpeakerIds>
+    <SpeakerId>Roman-Prosin</SpeakerId>
+  </SpeakerIds>
+  <Title>Аутентификация и авторизация на платформе ASP.NET Core</Title>
+  <Description>&quot;… А посылку я вам не отдам, потому, что у вас документов нету.&quot; Платформа ASP.NET Core предоставляет всё необходимое для защиты  приложений и данных. Однако часто встречаются пользовательские решения, которые не удовлетворяют стандартам и не проходят тщательного тестирования. В докладе будут рассмотрены основные сценарии и основные ошибки, которых следует избегать. Вы узнаете как реализовать OAuth 2.0 и его расширение OpenID Connect, как подружить их с Kerberos на платформах отличных от Windows, что такое шлюз федерации.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/ASP-NET-Core-Authentication-and-Authorization.pdf</SlidesUrl>
+  <VideoUrl>https://youtu.be/BxZ3lSNP9dQ</VideoUrl>
+</Talk>
