@@ -5,7 +5,6 @@
   <FriendIds>
     <FriendId>BCS</FriendId>
   </FriendIds>
-  <VenueId></VenueId>
   <Sessions>  
     <Session>
       <TalkId>ASP-NET-Authentication-and-Authorization</TalkId>
