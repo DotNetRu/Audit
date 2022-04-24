@@ -1,0 +1,20 @@
+﻿<Meetup>
+  <Id>MskDotNet-51</Id>
+  <Name>Встреча MskDotNet №51</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>BCS</FriendId>
+  </FriendIds>
+  <Sessions>  
+    <Session>
+      <TalkId>ASP-NET-Authentication-and-Authorization</TalkId>
+      <StartTime>2022-01-27T16:00:00Z</StartTime>
+      <EndTime>2022-01-27T16:50:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Orchestration-Infinite-Tasks-Orchestratr</TalkId>
+      <StartTime>2022-01-27T17:10:00Z</StartTime>
+      <EndTime>2022-01-27T18:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
