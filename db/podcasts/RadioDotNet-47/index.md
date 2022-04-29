@@ -17,6 +17,7 @@ Patrons:
   - Илья
 Home: https://anchor.fm/radiodotnet/episodes/HTTP-SDK---EFCore---Object-e1fg2o1
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/48810177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-9%2F316bb7db-2bee-7f40-8294-706f1043e9fe.mp3
+Video: https://www.youtube.com/watch?v=03b5-tFQ0_U
 Topics:
 
   - Subject: Exploring .NET 6
