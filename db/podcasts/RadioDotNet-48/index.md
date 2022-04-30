@@ -18,6 +18,7 @@ Patrons:
   - Илья
 Home: https://anchor.fm/radiodotnet/episodes/ValueTask---Enums-e1g3mis
 Audio: https://anchor.fm/s/f0c0ef4/podcast/play/49453084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-22%2Fd7fd877c-c153-92a0-87b6-8061fa1f2e4c.mp3
+Video: https://www.youtube.com/watch?v=CrIhkbNoRhM
 Topics:
 
   - Subject: Announcing .NET 7 Preview 2
