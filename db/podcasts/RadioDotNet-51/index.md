@@ -18,6 +18,7 @@ Patrons:
   - Гурий Самарин
 Home: https://radiodotnet.mave.digital/ep-52
 Audio: https://api.mave.digital/storage/podcasts/dc1a2f8c-50cd-4584-a46a-723efadc6e1e/episodes/95cfd662-eeaa-4c47-a69f-9b47288b9705.mp3
+Video: https://www.youtube.com/watch?v=eRwzXAbpwgM
 Topics:
 
   - Subject: Announcing .NET 7 Preview 4
