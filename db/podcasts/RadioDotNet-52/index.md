@@ -18,6 +18,7 @@ Patrons:
   - Гурий Самарин
 Home: https://radiodotnet.mave.digital/ep-53
 Audio: https://api.mave.digital/storage/podcasts/dc1a2f8c-50cd-4584-a46a-723efadc6e1e/episodes/3a3f756a-2612-412d-b536-eadc36a31bfb.mp3
+Video: https://www.youtube.com/watch?v=nsZqi2Ghxpg
 Topics:
 
   - Subject: Microsoft Build 2022
