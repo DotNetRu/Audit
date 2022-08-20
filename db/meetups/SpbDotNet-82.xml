@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-82</Id>
+  <Name>Встреча SpbDotNet №82</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>FailoverBar</FriendId>
+  </FriendIds>
+  <VenueId>Spb-FailoverBar</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>DotNet-AOT-2022</TalkId>
+      <StartTime>2022-07-20T16:00:00Z</StartTime>
+      <EndTime>2022-07-20T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Hybrid-Architecture-Merging-Microservices-into-Monolith</TalkId>
+      <StartTime>2022-07-20T17:30:00Z</StartTime>
+      <EndTime>2022-07-20T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
