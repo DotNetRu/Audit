@@ -18,6 +18,7 @@ Patrons:
   - Гурий Самарин
 Home: https://radiodotnet.mave.digital/ep-56
 Audio: https://api.mave.digital/storage/podcasts/dc1a2f8c-50cd-4584-a46a-723efadc6e1e/episodes/c71dda49-40e9-4f48-a8fb-f687cc8d2254.mp3
+Video: https://www.youtube.com/watch?v=qcqmwBuu954
 Topics:
 
   - Subject: CoreWCF 1.1.0 and project templates
