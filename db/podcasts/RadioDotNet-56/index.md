@@ -18,6 +18,7 @@ Patrons:
   - Гурий Самарин
 Home: https://radiodotnet.mave.digital/ep-57
 Audio: https://api.mave.digital/storage/podcasts/dc1a2f8c-50cd-4584-a46a-723efadc6e1e/episodes/0eeac407-dec0-4558-9d14-a520b2f8dfcd.mp3
+Video: https://www.youtube.com/watch?v=71VjuKUKLKI
 Topics:
 
   - Subject: Announcing .NET Framework 4.8.1
