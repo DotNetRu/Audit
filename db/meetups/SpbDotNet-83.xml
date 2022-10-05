@@ -1,0 +1,12 @@
+﻿<Meetup>
+  <Id>SpbDotNet-83</Id>
+  <Name>Встреча SpbDotNet №83</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Sessions>
+    <Session>
+      <TalkId>T4-Templates</TalkId>
+      <StartTime>2022-09-29T16:00:00Z</StartTime>
+      <EndTime>2022-09-29T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
