@@ -5,4 +5,7 @@
   </SpeakerIds>
   <Title>T4 Templates</Title>
   <Description>T4 Templates — крайне полезный но обделённый вниманием инструмент. В сети мало информации, мало разработчиков которые о нём слышали и ещё меньше тех кто его использует. В докладе будут затронуты темы кодогенерации в целом, введение в T4 Templates, пройдёмся по ряду практических примеров, сравним его с Source Generators и обсудим каково же его место в современном мире .NET</Description>
+  <CodeUrl>https://github.com/dimasm61/spbdotnet_t4_demo</CodeUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/T4-Templates.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=wneg4f9ZmwY</VideoUrl>
 </Talk>
