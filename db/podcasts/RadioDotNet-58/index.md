@@ -18,6 +18,7 @@ Patrons:
   - Гурий Самарин
 Home: https://radiodotnet.mave.digital/ep-59
 Audio: https://api.mave.digital/storage/podcasts/dc1a2f8c-50cd-4584-a46a-723efadc6e1e/episodes/84c7be63-c6ae-450d-8224-73d1956edea6.mp3
+Video: https://www.youtube.com/watch?v=tE192o-TDIo
 Topics:
 
   - Subject: Announcing .NET 7 Release Candidate 1
