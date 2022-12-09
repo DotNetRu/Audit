@@ -18,6 +18,7 @@ Patrons:
   - Гурий Самарин
 Home: https://radiodotnet.mave.digital/ep-63
 Audio: https://api.mave.digital/storage/podcasts/dc1a2f8c-50cd-4584-a46a-723efadc6e1e/episodes/84b8bcfb-f00e-4dea-b6d7-038c3fd97ed2.mp3
+Video: https://www.youtube.com/watch?v=H4-0Mwollio
 Topics:
 
   - Subject: .NET 7 is Available and .NET Conf 2022
