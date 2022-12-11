@@ -1,0 +1,12 @@
+﻿<Meetup>
+  <Id>SpbDotNet-84</Id>
+  <Name>Встреча SpbDotNet №84</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Sessions>
+    <Session>
+      <TalkId>Clean-Architecture</TalkId>
+      <StartTime>2022-12-09T16:00:00Z</StartTime>
+      <EndTime>2022-12-09T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
