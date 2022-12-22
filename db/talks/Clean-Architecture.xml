@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Чистая архитектура</Title>
   <Description>Чистая архитектура стала очень популярна в последнее время среди разработчиков микросервисных решений. Данная архитектура даёт возможность сосредоточиться на бизнес-логике домена, убирая датацентричность многослойного подхода. Часто возникают сложности в использовании чистой архитектуры на практике. Доклад поможет устранить недопонимание архитектуры на практических примерах.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Clean-Architecture.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=13OfxIRBsO4</VideoUrl>
 </Talk>
