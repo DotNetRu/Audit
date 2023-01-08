@@ -1,0 +1,12 @@
+﻿<Meetup>
+  <Id>SpbDotNet-85</Id>
+  <Name>Встреча SpbDotNet №85</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <Sessions>
+    <Session>
+      <TalkId>How-to-Prepare-for-Performance</TalkId>
+      <StartTime>2023-01-26T16:00:00Z</StartTime>
+      <EndTime>2023-01-26T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
