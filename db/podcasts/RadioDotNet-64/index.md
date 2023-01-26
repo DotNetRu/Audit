@@ -18,6 +18,7 @@ Patrons:
   - Гурий Самарин
 Home: https://radiodotnet.mave.digital/ep-65
 Audio: https://api.mave.digital/storage/podcasts/dc1a2f8c-50cd-4584-a46a-723efadc6e1e/episodes/32b64a47-038d-45b2-9938-cbb165f1a470.mp3
+Video: https://www.youtube.com/watch?v=mq_5XwKp9_U
 Topics:
 
   - Subject: Frozen collections in .NET 8
