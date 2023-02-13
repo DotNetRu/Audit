@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Generic-Attributes</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexander-Katin</SpeakerId>
+  </SpeakerIds>
+  <Title>Обобщённые атрибуты</Title>
+  <Description>Докладчик напомнит об ограничениях атрибутов и покажет, как их можно было обходить раньше с помощью рефлексии и как работать с ними теперь — с помощью обобщений.</Description>
+</Talk>

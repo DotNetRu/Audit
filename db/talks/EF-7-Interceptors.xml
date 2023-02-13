@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>EF-7-Interceptors</Id>
+  <SpeakerIds>
+    <SpeakerId>Ivan-Kulaga</SpeakerId>
+  </SpeakerIds>
+  <Title>Entity Framework 7 interceptors: что такое и с чем едят?</Title>
+  <Description>В докладе рассмотрим что такое interceptors и где их можно использовать, а так же какие изменения коснулись interceptors в новой версии EF 7.</Description>
+</Talk>

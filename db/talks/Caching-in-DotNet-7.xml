@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Caching-in-DotNet-7</Id>
+  <SpeakerIds>
+    <SpeakerId>Sergey-Kuzmin</SpeakerId>
+  </SpeakerIds>
+  <Title>Кеширование в .NET 7</Title>
+  <Description>Сергей расскажет про новый тип кеширования в .NET 7, о его преимуществах перед существующими реализациями, про то, как его можно настроить, а также про новые метрики для кешей, которые теперь будут доступны из коробки.</Description>
+</Talk>

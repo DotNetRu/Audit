@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>SignalR-Client-Using-Source-Generator</Id>
+  <SpeakerIds>
+    <SpeakerId>Nikolay-Gushcharin</SpeakerId>
+  </SpeakerIds>
+  <Title>Автогенерация клиента SignalR с использованием Source Generator</Title>
+  <Description>Познакомимся с новым способом создания клиентов для SignalR, который появился в релизе .NET 7. Сравним его с классическим подходом и разберём их плюсы и минусы.</Description>
+</Talk>
