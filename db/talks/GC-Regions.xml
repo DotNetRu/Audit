@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>GC-Regions</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexander-Egorchenkov</SpeakerId>
+  </SpeakerIds>
+  <Title>Регионы в GC</Title>
+  <Description>Отличие новых регионов в сравнении со старыми сегментами при работе с памятью. Плюсы и минусы. Что мы получили в итоге.</Description>
+</Talk>

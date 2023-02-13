@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>DotNet-7-User-Jwts-Tool</Id>
+  <SpeakerIds>
+    <SpeakerId>Valery-Nikitin</SpeakerId>
+  </SpeakerIds>
+  <Title>.NET 7 user-jwts Tool</Title>
+  <Description>Обсудим аутентификацию, авторизацию, как для решения этих задач подходит JWT и посмотрим на новую утилиту dotnet user-jwts, на её возможности в локальной разработке.</Description>
+</Talk>

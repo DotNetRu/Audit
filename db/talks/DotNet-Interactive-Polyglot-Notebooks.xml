@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>DotNet-Interactive-Polyglot-Notebooks</Id>
+  <SpeakerIds>
+    <SpeakerId>Anton-Shevchenko</SpeakerId>
+  </SpeakerIds>
+  <Title>.NET Интерактивно — Polyglot Notebooks</Title>
+  <Description>В научном сообществе привычно доминирует Python. И всё благодаря распростарнённому инструменту Jupyter Notebooks. Поговорим об его аналоге для .NET — Polyglot Notebooks. Что это такое, с чем едят. И вообще что может дать .NET-сообществу.</Description>
+</Talk>
