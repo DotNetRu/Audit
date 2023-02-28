@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Обобщённые атрибуты</Title>
   <Description>Докладчик напомнит об ограничениях атрибутов и покажет, как их можно было обходить раньше с помощью рефлексии и как работать с ними теперь — с помощью обобщений.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Generic-Attributes.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=BNqH2Iekl2Q</VideoUrl>
 </Talk>

@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Автогенерация клиента SignalR с использованием Source Generator</Title>
   <Description>Познакомимся с новым способом создания клиентов для SignalR, который появился в релизе .NET 7. Сравним его с классическим подходом и разберём их плюсы и минусы.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/SignalR-Client-Using-Source-Generator.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=4vqFU2BjhEs</VideoUrl>
 </Talk>

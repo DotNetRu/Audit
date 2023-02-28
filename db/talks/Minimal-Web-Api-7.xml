@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Minimal Web API на ASP.NET Core 7</Title>
   <Description>В докладе Андрей расскажет о предпосылках появления и основных технических возможностях Minimal Web API. Отдельно отметит новые функции, связанные с выходом .NET 7. Приведёт примеры аналогичных технологий в других языках и поделится своими рекомендациями по использованию Minimal Web API.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Minimal-Web-Api-7.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=UNViYZRpE_o</VideoUrl>
 </Talk>

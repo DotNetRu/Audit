@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Entity Framework 7 interceptors: что такое и с чем едят?</Title>
   <Description>В докладе рассмотрим что такое interceptors и где их можно использовать, а так же какие изменения коснулись interceptors в новой версии EF 7.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/EF-7-Interceptors.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=lCEOrAK6Qgs</VideoUrl>
 </Talk>
