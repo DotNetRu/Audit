@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Entity Framework 7: Table Per Concrete type</Title>
   <Description>Обзор новой стратегии хранения иерархий, появившейся в Entity Framework 7 и сравнение её с ранее существовавшими решениями.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/EF-7-Table-per-Concrete-Type.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=vf4KzhAEN18</VideoUrl>
 </Talk>

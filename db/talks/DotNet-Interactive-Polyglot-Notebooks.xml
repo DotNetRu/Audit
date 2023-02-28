@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>.NET Интерактивно — Polyglot Notebooks</Title>
   <Description>В научном сообществе привычно доминирует Python. И всё благодаря распростарнённому инструменту Jupyter Notebooks. Поговорим об его аналоге для .NET — Polyglot Notebooks. Что это такое, с чем едят. И вообще что может дать .NET-сообществу.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/DotNet-Interactive-Polyglot-Notebooks.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=KWwrhqozMRw</VideoUrl>
 </Talk>
