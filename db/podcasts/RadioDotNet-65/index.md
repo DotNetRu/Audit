@@ -19,6 +19,7 @@ Patrons:
   - Виктор
 Home: https://radiodotnet.mave.digital/ep-66
 Audio: https://api.mave.digital/storage/podcasts/dc1a2f8c-50cd-4584-a46a-723efadc6e1e/episodes/89be646d-9275-4638-8c3d-614819eaec6a.mp3
+Video: https://www.youtube.com/watch?v=SGF8j25Ys20
 Topics:
 
   - Subject: C# 12 GitHub Activities
