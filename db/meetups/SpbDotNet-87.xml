@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-87</Id>
+  <Name>Встреча SpbDotNet №87</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>FailoverBar</FriendId>
+  </FriendIds>
+  <VenueId>Spb-FailoverBar</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>What-is-New-in-DotNet-7-and-CSharp-11</TalkId>
+      <StartTime>2023-03-21T16:00:00Z</StartTime>
+      <EndTime>2023-03-21T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Request-Throttling-Algorithms</TalkId>
+      <StartTime>2023-03-21T17:30:00Z</StartTime>
+      <EndTime>2023-03-21T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
