@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-DotNet-7-and-CSharp-11</Id>
+  <SpeakerIds>
+    <SpeakerId>Igor-Labutin</SpeakerId>
+  </SpeakerIds>
+  <Title>Что нового в .NET 7 и C# 11</Title>
+  <Description>Вместе с релизом .NET 7 вышел C# 11 с новыми возможностями: generic math, raw string literals и list patterns. В докладе рассмотрим, что интересного можно найти в новой версии .NET и сопутствующих фреймворках — ASP.NET Core, MAUI, Blazor и других. Обязательно затронем minimal APIs, source generators и WebAssembly. Обсудим какие фичи облегчают написание современных cloud-native приложений: интеграция с OpenTelemetry, автогенерация докер-контейнеров, rate limiting и прочее. И, конечно же, не забудем про улучшение производительности.</Description>
+</Talk>
