@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Dont-need-MediatR</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrey-Paramonov</SpeakerId>
+  </SpeakerIds>
+  <Title>MediatR не нужен</Title>
+  <Description>В индустрии использование MediatR считается хорошим тоном. Поработав с большим количеством сервисов, в которых его применяли, спикер понял, что в 99% случаев он вреден. Почему так и этому есть доказательства — обо всем этом вы узнаете из доклада.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Dont-need-MediatR.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=isrl_zJa1GY</VideoUrl>
+</Talk>
