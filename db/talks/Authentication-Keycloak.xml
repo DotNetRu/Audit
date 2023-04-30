@@ -1,0 +1,11 @@
+﻿<Talk>
+  <Id>Authentication-Keycloak</Id>
+  <SpeakerIds>
+    <SpeakerId>Roman-Prosin</SpeakerId>
+  </SpeakerIds>
+  <Title>Аутентификация и авторизация на платформе .NET и Keycloak</Title>
+  <Description>Платформа ASP.NET Core предоставляет всё необходимое для защиты приложений и данных. Но часто встречаются пользовательские решения, которые не удовлетворяют стандартам и не проходят тщательного тестирования.
+Спикер поделится опытом разработки защищенных приложений с использованием стандартизированных средств ASP.NET Core: Negotiate, OAuth 2.0, OIDC. Покажет как защитить клиенты различных типов Front/Backend/Job. Покажет различные модели авторизации. Расскажет, чего делать не стоит.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Authentication-Keycloak.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Dl7bf8Lb-xc</VideoUrl>
+</Talk>

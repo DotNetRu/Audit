@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>MskDotNet-52</Id>
+  <Name>Встреча MskDotNet №52</Name>
+  <CommunityId>MskDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Ozon</FriendId>
+  </FriendIds>
+  <VenueId>Msk-OZON-Naberezhnaya</VenueId>
+  <Sessions>  
+    <Session>
+      <TalkId>Authentication-Keycloak</TalkId>
+      <StartTime>2023-04-10T16:00:00Z</StartTime>
+      <EndTime>2023-04-10T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Dont-need-MediatR</TalkId>
+      <StartTime>2023-04-10T17:30:00Z</StartTime>
+      <EndTime>2023-04-10T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
