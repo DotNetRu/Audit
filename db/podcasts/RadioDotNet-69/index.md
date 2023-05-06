@@ -19,6 +19,7 @@ Patrons:
   - Виктор
 Home: https://radiodotnet.mave.digital/ep-70
 Audio: https://api.mave.digital/storage/podcasts/dc1a2f8c-50cd-4584-a46a-723efadc6e1e/episodes/e813ccef-a79a-45a6-bc0b-cbb016eae0c2.mp3
+Video: https://www.youtube.com/watch?v=iVEv_-EJyLw
 Topics:
 
   - Subject: Discover .NET 7 SDK Containers
