@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-88</Id>
+  <Name>Встреча SpbDotNet №88</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Monopoly</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Monopoly</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Build-as-Code</TalkId>
+      <StartTime>2023-05-25T16:00:00Z</StartTime>
+      <EndTime>2023-05-25T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Nuke-Anatomy</TalkId>
+      <StartTime>2023-05-25T17:30:00Z</StartTime>
+      <EndTime>2023-05-25T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

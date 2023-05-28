@@ -1,8 +1,8 @@
 ﻿<Speaker>
   <Id>Anatoly-Kulakov</Id>
   <Name>Анатолий Кулаков</Name>
-  <CompanyName>DotNetRu</CompanyName>
-  <CompanyUrl>https://dotnet.ru/</CompanyUrl>
+  <CompanyName>Монополия</CompanyName>
+  <CompanyUrl>https://monopoly.ru/</CompanyUrl>
   <Description>Получил образование специалиста по информационной безопасности. Зарабатывал, как суровый C++ разработчик под Linux. Когда надоело кодировать и захотелось творить, перешёл на C#. Пишет на .NET с первых его версий. Занимается консультированием, проектированием и построением бизнес-приложений, распределённых и отказоустойчивых систем. Отдыхает с ES, CQRS и DDD.
 
 - Организатор и лидер SpbDotNet — сообщества .NET разработчиков в Санкт-Петербурге.
@@ -10,6 +10,6 @@
 - Основатель DotNetRu — объединения независимых русскоязычных .NET сообществ.
 - Ведущий RadioDotNet — регулярного новостного подкаста на тему .NET во всех его проявлениях.
   </Description>
-  <TwitterUrl>https://twitter.com/kulakovt</TwitterUrl>
+  <ContactsUrl>https://t.me/kulakovt</ContactsUrl>
   <GitHubUrl>https://github.com/kulakovt</GitHubUrl>
 </Speaker>

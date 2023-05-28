@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Nuke-Anatomy</Id>
+  <SpeakerIds>
+    <SpeakerId>Roman-Bulygin</SpeakerId>
+  </SpeakerIds>
+  <Title>Анатомия Nuke</Title>
+  <Description>Разберёмся, как устроена система автоматизации CI/CD Nuke и соберём простую библиотеку с его помощью.</Description>
+</Talk>
