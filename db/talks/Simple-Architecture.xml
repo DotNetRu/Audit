@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Simple-Architecture</Id>
+  <SpeakerIds>
+    <SpeakerId>Nikita-Maslov</SpeakerId>
+  </SpeakerIds>
+  <Title>Простая архитектура</Title>
+  <Description>Никита поделится своим опытом разработки enterprise-приложений. Расскажет и покажет, как можно верхнеуровнево организовать архитектуру, использовать давно известные паттерны, обрабатывать ошибки. Также поговорим о тестировании.</Description>
+  <CodeUrl>https://github.com/m0j0/architecture-demo</CodeUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Simple-Architecture.pdf</SlidesUrl>
+</Talk>

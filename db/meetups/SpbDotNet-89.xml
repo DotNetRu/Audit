@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-89</Id>
+  <Name>Встреча SpbDotNet №89</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>AtiSu</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-AtiSu</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>AspNetCore-Telemetry</TalkId>
+      <StartTime>2023-06-08T16:00:00Z</StartTime>
+      <EndTime>2023-06-08T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Simple-Architecture</TalkId>
+      <StartTime>2023-06-08T17:30:00Z</StartTime>
+      <EndTime>2023-06-08T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

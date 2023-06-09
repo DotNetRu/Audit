@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>AspNetCore-Telemetry</Id>
+  <SpeakerIds>
+    <SpeakerId>Nikita-Moshkalov</SpeakerId>
+  </SpeakerIds>
+  <Title>Прослеживаемость в ASP.NET Core</Title>
+  <Description>Как поймать за хвост своё приложение — учимся определять маршрут запросов, исследуем производительность и выпытываем прочие подробности процесса жизнедеятельности.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/AspNetCore-Telemetry.pdf</SlidesUrl>
+</Talk>
