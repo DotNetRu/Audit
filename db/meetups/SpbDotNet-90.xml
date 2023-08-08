@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-90</Id>
+  <Name>Встреча SpbDotNet №90</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Tinkoff</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-YasnayaPolyana</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Feature-Flags-in-Practice</TalkId>
+      <StartTime>2023-08-10T16:00:00Z</StartTime>
+      <EndTime>2023-08-10T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Pure-DI</TalkId>
+      <StartTime>2023-08-10T17:30:00Z</StartTime>
+      <EndTime>2023-08-10T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
