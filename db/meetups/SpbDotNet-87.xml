@@ -4,6 +4,7 @@
   <CommunityId>SpbDotNet</CommunityId>
   <FriendIds>
     <FriendId>FailoverBar</FriendId>
+    <FriendId>DotNext</FriendId>
   </FriendIds>
   <VenueId>Spb-FailoverBar</VenueId>
   <Sessions>

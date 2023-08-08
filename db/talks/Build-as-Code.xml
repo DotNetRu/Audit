@@ -8,4 +8,7 @@
 
 В докладе подробно рассмотрим процесс построения .NET-приложений с помощью кода. Особое место будет отдано сборке в docker-контейнере. Обсудим все неоспоримые плюсы и сомнительные минусы такого подхода. Затронем работу с артефактами, интеграции и безопасность полученных решений.
   </Description>
+  <CodeUrl>https://github.com/kulakovt/Samples/tree/master/BuildAsCode</CodeUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Build-as-Code.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=yaQsQvPwlvg</VideoUrl>
 </Talk>

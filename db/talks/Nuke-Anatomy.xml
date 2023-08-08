@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Анатомия Nuke</Title>
   <Description>Разберёмся, как устроена система автоматизации CI/CD Nuke и соберём простую библиотеку с его помощью.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Nuke-Anatomy.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=eepBpVt4WmE</VideoUrl>
 </Talk>
