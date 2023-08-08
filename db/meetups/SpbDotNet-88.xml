@@ -4,6 +4,7 @@
   <CommunityId>SpbDotNet</CommunityId>
   <FriendIds>
     <FriendId>Monopoly</FriendId>
+    <FriendId>DotNext</FriendId>
   </FriendIds>
   <VenueId>Spb-Monopoly</VenueId>
   <Sessions>
