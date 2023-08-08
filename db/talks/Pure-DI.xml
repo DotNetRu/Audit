@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Pure-DI</Id>
+  <SpeakerIds>
+    <SpeakerId>Nikolay-Pianikov</SpeakerId>
+  </SpeakerIds>
+  <Title>Pure.DI</Title>
+  <Description>Будет немного теории по DI, этапы DI эволюции контейнеров: чистый DI, DI-контейнеры на основе Dictionary, LINQ Expressions и Reflection.Emit. Докладчик расскажет о своём pet-проекте — генераторе исходного кода Pure.DI.</Description>
+</Talk>
