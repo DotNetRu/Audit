@@ -5,4 +5,7 @@
   </SpeakerIds>
   <Title>Фича-флаги. Практический пример реализации</Title>
   <Description>В докладе мы поговорим про то, что такое фича-флаги и какие проблемы они решают. Рассмотрим различные пути их реализации и подробно разберём подход который выбрала наша команда. В конце доклада выбранное решение будет продемонстрировано на практике.</Description>
+  <CodeUrl>https://github.com/kawwik/Feature-Flags-Example</CodeUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Feature-Flags-in-Practice.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Ls8S2KEKAdU</VideoUrl>
 </Talk>
