@@ -19,6 +19,7 @@ Patrons:
   - Виктор
 Home: https://radiodotnet.mave.digital/ep-73
 Audio: https://api.mave.digital/storage/podcasts/dc1a2f8c-50cd-4584-a46a-723efadc6e1e/episodes/e318836b-c49a-41d3-a0bc-7e5e0e68a83a.mp3
+Video: https://www.youtube.com/watch?v=PG2jXzFo06E
 Topics:
 
   - Subject: System.Console re-design
