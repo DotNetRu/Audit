@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-91</Id>
+  <Name>Встреча SpbDotNet №91</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Nexign</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Nexign</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Performance-Killers</TalkId>
+      <StartTime>2023-09-28T16:00:00Z</StartTime>
+      <EndTime>2023-09-28T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Reactive-Build-Big-Project</TalkId>
+      <StartTime>2023-09-28T17:30:00Z</StartTime>
+      <EndTime>2023-09-28T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
