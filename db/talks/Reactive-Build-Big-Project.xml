@@ -6,4 +6,5 @@
   <Title>Реактивная сборка огромного проекта</Title>
   <Description>При стремительном росте проекта возникает ряд трудностей не только у разработки, но и у DevOps. Спикер решил помочь коллегам и сделал очень быструю сборку всех проектов. В итоге удалось ускорить сборку с 400 машиноминут (20 агентов, 20 минут) до диапазона (30 сек, 1 мин 30 сек) в зависимости от количества изменений. Через что пришлось пройти, все неудачные варианты и результат — в докладе.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Reactive-Build-Big-Project.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=HWKEfctowjQ</VideoUrl>
 </Talk>
