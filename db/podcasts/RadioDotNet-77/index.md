@@ -22,6 +22,7 @@ Patrons:
   - Белоцкий Евгений
 Home: https://radiodotnet.mave.digital/ep-78
 Audio: https://api.mave.digital/storage/podcasts/dc1a2f8c-50cd-4584-a46a-723efadc6e1e/episodes/700d98d2-4d1a-4ad7-913a-b61060d1a0f2.mp3
+Video: https://www.youtube.com/watch?v=LValQ76TeWk
 Topics:
 
   - Subject: Announcing .NET 8 Preview 7
