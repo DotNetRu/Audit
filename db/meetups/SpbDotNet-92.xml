@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-92</Id>
+  <Name>Встреча SpbDotNet №92</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Yandex</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Yandex</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>DI-in-NUnit-Tests</TalkId>
+      <StartTime>2023-11-21T16:00:00Z</StartTime>
+      <EndTime>2023-11-21T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Serverless-Under-Hood-Cloud-Functions</TalkId>
+      <StartTime>2023-11-21T17:30:00Z</StartTime>
+      <EndTime>2023-11-21T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

@@ -1,0 +1,7 @@
+﻿<Venue>
+  <Id>Spb-Yandex</Id>
+  <Name>Офис Яндекса</Name>
+  <Capacity>80</Capacity>
+  <Address>Санкт-Петербург, Пискарёвский просп., д. 2, корп. 2, БЦ «Бенуа», 5 этаж</Address>
+  <MapUrl>https://yandex.ru/maps/-/CDakjGMK</MapUrl>
+</Venue>
