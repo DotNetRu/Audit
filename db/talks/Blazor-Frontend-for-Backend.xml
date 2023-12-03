@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Blazor-Frontend-for-Backend</Id>
+  <SpeakerIds>
+    <SpeakerId>Georgy-Kruglov</SpeakerId>
+  </SpeakerIds>
+  <Title>Blazor: Frontend For Backend</Title>
+  <Description>Погружение в механизмы работы Blazor (Server и WebAssembly), обзор возможностей Razor и библиотек компонентов для него.</Description>
+</Talk>
