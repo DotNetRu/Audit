@@ -1,6 +1,7 @@
 ﻿<Venue>
   <Id>Spb-AtiSu</Id>
   <Name>Офис «ATI.SU»</Name>
+  <Capacity>70</Capacity>
   <Address>Санкт-Петербург, Выборгская набережная, д. 47 (БЦ «Гренадерский»)</Address>
   <MapUrl>https://yandex.ru/maps/-/CCUw5LcZ3A</MapUrl>
 </Venue>

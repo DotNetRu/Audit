@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-93</Id>
+  <Name>Встреча SpbDotNet №93</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>AtiSu</FriendId>
+  </FriendIds>
+  <VenueId>Spb-AtiSu</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>ConcurrencyToolkit</TalkId>
+      <StartTime>2023-12-14T16:00:00Z</StartTime>
+      <EndTime>2023-12-14T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Blazor-Frontend-for-Backend</TalkId>
+      <StartTime>2023-12-14T17:30:00Z</StartTime>
+      <EndTime>2023-12-14T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
