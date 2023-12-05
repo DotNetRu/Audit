@@ -15,4 +15,6 @@
 - Распределённую архитектуру и внутреннее устройство системы.
 - Планировщик, механизм масштабирования и эвристики.
 - Проблемы, с которыми сталкивались, и пути их решения.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Serverless-Under-Hood-Cloud-Functions.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=oCVjSOjnMAY</VideoUrl>
 </Talk>
