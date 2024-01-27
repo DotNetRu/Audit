@@ -1,0 +1,15 @@
+﻿<Talk>
+  <Id>Duplicate-Search-Program</Id>
+  <SpeakerIds>
+    <SpeakerId>Yuri-Malich</SpeakerId>
+  </SpeakerIds>
+  <Title>Методы повышения производительности .NET-приложения на примере программы поиска дубликатов</Title>
+  <Description>В данном докладе спикер поделится своим опытом повышения производительности .NET приложения на примере своей программы поиска дубликатов файлов.
+
+В докладе будут описаны:
+- алгоритмические оптимизации;
+- низкоуровневые оптимизации (с примерами дизассемблерного кода);
+- многопоточные оптимизации при обращениям к SSD и HDD дискам;
+- методы повышения эффективности использования памяти и снижения нагрузки на GC.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Duplicate-Search-Program.pdf</SlidesUrl>
+</Talk>

@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-94</Id>
+  <Name>Встреча SpbDotNet №94</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-YasnayaPolyana</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>LINQ-Expressions-the-Art-of-Querying-Data</TalkId>
+      <StartTime>2024-01-18T16:00:00Z</StartTime>
+      <EndTime>2024-01-18T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Duplicate-Search-Program</TalkId>
+      <StartTime>2024-01-18T17:30:00Z</StartTime>
+      <EndTime>2024-01-18T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
