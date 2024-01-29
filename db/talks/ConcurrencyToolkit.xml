@@ -8,4 +8,6 @@
 
 Чтобы привнести в .NET мир новые достижения в concurrency из других платформ, Евгений Пешков разработал библиотеку ConcurrencyToolkit, с альтернативными реализациями async семафоров и key-value коллекций. Подробно поговорим о ней, а также о других библиотеках для написания производительного многопоточного кода, таких как Disruptor.NET и NonBlocking.</Description>
   <CodeUrl>https://github.com/epeshk/ConcurrencyToolkit</CodeUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/ConcurrencyToolkit.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=95eaqxTJqm4</VideoUrl>
 </Talk>

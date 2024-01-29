@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Blazor: Frontend For Backend</Title>
   <Description>Погружение в механизмы работы Blazor (Server и WebAssembly), обзор возможностей Razor и библиотек компонентов для него.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Blazor-Frontend-for-Backend.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=rg6ZqtrWphQ</VideoUrl>
 </Talk>
