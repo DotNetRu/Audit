@@ -12,4 +12,5 @@
 - многопоточные оптимизации при обращениям к SSD и HDD дискам;
 - методы повышения эффективности использования памяти и снижения нагрузки на GC.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Duplicate-Search-Program.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=ppJBfL11WQo</VideoUrl>
 </Talk>
