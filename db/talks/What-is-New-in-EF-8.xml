@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-EF-8</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrey-Alexandrov</SpeakerId>
+  </SpeakerIds>
+  <Title>Вкусные новинки EF Core 8</Title>
+  <Description>В докладе рассмотрим основные нововведения EF Core, которые влияют на процесс разработки (исключая исправления багов, увеличенный перформанс запросов и т.п.).</Description>
+</Talk>

@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-CSharp-12</Id>
+  <SpeakerIds>
+    <SpeakerId>Evgeniy-Fedotov</SpeakerId>
+  </SpeakerIds>
+  <Title>А что там собственно нового в C# 12?</Title>
+  <Description>Рассказ о нововведениях в C# 12-ой версии, с крайне (не)профессиональным мнением автора</Description>
+</Talk>
