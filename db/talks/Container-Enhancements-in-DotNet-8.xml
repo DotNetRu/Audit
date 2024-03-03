@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Container-Enhancements-in-DotNet-8</Id>
+  <SpeakerIds>
+    <SpeakerId>Valery-Nikitin</SpeakerId>
+  </SpeakerIds>
+  <Title>.NET 8 и улучшения в контейнерах</Title>
+  <Description>Рассмотрим какие улучшения в контейнерах появились с выходом .NET 8 в релиз.</Description>
+</Talk>

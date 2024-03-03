@@ -1,0 +1,47 @@
+﻿<Meetup>
+  <Id>SpbDotNet-95</Id>
+  <Name>Launch of .NET 8</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Nexign</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Nexign</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>What-is-New-in-Minimal-API-on-ASP-8</TalkId>
+      <StartTime>2024-02-29T16:05:00Z</StartTime>
+      <EndTime>2024-02-29T16:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>What-is-New-in-CSharp-12</TalkId>
+      <StartTime>2024-02-29T16:30:00Z</StartTime>
+      <EndTime>2024-02-29T16:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Primary-Constructors-in-CSharp-12</TalkId>
+      <StartTime>2024-02-29T16:45:00Z</StartTime>
+      <EndTime>2024-02-29T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>DotNet-Aspire-in-Action</TalkId>
+      <StartTime>2024-02-29T17:00:00Z</StartTime>
+      <EndTime>2024-02-29T17:25:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>What-is-New-in-EF-8</TalkId>
+      <StartTime>2024-02-29T17:55:00Z</StartTime>
+      <EndTime>2024-02-29T18:15:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Container-Enhancements-in-DotNet-8</TalkId>
+      <StartTime>2024-02-29T18:15:00Z</StartTime>
+      <EndTime>2024-02-29T18:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Bootstrapping-DotNet-8-Sdk</TalkId>
+      <StartTime>2024-02-29T18:30:00Z</StartTime>
+      <EndTime>2024-02-29T18:55:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

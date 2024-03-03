@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Primary-Constructors-in-CSharp-12</Id>
+  <SpeakerIds>
+    <SpeakerId>Nikita-Maslov</SpeakerId>
+  </SpeakerIds>
+  <Title>С# 12: Primary constructors</Title>
+  <Description>Доклад про основные конструкторы, новую неоднозначную фичу C# 12. Никита расскажет как их использовать, нюансы и подводные камни, аналоги в других языках.</Description>
+</Talk>
