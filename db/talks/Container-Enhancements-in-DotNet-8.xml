@@ -5,4 +5,5 @@
   </SpeakerIds>
   <Title>.NET 8 и улучшения в контейнерах</Title>
   <Description>Рассмотрим какие улучшения в контейнерах появились с выходом .NET 8 в релиз.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Container-Enhancements-in-DotNet-8.pdf</SlidesUrl>
 </Talk>

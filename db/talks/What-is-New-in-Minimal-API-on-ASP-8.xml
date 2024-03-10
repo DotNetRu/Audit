@@ -5,4 +5,5 @@
   </SpeakerIds>
   <Title>Что нового в Minimal API на ASP.NET Core 8</Title>
   <Description>В докладе будет рассказано о новых фичах ASP.NET Core 8, которые связаны с Minimal API. Поговорим про работу с формами, Keyed Services, Short-circuit routing, немного затронем AOT.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/What-is-New-in-Minimal-API-on-ASP-8.pdf</SlidesUrl>
 </Talk>
