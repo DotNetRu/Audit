@@ -5,4 +5,5 @@
   </SpeakerIds>
   <Title>С# 12: Primary constructors</Title>
   <Description>Доклад про основные конструкторы, новую неоднозначную фичу C# 12. Никита расскажет как их использовать, нюансы и подводные камни, аналоги в других языках.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Primary-Constructors-in-CSharp-12.pdf</SlidesUrl>
 </Talk>
