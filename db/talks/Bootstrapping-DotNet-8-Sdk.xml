@@ -6,4 +6,5 @@
   <Title>Bootstrapping .NET 8 SDK: собираем дотнет из исходников</Title>
   <Description>Пока все жалуются, что в новом релизе C# добавлено мало фич — произошла целая революция в системе сборки .NET SDK. В докладе вы узнаете как собрать дотнет из исходного кода, и почему мало кто это делал раньше.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Bootstrapping-DotNet-8-Sdk.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=3oJfdStpl1s</VideoUrl>
 </Talk>
