@@ -6,4 +6,5 @@
   <Title>.NET Aspire in Action</Title>
   <Description>Несмотря на множество инструментов, доступных нам для создания cloud-native приложений, создавать такие приложения всё ещё слишком сложно. Разработчики всё ещё отвлекаются от написания бизнес-логики, чтобы справиться со сложностью облачной разработки. Чтобы помочь разработчикам упростить создание облачных приложений и появился .NET Aspire.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/DotNet-Aspire-in-Action.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=9xe8FelZf34</VideoUrl>
 </Talk>

@@ -6,4 +6,5 @@
   <Title>Вкусные новинки EF Core 8</Title>
   <Description>В докладе рассмотрим основные нововведения EF Core, которые влияют на процесс разработки (исключая исправления багов, увеличенный перформанс запросов и т.п.).</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/What-is-New-in-EF-8.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=dr5Vu7OkMBY</VideoUrl>
 </Talk>
