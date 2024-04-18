@@ -1,6 +1,7 @@
 ﻿<Venue>
   <Id>Spb-YasnayaPolyana</Id>
-  <Name>Коворкинг «Ясная Поляна»</Name>
+  <Name>Конференц-зал «Ясная Поляна»</Name>
+  <Capacity>100</Capacity>
   <Address>Санкт-Петербург, ул. Льва Толстого, д. 1-3</Address>
   <MapUrl>https://yandex.ru/maps/-/CGSYVKlw</MapUrl>
 </Venue>

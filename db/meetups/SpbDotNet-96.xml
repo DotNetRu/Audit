@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-96</Id>
+  <Name>Встреча SpbDotNet №96</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>2GIS</FriendId>
+  </FriendIds>
+  <VenueId>Spb-YasnayaPolyana</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Switched-to-Configuration</TalkId>
+      <StartTime>2024-04-11T16:00:00Z</StartTime>
+      <EndTime>2024-04-11T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>REST-API-Clients-for-CSharp</TalkId>
+      <StartTime>2024-04-11T17:30:00Z</StartTime>
+      <EndTime>2024-04-11T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
