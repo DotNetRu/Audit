@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>REST-API-Clients-for-CSharp</Id>
+  <SpeakerIds>
+    <SpeakerId>Artem-Kvashnin</SpeakerId>
+  </SpeakerIds>
+  <Title>REST API клиенты для C#</Title>
+  <Description>В докладе мы рассмотрим типичные ошибки при работе со стандартным HttpClient, посмотрим на реализацию межсервисного взаимодействия от Microsoft и самое главное — рассмотрим плюсы и минусы популярных генераторов для API клиентов.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/REST-API-Clients-for-CSharp.pdf</SlidesUrl>
+</Talk>
