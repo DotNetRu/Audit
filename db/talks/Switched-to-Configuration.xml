@@ -6,4 +6,5 @@
   <Title>Как мы перешли на Microsoft.Extensions.Configuration и стало хорошо</Title>
   <Description>Андрей расскажет о том, как компания перешла от самописного метода работы с настройками к стандартному варианту, предлагаемому Microsoft. Почему они использовали нестандартный метод изначально, какие выгоды и новые возможности открываются при использовании "коробочных" инструментов и как можно интегрировать их в свои проекты.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Switched-to-Configuration.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Bx2juP6dKV0</VideoUrl>
 </Talk>
