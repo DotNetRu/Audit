@@ -3,7 +3,8 @@
   <Name>Встреча SpbDotNet №96</Name>
   <CommunityId>SpbDotNet</CommunityId>
   <FriendIds>
-    <FriendId>2GIS</FriendId>
+    <FriendId>DoubleGis</FriendId>
+    <FriendId>DotNext</FriendId>
   </FriendIds>
   <VenueId>Spb-YasnayaPolyana</VenueId>
   <Sessions>
