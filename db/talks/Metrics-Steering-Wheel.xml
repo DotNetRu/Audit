@@ -1,0 +1,15 @@
+﻿<Talk>
+  <Id>Metrics-Steering-Wheel</Id>
+  <SpeakerIds>
+    <SpeakerId>Nikita-Moshkalov</SpeakerId>
+  </SpeakerIds>
+  <Title>Метрики: где у кодовой базы руль и куда его поворачивать</Title>
+  <Description>В докладе подробно разберём особенности использования метрик.
+
+- Что измеряем. Технические метрики и продуктовые метрики.
+- Как снимаем метрики, куда передаём и как отображаем метрики.
+- Как ещё используем метрики. Например, оповещения.
+- Постепенное причинение пользы — канареечные релизы.
+- Идём по приборам — внедрение и использование feature флагов.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Metrics-Steering-Wheel.pdf</SlidesUrl>
+</Talk>

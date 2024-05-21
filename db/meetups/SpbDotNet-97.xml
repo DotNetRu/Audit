@@ -1,0 +1,21 @@
+﻿<Meetup>
+  <Id>SpbDotNet-97</Id>
+  <Name>Встреча SpbDotNet №97</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>ITGM</FriendId>
+  </FriendIds>
+  <VenueId>Spb-MoscowGate</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Metrics-Steering-Wheel</TalkId>
+      <StartTime>2024-05-04T10:00:00Z</StartTime>
+      <EndTime>2024-05-04T11:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-Developer-Classifications</TalkId>
+      <StartTime>2024-05-04T12:00:00Z</StartTime>
+      <EndTime>2024-05-04T14:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
