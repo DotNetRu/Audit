@@ -1,0 +1,280 @@
+<svg width="1280" height="720" version="1.1" viewBox="0 0 338.67 190.5" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient958" x1="158.75" x2="158.75" y1="3.2926" y2="23.283" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2d3a69" offset="0"/>
+      <stop stop-color="#4c5c96" offset=".5"/>
+      <stop stop-color="#2d3a69" offset="1"/>
+    </linearGradient>
+    <filter id="filter1111" x="-1.5e-5" y="-2.6667e-5" width="1" height="1.0001" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="0.0021166668"/>
+    </filter>
+  </defs>
+  <g filter="url(#filter1111)">
+    <rect y="3.125e-6" width="338.67" height="190.5" fill="#fff"/>
+    <path d="m0 0v29.104h268.43v-18.303h52.917v18.303h17.317v-29.104z" fill="url(#linearGradient958)"/>
+    <rect x="271.11" y="13.112" width="47.625" height="47.625" fill="#402248"/>
+    <text x="15.310004" y="16.193672" fill="#ffffff" font-family="'Sitka Heading'" font-size="10.583px" font-style="italic" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="15.310004" y="16.193672" fill="#ffffff" font-family="'Segoe UI'" font-size="7.0556px" font-style="normal" font-weight="bold" stroke-width=".26458">Релиз Aspire, типы расширений, новинки Build 2024</tspan></text>
+    <g fill="#efeff3">
+      <rect x="4.2333" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="4.1745" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="4.2921" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="4.2333" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="4.4097" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="13.38" y="138.24" width="8.1139" height="4.1745"/>
+      <rect x="13.322" y="133.06" width="8.1139" height="4.1745"/>
+      <rect x="13.439" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="13.38" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="13.498" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="13.439" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="13.616" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="22.704" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="22.645" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="22.821" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="31.91" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="32.027" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="41.057" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="41.115" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="41.057" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="41.233" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="50.321" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="50.262" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="50.439" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="59.468" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="59.527" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="59.468" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="59.645" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="68.615" y="138.24" width="8.1139" height="4.1745"/>
+      <rect x="68.674" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="68.615" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="68.733" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="68.674" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="68.85" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="77.821" y="138.24" width="8.1139" height="4.1745"/>
+      <rect x="77.762" y="133.06" width="8.1139" height="4.1745"/>
+      <rect x="77.88" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="77.821" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="77.939" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="77.88" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="78.056" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="87.086" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="87.027" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="87.145" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="87.086" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="87.262" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="96.292" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="96.35" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="96.292" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="96.468" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="105.44" y="138.24" width="8.1139" height="4.1745"/>
+      <rect x="105.5" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="105.44" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="105.56" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="105.5" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="105.67" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="114.7" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="114.64" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="114.76" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="114.7" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="114.88" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="123.85" y="138.24" width="8.1139" height="4.1745"/>
+      <rect x="123.79" y="133.06" width="8.1139" height="4.1745"/>
+      <rect x="123.91" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="123.85" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="123.97" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="123.91" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="124.09" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="133.11" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="133.17" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="133.11" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="133.29" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="142.32" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="142.26" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="142.38" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="142.32" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="142.5" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="151.59" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="151.7" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="160.79" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="160.73" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="160.91" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="169.94" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="169.88" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="170" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="169.94" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="170.11" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="179.14" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="179.09" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="179.2" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="179.14" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="179.32" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="188.29" y="138.24" width="8.1139" height="4.1745"/>
+      <rect x="188.23" y="133.06" width="8.1139" height="4.1745"/>
+      <rect x="188.35" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="188.29" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="188.41" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="188.35" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="188.53" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="197.5" y="138.24" width="8.1139" height="4.1745"/>
+      <rect x="197.56" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="197.5" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="197.61" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="197.56" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="197.73" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="206.82" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="206.76" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="206.94" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="215.97" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="215.91" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="216.03" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="215.97" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="216.14" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="225.17" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="225.23" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="225.17" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="225.35" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="234.32" y="138.24" width="8.1139" height="4.1745"/>
+      <rect x="234.38" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="234.32" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="234.44" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="234.38" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="234.56" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="243.64" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="243.58" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="243.76" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="252.79" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="252.85" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="252.79" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="252.97" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="261.94" y="138.24" width="8.1139" height="4.1745"/>
+      <rect x="261.88" y="133.06" width="8.1139" height="4.1745"/>
+      <rect x="262" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="261.94" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="262.06" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="262" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="262.17" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="271.2" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="271.14" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="271.26" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="271.2" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="271.38" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="280.35" y="138.24" width="8.1139" height="4.1745"/>
+      <rect x="280.29" y="133.06" width="8.1139" height="4.1745"/>
+      <rect x="280.41" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="280.35" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="280.47" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="280.41" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="280.58" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="289.55" y="138.24" width="8.1139" height="4.1745"/>
+      <rect x="289.61" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="289.55" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="289.67" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="289.61" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="289.79" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="298.82" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="298.88" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="298.82" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="299" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="308.08" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="308.03" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="308.2" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="317.17" y="138.24" width="8.1139" height="4.1745"/>
+      <rect x="317.11" y="133.06" width="8.1139" height="4.1745"/>
+      <rect x="317.23" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="317.17" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="317.29" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="317.23" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="317.41" y="164.16" width="8.1139" height="4.1745"/>
+      <rect x="326.44" y="148.61" width="8.1139" height="4.1745"/>
+      <rect x="326.38" y="143.42" width="8.1139" height="4.1745"/>
+      <rect x="326.5" y="158.98" width="8.1139" height="4.1745"/>
+      <rect x="326.44" y="153.79" width="8.1139" height="4.1745"/>
+      <rect x="326.61" y="164.16" width="8.1139" height="4.1745"/>
+    </g>
+    <g transform="translate(0 24.93)">
+      <rect y="144.4" width="338.67" height="21.167" fill="#dbdde9"/>
+      <text x="68.071404" y="156.6071" fill="#7a86a4" font-family="'Sitka Heading'" font-size="10.583px" font-style="italic" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="68.071404" y="156.6071" fill="#7a86a4" font-family="'Segoe UI'" font-size="6.35px" font-style="normal" stroke-width=".26458">https://Radio.DotNet.Ru</tspan></text>
+      <text x="189.77287" y="157.04584" fill="#7a86a4" font-family="'Sitka Heading'" font-size="10.583px" font-style="italic" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="189.77287" y="157.04584" fill="#7a86a4" font-family="'Segoe UI'" font-size="6.35px" font-style="normal" stroke-width=".26458">Radio@DotNet.Ru</tspan></text>
+    </g>
+  </g>
+  <g opacity=".998">
+    <g font-family="'Sitka Heading'" font-style="italic" letter-spacing="0px" word-spacing="0px">
+      <g transform="translate(-3.7573 80.786)" font-size="10.583px" stroke-width=".26458">
+        <text x="120.15115" y="45.968597" fill="#45a3d0" style="line-height:1.25" xml:space="preserve"><tspan x="120.15115" y="45.968597" fill="#45a3d0" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">01:34:40</tspan></text>
+        <text x="150.80423" y="45.974113" fill="#000000" style="line-height:1.25" xml:space="preserve"><tspan x="150.80423" y="45.974113" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">Кратко о разном</tspan></text>
+      </g>
+      <g fill="#fefefc" font-size="10.649px" stroke-width=".26623">
+        <text x="277.69821" y="37.793407" style="line-height:1.25" xml:space="preserve"><tspan x="277.69821" y="37.793407" fill="#fefefc" font-family="'Segoe UI'" font-size="19.879px" font-style="normal" font-weight="bold" stroke-width=".26623">094</tspan></text>
+        <text x="277.09033" y="51.578346" style="line-height:1.25" xml:space="preserve"><tspan x="277.09033" y="51.578346" fill="#fefefc" font-family="'Segoe UI'" font-size="6.3896px" font-style="normal" font-weight="bold" stroke-width=".26623">3 июн 2024</tspan></text>
+      </g>
+      <g font-size="10.583px" stroke-width=".26458">
+        <g transform="translate(-3.7573 .484)">
+          <text x="120.15115" y="45.968597" fill="#45a3d0" style="line-height:1.25" xml:space="preserve"><tspan x="120.15115" y="45.968597" fill="#45a3d0" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">00:01:35</tspan></text>
+          <text x="150.80423" y="45.974113" fill="#000000" style="line-height:1.25" xml:space="preserve"><tspan x="150.80423" y="45.974113" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">General Availability of .NET Aspire</tspan></text>
+        </g>
+        <g transform="translate(-3.7573 14.532)">
+          <text x="120.15115" y="45.968597" fill="#45a3d0" style="line-height:1.25" xml:space="preserve"><tspan x="120.15115" y="45.968597" fill="#45a3d0" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">00:20:55</tspan></text>
+          <text x="150.80423" y="45.974113" fill="#000000" style="line-height:1.25" xml:space="preserve"><tspan x="150.80423" y="45.974113" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">What's new in C# 13</tspan></text>
+        </g>
+        <g transform="translate(-3.7573 27.381)">
+          <text x="120.15115" y="45.968597" fill="#45a3d0" style="line-height:1.25" xml:space="preserve"><tspan x="120.15115" y="45.968597" fill="#45a3d0" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">00:56:05</tspan></text>
+          <text x="150.80423" y="45.974113" fill="#000000" style="line-height:1.25" xml:space="preserve"><tspan x="150.80423" y="45.974113" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">.NET Announcements and Updates from Microsoft Build 2024</tspan></text>
+        </g>
+        <g transform="translate(-3.7573 41.346)">
+          <text x="120.15115" y="45.968597" fill="#45a3d0" style="line-height:1.25" xml:space="preserve"><tspan x="120.15115" y="45.968597" fill="#45a3d0" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">01:03:50</tspan></text>
+          <text x="150.80423" y="45.974113" fill="#000000" style="line-height:1.25" xml:space="preserve"><tspan x="150.80423" y="45.974113" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">.NET 9 Preview 4</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(.095345 0 0 .095345 15.875 42.333)">
+      <rect id="bg" width="888" height="888" fill="#68217a" stroke-width="7.7005"/>
+      <g stroke-width="2.775">
+        <g id="tx" fill="#fff">
+          <path d="m301 301h-20.1l-19.5-41.8q-2.2-4.8-4.5-7.95t-4.95-5-5.8-2.65-7.05-0.8h-8.4v58.2h-17.8v-130.7h35q11.4 0 19.6 2.5t13.45 7 7.7 10.85 2.45 14.05q0 6.1-1.8 11.55t-5.35 9.9-8.8 7.7-12.05 4.85q5.5 1.9 9.35 6.65t7.85 12.65zm-28.5-94.8q0-10.5-6.55-15.7t-18.45-5.2h-16.8v43.2h14.4q6.3 0 11.35-1.45t8.6-4.3 5.5-7 1.95-9.55z"/>
+          <path d="m421 301h-19.4l-9.1-28.5h-54.4l-9.2 28.5h-18.5l43.4-130.7h24.4zm-33.6-44.4-22.1-69.9-22.1 69.9z"/>
+          <path d="m527 234q0 9.4-1.45 18t-4.65 16-8.3 13.45-12.5 10.35-17.2 6.65-22.3 2.35h-28v-130.7h33.7q30.6 0 45.65 15.75t15.05 48.15zm-18.7 1.3q0-13.9-2.6-23.5t-7.9-15.5-13.3-8.55-18.8-2.65h-15.3v100.3h13.3q44.6 0 44.6-50.1z"/>
+          <path d="m582 185h-30.1v-15h78.2v15h-30.1v100.5h30.1v15.2h-78.2v-15.2h30.1z"/>
+          <path d="m755 235q0 17.6-4.15 30.4t-11.2 21.15-16.5 12.4-19.95 4.05q-12.6 0-21.95-4.55t-15.5-13.15-9.15-20.95-3-27.85q0-17.4 4.1-30.2t11.15-21.15 16.45-12.4 19.9-4.05q12.6 0 21.95 4.6t15.55 13.15 9.25 20.85 3.05 27.7zm-18.5 1.3q0-11.5-1.75-21.05t-5.65-16.45-10.05-10.7-14.85-3.8q-8.4 0-14.45 4.05t-9.95 11-5.8 16.3-1.9 19.85q0 11.6 1.8 21.15t5.65 16.4 9.95 10.65 14.7 3.8q8.4 0 14.5-4.05t10.05-11 5.85-16.25 1.9-19.9z"/>
+          <path d="m527 443q0 9.4-1.45 18t-4.65 16-8.3 13.45-12.5 10.35-17.2 6.65-22.3 2.35h-28v-130.7h33.7q30.6 0 45.65 15.75t15.05 48.15zm-18.7 1.3q0-13.9-2.6-23.5t-7.9-15.5-13.3-8.55-18.8-2.65h-15.3v100.3h13.3q44.6 0 44.6-50.1z"/>
+          <path d="m642 444q0 17.6-4.15 30.4t-11.2 21.15-16.5 12.4-19.95 4.05q-12.6 0-21.95-4.55t-15.5-13.15-9.15-20.95-3-27.85q0-17.4 4.1-30.2t11.15-21.15 16.45-12.4 19.9-4.05q12.6 0 21.95 4.6t15.55 13.15 9.25 20.85 3.05 27.7zm-18.5 1.3q0-11.5-1.75-21.05t-5.65-16.45-10.05-10.7-14.85-3.8q-8.4 0-14.45 4.05t-9.95 11-5.8 16.3-1.9 19.85q0 11.6 1.8 21.15t5.65 16.4 9.95 10.65 14.7 3.8q8.4 0 14.5-4.05t10.05-11 5.85-16.25 1.9-19.9z"/>
+          <path d="m752 394h-38.7v115.5h-18v-115.5h-38.7v-15.2h95.4z"/>
+          <path d="m523 719h-23.2l-38.1-81.5-11-26.2v107.7h-16.6v-130.7h22.9l36.3 77.2 13.1 29.9v-107.1h16.6z"/>
+          <path d="m629 719h-74.3v-130.7h74.3v15h-56.5v40.5h54.3v15h-54.3v45h56.5z"/>
+          <path d="m752 603h-38.7v115.5h-18v-115.5h-38.7v-15.2h95.4z"/>
+        </g>
+        <g id="wl" fill="#fff">
+          <path d="m291 378h-14.5a14.5 14.5 0 1 0 0 29h14.5z"/>
+          <path d="m291 417h-52.5a14.5 14.5 0 1 0 0 29h52.5z"/>
+          <path d="m291 456h-26.5a14.5 14.5 0 1 0 0 29h26.5z"/>
+          <path d="m291 494h-56.5a14.5 14.5 0 1 0 0 29h56.5z"/>
+          <path d="m291 533h-85.5a14.5 14.5 0 1 0 0 29h85.5z"/>
+          <path d="m291 572h-44.5a14.5 14.5 0 1 0 0 29h44.5z"/>
+          <path d="m291 611h-4.5a14.5 14.5 0 1 0 0 29h4.5z"/>
+          <path d="m291 649h-32.5a14.5 14.5 0 1 0 0 29h32.5z"/>
+          <path d="m291 688h-58.5a14.5 14.5 0 1 0 0 29h58.5z"/>
+        </g>
+        <g id="wr" fill="#cf18fd">
+          <path d="m301 378h14.5a14.5 14.5 0 1 1 0 29h-14.5z"/>
+          <path d="m301 417h52.5a14.5 14.5 0 1 1 0 29h-52.5z"/>
+          <path d="m301 456h26.5a14.5 14.5 0 1 1 0 29h-26.5z"/>
+          <path d="m301 494h56.5a14.5 14.5 0 1 1 0 29h-56.5z"/>
+          <path d="m301 533h85.5a14.5 14.5 0 1 1 0 29h-85.5z"/>
+          <path d="m301 572h44.5a14.5 14.5 0 1 1 0 29h-44.5z"/>
+          <path d="m301 611h4.5a14.5 14.5 0 1 1 0 29h-4.5z"/>
+          <path d="m301 649h32.5a14.5 14.5 0 1 1 0 29h-32.5z"/>
+          <path d="m301 688h58.5a14.5 14.5 0 1 1 0 29h-58.5z"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(-3.7573 54.135)" font-family="'Sitka Heading'" font-size="10.583px" font-style="italic" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+      <text x="120.15115" y="45.968597" fill="#45a3d0" style="line-height:1.25" xml:space="preserve"><tspan x="120.15115" y="45.968597" fill="#45a3d0" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">01:27:00</tspan></text>
+      <text x="150.80423" y="45.974113" fill="#000000" style="line-height:1.25" xml:space="preserve"><tspan x="150.80423" y="45.974113" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">Visual Studio 2022 17.10 and Visual Studio 2022 v17.11 Preview 1</tspan></text>
+    </g>
+    <g transform="translate(-3.7573 66.871)" font-family="'Sitka Heading'" font-size="10.583px" font-style="italic" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+      <text x="120.15115" y="45.968597" fill="#45a3d0" style="line-height:1.25" xml:space="preserve"><tspan x="120.15115" y="45.968597" fill="#45a3d0" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">01:31:30</tspan></text>
+      <text x="150.80423" y="45.974113" fill="#000000" style="line-height:1.25" xml:space="preserve"><tspan x="150.80423" y="45.974113" font-family="'Segoe UI'" font-size="5.6444px" font-style="normal" stroke-width=".26458">Announcing NuGet 6.10</tspan></text>
+    </g>
+  </g>
+  <style type="text/css">.st0{opacity:0;fill:#000105;}
+	.st1{fill:#45A3D0;}
+	.st2{fill:#5C7CBB;}</style>
+</svg>
