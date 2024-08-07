@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-99</Id>
+  <Name>Встреча SpbDotNet №99</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Nexign</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Nexign</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>OpenTelemetry-for-Little-Ones</TalkId>
+      <StartTime>2024-07-24T16:00:00Z</StartTime>
+      <EndTime>2024-07-24T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Secrets-and-Security-in-DotNet-Applications</TalkId>
+      <StartTime>2024-07-24T17:30:00Z</StartTime>
+      <EndTime>2024-07-24T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
