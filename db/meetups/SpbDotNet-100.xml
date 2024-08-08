@@ -1,0 +1,17 @@
+﻿<Meetup>
+  <Id>SpbDotNet-100</Id>
+  <Name>Встреча SpbDotNet №100</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>ITMO</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Itmo1404</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Development-Using-Artificial-Intelligence</TalkId>
+      <StartTime>2024-08-14T16:00:00Z</StartTime>
+      <EndTime>2024-08-14T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
