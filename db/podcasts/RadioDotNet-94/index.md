@@ -28,6 +28,7 @@ Patrons:
   - Басим Аль-Джевахири
 Home: https://radiodotnet.mave.digital/ep-95
 Audio: https://api.mave.digital/storage/podcasts/dc1a2f8c-50cd-4584-a46a-723efadc6e1e/episodes/4031d4da-b24e-49d5-a924-52d3a30ef9a8.mp3
+Video: https://www.youtube.com/watch?v=B6O8CTBEJAU
 Topics:
 
   - Subject: General Availability of .NET Aspire
