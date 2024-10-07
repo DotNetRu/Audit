@@ -7,4 +7,6 @@
   <Description>Никто не будет отрицать, что использование ИИ всё больше актуально в разработке ПО. Обсудим, как можно использовать языковые модели в анализе требований, написании, тестировании и анализе кода, организации процесса разработки.
 
 Поговорим про смену парадигмы с классической на AI-driven и посмотрим, как можно организовать ИИ-улучшенный процесс разработки сложных систем.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Development-Using-Artificial-Intelligence.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=rmxRxpyYtZA</VideoUrl>
 </Talk>
