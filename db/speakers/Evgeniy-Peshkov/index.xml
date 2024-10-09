@@ -1,5 +1,10 @@
 ﻿<Speaker>
   <Id>Evgeniy-Peshkov</Id>
   <Name>Евгений Пешков</Name>
-  <Description>Разработчик на платформе .NET. Ранее разрабатывал JetBrains Rider, занимался инфраструктурой в Контуре. Интересуется внутренним устройством .NET и Windows и использует эти знания на практике.</Description>
+  <Description>Евгений занимается высоконагруженными сервисами. Ранее разрабатывал JetBrains Rider, занимался в Контуре общей инфраструктурой — системой хостинга приложений.
+
+Спикер DotNext, DUMP, CodeFest, .NET Summit.
+
+Интересуется lock-free алгоритмами и структурами данных, внутренним устройством .NET и операционных систем.</Description>
+  <BlogUrl>https://t.me/epeshkblog/</BlogUrl>
 </Speaker>

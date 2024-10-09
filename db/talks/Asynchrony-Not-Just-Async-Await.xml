@@ -1,0 +1,11 @@
+﻿<Talk>
+  <Id>Asynchrony-Not-Just-Async-Await</Id>
+  <SpeakerIds>
+    <SpeakerId>Evgeniy-Peshkov</SpeakerId>
+  </SpeakerIds>
+  <Title>Асинхронность: не только async/await</Title>
+  <Description>С появления async/await прошло много времени. Часть языков, например JavaScript и Kotlin, переняли этот паттерн почти без изменений, другие же — Java, Go — предлагают свои подходы к асинхронности. У разработчиков .NET тоже возникли сомнения в будущем async/await: появились эксперименты с green threads и оптимизациями нынешней модели асинхронности.
+
+В докладе Евгений расскажет о разнице в реализациях асинхронности, проблемах с производительностью и о том, как может измениться async/await в .NET.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Asynchrony-Not-Just-Async-Await.pdf</SlidesUrl>
+</Talk>

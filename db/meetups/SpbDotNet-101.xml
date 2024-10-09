@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-101</Id>
+  <Name>Встреча SpbDotNet №101</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>ITMO</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Itmo1404</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Plugins-for-Services</TalkId>
+      <StartTime>2024-10-04T16:00:00Z</StartTime>
+      <EndTime>2024-10-04T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Asynchrony-Not-Just-Async-Await</TalkId>
+      <StartTime>2024-10-04T17:30:00Z</StartTime>
+      <EndTime>2024-10-04T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
