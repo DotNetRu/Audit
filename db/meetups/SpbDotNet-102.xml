@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-102</Id>
+  <Name>Встреча SpbDotNet №102</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>AtiSu</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-AtiSu</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Using-AOP-in-DotNet</TalkId>
+      <StartTime>2024-10-17T16:00:00Z</StartTime>
+      <EndTime>2024-10-17T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Native-AOT-Opportunities-and-Limitations</TalkId>
+      <StartTime>2024-10-17T17:30:00Z</StartTime>
+      <EndTime>2024-10-17T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
