@@ -1,7 +1,7 @@
 ﻿<Speaker>
   <Id>Andrey-Porozhnyakov</Id>
   <Name>Андрей Порожняков</Name>
-  <Description>.NET разработчик. 10+ лет разрабатывает Web API на С#.</Description>
+  <Description>.NET-разработчик, специализируется на разработке Web API. Автор серии докладов по Minimal API.</Description>
   <ContactsUrl>https://www.linkedin.com/in/andrei-porozhniakov/</ContactsUrl>
   <HabrUrl>https://habr.com/ru/users/m3ta10ph0b/</HabrUrl>
 </Speaker>
