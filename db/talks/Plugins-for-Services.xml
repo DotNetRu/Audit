@@ -6,4 +6,5 @@
   <Title>Плагины к сервисам: безопасное расширение функциональности</Title>
   <Description>Рассмотрим возможность расширения функциональности сервисов при помощи AssemblyLoadContext. Наша модель расширения плагинами будет уметь производить: горячую подмену реализации во время исполнения, разделение DI-контейнеров между плагинами и хостом, отладку, учитывать особенности разработки Dockerfile под них и множество других нюансов.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Plugins-for-Services.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=7dv4EBZb2_A</VideoUrl>
 </Talk>
