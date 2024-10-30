@@ -8,4 +8,5 @@
 
 В докладе Евгений расскажет о разнице в реализациях асинхронности, проблемах с производительностью и о том, как может измениться async/await в .NET.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Asynchrony-Not-Just-Async-Await.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=wCZE8f-fmFc</VideoUrl>
 </Talk>
