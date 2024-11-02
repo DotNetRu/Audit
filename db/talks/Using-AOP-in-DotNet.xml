@@ -10,4 +10,5 @@
 
 Дмитрий расскажет о своём опыте использования каждого из этих механизмов АОП, их преимуществах, ограничениях и особенностях. Кроме того, затронет вопрос перехвата зависимостей из контейнера внедрения зависимостей (DI) для реализации внутренних механизмов АОП с целью обеспечения гибкости и расширяемости кода.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Using-AOP-in-DotNet.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=1V-Ws1moGls</VideoUrl>
 </Talk>

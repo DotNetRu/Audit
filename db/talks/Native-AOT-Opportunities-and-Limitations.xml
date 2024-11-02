@@ -10,4 +10,5 @@
 
 Андрей расскажет, как ускорить запуск приложения за счёт AOT-компиляции. Рассмотрит требования и ограничения публикации Native AOT. Отдельно скажет о поддержке Minimal API и генераторов исходного кода, о плюсах, минусах и практической пользе технологии.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Native-AOT-Opportunities-and-Limitations.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=a0QJCt2wsZA</VideoUrl>
 </Talk>
