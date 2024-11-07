@@ -5,7 +5,7 @@
   <FriendIds>
     <FriendId>Veeam</FriendId>
   </FriendIds>
-  <VenueId>Spb-Lenpoligraphmash</VenueId>
+  <VenueId>Spb-Amphitheater</VenueId>
   <Sessions>
     <Session>
       <TalkId>Cloud-Services-What-Where-And-What-For</TalkId>

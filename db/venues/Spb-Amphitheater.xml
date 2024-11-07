@@ -1,0 +1,7 @@
+﻿<Venue>
+  <Id>Spb-Amphitheater</Id>
+  <Name>Амфитеатр в Ленполиграфмаше</Name>
+  <Capacity>250</Capacity>
+  <Address>Санкт-Петербург, Аптекарский просп., 4, корп. 2</Address>
+  <MapUrl>https://yandex.ru/maps/-/CDhRb0Yb</MapUrl>
+</Venue>
