@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-103</Id>
+  <Name>Встреча SpbDotNet №103</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Altenar</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Amphitheater</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Start-Dump-Analysis</TalkId>
+      <StartTime>2024-11-14T16:00:00Z</StartTime>
+      <EndTime>2024-11-14T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Aspire-in-Action</TalkId>
+      <StartTime>2024-11-14T17:30:00Z</StartTime>
+      <EndTime>2024-11-14T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
