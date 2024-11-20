@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Roslyn-and-Plugins-for-Compiler</Id>
+  <SpeakerIds>
+    <SpeakerId>Georgy-Kruglov</SpeakerId>
+  </SpeakerIds>
+  <Title>Roslyn и плагины для компилятора C#</Title>
+  <Description>В этом докладе Георгий покажет путь создания Roslyn плагина от начала до конца, поделится знаниями, которые он хотел бы иметь, когда только начинал осваивать эту тему. Мы рассмотрим основные абстракции Roslyn, устройства нескольких плагинов (Analyzers, Source Generaors), механизмы их отладки, тестирования и публикации.
+
+Доклад будет полезен разработчикам, которые знакомы с терминами Roslyn, Source Generator, Roslyn Analyzer и хотят разобраться, как это работает и что нужно для реализации собственного плагина.</Description>
+</Talk>

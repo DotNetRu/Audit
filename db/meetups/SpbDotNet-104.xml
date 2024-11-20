@@ -1,0 +1,23 @@
+﻿<Meetup>
+  <Id>SpbDotNet-104</Id>
+  <Name>Встреча SpbDotNet №104</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>ITMO</FriendId>
+    <FriendId>Altenar</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Itmo1404</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>PostgreSQL-Serializable</TalkId>
+      <StartTime>2024-12-05T16:00:00Z</StartTime>
+      <EndTime>2024-12-05T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Roslyn-and-Plugins-for-Compiler</TalkId>
+      <StartTime>2024-12-05T17:30:00Z</StartTime>
+      <EndTime>2024-12-05T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
