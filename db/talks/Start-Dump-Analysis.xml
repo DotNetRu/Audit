@@ -6,4 +6,5 @@
   <Title>Анализ дампа: с чего начать?</Title>
   <Description>В докладе Виктор расскажет, как подойти к разбору проблем с помощью дампов .NET приложений. Рассмотрим несколько примеров из практики: в каких случаях какой инструмент использовать, что искать, а в каких случаях дамп нам может и не помочь.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Start-Dump-Analysis.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=YDs6Y52Fvq0</VideoUrl>
 </Talk>
