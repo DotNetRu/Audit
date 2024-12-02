@@ -8,4 +8,5 @@
 
 В докладе рассмотрим «готовый к работе в облаке стек для создания наблюдаемых, распределённых, production-ready приложений». Разберёмся, упростит ли .NET Aspire разработку и отладку cloud-native приложений или будет просто ещё одним слоем абстракции — который не только не оградит в полной мере от более низких слоёв, но и добавит сложности в и без того непростую разработку облачных приложений.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Aspire-in-Action.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=oSvkj74gU-8</VideoUrl>
 </Talk>
