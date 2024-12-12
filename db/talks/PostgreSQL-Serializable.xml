@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Дружим .NET и PostgreSQL Serializable с параллельностью</Title>
   <Description>Для создания надёжной Backend-системы нам важно иметь консистентные данные в базе данных и быть уверенными, что при очередной обработке операции они 100% актуальные. В докладе поговорим как параллельные операции в системе могут нарушать наши желания, а также какие есть способы решать такую задачу. Посмотрим как с этим может помочь уровень изолированности транзакций Serializable в PostgreSQL, а также какие подводные камни он содержит и к чему стоит быть готовым, выбирая такое решение.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/PostgreSQL-Serializable.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=mtsEUN_MORY</VideoUrl>
 </Talk>

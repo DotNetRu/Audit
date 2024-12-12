@@ -7,4 +7,6 @@
   <Description>В этом докладе Георгий покажет путь создания Roslyn плагина от начала до конца, поделится знаниями, которые он хотел бы иметь, когда только начинал осваивать эту тему. Мы рассмотрим основные абстракции Roslyn, устройства нескольких плагинов (Analyzers, Source Generaors), механизмы их отладки, тестирования и публикации.
 
 Доклад будет полезен разработчикам, которые знакомы с терминами Roslyn, Source Generator, Roslyn Analyzer и хотят разобраться, как это работает и что нужно для реализации собственного плагина.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Roslyn-and-Plugins-for-Compiler.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=-2WyyBmUuz0</VideoUrl>
 </Talk>
