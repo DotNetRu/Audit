@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-105</Id>
+  <Name>Встреча SpbDotNet №105</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>AtiSu</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-AtiSu</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Legacy-Code-Practices-and-Techniques</TalkId>
+      <StartTime>2025-01-23T16:00:00Z</StartTime>
+      <EndTime>2025-01-23T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>String-as-Value-Type</TalkId>
+      <StartTime>2025-01-23T17:30:00Z</StartTime>
+      <EndTime>2025-01-23T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
