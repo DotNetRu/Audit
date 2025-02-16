@@ -1,0 +1,11 @@
+﻿<Speaker>
+  <Id>Victor-Dzitskiy</Id>
+  <Name>Виктор Дзицкий</Name>
+  <CompanyName>СоларЛаб</CompanyName>
+  <CompanyUrl>https://solarlab.ru/</CompanyUrl>
+  <Description>TeamLead, .NET Developer (MCSD). В промышленной разработке на C# больше 13 лет. В свободное время ведёт внутреннюю .NET-академию.</Description>
+  <BlogUrl>https://t.me/dzitskiy_dev</BlogUrl>
+  <ContactsUrl>https://www.linkedin.com/in/dzitskiy/</ContactsUrl>
+  <HabrUrl>https://habr.com/ru/users/Dzitskiy/</HabrUrl>
+  <GitHubUrl>https://github.com/Dzitskiy</GitHubUrl>
+</Speaker>

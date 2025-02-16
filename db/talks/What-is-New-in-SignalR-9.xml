@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-SignalR-9</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Egorov</SpeakerId>
+  </SpeakerIds>
+  <Title>Анализ улучшений в SignalR .NET 9</Title>
+  <Description>Рассмотрим, что нового появилось в SignalR согласно официальному анонсу с точки зрения функциональности и реализации. Также проанализируем изменения в репозитории GitHub, которые не были упомянуты в официальных анонсах.</Description>
+</Talk>

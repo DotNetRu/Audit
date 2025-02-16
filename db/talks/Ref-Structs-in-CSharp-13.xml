@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Ref-Structs-in-CSharp-13</Id>
+  <SpeakerIds>
+    <SpeakerId>Yuri-Malich</SpeakerId>
+  </SpeakerIds>
+  <Title>Ref-структуры в C# 13</Title>
+  <Description>Поговорим о том, какие изменения произошли в C# 13 в работе с ref-структурами и как они влияют на написание кода, с практическими примерами.</Description>
+</Talk>

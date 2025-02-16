@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-ASP-9</Id>
+  <SpeakerIds>
+    <SpeakerId>George-Gutsol</SpeakerId>
+  </SpeakerIds>
+  <Title>Что нового в ASP.NET Core 9.0?</Title>
+  <Description>В .NET 9 внесено более тысячи изменений. В докладе мы остановим свой взгляд на основных улучшениях ASP.NET Core: в производительности и дружелюбии к пользователю и разработчикам.</Description>
+</Talk>
