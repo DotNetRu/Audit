@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-WebApi-9</Id>
+  <SpeakerIds>
+    <SpeakerId>Andrey-Porozhnyakov</SpeakerId>
+  </SpeakerIds>
+  <Title>Что нового для Web API в ASP.NET Core 9</Title>
+  <Description>Андрей расскажет о новых фичах ASP.NET Core 9 для разработки Web API. Посмотрим примеры кода, обсудим производительность, разберём изменения в шаблоне ASP.NET Core Web API.</Description>
+</Talk>

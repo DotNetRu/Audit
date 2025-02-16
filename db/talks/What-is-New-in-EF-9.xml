@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-EF-9</Id>
+  <SpeakerIds>
+    <SpeakerId>Victor-Dzitskiy</SpeakerId>
+  </SpeakerIds>
+  <Title>Что нового в EF Core 9, а также работа с NoSQL (MongoDB Provider)</Title>
+  <Description>В ходе доклада разберём, какие нововведения появились в EF Core 9, а также затронем тему создания нативного провайдера для MongoDB.</Description>
+</Talk>

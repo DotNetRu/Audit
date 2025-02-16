@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-Auth-9</Id>
+  <SpeakerIds>
+    <SpeakerId>Valery-Nikitin</SpeakerId>
+  </SpeakerIds>
+  <Title>Authorization and authentication improvments on .NET 9</Title>
+  <Description>Вспомним, что такое авторизация и аутентификация, зачем нам OAuth и что предложил Microsoft с добавлением Push Authorization Request.</Description>
+</Talk>

@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-CSharp-13</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
+  </SpeakerIds>
+  <Title>Что нового в C# 13?</Title>
+  <Description>Очередной релиз C# готовит нам небольшое количество приятных фишек языка. В этом докладе мы посмотрим на поддержку коллекций в params, изменения для ref structs, расширенные возможности свойств, и другие полезные фичи.</Description>
+</Talk>
