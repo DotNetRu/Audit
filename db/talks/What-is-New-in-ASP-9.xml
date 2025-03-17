@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Что нового в ASP.NET Core 9.0?</Title>
   <Description>В .NET 9 внесено более тысячи изменений. В докладе мы остановим свой взгляд на основных улучшениях ASP.NET Core: в производительности и дружелюбии к пользователю и разработчикам.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/What-is-New-in-ASP-9.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=zRE1yz2cWs8</VideoUrl>
 </Talk>

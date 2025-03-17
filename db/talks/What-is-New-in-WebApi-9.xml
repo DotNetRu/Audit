@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Что нового для Web API в ASP.NET Core 9</Title>
   <Description>Андрей расскажет о новых фичах ASP.NET Core 9 для разработки Web API. Посмотрим примеры кода, обсудим производительность, разберём изменения в шаблоне ASP.NET Core Web API.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/What-is-New-in-WebApi-9.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=CQIvfw3xOHs</VideoUrl>
 </Talk>

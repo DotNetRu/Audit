@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Authorization and authentication improvments on .NET 9</Title>
   <Description>Вспомним, что такое авторизация и аутентификация, зачем нам OAuth и что предложил Microsoft с добавлением Push Authorization Request.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/What-is-New-in-Auth-9.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=VyV0I2DRPwQ</VideoUrl>
 </Talk>
