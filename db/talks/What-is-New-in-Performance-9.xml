@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Ещё раз о performance</Title>
   <Description>Ренат хочет обсудить тему, близкую сердцу каждого разработчика: performance – и о том, как .NET 9 выводит её на новый уровень. Новая версия оказалась богатой на изменения – более 7500 PR'ов, из которых как минимум 350 коснулись производительности. Ренат расскажет о самых важных моментах, касающихся базовых структур языка, высокоуровневых абстракций, низкоуровневого кода и среды исполнения.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/What-is-New-in-Performance-9.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=7DMLNW5Owb8</VideoUrl>
 </Talk>

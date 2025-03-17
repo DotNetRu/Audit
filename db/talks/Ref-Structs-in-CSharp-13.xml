@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Ref-структуры в C# 13</Title>
   <Description>Поговорим о том, какие изменения произошли в C# 13 в работе с ref-структурами и как они влияют на написание кода, с практическими примерами.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Ref-Structs-in-CSharp-13.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=X8oCdgC7DiE</VideoUrl>
 </Talk>

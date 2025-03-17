@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Анализ улучшений в SignalR .NET 9</Title>
   <Description>Рассмотрим, что нового появилось в SignalR согласно официальному анонсу с точки зрения функциональности и реализации. Также проанализируем изменения в репозитории GitHub, которые не были упомянуты в официальных анонсах.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/What-is-New-in-SignalR-9.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=d-85kmvsbLc</VideoUrl>
 </Talk>
