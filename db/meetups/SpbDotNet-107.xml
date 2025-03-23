@@ -1,0 +1,16 @@
+﻿<Meetup>
+  <Id>SpbDotNet-107</Id>
+  <Name>Встреча SpbDotNet №107</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Yandex</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Yandex</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Development-Using-Artificial-Intelligence-Spring-2025</TalkId>
+      <StartTime>2025-03-27T16:00:00Z</StartTime>
+      <EndTime>2025-03-27T19:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
