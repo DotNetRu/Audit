@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Principles-of-Personal-Effectiveness</Id>
+  <SpeakerIds>
+    <SpeakerId>Elena-Shchelkunova</SpeakerId>
+  </SpeakerIds>
+  <Title>Принципы личной эффективности для IT'шников</Title>
+  <Description>Для чего и как нужно оптимизировать программы знают, пожалуй, все it'шники. Но вот как оптимизировать своё время и усилия? Этому не научили в университете? Принципы оптимизации едины. Вот только язык «программирования» другой и интерфейс не очень-то похож. Елена предлагает поговорить о сходствах «машины» и человека и о том, как оптимизировать имеющиеся «ресурсы» (своё время, силы итд).</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Principles-of-Personal-Effectiveness.pdf</SlidesUrl>
+</Talk>

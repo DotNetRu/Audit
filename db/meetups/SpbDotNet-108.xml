@@ -1,0 +1,26 @@
+﻿<Meetup>
+  <Id>SpbDotNet-108</Id>
+  <Name>Встреча SpbDotNet №108 на ITGM</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>ITGM</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Azimut</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Principles-of-Personal-Effectiveness</TalkId>
+      <StartTime>2025-04-13T08:30:00Z</StartTime>
+      <EndTime>2025-04-13T09:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-Developer-Classifications-2</TalkId>
+      <StartTime>2025-04-13T09:30:00Z</StartTime>
+      <EndTime>2025-04-13T10:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Round-Table-Code-Ends-and-Communication-Begins</TalkId>
+      <StartTime>2025-04-13T10:30:00Z</StartTime>
+      <EndTime>2025-04-13T11:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
