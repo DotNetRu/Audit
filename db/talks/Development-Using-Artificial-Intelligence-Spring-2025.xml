@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Разработка с Использованием ИИ (Refresh Весна 2025)</Title>
   <Description>Продолжаем обсуждать разработку с использованием ИИ. В этой итерации акцент сделан непосредственно на решении задач программирования. Можно ли простым запросом создать крупную информационную систему? Как гарантировать что мы получаем рабочий продукт, а не мусор и галлюцинации? Какие инструменты есть, как они нам помогают, и когда стоит писать что-то своё? Ответы на эти и другие вопросы — в этом докладе!</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Development-Using-Artificial-Intelligence-Spring-2025.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Oqe6vucYpDo</VideoUrl>
 </Talk>
