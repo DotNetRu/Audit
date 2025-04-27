@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>MongoDB-Serialization-Acceleration</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexey-Troepolskiy</SpeakerId>
+  </SpeakerIds>
+  <Title>Оптимизировать или обойти, ускорение MongoDB сериализации</Title>
+  <Description>Если с ростом бизнеса растёт нагрузка, то, что раньше работало без нареканий, может стать бутылочным горлышком. Производительность — краеугольный камень всех высоконагруженных систем. Поэтому периодически нам прилетают задачи разобраться, почему очередная часть системы потребляет много ресурсов.
+
+В докладе разберём ситуацию, где бутылочным горлышком оказался не бизнес-код, а криво-написанный сериализатор. Алексей расскажет, как в два захода они снизили издержки: сначала на 40%, потом — пятикратно. Описанные подходы пригодятся не только при работе с MongoDB и не только для сериализации.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/MongoDB-Serialization-Acceleration.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=tQeCqn-qWGc</VideoUrl>
+</Talk>

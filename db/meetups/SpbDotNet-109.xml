@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-109</Id>
+  <Name>Встреча SpbDotNet №109</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Kontur</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Kontur</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Distributed-Tracing-For-EF</TalkId>
+      <StartTime>2025-04-18T16:00:00Z</StartTime>
+      <EndTime>2025-04-18T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>MongoDB-Serialization-Acceleration</TalkId>
+      <StartTime>2025-04-18T17:30:00Z</StartTime>
+      <EndTime>2025-04-18T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
