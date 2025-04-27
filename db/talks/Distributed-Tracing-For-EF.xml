@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Distributed-Tracing-For-EF</Id>
+  <SpeakerIds>
+    <SpeakerId>Egor-Strelov</SpeakerId>
+  </SpeakerIds>
+  <Title>Distributed Tracing для поиска проблем в Entity Framework Core</Title>
+  <Description>Типичное веб-приложение может делать десятки запросов к базе — и один из них может тормозить всё. Как понять, какой именно? В докладе будет показано, как настроить трассировки для EF Core, собрать нужную телеметрию с помощью OpenTelemetry и быстро найти проблемные запросы к базе данных.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Distributed-Tracing-For-EF.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=D5_Vdr1RQqg</VideoUrl>
+</Talk>
