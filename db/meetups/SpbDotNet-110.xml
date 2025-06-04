@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-110</Id>
+  <Name>Встреча SpbDotNet №110</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Altenar</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-YasnayaPolyana</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Logging-using-Serilog-Optimization</TalkId>
+      <StartTime>2025-05-29T16:00:00Z</StartTime>
+      <EndTime>2025-05-29T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Approval-Tests-Tables-and-Diff</TalkId>
+      <StartTime>2025-05-29T17:30:00Z</StartTime>
+      <EndTime>2025-05-29T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Logging-using-Serilog-Optimization</Id>
+  <SpeakerIds>
+    <SpeakerId>Vladimir-Kuropatka</SpeakerId>
+  </SpeakerIds>
+  <Title>Логирование в .NET с помощью Serilog: оптимизация и отказоустойчивость</Title>
+  <Description>В работе команда Владимира использует Serilog. В определённый момент они столкнулись с отказами своих приложений по причинам, которые скрывались в подсистеме логгирования. Расследование данных инцидентов и исследование темы логгирования дало материал для данного доклада.</Description>
+</Talk>
