@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Architecture-and-Microservices</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexey-Andreev</SpeakerId>
+  </SpeakerIds>
+  <Title>Банально про архитектуру и микросервисы</Title>
+  <Description>Поговорим про микросервисы. Их преимущества и недостатки. И так же парочку советов из жизни…</Description>
+</Talk>

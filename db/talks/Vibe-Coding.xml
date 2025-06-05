@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Vibe-Coding</Id>
+  <SpeakerIds>
+    <SpeakerId>Evgeniy-Maslenkov</SpeakerId>
+  </SpeakerIds>
+  <Title>Vibe coding live</Title>
+  <Description>Посмотрим, как это может выглядеть и обсудим где это работает и где нет.</Description>
+</Talk>
