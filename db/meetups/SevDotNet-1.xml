@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SevDotNet-1</Id>
+  <Name>Встреча SevDotNet №1</Name>
+  <CommunityId>SevDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>SolarLab</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Sev-SolarLab</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Architecture-and-Microservices</TalkId>
+      <StartTime>2025-05-29T16:00:00Z</StartTime>
+      <EndTime>2025-05-29T16:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Vibe-Coding</TalkId>
+      <StartTime>2025-05-29T16:40:00Z</StartTime>
+      <EndTime>2025-05-29T17:10:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
