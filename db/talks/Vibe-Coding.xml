@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Vibe coding live</Title>
   <Description>Посмотрим, как это может выглядеть и обсудим где это работает и где нет.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Vibe-Coding.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=uq65bK7vvYQ</VideoUrl>
 </Talk>
