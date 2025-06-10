@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Банально про архитектуру и микросервисы</Title>
   <Description>Поговорим про микросервисы. Их преимущества и недостатки. И так же парочку советов из жизни…</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Architecture-and-Microservices.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=skBXj1a6nk8</VideoUrl>
 </Talk>
