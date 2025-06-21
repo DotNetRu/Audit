@@ -6,4 +6,6 @@
   <Title>Аппрувал тестирование в .NET: как подружить тесты, таблицы и diff</Title>
   <Description>Это рассказ о том, как писать простые и наглядные юнит-тесты, не утопая во множестве ассертов. Вместо ручной проверки каждого значения — сохраняем результат, сравниваем его с ожидаемым, а при расхождениях видим красивые diff'ы. Особенно удобно, когда данные сложные или табличные — можно показать всё в виде JSON или ASCII-таблиц прямо в тестах. В качестве дополнения будет рассмотрена генерация тестовых данных из Excel с помощью F#.</Description>
   <CodeUrl>https://github.com/KonstantinFinagin/SpbDotNet</CodeUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Approval-Tests-Tables-and-Diff.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=zFBibcaTIyE</VideoUrl>
 </Talk>
