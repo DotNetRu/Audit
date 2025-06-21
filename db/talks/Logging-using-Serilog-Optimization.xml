@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Логирование в .NET с помощью Serilog: оптимизация и отказоустойчивость</Title>
   <Description>В работе команда Владимира использует Serilog. В определённый момент они столкнулись с отказами своих приложений по причинам, которые скрывались в подсистеме логгирования. Расследование данных инцидентов и исследование темы логгирования дало материал для данного доклада.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Logging-using-Serilog-Optimization.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=VDyu9YkUxHI</VideoUrl>
 </Talk>
