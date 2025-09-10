@@ -1,0 +1,11 @@
+﻿<Talk>
+  <Id>EF-Core-for-MongoDB</Id>
+  <SpeakerIds>
+    <SpeakerId>Victor-Dzitskiy</SpeakerId>
+  </SpeakerIds>
+  <Title>EF Core для работы с MongoDB: Стоит ли использовать MongoDBProvider?</Title>
+  <Description>В докладе рассмотрим, насколько эффективно EF Core, изначально созданная для реляционных СУБД, подходит для работы с документоориентированной MongoDB.
+Попробуем разобраться, стоит ли применять EF Core с MongoDBProvider или использовать стандартный MongoDB C# Driver. </Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/EF-Core-for-MongoDB.pdf</SlidesUrl>
+  <VideoUrl>...</VideoUrl>
+</Talk>

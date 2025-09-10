@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>Microservices-Interaction</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexey-Andreev</SpeakerId>
+  </SpeakerIds>
+  <Title>Взаимодействие сервисов: независимые данные и event-driven архитектура</Title>
+  <Description>Поговорим про асинхронное взаимодействие для микросервисов. Разберём схему, где каждый сервис владеет своими данными и распространяет их через события. Посмотрим плюсы и минусы данного подхода. Обсудим, что ещё можно, если не EDA.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Microservices-Interaction.pdf</SlidesUrl>
+  <VideoUrl>...</VideoUrl>
+</Talk>
