@@ -1,0 +1,7 @@
+﻿<Speaker>
+  <Id>Maxim-Rogozhnikov</Id>
+  <Name>Максим Рогожников</Name>
+  <CompanyName>Т-Банк</CompanyName>
+  <CompanyUrl>https://www.tbank.ru/</CompanyUrl>
+  <Description>В Т-Банке Максим руководит разработкой инструмента observability Sage, хранящего 8 ПБ данных и выдерживающий 5 Гб/с входящих данных. Ex-Team Lead команды нагрузочного тестирования. В тестировании производительности более 7 лет, за это время поработал над проектами в банковской сфере, телекоме, ритейле и госуслугах.</Description>
+</Speaker>
