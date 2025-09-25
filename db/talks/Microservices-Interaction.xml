@@ -6,5 +6,5 @@
   <Title>Взаимодействие сервисов: независимые данные и event-driven архитектура</Title>
   <Description>Поговорим про асинхронное взаимодействие для микросервисов. Разберём схему, где каждый сервис владеет своими данными и распространяет их через события. Посмотрим плюсы и минусы данного подхода. Обсудим, что ещё можно, если не EDA.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Microservices-Interaction.pdf</SlidesUrl>
-  <VideoUrl>https://youtu.be/ixOfIE-Y-yk</VideoUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=ixOfIE-Y-yk</VideoUrl>
 </Talk>
