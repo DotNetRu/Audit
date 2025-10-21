@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>PostgreSQL-Partitioning</Id>
+  <SpeakerIds>
+    <SpeakerId>Ilya-Mzhachev</SpeakerId>
+  </SpeakerIds>
+  <Title>PostgreSQL Partitioning: Управление данными и производительность с .NET и EF Core</Title>
+  <Description>Рассмотрим какие задачи можно решать с помощью партиционированных таблиц, как они устроены в PostgreSQL и как с ними работать в .NET приложении.</Description>
+</Talk>

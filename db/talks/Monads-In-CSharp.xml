@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Monads-In-CSharp</Id>
+  <SpeakerIds>
+    <SpeakerId>Kirill-Sukhorukikh</SpeakerId>
+  </SpeakerIds>
+  <Title>Монады в C#. Элементы теории категорий</Title>
+  <Description>Доклад об использовании некоторых элементов функционального программирования в повседневной разработке на языке C#. Взгляд на монады с точки зрения теории категорий с примерами на C#.</Description>
+</Talk>
