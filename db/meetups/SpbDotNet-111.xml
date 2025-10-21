@@ -1,0 +1,17 @@
+﻿<Meetup>
+  <Id>SpbDotNet-111</Id>
+  <Name>Встреча SpbDotNet №111</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Kontur</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Radison</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Master-Class-Event-Storming-Ideal-System</TalkId>
+      <StartTime>2025-09-16T16:00:00Z</StartTime>
+      <EndTime>2025-09-16T19:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
