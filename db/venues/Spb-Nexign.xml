@@ -1,7 +1,7 @@
 ﻿<Venue>
   <Id>Spb-Nexign</Id>
   <Name>Конференц-зал «Nexign»</Name>
-  <Capacity>110</Capacity>
+  <Capacity>80</Capacity>
   <Address>Санкт-Петербург, ул. Уральская, д. 4, офис компании «Nexign» (вход рядом с Лентой)</Address>
   <MapUrl>https://yandex.ru/maps/-/CDURuXpu</MapUrl>
 </Venue>
