@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-113</Id>
+  <Name>Встреча SpbDotNet №113</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>ITMO</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Itmo1405</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Jit-is-Not-Magic</TalkId>
+      <StartTime>2025-11-25T16:00:00Z</StartTime>
+      <EndTime>2025-11-25T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Cryptography-Security-Guarantees-End</TalkId>
+      <StartTime>2025-11-25T17:30:00Z</StartTime>
+      <EndTime>2025-11-25T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
