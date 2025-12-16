@@ -7,4 +7,6 @@
   <Description>Сегодня и пользователям, и разработчикам становится доступно всё больше возможностей, связанных с децентрализацией.
 
 В докладе речь пойдёт о перспективах, которые открывает Web3. Разберём основные концепции и посмотрим, как работать с этим в .NET уже сейчас.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Web3-for-Little-Ones.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=7m19MywMQkg</VideoUrl>
 </Talk>
