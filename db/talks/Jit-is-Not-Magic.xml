@@ -14,4 +14,5 @@
 - увидим, как управлять этими ограничениями системно — через архитектурные решения и правила статического анализа;
 - поговорим, в каких ситуациях имеет смысл «помогать» JIT — особенно если вы пишете высоконагруженные или критичные к производительности участки системы.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Jit-is-Not-Magic.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=EBtbZUZ2wPA</VideoUrl>
 </Talk>

@@ -10,4 +10,5 @@
 
 Доклад для разработчиков, которые не хотят быть специалистами‑криптографами, но хотят осознанно управлять безопасностью своих приложений.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Cryptography-Security-Guarantees-End.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=qaSJGTTfADM</VideoUrl>
 </Talk>
