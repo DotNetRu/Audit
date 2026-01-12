@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Элементы расширения в C# 14</Title>
   <Description>Посмотрим на главную крупную фичу C#14 — элементы расширения (extension members). Научимся добавлять методы, свойства и операторы, и рассмотрим различные тонкости и особенности реализации.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Extension-Members-in-CSharp-14.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=rlRhPoeN8tw</VideoUrl>
 </Talk>
