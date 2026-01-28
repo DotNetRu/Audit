@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-Cryptography-10</Id>
+  <SpeakerIds>
+    <SpeakerId>Ruslan-Kaminsky</SpeakerId>
+  </SpeakerIds>
+  <Title>Криптография в .NET 10: обновления, которые нужно знать</Title>
+  <Description>Криптография в .NET 10: breaking changes, новые API и постквантовая криптография.</Description>
+</Talk>

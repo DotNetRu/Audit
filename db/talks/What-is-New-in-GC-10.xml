@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-GC-10</Id>
+  <SpeakerIds>
+    <SpeakerId>Anton-Vorontsov</SpeakerId>
+  </SpeakerIds>
+  <Title>А что нового в GC .NET 10?</Title>
+  <Description>Повнимательнее посмотрим на последние оптимизации, связанные с Write Barriers и механизмом DATAS.</Description>
+</Talk>

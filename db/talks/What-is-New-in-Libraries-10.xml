@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-Libraries-10</Id>
+  <SpeakerIds>
+    <SpeakerId>Makar-Zabiyakin</SpeakerId>
+  </SpeakerIds>
+  <Title>Что нового в библиотеках .NET 10</Title>
+  <Description>В докладе Макар кратко расскажет что нового произошло в стандартных библиотеках .NET 10.</Description>
+</Talk>

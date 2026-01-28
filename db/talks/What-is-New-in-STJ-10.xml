@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-STJ-10</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Mamchenko</SpeakerId>
+  </SpeakerIds>
+  <Title>System.Text.Json в .NET 10: из «и так норм» в производительный конвейер</Title>
+  <Description>Разберём, что изменилось в System.Text.Json в .NET 10. Пройдёмся по ключевым нововведениям и обсудим мотивацию: какие сценарии и проблемы стояли за каждым изменением, что именно добавили или поменяли, и как эти обновления могут сказаться на производительности сервиса.</Description>
+</Talk>

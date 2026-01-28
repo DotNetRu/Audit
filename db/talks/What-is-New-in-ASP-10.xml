@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-ASP-10</Id>
+  <SpeakerIds>
+    <SpeakerId>Sergey-Petrov</SpeakerId>
+  </SpeakerIds>
+  <Title>Новые возможности в ASP.NET Core 10</Title>
+  <Description>Сергей расскажет об интересных нововведениях в ASP.NET Core пришедших с десятой версией .NET. Узнаем как эти изменения упрощают разработку, повышают удобство и надёжность и делают API более предсказуемым.</Description>
+</Talk>
