@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>What-is-New-in-Performance-10</Id>
+  <SpeakerIds>
+    <SpeakerId>Renat-Taziev</SpeakerId>
+  </SpeakerIds>
+  <Title>Performance в .NET 10</Title>
+  <Description>Новая версия .NET 10 разгонит ваши приложения, и они обработают ещё больше пользовательских запросов. Ренат расскажет:
+- о производительности коллекций и языка запросов LINQ;
+- улучшении регулярных выражений;
+- изменениях в threadpool;
+- и докинет щепотку интересных изменений.</Description>
+</Talk>

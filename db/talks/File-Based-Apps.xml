@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>File-Based-Apps</Id>
+  <SpeakerIds>
+    <SpeakerId>Vadim-Berdnikov</SpeakerId>
+  </SpeakerIds>
+  <Title>Однофайловые приложения</Title>
+  <Description>Как .NET 10 облегчает использование C# для решения простых задач.</Description>
+</Talk>

@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>TUnit-Modern-Testing-Framework</Id>
+  <SpeakerIds>
+    <SpeakerId>Elena-Shchelkunova</SpeakerId>
+  </SpeakerIds>
+  <Title>Современный фреймворк для тестирования: TUnit</Title>
+  <Description>Одновременно с релизом .NET 10 вышел новый фреймворк для тестирования, базирующийся на Microsoft Testing Platform, использующий кодогенерацию, поддерживающий AOT, простой и функциональный. Елена предлагает небольшой обзор этого фреймворка, а переходить на него или нет — решать вам.</Description>
+</Talk>

@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-Tools-10</Id>
+  <SpeakerIds>
+    <SpeakerId>Nikolay-Kochubeev</SpeakerId>
+  </SpeakerIds>
+  <Title>Что нового в .NET 10: dotnet tools и CLI</Title>
+  <Description>Рассмотрим, что вышло нового в .NET 10 по dotnet tools: platform-specific tools, one-shot / dnx execution, CLI introspection и UX</Description>
+</Talk>

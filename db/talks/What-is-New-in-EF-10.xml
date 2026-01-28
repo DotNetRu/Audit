@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-EF-10</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Korzanov</SpeakerId>
+  </SpeakerIds>
+  <Title>EF Core 10: изменения и новые возможности</Title>
+  <Description>В основе доклада лежат ключевые изменения Entity Framework Core, нацеленные на применение новых подходов к разработке, в том числе использование таких инструментов как сравнение векторов, способных упростить решения прикладных задач.</Description>
+</Talk>

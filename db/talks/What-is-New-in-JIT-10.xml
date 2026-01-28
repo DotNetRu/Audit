@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-JIT-10</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Egorov</SpeakerId>
+  </SpeakerIds>
+  <Title>Оптимизации в JIT .NET 10</Title>
+  <Description>В докладе мы погрузимся в  улучшения JIT-компилятора в .NET 10. Особое внимание уделим развитию Escape Analysis, оптимизациям Bound Check Elimination и изменениям в инлайнинге.</Description>
+</Talk>

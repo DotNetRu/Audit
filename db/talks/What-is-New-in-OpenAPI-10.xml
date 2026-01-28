@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>What-is-New-in-OpenAPI-10</Id>
+  <SpeakerIds>
+    <SpeakerId>Ruslan-Novruzov</SpeakerId>
+  </SpeakerIds>
+  <Title>Развитие OpenAPI в .NET 10</Title>
+  <Description>Поговорим о том, какие проблемы есть у OpenAPI и как .NET 10 их исправляет.</Description>
+</Talk>
