@@ -6,5 +6,5 @@
   <Title> Зачем мы пишем сотни гигабайтов логов в сутки и как в них что-то найти</Title>
   <Description>При взрывном росте системы, сервисов и сотрудников закономерно растет и количество логов и их чтение. Возникает компромисс между скоростью и удобством разработки и постоянной слежкой за количеством и качеством логов, приходится масштабировать хранилища, онбордить людей. Докладчик расскажет об опыте и пути компании Dodo в борьбе за качество и читаемость логов, инфраструктуру и нюансы логирования из 50+ .NET сервисов.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Why-we-write-hundreds-of-logs-and-how-to-search-in-them.pdf</SlidesUrl>
-  <VideoUrl>https://youtu.be/FYgoaFMbR78</VideoUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=FYgoaFMbR78</VideoUrl>
 </Talk>
