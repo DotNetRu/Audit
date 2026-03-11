@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-116</Id>
+  <Name>Встреча SpbDotNet №116</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>ITMO</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Itmo1419</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Razor-How-to-Prepare</TalkId>
+      <StartTime>2026-02-26T16:00:00Z</StartTime>
+      <EndTime>2026-02-26T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Using-References-and-Ref-Structures</TalkId>
+      <StartTime>2026-02-26T17:30:00Z</StartTime>
+      <EndTime>2026-02-26T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
