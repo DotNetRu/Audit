@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>File-Based-Apps</Id>
+  <SpeakerIds>
+    <SpeakerId>Vadim-Berdnikov</SpeakerId>
+  </SpeakerIds>
+  <Title>Однофайловые приложения</Title>
+  <Description>Как .NET 10 облегчает использование C# для решения простых задач.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/File-Based-Apps.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=f3AMr8kthhc</VideoUrl>
+</Talk>

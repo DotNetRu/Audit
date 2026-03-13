@@ -1,0 +1,16 @@
+﻿<Talk>
+  <Id>Using-References-and-Ref-Structures</Id>
+  <SpeakerIds>
+    <SpeakerId>Yuri-Malich</SpeakerId>
+  </SpeakerIds>
+  <Title>Использование ссылок и ref-структур для низкоуровневой оптимизации C# кода</Title>
+  <Description>Юрий расскажет о модификаторе ref, управляемых указателях, ref-структурах (Span&lt;T&gt; и других).
+
+Покажет, как реализована низкоуровневая арифметика с управляемыми указателями в C#, какие у неё неявные возможности и подводные камни и почему появилась ref-структура Span&lt;T&gt;.
+
+Мы заглянем «под капот» внутренних функций dotnet/runtime и посмотрим, как разработчики рантайма используют ref для оптимизации библиотечных функций на низком уровне.
+
+Посмотрим, как можно использовать Span&lt;T&gt; для оптимизации работы с текстовыми и бинарными данными в своих приложениях и какие новые возможности работы с ref-структурами появились в .NET 9.0.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Using-References-and-Ref-Structures.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=5J3MTNw4a-8</VideoUrl>
+</Talk>

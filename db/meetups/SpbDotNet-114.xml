@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-114</Id>
+  <Name>Встреча SpbDotNet №114</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>Pvs</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-Lesta</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Pitfalls-of-Regular-Expressions</TalkId>
+      <StartTime>2025-12-11T16:00:00Z</StartTime>
+      <EndTime>2025-12-11T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Extension-Members-in-CSharp-14</TalkId>
+      <StartTime>2025-12-11T17:30:00Z</StartTime>
+      <EndTime>2025-12-11T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

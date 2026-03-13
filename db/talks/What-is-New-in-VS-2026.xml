@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>What-is-New-in-VS-2026</Id>
+  <SpeakerIds>
+    <SpeakerId>George-Gutsol</SpeakerId>
+  </SpeakerIds>
+  <Title>Встречайте Visual Studio 2026</Title>
+  <Description>Готовы увидеть, какой станет наша ежедневная работа? Вместе откроем новую главу в истории инструмента, который многие из нас используют каждый день.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/What-is-New-in-VS-2026.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=rlq17G5k6cY</VideoUrl>
+</Talk>

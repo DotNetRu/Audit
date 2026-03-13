@@ -10,5 +10,5 @@
 
 Также расскажем о том, как теперь, после внедрения Dependency Pipeline, мы регистрируем web-контроллеры с помощью наиболее общего механизма .NET Core, нежели предлагаемое по умолчанию более частное решение в типовом .NET Core-сервисе.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Dependency-pipeline.pdf</SlidesUrl>
-  <VideoUrl>https://youtu.be/pI_FCRAoUQs</VideoUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=pI_FCRAoUQs</VideoUrl>
 </Talk>

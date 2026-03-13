@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>What-is-New-in-Diagnostics-10</Id>
+  <SpeakerIds>
+    <SpeakerId>Lev-Kozhaev</SpeakerId>
+  </SpeakerIds>
+  <Title>Что нового в .NET 10  для диагностики</Title>
+  <Description>Поговорим о ключевых улучшениях в области диагностики, которые появились в .NET 10</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/What-is-New-in-Diagnostics-10.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=EdEq6aVxOZo</VideoUrl>
+</Talk>

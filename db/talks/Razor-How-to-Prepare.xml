@@ -1,0 +1,13 @@
+﻿<Talk>
+  <Id>Razor-How-to-Prepare</Id>
+  <SpeakerIds>
+    <SpeakerId>Georgy-Kruglov</SpeakerId>
+  </SpeakerIds>
+  <Title>Из чего состоит компилятор Razor и как его готовить</Title>
+  <Description>Доклад про то, как устроен компилятор Razor и про то, как можно с компилятором Razor писать собственный инструментарий, не привязанный к ASP.NET и веб-компонентам, т. е. сделать из Razor язык разметки общего назначения.
+
+Рассмотрим, из каких компонентов и этапов состоит компиляция Razor-кода и как их настроить, чтобы использовать для генерации собственного кода. Также увидим полный цикл разработки кастомного Razor-компилятора, чтобы генерация нашего кода C# из Razor-разметки была частью dotnet build.
+
+Посмотрим, как можно использовать Razor для написания SQL-запросов, создания приложений на Avalonia, а также Excel и PDF-документов.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Razor-How-to-Prepare.pdf</SlidesUrl>
+</Talk>

@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Code Review: искусственный интеллект в деле</Title>
   <Description>Как искусственный интеллект улучшает процессы Code Review? Светлана прошла путь от простого «сделай code review» до системы промптов с чек‑листами и встроила ИИ в приёмочные ревью для больших объёмов изменений и целых проектов.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Code-Review-with-AI.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=yx2Y22SmDOQ</VideoUrl>
 </Talk>
