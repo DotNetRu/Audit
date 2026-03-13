@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>DotNEXT2025-offline-networking</Id>
+  <SpeakerIds>
+    <SpeakerId>Victor-Dzitskiy</SpeakerId>
+  </SpeakerIds>
+  <Title>DotNEXT 2025: Оффлайн-нетворкинг, кофе и код</Title>
+  <Description>В прошлом году меня пригласили на DotNEXT и я до последнего колебался: стоит ли несколько ночей трястись на верхней полке позда или просто посмотреть онлайн-трансляцию? Спойлер - однозначно, да! Расскажу про организацию конференции и о том, что остается за кадром онлайн-трансляции.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/DotNEXT2025-offline-networking.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=guFDuyIUXpQ</VideoUrl>
+</Talk>
