@@ -1,10 +1,10 @@
 ﻿<Talk>
-  <Id>69-ottenkov-prompt-a</Id>
+  <Id>A-69-ottenkov-prompt-a</Id>
   <SpeakerIds>
     <SpeakerId>Denis-Obolenskiy</SpeakerId>
   </SpeakerIds>
   <Title>69 оттенков prompt-а</Title>
   <Description>Доклад про то как выжить .NET-разработчикам в эпоху, когда ИИ умнеет быстрее, чем наш код компилируется. Знакомство с основами современных ИИ-подходов и обзор возможностей .NET по работе с ИИ.</Description>
-  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/69-ottenkov-prompt-a.pdf</SlidesUrl>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/A-69-ottenkov-prompt-a.pdf</SlidesUrl>
   <VideoUrl>https://www.youtube.com/watch?v=SVhJ31_0HgU</VideoUrl>
 </Talk>
