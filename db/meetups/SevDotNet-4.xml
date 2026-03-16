@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SevDotNet-4</Id>
+  <Name>Встреча SevDotNet №4</Name>
+  <CommunityId>SevDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>SolarLab</FriendId>
+    <FriendId>ITPark</FriendId>
+  </FriendIds>
+  <VenueId>Sev-ITPark</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>A-69-ottenkov-prompt-a</TalkId>
+      <StartTime>2026-02-18T16:00:00Z</StartTime>
+      <EndTime>2026-02-18T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>DotNEXT2025-offline-networking</TalkId>
+      <StartTime>2026-02-18T17:00:00Z</StartTime>
+      <EndTime>2026-02-18T18:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
