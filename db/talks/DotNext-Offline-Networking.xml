@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>DotNext-Offline-Networking</Id>
+  <SpeakerIds>
+    <SpeakerId>Victor-Dzitskiy</SpeakerId>
+  </SpeakerIds>
+  <Title>DotNext 2025: Оффлайн-нетворкинг, кофе и код</Title>
+  <Description>В прошлом году спикера пригласили принять участие в конференции DotNext, и перед ним стоял выбор: отправиться на очное участие с долгой дорогой или ограничиться просмотром онлайн‑трансляции. В своём докладе он делится выводом, почему офлайн‑формат оказался однозначно более ценным опытом, а также рассказывает об организации конференции и о том, что остаётся за кадром онлайн‑версии мероприятия.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/DotNext-Offline-Networking.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=guFDuyIUXpQ</VideoUrl>
+</Talk>
