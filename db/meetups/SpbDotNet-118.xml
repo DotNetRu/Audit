@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SpbDotNet-118</Id>
+  <Name>Встреча SpbDotNet №118</Name>
+  <CommunityId>SpbDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>AtiSu</FriendId>
+    <FriendId>DotNext</FriendId>
+  </FriendIds>
+  <VenueId>Spb-AtiSu</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Choose-Tool-for-Tracing</TalkId>
+      <StartTime>2026-04-16T16:00:00Z</StartTime>
+      <EndTime>2026-04-16T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Pgo-Comparison</TalkId>
+      <StartTime>2026-04-16T17:30:00Z</StartTime>
+      <EndTime>2026-04-16T18:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
