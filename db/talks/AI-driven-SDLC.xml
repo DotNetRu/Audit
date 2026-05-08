@@ -1,0 +1,10 @@
+﻿<Talk>
+  <Id>AI-driven-SDLC</Id>
+  <SpeakerIds>
+    <SpeakerId>Yuriy-Polosov</SpeakerId>
+  </SpeakerIds>
+  <Title>AI-driven SDLC: через призму системного мышления</Title>
+  <Description>В докладе спикер покажет, как строить spec‑driven поток разработки, где сначала появляются структурированные спецификации и промпты, а уже затем код, тесты и CI/CD, которые создаются и сопровождаются агентами. Будет разбор ролей разных AI‑агентов (архитектор, разработчик, тестировщик, SRE), примеры их интеграции с Jira, Git и пайплайнами, а также практические советы по безопасности, управлению качеством такого AI‑ориентированного SDLC.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/AI-driven-SDLC.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=Ds0brmQQCH4</VideoUrl>
+</Talk>

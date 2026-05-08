@@ -1,0 +1,22 @@
+﻿<Meetup>
+  <Id>SevDotNet-5</Id>
+  <Name>Встреча SevDotNet №5</Name>
+  <CommunityId>SevDotNet</CommunityId>
+  <FriendIds>
+    <FriendId>ITPark</FriendId>
+    <FriendId>SolarLab</FriendId>
+  </FriendIds>
+  <VenueId>Sev-ITPark</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>RAG-on-Steroids</TalkId>
+      <StartTime>2026-05-22T16:00:00Z</StartTime>
+      <EndTime>2026-05-22T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>AI-driven-SDLC</TalkId>
+      <StartTime>2026-05-22T17:00:00Z</StartTime>
+      <EndTime>2026-05-22T18:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>
