@@ -10,4 +10,6 @@
 - Посмотрим, как Roslyn реализует модель Compiler as a Service на практике, какие API предоставляет для парсинга, анализа и генерации IL;
 - Разберем что toolchain уже решает, а что для собственного языка все равно придется проектировать самому;
 - Постараемся понять а зачем оно вообще нужно, даже если в планах нет написания своего компилятора.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Roslyn-as-Service.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=nWuP-H2d9-s</VideoUrl>
 </Talk>

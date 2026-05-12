@@ -5,4 +5,6 @@
   </SpeakerIds>
   <Title>Формализация требований. Как сделать работу ИИ предсказуемой</Title>
   <Description>В докладе поговорим о том, почему при работе с AI-ассистентами важны не только модель и инструмент, но и качество формализации требований. Разберём разные варианты формирования требований, а также то, как явные ограничения, контракты и критерии проверки помогают снизить количество переделок, сохранить согласованность системы и превратить ИИ в полезный рабочий инструмент.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Formalization-of-AI-Requirements.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=ktT127VJ0kk</VideoUrl>
 </Talk>
