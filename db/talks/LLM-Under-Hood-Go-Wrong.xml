@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>LLM-Under-Hood-Go-Wrong</Id>
+  <SpeakerIds>
+    <SpeakerId>Svetlana-Meleshkina</SpeakerId>
+  </SpeakerIds>
+  <Title>LLM под капотом. Что может пойти не так</Title>
+  <Description>Кажется, что сейчас добавить немного разума в свой проект проще простого: дёргаешь LLM API, получаешь ответ, готово! Но в проде неожиданно начинаются проблемы.
+
+Светлана, на примере своего Telegram-бота «Подтекст» расскажет о том, какие грабли вас ждут при интеграции LLM в продукт. Мы сосредоточимся на инженерной стороне вопроса: разберём архитектурные проблемы .NET-бэкенда на стыке с LLM, а также посмотрим на особенности больших языковых моделей, которые надо учесть, закладывая их в свой продукт.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/LLM-Under-Hood-Go-Wrong.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=hQWaAbfFYaY</VideoUrl>
+</Talk>

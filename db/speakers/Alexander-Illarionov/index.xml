@@ -1,0 +1,8 @@
+﻿<Speaker>
+  <Id>Alexander-Illarionov</Id>
+  <Name>Александр Илларионов</Name>
+  <CompanyName>Altenar</CompanyName>
+  <CompanyUrl>https://altenar.com/ru</CompanyUrl>
+  <Description>.NET разработчик в компании Altenar. Работает в команде, отвечающей за подсистему экспорта, включая подсистемы heartbeat и recovery. Думает о том, как быстро и надёжно передавать данные потребителям в real-time режиме и микросервисной архитектуре.</Description>
+  <GitHubUrl>https://github.com/arabanas</GitHubUrl>
+</Speaker>

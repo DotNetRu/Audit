@@ -1,0 +1,12 @@
+﻿<Talk>
+  <Id>Heartbeat-from-Ping-to-Management</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexander-Illarionov</SpeakerId>
+  </SpeakerIds>
+  <Title>Heartbeat: от пинга до инструмента управления системой</Title>
+  <Description>Часто Heartbeat воспринимается как техническая «пищалка» для проверки доступности узла. Однако по мере масштабирования системы стандартных пингов становится недостаточно.
+
+Команда Александра пересмотрела роль Heartbeat и превратила его из инструмента мониторинга в инструмент управления системой. В докладе разберём эволюцию такого инструмента в условиях микросервисной архитектуры и Kubernetes, а также проблемы, которые могут встретиться на этом пути.</Description>
+  <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/Heartbeat-from-Ping-to-Management.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=z8k2tZ7R-oA</VideoUrl>
+</Talk>
