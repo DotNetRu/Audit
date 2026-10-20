@@ -6,4 +6,5 @@
   <Title>GC — жесть, о которой мы не заботимся</Title>
   <Description>Александр расскажет об основных источниках проблем и о том, как с ними боролись — на котятах и примерах из жизни.</Description>
   <SlidesUrl>https://github.com/DotNetRu/AuditBlobs/blob/master/slides/GC-Tin-which-We-do-Not-Care.pdf</SlidesUrl>
+  <VideoUrl>https://www.youtube.com/watch?v=r8-NJT_q_sM</VideoUrl>
 </Talk>
