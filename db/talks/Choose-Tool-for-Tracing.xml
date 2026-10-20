@@ -5,4 +5,5 @@
   </SpeakerIds>
   <Title>Как выбрать инструмент для трейсов в .NET?</Title>
   <Description>Узнаем чем отличаются EventSource, DiagnosticSource, ActivitySource. Научимся внедрять их в свой и чужой код. Затронем Auto Instrumentation и IL Injection.</Description>
+  <VideoUrl>https://www.youtube.com/watch?v=lqvDb6I8mYQ</VideoUrl>
 </Talk>
