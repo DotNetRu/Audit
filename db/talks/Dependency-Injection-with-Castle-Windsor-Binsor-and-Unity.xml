@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Dependency-Injection-with-Castle-Windsor-Binsor-and-Unity</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexey-Sadomov</SpeakerId>
+  </SpeakerIds>
+  <Title>DI/IoC – Castle Windsor + Binsor + Unity</Title>
+  <Description>обзор windsor/microkernel из castle project - беглый обзор castle project - различия между microkernel и windsor - использование механизмов расширения microkernel/windsor (factories, interceptors, proxies) windsor - конфигурирование windsor контейнера с помощью boo (binsor) - windsor container visualization tool unity из ms enterprise library - особенности - пример применения в sharepoint</Description>
+</Talk>

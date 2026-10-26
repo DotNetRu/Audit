@@ -1,0 +1,13 @@
+﻿<Meetup>
+  <Id>SpbAltNet-29</Id>
+  <Name>Встреча SpbAltNet №29</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-DataArt</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Windows-Phone-7-Platform-and-Capabilities</TalkId>
+      <StartTime>2011-11-18T15:00:00Z</StartTime>
+      <EndTime>2011-11-18T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

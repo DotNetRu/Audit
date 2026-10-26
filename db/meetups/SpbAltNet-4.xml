@@ -1,0 +1,13 @@
+﻿<Meetup>
+  <Id>SpbAltNet-4</Id>
+  <Name>Встреча SpbAltNet №4</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-SoftJoys</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Functional-Programming-in-FSharp</TalkId>
+      <StartTime>2009-04-16T15:00:00Z</StartTime>
+      <EndTime>2009-04-16T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

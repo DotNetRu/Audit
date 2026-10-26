@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Building-DSLs-in-CSharp-and-FSharp</Id>
+  <SpeakerIds>
+    <SpeakerId>Maxim-Moiseev</SpeakerId>
+  </SpeakerIds>
+  <Title>Конструирование DSL на C# и F#</Title>
+  <Description>Конструирование DSL на C# и F# Как это делают на C# (на примере NMock) Как это делают на F# (на примере FsUnit) Сравнение подходов Примеры написания DSL</Description>
+</Talk>

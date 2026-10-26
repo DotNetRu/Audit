@@ -1,0 +1,18 @@
+﻿<Meetup>
+  <Id>SpbAltNet-8</Id>
+  <Name>Встреча SpbAltNet №8</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-SoftJoys</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Dependency-Injection-with-Spring-NET</TalkId>
+      <StartTime>2009-06-25T15:00:00Z</StartTime>
+      <EndTime>2009-06-25T16:15:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Dependency-Injection-with-Castle-Windsor-Binsor-and-Unity</TalkId>
+      <StartTime>2009-06-25T16:15:00Z</StartTime>
+      <EndTime>2009-06-25T17:30:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

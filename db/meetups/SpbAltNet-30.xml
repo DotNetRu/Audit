@@ -1,0 +1,18 @@
+﻿<Meetup>
+  <Id>SpbAltNet-30</Id>
+  <Name>Встреча SpbAltNet №30</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-DataArt</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Metro-New-on-the-Outside</TalkId>
+      <StartTime>2011-12-26T15:00:00Z</StartTime>
+      <EndTime>2011-12-26T16:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Windows-8-New-on-the-Inside</TalkId>
+      <StartTime>2011-12-26T16:00:00Z</StartTime>
+      <EndTime>2011-12-26T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

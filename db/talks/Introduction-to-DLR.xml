@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Introduction-to-DLR</Id>
+  <SpeakerIds>
+    <SpeakerId>Vitaly-Baum</SpeakerId>
+  </SpeakerIds>
+  <Title>Введение в DLR</Title>
+  <Description>Введение в DLR Что такое DLR (история, факты, немного архитектуры) Три задачи и хостинг DLR a. SharePoint + DLR b. Математические вычисления и DLR хостинг c. Собственоручный Gestalt Real-life приложения с DLR хостингом</Description>
+</Talk>

@@ -1,0 +1,18 @@
+﻿<Meetup>
+  <Id>SpbAltNet-6</Id>
+  <Name>Встреча SpbAltNet №6</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-SoftJoys</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Building-DSLs-on-CLR-and-DLR</TalkId>
+      <StartTime>2009-05-28T15:00:00Z</StartTime>
+      <EndTime>2009-05-28T16:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Building-DSLs-in-CSharp-and-FSharp</TalkId>
+      <StartTime>2009-05-28T16:00:00Z</StartTime>
+      <EndTime>2009-05-28T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

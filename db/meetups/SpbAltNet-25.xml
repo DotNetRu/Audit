@@ -1,0 +1,23 @@
+﻿<Meetup>
+  <Id>SpbAltNet-25</Id>
+  <Name>Встреча SpbAltNet №25</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-ExigenServices</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Introduction-to-FSharp</TalkId>
+      <StartTime>2011-02-03T16:00:00Z</StartTime>
+      <EndTime>2011-02-03T17:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Writing-Less-Code-with-FSharp</TalkId>
+      <StartTime>2011-02-03T17:00:00Z</StartTime>
+      <EndTime>2011-02-03T18:00:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Advanced-FSharp-Features</TalkId>
+      <StartTime>2011-02-03T18:00:00Z</StartTime>
+      <EndTime>2011-02-03T19:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

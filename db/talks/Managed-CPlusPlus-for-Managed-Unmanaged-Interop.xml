@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Managed-CPlusPlus-for-Managed-Unmanaged-Interop</Id>
+  <SpeakerIds>
+    <SpeakerId>Anton-Onikiychuk</SpeakerId>
+  </SpeakerIds>
+  <Title>Использование managed C++ для managed-unmanaged взаимодействия</Title>
+  <Description>Использование managed C++ для managed-unmanaged взаимодействия Новый синтаксис managed C++ Указатели на unmanaged память – что это нам дает Пример использования STL в алгоритмах на .Net стеке Пример работы с MS Word через COM</Description>
+</Talk>

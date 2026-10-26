@@ -1,0 +1,13 @@
+﻿<Meetup>
+  <Id>SpbAltNet-28</Id>
+  <Name>Встреча SpbAltNet №28</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-DataArt</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Private-Cloud-for-Development</TalkId>
+      <StartTime>2011-08-04T15:00:00Z</StartTime>
+      <EndTime>2011-08-04T18:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

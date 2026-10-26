@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Bistro-and-NDjango</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitry-Zorin</SpeakerId>
+    <SpeakerId>Anatoly-Bachurin</SpeakerId>
+  </SpeakerIds>
+  <Title>Bistro &amp; NDjango</Title>
+  <Description>Bistro и NDjango Введение Что такое Bistro и NDjango? NDjango Язык шаблонов Django NDjango vs. Django – сходства и различия Расширение NDjango – собственные тэги и фильтры Фильтры Тэги Редактор шаблонов в VS 2010 Интеграция с другими системами Bistro ASP.NET MVC Monorail Другие Bistro Принципы REST – ресурсы и действия Отличия от других реализаций MVC Построение цепочек контроллеров по зависимостям ресурсов Привязка по URL, аспекты (по терминологии AOP) Доступ к данным с помощью атрибутов Композиция атрибутов Поддержка модели Привязка полей контроллера к полям бизнес-объекта Автоматизация привязок Валидация Сервер Клиент Безопасность, защита, аутентификация Разграничение доступа Аутентификация Расширяемость Построение простого приложения на Bistro и NDjango</Description>
+</Talk>

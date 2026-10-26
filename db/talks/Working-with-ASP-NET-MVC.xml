@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Working-with-ASP-NET-MVC</Id>
+  <SpeakerIds>
+    <SpeakerId>Vitaly-Baum</SpeakerId>
+  </SpeakerIds>
+  <Title>Работа с Asp.Net MVC</Title>
+  <Description>Работа с Asp.Net MVC Что выбрать — WebForms или MVC? Сравнение технических характеристик. Препарируем ASP.NET. Что нужно и что можно расширять и дорабатывать. Будущее c ASP.NET 4.0. Ключевые особенности и как это должно нам помочь. Интранет и экстранет. Область применения ASP.NET и сравнение с остальными веб-платформами.</Description>
+</Talk>

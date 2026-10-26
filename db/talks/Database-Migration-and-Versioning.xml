@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Database-Migration-and-Versioning</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexey-Sadomov</SpeakerId>
+  </SpeakerIds>
+  <Title>Миграция и управление версионностью баз данных</Title>
+  <Description>Обзор приложений для миграции баз данных в .Net Tarantino + RedGate SQL Compare Migrator.Net SubSonic</Description>
+</Talk>

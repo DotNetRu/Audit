@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Boo-Programming-Language</Id>
+  <SpeakerIds>
+    <SpeakerId>Vitaly-Baum</SpeakerId>
+  </SpeakerIds>
+  <Title>Язык программирования Boo</Title>
+  <Description>Язык программирования Boo Hello, World! Введение Синтаксические особенности языка Boo Выразительные возможности языка Расширяемость языка Применение в проектах Примеры</Description>
+</Talk>

@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Building-DSLs-on-CLR-and-DLR</Id>
+  <SpeakerIds>
+    <SpeakerId>Vitaly-Baum</SpeakerId>
+  </SpeakerIds>
+  <Title>Построение DSLей на .NET CLR (Boo) и DLR (IronPython)</Title>
+  <Description>Построение DSLей на .NET CLR (Boo) и DLR (IronPython) Что такое DSL Разработка DSL Внедрение DSL в приложение Практическое применение</Description>
+</Talk>

@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Reactive-Extensions</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
+  </SpeakerIds>
+  <Title>Реактивные расширения (Reactive Extensions, Rx)</Title>
+  <Description>Реактивные расширения (Reactive Extensions, Rx) Основы реактивного подхода; push-коллекции Rx – обзор библиотек и API Observer и Observable Принципы использования и примеры взаимодействия С коллекциями С событиями С асинхронными вызовами С элементами управления WinForms/WPF Новые дополнения в LINQ</Description>
+</Talk>

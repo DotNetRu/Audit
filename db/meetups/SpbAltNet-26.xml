@@ -1,0 +1,13 @@
+﻿<Meetup>
+  <Id>SpbAltNet-26</Id>
+  <Name>Встреча SpbAltNet №26</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-ExigenServices</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Nemerle-Programming-Language</TalkId>
+      <StartTime>2011-02-24T16:00:00Z</StartTime>
+      <EndTime>2011-02-24T18:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

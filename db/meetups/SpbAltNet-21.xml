@@ -1,0 +1,13 @@
+﻿<Meetup>
+  <Id>SpbAltNet-21</Id>
+  <Name>Встреча SpbAltNet №21</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-Pgups1217</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Bistro-and-NDjango</TalkId>
+      <StartTime>2010-04-29T15:00:00Z</StartTime>
+      <EndTime>2010-04-29T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

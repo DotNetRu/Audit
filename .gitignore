@@ -4,3 +4,13 @@
 
 /.vs
 /.idea
+
+# macOS Finder metadata
+.DS_Store
+
+# Local Codex instructions and working files
+AGENTS.md
+agents.md
+AGENTS.override.md
+/.codex/
+/.agents/

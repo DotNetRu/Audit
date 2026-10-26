@@ -1,0 +1,13 @@
+﻿<Meetup>
+  <Id>SpbAltNet-2</Id>
+  <Name>Встреча SpbAltNet №2</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-SoftJoys</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Aspect-Oriented-Programming-with-PostSharp</TalkId>
+      <StartTime>2009-03-19T16:00:00Z</StartTime>
+      <EndTime>2009-03-19T18:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

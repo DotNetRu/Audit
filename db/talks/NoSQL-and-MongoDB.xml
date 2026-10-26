@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>NoSQL-and-MongoDB</Id>
+  <SpeakerIds>
+    <SpeakerId>Anton-Onikiychuk</SpeakerId>
+  </SpeakerIds>
+  <Title>NOSQL &amp; MongoDB</Title>
+  <Description>Программа: Что такое NoSQL - движение. Обзор современных концепций NoSQL и их реализации - Column Oriented Database - Casandra - Key-Value хранилища - Redis Memcashd - Document-Oriented Databases - MongoDB и CouchDB MongoDB - основные концепции. Описание драйверов. Работа с MongoDB с помощью драйвера NoRM MapReduce - концепция. Написание mapreduce функции в MongoDB в терминале и с помощью драйвера NoRM</Description>
+</Talk>

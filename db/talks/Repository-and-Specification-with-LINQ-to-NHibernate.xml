@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Repository-and-Specification-with-LINQ-to-NHibernate</Id>
+  <SpeakerIds>
+    <SpeakerId>Artem-Smirnov</SpeakerId>
+  </SpeakerIds>
+  <Title>Паттерны Repository и Specification. Применение Linq2xxx (на примере Linq to NHibernate)</Title>
+  <Description>Паттерны Repository и Specification. Применение Linq2xxx (на примере Linq to NHibernate). Принципы работы с хранилищем данных. Persistence Ignorance. Паттерн Repository в DDD. Различные способы применения Repository. Сложные критерии отбора и Specification pattern. Применение Specification в бизнес логике и отборе данных. Тестирование репозиториев. Использование LINQ to NHibernate. Абстрагирование от ORM. Преимущества и недостатки. Заключение. Роль базы данных в процессе разработки приложения.</Description>
+</Talk>

@@ -1,0 +1,9 @@
+﻿<Talk>
+  <Id>Advanced-FSharp-Features</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
+    <SpeakerId>Maxim-Moiseev</SpeakerId>
+  </SpeakerIds>
+  <Title>Продвинутые фичи языка F#</Title>
+  <Description>Продвинутые фичи языка F#</Description>
+</Talk>

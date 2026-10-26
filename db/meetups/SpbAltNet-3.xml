@@ -1,0 +1,13 @@
+﻿<Meetup>
+  <Id>SpbAltNet-3</Id>
+  <Name>Встреча SpbAltNet №3</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-SoftJoys</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>ASP-NET-MVC</TalkId>
+      <StartTime>2009-04-02T15:00:00Z</StartTime>
+      <EndTime>2009-04-02T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

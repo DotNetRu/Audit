@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Unmanaged-Parallelization</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
+  </SpeakerIds>
+  <Title>Неуправляемая параллелизация</Title>
+  <Description>Неуправляемая параллелизация Коротко про P/Invoke. Как совмещать C# и С++? С++ в управляемой среде - приемущества и недостатки. Краткий обзор технологий параллелизации. OpenMP, SIMD, Intel Stack. Проблемы с «битностью». Стоит ли беспокоиться о 64-битной совместимости? Совсем немножко о GPGPU (Cuda, Accelerator) Примеры взаимодействия. Типичные проблемы и ошибки.</Description>
+</Talk>

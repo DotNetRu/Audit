@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Hosting-DLR-in-Applications</Id>
+  <SpeakerIds>
+    <SpeakerId>Maxim-Moiseev</SpeakerId>
+  </SpeakerIds>
+  <Title>Hosting DLR или как использовать мощь DLR в своём приложении</Title>
+  <Description>Hosting DLR или как использовать мощь DLR в своём приложении Еще раз о том, что такое DLR Зачем это может быть надо Пример решения реальной задачи с использованием встраемого DLR</Description>
+</Talk>
