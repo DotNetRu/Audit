@@ -1,0 +1,13 @@
+﻿<Meetup>
+  <Id>SpbAltNet-22</Id>
+  <Name>Встреча SpbAltNet №22</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-Pgups9013</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>NoSQL-and-MongoDB</TalkId>
+      <StartTime>2010-06-17T15:00:00Z</StartTime>
+      <EndTime>2010-06-17T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

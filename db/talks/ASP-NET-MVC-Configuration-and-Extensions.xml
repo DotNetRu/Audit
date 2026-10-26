@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>ASP-NET-MVC-Configuration-and-Extensions</Id>
+  <SpeakerIds>
+    <SpeakerId>Maxim-Moiseev</SpeakerId>
+  </SpeakerIds>
+  <Title>Настройки и дополнения для Asp.Net MVC</Title>
+  <Description>Настройки и дополнения для Asp.Net MVC Альтернативные View Engines в ASP.NET MVC Spark View Engine и nDjango View Engine. Что в них особенного? Как подключить и настроить? Dynamic Data и его подключение к ASP.NET MVC приложению</Description>
+</Talk>

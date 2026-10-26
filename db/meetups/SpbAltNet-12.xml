@@ -1,0 +1,13 @@
+﻿<Meetup>
+  <Id>SpbAltNet-12</Id>
+  <Name>Встреча SpbAltNet №12</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-Pgups9013</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>SpbAltNet-OpenSpace-12</TalkId>
+      <StartTime>2009-09-24T14:00:00Z</StartTime>
+      <EndTime>2009-09-24T16:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

@@ -1,0 +1,18 @@
+﻿<Meetup>
+  <Id>SpbAltNet-11</Id>
+  <Name>Встреча SpbAltNet №11</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-Pgups9013</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>NET-and-COM-Interop</TalkId>
+      <StartTime>2009-09-17T14:00:00Z</StartTime>
+      <EndTime>2009-09-17T15:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Unmanaged-Parallelization</TalkId>
+      <StartTime>2009-09-17T15:30:00Z</StartTime>
+      <EndTime>2009-09-17T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

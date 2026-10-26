@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Functional-Programming-in-FSharp</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
+  </SpeakerIds>
+  <Title>Функциональное программирование на языке F#</Title>
+  <Description>Функциональное Программирование на языке F# Что такое функциональное программирование Обзор языка F# Приемущества использования Примеры и сравнения</Description>
+</Talk>

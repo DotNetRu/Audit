@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>ASP-NET-MVC</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexander-Popov</SpeakerId>
+  </SpeakerIds>
+  <Title>ASP.NET MVC</Title>
+  <Description>ASP.NET MVC Краткое Введение в ASP.NET MVC DDD в ASP.NET MVC SharpArchitecture Spark Patterns</Description>
+</Talk>

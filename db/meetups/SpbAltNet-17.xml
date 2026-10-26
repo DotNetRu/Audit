@@ -1,0 +1,13 @@
+﻿<Meetup>
+  <Id>SpbAltNet-17</Id>
+  <Name>Встреча SpbAltNet №17</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-Pgups9013</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Generative-Techniques-in-Software-Development</TalkId>
+      <StartTime>2009-12-28T16:00:00Z</StartTime>
+      <EndTime>2009-12-28T18:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

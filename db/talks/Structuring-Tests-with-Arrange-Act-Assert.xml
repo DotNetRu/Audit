@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Structuring-Tests-with-Arrange-Act-Assert</Id>
+  <SpeakerIds>
+    <SpeakerId>Artem-Smirnov</SpeakerId>
+  </SpeakerIds>
+  <Title>Структурирование тестов по принципу Arrange, Act, Assert</Title>
+  <Description>Структурирование тестов по принципу Arrange, Act, Assert. Что тестировать — поведение или реализацию? Один метод — один ассерт Что такое ААА Преимущества подхода Поддержка мок-фреймворков (Moq, RhinoMocks, TypeMock) Сравнение со структурой Record-Replay Тестирование исключений Параметризованные тесты</Description>
+</Talk>

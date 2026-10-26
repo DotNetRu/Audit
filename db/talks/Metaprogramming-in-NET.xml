@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Metaprogramming-in-NET</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
+  </SpeakerIds>
+  <Title>Метапрограммирование в среде .Net</Title>
+  <Description>Метапрограммирование в среде .Net История метапрограммирования. C++ template metaprogramming. Метапрограммирование vs. кодогенерация - что лучше? Макросы С++ ≠ Макросы Boo/Nemerle Что можно делать на макросах? Примеры.</Description>
+</Talk>

@@ -1,0 +1,18 @@
+﻿<Meetup>
+  <Id>SpbAltNet-16</Id>
+  <Name>Встреча SpbAltNet №16</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-Polytech143</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Working-with-ASP-NET-MVC</TalkId>
+      <StartTime>2009-12-03T15:00:00Z</StartTime>
+      <EndTime>2009-12-03T16:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>ASP-NET-MVC-Configuration-and-Extensions</TalkId>
+      <StartTime>2009-12-03T16:30:00Z</StartTime>
+      <EndTime>2009-12-03T18:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

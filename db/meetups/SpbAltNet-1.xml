@@ -1,0 +1,18 @@
+﻿<Meetup>
+  <Id>SpbAltNet-1</Id>
+  <Name>Встреча SpbAltNet №1</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-SoftJoys</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Boo-Programming-Language</TalkId>
+      <StartTime>2009-02-25T16:00:00Z</StartTime>
+      <EndTime>2009-02-25T16:45:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Structuring-Tests-with-Arrange-Act-Assert</TalkId>
+      <StartTime>2009-02-25T17:00:00Z</StartTime>
+      <EndTime>2009-02-25T17:45:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

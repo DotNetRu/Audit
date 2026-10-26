@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Working-with-Microsoft-DSL-Tools</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
+  </SpeakerIds>
+  <Title>Работа с Microsoft DSL Tools</Title>
+  <Description>Работа с DSL Tools Зачем нужны графические DSL? DSL Tools vs. WWF vs. “Oslo” Процесс создания DSL-редактора Использование Т4 для трансформации DSL в код</Description>
+</Talk>

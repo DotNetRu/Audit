@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>NET-and-COM-Interop</Id>
+  <SpeakerIds>
+    <SpeakerId>Anton-Onikiychuk</SpeakerId>
+  </SpeakerIds>
+  <Title>Взаимодействие .Net и COM</Title>
+  <Description>Взаимодействие .Net и COM Что такие interop? Методы взаимодействия managed и unmanaged кода. Cоздание библиотек-оберток. Как это происходит и как это можно контролировать? Как делать привязку к событиям которые нормально не «проинтеропились»?</Description>
+</Talk>

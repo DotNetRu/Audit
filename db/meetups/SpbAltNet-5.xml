@@ -1,0 +1,13 @@
+﻿<Meetup>
+  <Id>SpbAltNet-5</Id>
+  <Name>Встреча SpbAltNet №5</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-SoftJoys</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Repository-and-Specification-with-LINQ-to-NHibernate</TalkId>
+      <StartTime>2009-05-07T15:00:00Z</StartTime>
+      <EndTime>2009-05-07T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

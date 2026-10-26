@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>AOP-and-Policy-Injection-Application-Block</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
+  </SpeakerIds>
+  <Title>AOP и Policy Injection Application Block</Title>
+  <Description>AOP и Policy Injection Application Block Основы AOP PIAB - AOP или нет? Архитектура и сравнение с другими подходами Ключевые сценарии применения. PIAB в тандеме с Unity</Description>
+</Talk>

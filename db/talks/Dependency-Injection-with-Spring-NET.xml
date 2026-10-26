@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Dependency-Injection-with-Spring-NET</Id>
+  <SpeakerIds>
+    <SpeakerId>Anton-Onikiychuk</SpeakerId>
+  </SpeakerIds>
+  <Title>DI/IoC – Вопросы Применения (Spring)</Title>
+  <Description>Совсем немного теории. Описание Spring - как это работает, как это используют. Описание расширений Spring для АОП Описание расширений Spring для Hibernate.Net Что успею о других возможностях - web и поддержка remoting</Description>
+</Talk>

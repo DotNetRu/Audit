@@ -1,0 +1,18 @@
+﻿<Meetup>
+  <Id>SpbAltNet-10</Id>
+  <Name>Встреча SpbAltNet №10</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-Polytech148</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>Introduction-to-DLR</TalkId>
+      <StartTime>2009-08-20T14:00:00Z</StartTime>
+      <EndTime>2009-08-20T15:20:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>Hosting-DLR-in-Applications</TalkId>
+      <StartTime>2009-08-20T15:40:00Z</StartTime>
+      <EndTime>2009-08-20T17:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

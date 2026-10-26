@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>ClickOnce-Deployment</Id>
+  <SpeakerIds>
+    <SpeakerId>Petr-Alexeev</SpeakerId>
+  </SpeakerIds>
+  <Title>Особенности развёртывания ClickOnce</Title>
+  <Description>Я напомню основы ClickOnce, подробно расскажу о том, как развёртывать приложения ClickOnce из Visual Studio. Вы узнаете, какие я вижу недостатки такого развёртывания и то, каким образом их можно обойти. Отдельно остановлюсь на утилитах mage и mageui, помогающих выполнить развёртывание ClickOnce без Visual Studio.</Description>
+</Talk>

@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Inversion-of-Control-with-Unity</Id>
+  <SpeakerIds>
+    <SpeakerId>Maxim-Moiseev</SpeakerId>
+  </SpeakerIds>
+  <Title>Паттерн ‘Inversion of Control’ и Unity – реализация от Майкрософт</Title>
+  <Description>Паттерн ‘Inversion of Control’ и Unity – реализация от Майкрософт Кратко о паттерне IoC Что такое DI Container? Какие контейнеры бывают и чем отличаются. Unity: особенности, конфигурирование, использование.</Description>
+</Talk>

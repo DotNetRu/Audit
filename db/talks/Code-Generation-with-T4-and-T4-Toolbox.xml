@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Code-Generation-with-T4-and-T4-Toolbox</Id>
+  <SpeakerIds>
+    <SpeakerId>Alexey-Suvorov</SpeakerId>
+  </SpeakerIds>
+  <Title>Использование технологии T4 и расширения T4 Toolbox</Title>
+  <Description>T4 и T4 Toolbox - примеры кодогенерации Инструментарий Простые скрипты для кодогенерации Разработка собственных шаблонов Сложные приемы кодогенерации Интеграция сгенерированный файлов в проекты Шаблоны Visual Studio</Description>
+</Talk>

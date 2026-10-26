@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Aspect-Oriented-Programming-with-PostSharp</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
+  </SpeakerIds>
+  <Title>Аспектно-Ориентированное Программирование: AOP via PostSharp</Title>
+  <Description>Аспектно-Ориентированное Программирование: AOP via PostSharp Что такое AOP и с чем его едят Что нам дает PostSharp Примеры использования Laos vs. Core Фреймворки</Description>
+</Talk>

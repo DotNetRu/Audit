@@ -1,0 +1,18 @@
+﻿<Meetup>
+  <Id>SpbAltNet-27</Id>
+  <Name>Встреча SpbAltNet №27</Name>
+  <CommunityId>SpbAltNet</CommunityId>
+  <VenueId>Spb-DataArt</VenueId>
+  <Sessions>
+    <Session>
+      <TalkId>CSharp-Error-Collection-System</TalkId>
+      <StartTime>2011-04-21T15:00:00Z</StartTime>
+      <EndTime>2011-04-21T16:30:00Z</EndTime>
+    </Session>
+    <Session>
+      <TalkId>MS-SQL-Practices-for-CSharp</TalkId>
+      <StartTime>2011-04-21T16:30:00Z</StartTime>
+      <EndTime>2011-04-21T18:00:00Z</EndTime>
+    </Session>
+  </Sessions>
+</Meetup>

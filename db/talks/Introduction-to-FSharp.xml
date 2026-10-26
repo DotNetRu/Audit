@@ -1,0 +1,8 @@
+﻿<Talk>
+  <Id>Introduction-to-FSharp</Id>
+  <SpeakerIds>
+    <SpeakerId>Dmitri-Nesteruk</SpeakerId>
+  </SpeakerIds>
+  <Title>Введение в F#</Title>
+  <Description>Введение в F#</Description>
+</Talk>
