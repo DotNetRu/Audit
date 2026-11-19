@@ -3,7 +3,8 @@
   <Name>Александр Гольдебаев</Name>
   <CompanyName>Золотое Яблоко</CompanyName>
   <CompanyUrl>https://goldapple.ru</CompanyUrl>
-    <Description>Бэкенд-разработчик на C#/.NET. Студент ИТМО, направление «Компьютерные технологии». Ведёт Telegram-канал Type-Safe Thoughts. Ментор на [GetMentor](https://getmentor.dev/mentor/aleksandr-goldebaev-7864) и [Solvery](https://solvery.io/ru/mentor/30993).</Description>
+    <Description>Бэкенд-разработчик на C#/.NET. Студент ИТМО, направление «Компьютерные технологии». Ведёт Telegram-канал Type-Safe Thoughts. Ментор на GetMentor и Solvery.</Description>
   <BlogUrl>https://t.me/ts_thoughts</BlogUrl>
+  <ContactsUrl>https://getmentor.dev/mentor/aleksandr-goldebaev-7864</ContactsUrl>
   <GitHubUrl>https://github.com/Alexanderbtw</GitHubUrl>
 </Speaker>
