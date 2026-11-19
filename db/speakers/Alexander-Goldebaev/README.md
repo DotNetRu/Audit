@@ -37,5 +37,5 @@
 
 ## Дискуссии
 
-- На «Стачке» в 2026 году вместе с Глебом Цыгановым и Артёмом Рыченковым разбирал, можно ли доверить LLM запросы к базе данных. [Круглый стол о генерации SQL](https://spb.nastachku.ru/lp/spb26/speeches/llm-baza-dannykh-mozhno-li-razreshit-mashine-samoi-pisat-sql)
+- На «Стачке» в 2026 году вместе с Глебом Цыгановым и Артёмом Рыченковым обсуждал, в каких задачах можно доверять ИИ. [Круглый стол в программе «Стачки»](https://spb.nastachku.ru/lp/spb26/speeches/llm-baza-dannykh-mozhno-li-razreshit-mashine-samoi-pisat-sql)
 - Приглашённый эксперт на четырёх сессиях DotNext 2026. [Шардирование баз данных](https://dotnext.ru/talks/20010643-how-to-shard-your-database-so-as-not-to-regret-it-later/) · [Агенты в SDLC](https://dotnext.ru/talks/20010432-how-to-use-agents-across-the-entire-sdlc/) · [Native AOT и JIT](https://dotnext.ru/talks/20010408-native-aot-vs-jit-in-net-10-performance-optimizations-and-pitfalls/) · [Контроль над разработкой с ИИ](https://dotnext.ru/talks/20010540-ai-is-confident-i-m-not-how-not-to-lose-control-over-development/)
