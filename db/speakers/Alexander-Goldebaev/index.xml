@@ -1,8 +1,10 @@
 ﻿<Speaker>
   <Id>Alexander-Goldebaev</Id>
   <Name>Александр Гольдебаев</Name>
-  <CompanyName>Ozon Tech</CompanyName>
-  <CompanyUrl>https://ozon.tech</CompanyUrl>
-    <Description>Full stack web-разработчик на стеке технологий C# + React. Студент ИТМО.</Description>
+  <CompanyName>Золотое Яблоко</CompanyName>
+  <CompanyUrl>https://goldapple.ru</CompanyUrl>
+  <Description>Бэкенд-разработчик на C#/.NET, работает с распределёнными системами. Учится в ИТМО на программе «Компьютерные технологии». Выступал на DotNext, E-CODE и «Стачке» с докладами о .NET Aspire и Runtime Async. Ведёт Telegram-канал Type-Safe Thoughts и подкаст BookClub DotNet о технических книгах. Ментор на GetMentor и Solvery. Организует встречи Let’s Speak IT! — клуба разговорного английского для айтишников в Петербурге.</Description>
+  <BlogUrl>https://t.me/ts_thoughts</BlogUrl>
+  <ContactsUrl>https://github.com/DotNetRu/Audit/blob/master/db/speakers/Alexander-Goldebaev/README.md</ContactsUrl>
   <GitHubUrl>https://github.com/Alexanderbtw</GitHubUrl>
 </Speaker>
