@@ -1,8 +1,8 @@
 ﻿<Speaker>
   <Id>Alexander-Goldebaev</Id>
   <Name>Александр Гольдебаев</Name>
-  <CompanyName>Ozon Tech</CompanyName>
-  <CompanyUrl>https://ozon.tech</CompanyUrl>
-    <Description>Full stack web-разработчик на стеке технологий C# + React. Студент ИТМО.</Description>
+  <CompanyName>Золотое Яблоко</CompanyName>
+  <CompanyUrl>https://goldapple.ru</CompanyUrl>
+    <Description>Бэкенд-разработчик на C#/.NET. Студент ИТМО, направление «Компьютерные технологии».</Description>
   <GitHubUrl>https://github.com/Alexanderbtw</GitHubUrl>
 </Speaker>
